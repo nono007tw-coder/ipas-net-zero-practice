@@ -1,6 +1,7 @@
 window.NEPHRO_QUESTIONS = [
   {
     id: "stone-001",
+    chapter: "38 Urolithiasis",
     category: "總論與流行病學",
     difficulty: "基礎",
     question: "關於腎結石疾病的整體概念，下列何者最正確？",
@@ -16,6 +17,7 @@ window.NEPHRO_QUESTIONS = [
   },
   {
     id: "stone-002",
+    chapter: "38 Urolithiasis",
     category: "病理機轉",
     difficulty: "進階",
     question: "Calcium oxalate stone 形成中，Randall's plaque 最相關的敘述是？",
@@ -31,6 +33,7 @@ window.NEPHRO_QUESTIONS = [
   },
   {
     id: "stone-003",
+    chapter: "38 Urolithiasis",
     category: "尿酸結石",
     difficulty: "基礎",
     question: "下列何者最支持尿酸結石形成？",
@@ -46,6 +49,7 @@ window.NEPHRO_QUESTIONS = [
   },
   {
     id: "stone-004",
+    chapter: "38 Urolithiasis",
     category: "飲食治療",
     difficulty: "臨床",
     question: "一位反覆 calcium stone 的病人，24 小時尿液顯示 hypercalciuria。下列飲食建議何者較適當？",
@@ -61,6 +65,7 @@ window.NEPHRO_QUESTIONS = [
   },
   {
     id: "stone-005",
+    chapter: "38 Urolithiasis",
     category: "飲食治療",
     difficulty: "基礎",
     question: "關於 calcium oxalate stone 病人的鈣攝取，下列何者最正確？",
@@ -76,6 +81,7 @@ window.NEPHRO_QUESTIONS = [
   },
   {
     id: "stone-006",
+    chapter: "38 Urolithiasis",
     category: "藥物治療",
     difficulty: "臨床",
     question: "一位 recurrent calcium stone former 有 hypercalciuria，已做飲食鈉限制但仍復發。下列藥物何者最常被考慮？",
@@ -91,6 +97,7 @@ window.NEPHRO_QUESTIONS = [
   },
   {
     id: "stone-007",
+    chapter: "38 Urolithiasis",
     category: "藥物治療",
     difficulty: "進階",
     question: "使用 thiazide 預防 calcium stone 時，下列何者需特別注意？",
@@ -106,6 +113,7 @@ window.NEPHRO_QUESTIONS = [
   },
   {
     id: "stone-008",
+    chapter: "38 Urolithiasis",
     category: "代謝評估",
     difficulty: "臨床",
     question: "下列哪一組病人最應接受完整代謝評估，包括 24 小時尿液分析？",
@@ -121,6 +129,7 @@ window.NEPHRO_QUESTIONS = [
   },
   {
     id: "stone-009",
+    chapter: "38 Urolithiasis",
     category: "藥物治療",
     difficulty: "臨床",
     question: "關於 potassium citrate 在結石預防中的角色，下列何者最正確？",
@@ -136,6 +145,7 @@ window.NEPHRO_QUESTIONS = [
   },
   {
     id: "stone-010",
+    chapter: "38 Urolithiasis",
     category: "Cystine stone",
     difficulty: "進階",
     question: "關於 cystine stone 的處置，下列何者最適當？",
