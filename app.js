@@ -67,6 +67,7 @@ function uniqueChapters() {
 
 function buildCategoryCards() {
   const grid = $("categoryCards");
+  if (!grid) return;
   const categories = uniqueCategories();
   const cards = [
     {
@@ -212,7 +213,7 @@ function startQuiz(mode = "mixed") {
   }
 
   state.mode = mode;
-  const requestedCount = mode === "custom" ? state.customLimit : 10;
+  const requestedCount = mode === "custom" ? state.customLimit : 100;
   const limit = requestedCount === "all" ? pool.length : Number(requestedCount);
   state.activeQuestions = shuffle(pool).slice(0, Math.min(limit, pool.length));
   state.index = 0;
