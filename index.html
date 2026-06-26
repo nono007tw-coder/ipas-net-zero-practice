@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="腎臟專科醫師考試模擬考題平台，提供分科練習、模擬考、錯題收藏與成績追蹤。">
+  <title>腎臟專科模擬考題平台</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#" aria-label="回到首頁">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 48 48" role="img" aria-hidden="true">
+          <path d="M16.4 8.4c6.6 2.1 11.2 7.9 11.2 15.2 0 8.5-6.4 15.2-14.6 15.2-2.7 0-5.1-.8-7.1-2.1C6.1 24.1 8.9 13.2 16.4 8.4Z"/>
+          <path d="M31.6 8.4c-6.6 2.1-11.2 7.9-11.2 15.2 0 8.5 6.4 15.2 14.6 15.2 2.7 0 5.1-.8 7.1-2.1-.2-12.6-3-23.5-10.5-28.3Z"/>
+          <path class="ureter" d="M23.9 20.4c.2 8.6.1 14.2-4.3 18.5M24.1 20.4c-.2 8.6-.1 14.2 4.3 18.5"/>
+        </svg>
+      </span>
+      <span>腎臟專科題庫</span>
+    </a>
+    <nav aria-label="主要導覽">
+      <button class="nav-link active" data-view="homeView">練習</button>
+      <button class="nav-link" data-view="libraryView">題庫</button>
+      <button class="nav-link" data-view="statsView">成績</button>
+    </nav>
+    <button class="header-action" id="quickStart">開始模擬考</button>
+  </header>
+
+  <main>
+    <section id="homeView">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Nephrology Board Review</p>
+          <h1>用臨床情境練習腎臟專科考點</h1>
+          <p>
+            目前題庫先以尿路結石章節建立 10 題示範題。每題都有答案、解析與考點分類，
+            後續可繼續加入 CKD、AKI、電解質、透析、移植與腎絲球疾病題庫。
+          </p>
+          <div class="hero-actions">
+            <button class="primary-button" id="heroStart">隨機 10 題</button>
+            <button class="secondary-button" id="reviewMissed">複習錯題</button>
+          </div>
+        </div>
+
+        <aside class="hero-panel" aria-label="學習進度摘要">
+          <div class="panel-top">
+            <span>今日練習</span>
+            <strong id="heroAccuracy">--</strong>
+          </div>
+          <div class="progress-ring" id="heroRing">
+            <div>
+              <strong id="heroAnswered">0</strong>
+              <span>已作答</span>
+            </div>
+          </div>
+          <dl class="quick-stats">
+            <div>
+              <dt>最佳連對</dt>
+              <dd id="heroStreak">0</dd>
+            </div>
+            <div>
+              <dt>收藏題</dt>
+              <dd id="heroBookmarks">0</dd>
+            </div>
+          </dl>
+        </aside>
+      </section>
+
+      <section class="practice-section">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">Practice Modes</p>
+            <h2>選擇練習方式</h2>
+          </div>
+          <p>網站採純前端設計，可以放到 GitHub Pages 或一般靜態網站主機，讓大家直接線上作答。</p>
+        </div>
+
+        <div class="practice-grid" id="categoryCards"></div>
+      </section>
+    </section>
+
+    <section id="quizView" class="quiz-view hidden" aria-live="polite">
+      <div class="quiz-shell">
+        <div class="quiz-topbar">
+          <button class="back-button" id="quitQuiz">回到首頁</button>
+          <div class="quiz-progress-wrap">
+            <span id="quizLabel">模擬考</span>
+            <div class="quiz-progress"><i id="quizProgress"></i></div>
+          </div>
+          <div class="question-count"><b id="currentNumber">1</b> / <span id="totalNumber">10</span></div>
+        </div>
+
+        <article class="question-card">
+          <div class="question-meta">
+            <span id="questionCategory"></span>
+            <span id="questionDifficulty"></span>
+            <button id="bookmarkButton" class="bookmark-button" aria-label="收藏此題" title="收藏此題">☆</button>
+          </div>
+          <h2 id="questionText"></h2>
+          <div id="options" class="options"></div>
+          <div id="explanation" class="explanation hidden"></div>
+          <div class="question-actions">
+            <span id="answerHint">請選擇一個答案</span>
+            <button id="nextQuestion" class="primary-button hidden">下一題</button>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section id="resultView" class="result-view hidden">
+      <div class="result-card">
+        <p class="section-kicker">Practice Complete</p>
+        <h2>本次作答結果</h2>
+        <div class="result-score"><strong id="resultScore">0</strong><span>%</span></div>
+        <p id="resultMessage"></p>
+        <dl class="result-details">
+          <div>
+            <dt>答對</dt>
+            <dd id="resultCorrect">0</dd>
+          </div>
+          <div>
+            <dt>答錯</dt>
+            <dd id="resultWrong">0</dd>
+          </div>
+          <div>
+            <dt>正確率</dt>
+            <dd id="resultAccuracy">0%</dd>
+          </div>
+        </dl>
+        <div class="result-actions">
+          <button class="primary-button" id="retryQuiz">再練一次</button>
+          <button class="secondary-button" id="backHome">回首頁</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="libraryView" class="library-view hidden">
+      <div class="section-heading">
+        <div>
+          <p class="section-kicker">Question Library</p>
+          <h2>目前題庫</h2>
+        </div>
+        <p>題目資料集中在 <strong>questions-data.js</strong>。之後你上傳章節，我可以繼續改寫成同一格式並加入網站。</p>
+      </div>
+      <div class="library-table" id="libraryTable"></div>
+    </section>
+
+    <section id="statsView" class="stats-view hidden">
+      <div class="section-heading">
+        <div>
+          <p class="section-kicker">Progress</p>
+          <h2>個人練習紀錄</h2>
+        </div>
+        <button class="secondary-button" id="resetStats">清除紀錄</button>
+      </div>
+      <div class="stats-grid">
+        <article class="stat-box"><span>總作答</span><strong id="statTotal">0</strong><small>題</small></article>
+        <article class="stat-box"><span>累積正確率</span><strong id="statAccuracy">--</strong><small></small></article>
+        <article class="stat-box"><span>最佳連對</span><strong id="statBest">0</strong><small>題</small></article>
+        <article class="stat-box"><span>錯題數</span><strong id="statMissed">0</strong><small>題</small></article>
+      </div>
+      <div class="empty-state" id="statsEmpty">
+        <strong>尚未開始練習</strong>
+        <p>完成第一回模擬考後，這裡會顯示你的作答紀錄。</p>
+        <button class="primary-button" id="statsStart">開始作答</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <span>腎臟專科模擬考題平台</span>
+    <span>題目為教學用途改寫，請搭配正式教材與臨床指引複習。</span>
+  </footer>
+
+  <script src="questions-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
