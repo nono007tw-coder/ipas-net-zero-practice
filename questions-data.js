@@ -86,6 +86,12 @@ window.BRENNER_CHAPTERS = [
   "85 Stem Cells, Kidney Regeneration, and Gene and Cell Therapy in Nephrology"
 ];
 
+window.QUESTION_BANK_TARGET = {
+  questionsPerChapter: 150,
+  totalChapters: 85,
+  totalQuestions: 12750
+};
+
 const C = window.BRENNER_CHAPTERS;
 
 const QUESTION_ROWS = [
@@ -191,12 +197,23 @@ const QUESTION_ROWS = [
 ["q100",C[84],"Regeneration","Core","Current kidney regenerative therapies are best described as which status?",["Routine replacement for dialysis","Established cure for CKD","Investigational and evolving","Required after every AKI","Equivalent to transplant"],2,"Stem cell, gene, and regenerative approaches remain evolving research areas rather than routine CKD cures.","Know emerging therapies without overstating readiness."]
 ];
 
+const HARD_QUESTION_IDS = new Set([
+  "q018", "q028", "q037", "q041", "q043", "q046", "q057", "q060", "q066", "q074", "q087", "q091", "q092", "q093"
+]);
+
+function normalizeDifficulty(id, difficulty) {
+  if (HARD_QUESTION_IDS.has(id)) return "難";
+  if (difficulty === "Core") return "易";
+  if (difficulty === "Clinical") return "中";
+  return difficulty;
+}
+
 window.NEPHRO_QUESTIONS = QUESTION_ROWS.map(([id, chapter, category, difficulty, question, options, answer, explanation, pearl]) => ({
   id,
   source: "Brenner 11th edition topic blueprint",
   chapter,
   category,
-  difficulty,
+  difficulty: normalizeDifficulty(id, difficulty),
   question,
   options,
   answer,
