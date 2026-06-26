@@ -6,6 +6,7 @@
 
 - 隨機模擬考
 - 分類練習
+- 自選章節組卷
 - 單題練習
 - 作答後立即顯示正解、解析與考點
 - 收藏題目
@@ -42,6 +43,7 @@ http://127.0.0.1:4173
 ```js
 {
   id: "ckd-001",
+  chapter: "59 Classification and Management of Chronic Kidney Disease",
   category: "CKD",
   difficulty: "臨床",
   question: "題目文字",
