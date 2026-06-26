@@ -15,18 +15,9 @@
 
 ## 目前題庫
 
-目前先放入 `Ch 38. Urolithiasis` 改寫的 10 題示範題，主題包含：
+目前題庫已擴充為 100 題英文五選一，涵蓋腎生理、電解質酸鹼、AKI、腎絲球疾病、CKD、透析、移植、遺傳性腎病與尿路結石等核心範圍。
 
-- 尿路結石總論
-- Randall's plaque
-- 尿酸結石
-- 飲食治療
-- Thiazide
-- Potassium citrate
-- Cystine stone
-- 24 小時尿液代謝評估
-
-自選章節清單已依 Brenner 11th edition 全書 85 章建立。未建題章節會顯示在網站中，等題目加入後即可自動配題。
+自選章節清單已依 Brenner 11th edition 全書 85 章建立。每題都有 `chapter` 欄位，系統會依考生勾選的章節自動配題。
 
 ## 本機預覽
 
@@ -49,7 +40,7 @@ http://127.0.0.1:4173
   category: "CKD",
   difficulty: "臨床",
   question: "題目文字",
-  options: ["A 選項", "B 選項", "C 選項", "D 選項"],
+  options: ["A option", "B option", "C option", "D option", "E option"],
   answer: 1,
   explanation: "解析文字",
   pearl: "考點提示"
