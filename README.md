@@ -17,7 +17,15 @@
 
 目前題庫已擴充為 100 題英文五選一，涵蓋腎生理、電解質酸鹼、AKI、腎絲球疾病、CKD、透析、移植、遺傳性腎病與尿路結石等核心範圍。
 
-自選章節清單已依 Brenner 11th edition 全書 85 章建立。每題都有 `chapter` 欄位，系統會依考生勾選的章節自動配題。
+自選章節清單已依 Brenner 11th edition 全書 85 章建立。最終題庫目標是每章 150 題，共 12,750 題。每題皆為英文五選一，並以 `易`、`中`、`難` 標註難易度。
+
+目前網站已支援：
+
+- 85 章全選與自選
+- 每章題庫進度顯示，例如 `0 / 150 題`
+- 英文五選一作答
+- 難易度標示：`易`、`中`、`難`
+- 依所選章節抽題
 
 ## 本機預覽
 
@@ -38,7 +46,7 @@ http://127.0.0.1:4173
   id: "ckd-001",
   chapter: "59 Classification and Management of Chronic Kidney Disease",
   category: "CKD",
-  difficulty: "臨床",
+  difficulty: "中",
   question: "題目文字",
   options: ["A option", "B option", "C option", "D option", "E option"],
   answer: 1,
