@@ -302,11 +302,16 @@ dd {
 }
 
 .practice-section,
+.custom-exam-section,
 .library-view,
 .stats-view {
   max-width: 1240px;
   margin: 0 auto;
   padding: 78px clamp(20px, 5vw, 64px);
+}
+
+.custom-exam-section {
+  padding-top: 0;
 }
 
 .section-heading {
@@ -405,6 +410,116 @@ dd {
 .card-button:hover {
   color: #fff;
   background: var(--teal);
+}
+
+.custom-exam-panel {
+  padding: 24px;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(20, 40, 46, .05);
+}
+
+.custom-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--line);
+}
+
+.custom-summary {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.custom-summary strong {
+  color: var(--teal);
+  font-size: 34px;
+  line-height: 1;
+}
+
+.custom-summary span {
+  color: var(--muted);
+  font-weight: 800;
+}
+
+.custom-controls {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.question-limit {
+  min-height: 42px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 12px;
+  color: var(--muted);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 7px;
+  font-weight: 800;
+}
+
+.question-limit select {
+  border: 0;
+  color: var(--ink);
+  background: transparent;
+  font-weight: 900;
+}
+
+.chapter-selector {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.chapter-option {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 72px;
+  padding: 14px 16px;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.chapter-option:has(input:checked) {
+  border-color: var(--teal);
+  background: #f1faf8;
+}
+
+.chapter-option input {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--teal);
+}
+
+.chapter-option span {
+  display: grid;
+  gap: 3px;
+}
+
+.chapter-option strong {
+  line-height: 1.35;
+}
+
+.chapter-option small {
+  color: var(--muted);
+  font-weight: 800;
+}
+
+.primary-button:disabled {
+  cursor: not-allowed;
+  opacity: .5;
 }
 
 .quiz-view {
@@ -835,6 +950,8 @@ dd {
 
   .hero-actions,
   .question-actions,
+  .custom-toolbar,
+  .custom-controls,
   .section-heading,
   .site-footer {
     align-items: stretch;
@@ -846,6 +963,7 @@ dd {
   }
 
   .practice-grid,
+  .chapter-selector,
   .stats-grid,
   .result-details {
     grid-template-columns: 1fr;
