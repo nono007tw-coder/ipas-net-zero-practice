@@ -1,0 +1,47 @@
+你是腎臟專科醫師考試命題總召。
+
+請根據以下 Brenner 章節 chunks 建立本章 100 題命題藍圖。
+
+限制：
+1. 只能根據提供的章節內容。
+2. 不得使用外部知識。
+3. 不要正式出題。
+4. 不要大量引用原文。
+
+請輸出 JSON：
+{
+  "chapter_id": "",
+  "chapter_title": "",
+  "core_themes": [],
+  "sections": [
+    {
+      "section_title": "",
+      "chunk_ids": [],
+      "key_concepts": [],
+      "recommended_question_count": 0,
+      "preferred_question_types": []
+    }
+  ],
+  "question_distribution": {
+    "definition": 0,
+    "mechanism": 0,
+    "pathophysiology": 0,
+    "comparison": 0,
+    "clinical_significance": 0,
+    "classification": 0,
+    "figure_table_understanding": 0
+  },
+  "question_plan": [
+    {
+      "question_id": "CH001-Q001",
+      "source_chunk_ids": [],
+      "tested_concept": "",
+      "question_type": "",
+      "difficulty": ""
+    }
+  ],
+  "unsuitable_content": []
+}
+
+章節 chunks：
+{{chapter_chunks}}
