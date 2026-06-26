@@ -1,4 +1,5 @@
 const questions = Array.isArray(window.NEPHRO_QUESTIONS) ? window.NEPHRO_QUESTIONS : [];
+const brennerChapters = Array.isArray(window.BRENNER_CHAPTERS) ? window.BRENNER_CHAPTERS : [];
 const views = ["homeView", "quizView", "resultView", "libraryView", "statsView"];
 const storageKey = "nephroBoardPracticeStats";
 
@@ -61,7 +62,7 @@ function questionChapter(question) {
 }
 
 function uniqueChapters() {
-  return [...new Set(questions.map(questionChapter))];
+  return [...new Set([...brennerChapters, ...questions.map(questionChapter)])];
 }
 
 function buildCategoryCards() {
@@ -123,7 +124,7 @@ function buildChapterSelector() {
       <input type="checkbox" value="${chapter}" checked>
       <span>
         <strong>${chapter}</strong>
-        <small>${chapterQuestions.length} 題</small>
+        <small>${chapterQuestions.length ? `${chapterQuestions.length} 題` : "尚未建題"}</small>
       </span>
     `;
     selector.appendChild(label);
