@@ -24,7 +24,7 @@
       <button class="nav-link" data-view="libraryView">題庫</button>
       <button class="nav-link" data-view="statsView">成績</button>
     </nav>
-    <button class="header-action" id="quickStart">開始模擬考</button>
+    <button class="header-action" id="quickStart">100 題模擬考</button>
   </header>
 
   <main>
@@ -34,11 +34,11 @@
           <p class="eyebrow">Nephrology Board Review</p>
           <h1>用臨床情境練習腎臟專科考點</h1>
           <p>
-            目前題庫先以尿路結石章節建立 10 題示範題。每題都有答案、解析與考點分類，
-            後續可繼續加入 CKD、AKI、電解質、透析、移植與腎絲球疾病題庫。
+            目前題庫已擴充為 100 題英文五選一。考生可依 Brenner 全書 85 章自行勾選範圍，
+            由系統依所選章節抽題並即時顯示答案、解析與考點。
           </p>
           <div class="hero-actions">
-            <button class="primary-button" id="heroStart">隨機 10 題</button>
+            <button class="primary-button" id="heroStart">100 題模擬考</button>
             <button class="secondary-button" id="reviewMissed">複習錯題</button>
           </div>
         </div>
@@ -67,18 +67,6 @@
         </aside>
       </section>
 
-      <section class="practice-section">
-        <div class="section-heading">
-          <div>
-            <p class="section-kicker">Practice Modes</p>
-            <h2>選擇練習方式</h2>
-          </div>
-          <p>網站採純前端設計，可以放到 GitHub Pages 或一般靜態網站主機，讓大家直接線上作答。</p>
-        </div>
-
-        <div class="practice-grid" id="categoryCards"></div>
-      </section>
-
       <section class="custom-exam-section" aria-labelledby="customExamTitle">
         <div class="section-heading">
           <div>
@@ -104,6 +92,7 @@
                   <option value="10" selected>10 題</option>
                   <option value="20">20 題</option>
                   <option value="50">50 題</option>
+                  <option value="100">100 題</option>
                   <option value="all">全部</option>
                 </select>
               </label>
