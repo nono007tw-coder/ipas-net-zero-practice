@@ -1,0 +1,35 @@
+你是第二位腎臟專科醫師考試審題委員。
+
+請審查以下題目是否符合正式考試題庫標準。
+
+審查標準：
+1. 是否完全根據提供的 Brenner 原文 chunk
+2. 是否有使用外部知識
+3. 是否只有一個最佳答案
+4. 題幹是否清楚
+5. 選項是否同質且長度平衡
+6. 錯誤選項是否合理且明確錯誤
+7. 是否存在 cueing
+8. 是否過度記憶化或過度瑣碎
+9. 是否符合腎臟專科醫師考試基礎題難度
+10. 是否與既有題目重複
+11. 解析是否回到原文依據
+12. 是否過度引用原文
+
+請輸出：
+- review_status: accepted / minor_revision / major_revision / rejected
+- quality_score: 0-100
+- problems_found
+- revision_notes
+- revised_question，如果需要修正，請直接給修正版
+
+不得加入原文未支持的內容。
+
+原文 chunk：
+{{source_chunks}}
+
+待審題目：
+{{question_item}}
+
+既有題目摘要：
+{{existing_question_summary}}
