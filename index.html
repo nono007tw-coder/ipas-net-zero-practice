@@ -78,6 +78,41 @@
 
         <div class="practice-grid" id="categoryCards"></div>
       </section>
+
+      <section class="custom-exam-section" aria-labelledby="customExamTitle">
+        <div class="section-heading">
+          <div>
+            <p class="section-kicker">Custom Exam</p>
+            <h2 id="customExamTitle">自選章節組卷</h2>
+          </div>
+          <p>依照自己的複習進度勾選章節，再決定題數。題庫擴充後，新章節會自動加入清單。</p>
+        </div>
+
+        <div class="custom-exam-panel">
+          <div class="custom-toolbar">
+            <div class="custom-summary">
+              <strong id="selectedChapterCount">0</strong>
+              <span>個章節已選，題庫共 <b id="selectedQuestionCount">0</b> 題</span>
+            </div>
+            <div class="custom-controls">
+              <button class="secondary-button" id="selectAllChapters" type="button">全選</button>
+              <button class="secondary-button" id="clearChapters" type="button">清除</button>
+              <label class="question-limit">
+                題數
+                <select id="customQuestionLimit">
+                  <option value="5">5 題</option>
+                  <option value="10" selected>10 題</option>
+                  <option value="20">20 題</option>
+                  <option value="50">50 題</option>
+                  <option value="all">全部</option>
+                </select>
+              </label>
+              <button class="primary-button" id="startCustomExam" type="button">開始自選考</button>
+            </div>
+          </div>
+          <div class="chapter-selector" id="chapterSelector"></div>
+        </div>
+      </section>
     </section>
 
     <section id="quizView" class="quiz-view hidden" aria-live="polite">
