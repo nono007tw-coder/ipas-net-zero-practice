@@ -1,5 +1,6 @@
 const questions = Array.isArray(window.NEPHRO_QUESTIONS) ? window.NEPHRO_QUESTIONS : [];
 const brennerChapters = Array.isArray(window.BRENNER_CHAPTERS) ? window.BRENNER_CHAPTERS : [];
+const questionBankTarget = window.QUESTION_BANK_TARGET || { questionsPerChapter: 150, totalChapters: 85, totalQuestions: 12750 };
 const views = ["homeView", "quizView", "resultView", "libraryView", "statsView"];
 const storageKey = "nephroBoardPracticeStats";
 
@@ -119,13 +120,16 @@ function buildChapterSelector() {
   selector.replaceChildren();
   uniqueChapters().forEach((chapter) => {
     const chapterQuestions = questions.filter((question) => questionChapter(question) === chapter);
+    const chapterProgress = Math.min(chapterQuestions.length, questionBankTarget.questionsPerChapter);
+    const progressPercent = Math.round((chapterProgress / questionBankTarget.questionsPerChapter) * 100);
     const label = document.createElement("label");
     label.className = "chapter-option";
     label.innerHTML = `
       <input type="checkbox" value="${chapter}" checked>
       <span>
         <strong>${chapter}</strong>
-        <small>${chapterQuestions.length ? `${chapterQuestions.length} 題` : "尚未建題"}</small>
+        <small>${chapterProgress} / ${questionBankTarget.questionsPerChapter} 題</small>
+        <i class="chapter-progress"><b style="width:${progressPercent}%"></b></i>
       </span>
     `;
     selector.appendChild(label);
