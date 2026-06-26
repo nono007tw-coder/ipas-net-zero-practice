@@ -9,6 +9,8 @@ const state = {
   correct: 0,
   answered: false,
   currentStreak: 0,
+  customChapters: [],
+  customLimit: 10,
   stats: loadStats()
 };
 
@@ -52,6 +54,14 @@ function shuffle(items) {
 
 function uniqueCategories() {
   return [...new Set(questions.map((question) => question.category))];
+}
+
+function questionChapter(question) {
+  return question.chapter || question.category || "未分類章節";
+}
+
+function uniqueChapters() {
+  return [...new Set(questions.map(questionChapter))];
 }
 
 function buildCategoryCards() {
@@ -100,6 +110,45 @@ function buildCategoryCards() {
   });
 }
 
+function buildChapterSelector() {
+  const selector = $("chapterSelector");
+  if (!selector) return;
+
+  selector.replaceChildren();
+  uniqueChapters().forEach((chapter) => {
+    const chapterQuestions = questions.filter((question) => questionChapter(question) === chapter);
+    const label = document.createElement("label");
+    label.className = "chapter-option";
+    label.innerHTML = `
+      <input type="checkbox" value="${chapter}" checked>
+      <span>
+        <strong>${chapter}</strong>
+        <small>${chapterQuestions.length} 題</small>
+      </span>
+    `;
+    selector.appendChild(label);
+  });
+
+  selector.querySelectorAll('input[type="checkbox"]').forEach((input) => {
+    input.addEventListener("change", updateCustomExamSummary);
+  });
+  updateCustomExamSummary();
+}
+
+function selectedChapters() {
+  return [...document.querySelectorAll('#chapterSelector input[type="checkbox"]:checked')]
+    .map((input) => input.value);
+}
+
+function updateCustomExamSummary() {
+  const chapters = selectedChapters();
+  const selectedCount = questions.filter((question) => chapters.includes(questionChapter(question))).length;
+
+  $("selectedChapterCount").textContent = chapters.length;
+  $("selectedQuestionCount").textContent = selectedCount;
+  $("startCustomExam").disabled = selectedCount === 0;
+}
+
 function buildLibraryTable() {
   const table = $("libraryTable");
   table.replaceChildren();
@@ -142,6 +191,10 @@ function getQuestionPool(mode) {
     return questions.filter((question) => state.stats.missed.includes(question.id));
   }
 
+  if (mode === "custom") {
+    return questions.filter((question) => state.customChapters.includes(questionChapter(question)));
+  }
+
   if (mode.startsWith("single:")) {
     const id = mode.replace("single:", "");
     return questions.filter((question) => question.id === id);
@@ -158,7 +211,9 @@ function startQuiz(mode = "mixed") {
   }
 
   state.mode = mode;
-  state.activeQuestions = shuffle(pool).slice(0, Math.min(10, pool.length));
+  const requestedCount = mode === "custom" ? state.customLimit : 10;
+  const limit = requestedCount === "all" ? pool.length : Number(requestedCount);
+  state.activeQuestions = shuffle(pool).slice(0, Math.min(limit, pool.length));
   state.index = 0;
   state.correct = 0;
   state.answered = false;
@@ -170,8 +225,24 @@ function startQuiz(mode = "mixed") {
   renderQuestion();
 }
 
+function startCustomQuiz() {
+  const chapters = selectedChapters();
+  const limit = $("customQuestionLimit").value;
+  const pool = questions.filter((question) => chapters.includes(questionChapter(question)));
+
+  if (!pool.length) {
+    alert("請至少選擇一個有題目的章節。");
+    return;
+  }
+
+  state.customChapters = chapters;
+  state.customLimit = limit;
+  startQuiz("custom");
+}
+
 function getModeLabel(mode) {
   if (mode === "mixed") return "完整模擬考";
+  if (mode === "custom") return "自選章節";
   if (mode === "missed") return "錯題複習";
   if (mode.startsWith("category:")) return mode.replace("category:", "");
   if (mode.startsWith("single:")) return "單題練習";
@@ -185,7 +256,7 @@ function renderQuestion() {
 
   $("currentNumber").textContent = state.index + 1;
   $("quizProgress").style.width = `${progress}%`;
-  $("questionCategory").textContent = question.category;
+  $("questionCategory").textContent = `${questionChapter(question)} / ${question.category}`;
   $("questionDifficulty").textContent = question.difficulty;
   $("questionText").textContent = question.question;
   $("answerHint").textContent = "請選擇一個答案";
@@ -325,6 +396,20 @@ function bindEvents() {
   });
 
   $("reviewMissed").addEventListener("click", () => startQuiz("missed"));
+  $("startCustomExam").addEventListener("click", startCustomQuiz);
+  $("customQuestionLimit").addEventListener("change", updateCustomExamSummary);
+  $("selectAllChapters").addEventListener("click", () => {
+    document.querySelectorAll('#chapterSelector input[type="checkbox"]').forEach((input) => {
+      input.checked = true;
+    });
+    updateCustomExamSummary();
+  });
+  $("clearChapters").addEventListener("click", () => {
+    document.querySelectorAll('#chapterSelector input[type="checkbox"]').forEach((input) => {
+      input.checked = false;
+    });
+    updateCustomExamSummary();
+  });
   $("quitQuiz").addEventListener("click", () => showView("homeView"));
   $("backHome").addEventListener("click", () => showView("homeView"));
   $("retryQuiz").addEventListener("click", () => startQuiz(state.mode));
@@ -353,6 +438,7 @@ function bindEvents() {
 }
 
 buildCategoryCards();
+buildChapterSelector();
 buildLibraryTable();
 bindEvents();
 updateDashboard();
