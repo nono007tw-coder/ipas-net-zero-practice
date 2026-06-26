@@ -522,8 +522,25 @@ dd {
 }
 
 .chapter-option small {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 7px;
   color: var(--muted);
   font-weight: 800;
+}
+
+.chapter-option small b {
+  color: var(--muted);
+  font-weight: 800;
+}
+
+.chapter-weight {
+  color: var(--amber);
+  font-style: normal;
+  font-weight: 900;
+  letter-spacing: 0;
+  white-space: nowrap;
 }
 
 .chapter-progress {
