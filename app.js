@@ -1,5 +1,6 @@
 const questions = Array.isArray(window.NEPHRO_QUESTIONS) ? window.NEPHRO_QUESTIONS : [];
 const brennerChapters = Array.isArray(window.BRENNER_CHAPTERS) ? window.BRENNER_CHAPTERS : [];
+const brennerChapterWeights = window.BRENNER_CHAPTER_WEIGHTS || {};
 const questionBankTarget = window.QUESTION_BANK_TARGET || { questionsPerChapter: 150, totalChapters: 85, totalQuestions: 12750 };
 const views = ["homeView", "quizView", "resultView", "libraryView", "statsView"];
 const storageKey = "nephroBoardPracticeStats";
@@ -66,6 +67,14 @@ function uniqueChapters() {
   return [...new Set([...brennerChapters, ...questions.map(questionChapter)])];
 }
 
+function chapterWeight(chapter) {
+  return brennerChapterWeights[chapter] || 1;
+}
+
+function starRating(weight) {
+  return "★★★★★".slice(0, weight) + "☆☆☆☆☆".slice(0, 5 - weight);
+}
+
 function buildCategoryCards() {
   const grid = $("categoryCards");
   if (!grid) return;
@@ -128,6 +137,10 @@ function buildChapterSelector() {
       <input type="checkbox" value="${chapter}" checked>
       <span>
         <strong>${chapter}</strong>
+        <small>
+          <em class="chapter-weight">${starRating(chapterWeight(chapter))}</em>
+          <b>臨床權重 ${chapterWeight(chapter)} / 5</b>
+        </small>
         <small>${chapterProgress} / ${questionBankTarget.questionsPerChapter} 題</small>
         <i class="chapter-progress"><b style="width:${progressPercent}%"></b></i>
       </span>
