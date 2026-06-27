@@ -1,0 +1,1143 @@
+{
+  "chapter_id": "CH070",
+  "chapter_title": "Clinical Management of the Adult Kidney Transplant Recipient",
+  "clinical_weight": 5,
+  "core_themes": [
+    "Management of Allograft Dysfunction",
+    "Medical Management of the Transplant Recipient",
+    "Maintenance Immunosuppressive Agents",
+    "Assessing Outcomes in Kidney Transplantation",
+    "Currently Used Immunosuppressive Agents in Kidney Transplantation",
+    "Transplant Issues in Specific Patient Groups",
+    "The Transplant Surgery Procedure",
+    "Evaluation of the Recipient Immediately Before the Transplant"
+  ],
+  "sections": [
+    {
+      "section_title": "The Transplant Surgery Procedure",
+      "chunk_ids": [
+        "CH070-S01-C001",
+        "CH070-S01-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH070-S01-C001"
+      ],
+      "key_concepts": [
+        "The Transplant Surgery Procedure"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Currently Used Immunosuppressive Agents in Kidney Transplantation",
+      "chunk_ids": [
+        "CH070-S02-C001",
+        "CH070-S02-C002",
+        "CH070-S02-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH070-S02-C001",
+        "CH070-S02-C002",
+        "CH070-S02-C003"
+      ],
+      "key_concepts": [
+        "Currently Used Immunosuppressive Agents in Kidney Transplantation"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Maintenance Immunosuppressive Agents",
+      "chunk_ids": [
+        "CH070-S03-C001",
+        "CH070-S03-C002",
+        "CH070-S03-C003",
+        "CH070-S03-C004",
+        "CH070-S03-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH070-S03-C001",
+        "CH070-S03-C002",
+        "CH070-S03-C003",
+        "CH070-S03-C004",
+        "CH070-S03-C005"
+      ],
+      "key_concepts": [
+        "Maintenance Immunosuppressive Agents"
+      ],
+      "recommended_question_count": 14,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Evaluation of the Recipient Immediately Before the Transplant",
+      "chunk_ids": [
+        "CH070-S04-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH070-S04-C001"
+      ],
+      "key_concepts": [
+        "Evaluation of the Recipient Immediately Before the Transplant"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Management of Allograft Dysfunction",
+      "chunk_ids": [
+        "CH070-S05-C001",
+        "CH070-S05-C002",
+        "CH070-S05-C003",
+        "CH070-S05-C004",
+        "CH070-S05-C005",
+        "CH070-S05-C006",
+        "CH070-S05-C007",
+        "CH070-S05-C008",
+        "CH070-S05-C009",
+        "CH070-S05-C010",
+        "CH070-S05-C011",
+        "CH070-S05-C012",
+        "CH070-S05-C013",
+        "CH070-S05-C014",
+        "CH070-S05-C015"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH070-S05-C001",
+        "CH070-S05-C002",
+        "CH070-S05-C003",
+        "CH070-S05-C004",
+        "CH070-S05-C005",
+        "CH070-S05-C006",
+        "CH070-S05-C007",
+        "CH070-S05-C008",
+        "CH070-S05-C009",
+        "CH070-S05-C010",
+        "CH070-S05-C011",
+        "CH070-S05-C012",
+        "CH070-S05-C013",
+        "CH070-S05-C014",
+        "CH070-S05-C015"
+      ],
+      "key_concepts": [
+        "Management of Allograft Dysfunction"
+      ],
+      "recommended_question_count": 38,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Assessing Outcomes in Kidney Transplantation",
+      "chunk_ids": [
+        "CH070-S06-C001",
+        "CH070-S06-C002",
+        "CH070-S06-C003",
+        "CH070-S06-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH070-S06-C001",
+        "CH070-S06-C002",
+        "CH070-S06-C003",
+        "CH070-S06-C004"
+      ],
+      "key_concepts": [
+        "Assessing Outcomes in Kidney Transplantation"
+      ],
+      "recommended_question_count": 11,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Medical Management of the Transplant Recipient",
+      "chunk_ids": [
+        "CH070-S07-C001",
+        "CH070-S07-C002",
+        "CH070-S07-C003",
+        "CH070-S07-C004",
+        "CH070-S07-C005",
+        "CH070-S07-C006",
+        "CH070-S07-C007"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH070-S07-C001",
+        "CH070-S07-C002",
+        "CH070-S07-C003",
+        "CH070-S07-C004",
+        "CH070-S07-C005",
+        "CH070-S07-C006",
+        "CH070-S07-C007"
+      ],
+      "key_concepts": [
+        "Medical Management of the Transplant Recipient"
+      ],
+      "recommended_question_count": 18,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Transplant Issues in Specific Patient Groups",
+      "chunk_ids": [
+        "CH070-S08-C001",
+        "CH070-S08-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH070-S08-C001",
+        "CH070-S08-C002"
+      ],
+      "key_concepts": [
+        "Transplant Issues in Specific Patient Groups"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH070-Q001",
+      "source_chunk_ids": [
+        "CH070-S01-C001"
+      ],
+      "tested_concept": "The Transplant Surgery Procedure",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q002",
+      "source_chunk_ids": [
+        "CH070-S01-C001"
+      ],
+      "tested_concept": "The Transplant Surgery Procedure",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q003",
+      "source_chunk_ids": [
+        "CH070-S01-C001"
+      ],
+      "tested_concept": "The Transplant Surgery Procedure",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q004",
+      "source_chunk_ids": [
+        "CH070-S01-C001"
+      ],
+      "tested_concept": "The Transplant Surgery Procedure",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q005",
+      "source_chunk_ids": [
+        "CH070-S02-C001"
+      ],
+      "tested_concept": "Currently Used Immunosuppressive Agents in Kidney Transplantation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q006",
+      "source_chunk_ids": [
+        "CH070-S02-C002"
+      ],
+      "tested_concept": "Currently Used Immunosuppressive Agents in Kidney Transplantation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q007",
+      "source_chunk_ids": [
+        "CH070-S02-C003"
+      ],
+      "tested_concept": "Currently Used Immunosuppressive Agents in Kidney Transplantation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q008",
+      "source_chunk_ids": [
+        "CH070-S02-C001"
+      ],
+      "tested_concept": "Currently Used Immunosuppressive Agents in Kidney Transplantation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q009",
+      "source_chunk_ids": [
+        "CH070-S02-C002"
+      ],
+      "tested_concept": "Currently Used Immunosuppressive Agents in Kidney Transplantation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q010",
+      "source_chunk_ids": [
+        "CH070-S02-C003"
+      ],
+      "tested_concept": "Currently Used Immunosuppressive Agents in Kidney Transplantation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q011",
+      "source_chunk_ids": [
+        "CH070-S02-C001"
+      ],
+      "tested_concept": "Currently Used Immunosuppressive Agents in Kidney Transplantation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q012",
+      "source_chunk_ids": [
+        "CH070-S03-C001"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Agents",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q013",
+      "source_chunk_ids": [
+        "CH070-S03-C002"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Agents",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q014",
+      "source_chunk_ids": [
+        "CH070-S03-C003"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Agents",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q015",
+      "source_chunk_ids": [
+        "CH070-S03-C004"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Agents",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q016",
+      "source_chunk_ids": [
+        "CH070-S03-C005"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Agents",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q017",
+      "source_chunk_ids": [
+        "CH070-S03-C001"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Agents",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q018",
+      "source_chunk_ids": [
+        "CH070-S03-C002"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Agents",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q019",
+      "source_chunk_ids": [
+        "CH070-S03-C003"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Agents",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q020",
+      "source_chunk_ids": [
+        "CH070-S03-C004"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Agents",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q021",
+      "source_chunk_ids": [
+        "CH070-S03-C005"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Agents",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q022",
+      "source_chunk_ids": [
+        "CH070-S03-C001"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Agents",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q023",
+      "source_chunk_ids": [
+        "CH070-S03-C002"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Agents",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q024",
+      "source_chunk_ids": [
+        "CH070-S03-C003"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Agents",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q025",
+      "source_chunk_ids": [
+        "CH070-S03-C004"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Agents",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q026",
+      "source_chunk_ids": [
+        "CH070-S04-C001"
+      ],
+      "tested_concept": "Evaluation of the Recipient Immediately Before the Transplant",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q027",
+      "source_chunk_ids": [
+        "CH070-S04-C001"
+      ],
+      "tested_concept": "Evaluation of the Recipient Immediately Before the Transplant",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q028",
+      "source_chunk_ids": [
+        "CH070-S04-C001"
+      ],
+      "tested_concept": "Evaluation of the Recipient Immediately Before the Transplant",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q029",
+      "source_chunk_ids": [
+        "CH070-S05-C001"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q030",
+      "source_chunk_ids": [
+        "CH070-S05-C002"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q031",
+      "source_chunk_ids": [
+        "CH070-S05-C003"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q032",
+      "source_chunk_ids": [
+        "CH070-S05-C004"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q033",
+      "source_chunk_ids": [
+        "CH070-S05-C005"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q034",
+      "source_chunk_ids": [
+        "CH070-S05-C006"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q035",
+      "source_chunk_ids": [
+        "CH070-S05-C007"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q036",
+      "source_chunk_ids": [
+        "CH070-S05-C008"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q037",
+      "source_chunk_ids": [
+        "CH070-S05-C009"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q038",
+      "source_chunk_ids": [
+        "CH070-S05-C010"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q039",
+      "source_chunk_ids": [
+        "CH070-S05-C011"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q040",
+      "source_chunk_ids": [
+        "CH070-S05-C012"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q041",
+      "source_chunk_ids": [
+        "CH070-S05-C013"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q042",
+      "source_chunk_ids": [
+        "CH070-S05-C014"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q043",
+      "source_chunk_ids": [
+        "CH070-S05-C015"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q044",
+      "source_chunk_ids": [
+        "CH070-S05-C001"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q045",
+      "source_chunk_ids": [
+        "CH070-S05-C002"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q046",
+      "source_chunk_ids": [
+        "CH070-S05-C003"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q047",
+      "source_chunk_ids": [
+        "CH070-S05-C004"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q048",
+      "source_chunk_ids": [
+        "CH070-S05-C005"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q049",
+      "source_chunk_ids": [
+        "CH070-S05-C006"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q050",
+      "source_chunk_ids": [
+        "CH070-S05-C007"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q051",
+      "source_chunk_ids": [
+        "CH070-S05-C008"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q052",
+      "source_chunk_ids": [
+        "CH070-S05-C009"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q053",
+      "source_chunk_ids": [
+        "CH070-S05-C010"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q054",
+      "source_chunk_ids": [
+        "CH070-S05-C011"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q055",
+      "source_chunk_ids": [
+        "CH070-S05-C012"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q056",
+      "source_chunk_ids": [
+        "CH070-S05-C013"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q057",
+      "source_chunk_ids": [
+        "CH070-S05-C014"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q058",
+      "source_chunk_ids": [
+        "CH070-S05-C015"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q059",
+      "source_chunk_ids": [
+        "CH070-S05-C001"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q060",
+      "source_chunk_ids": [
+        "CH070-S05-C002"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q061",
+      "source_chunk_ids": [
+        "CH070-S05-C003"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q062",
+      "source_chunk_ids": [
+        "CH070-S05-C004"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q063",
+      "source_chunk_ids": [
+        "CH070-S05-C005"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q064",
+      "source_chunk_ids": [
+        "CH070-S05-C006"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q065",
+      "source_chunk_ids": [
+        "CH070-S05-C007"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q066",
+      "source_chunk_ids": [
+        "CH070-S05-C008"
+      ],
+      "tested_concept": "Management of Allograft Dysfunction",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q067",
+      "source_chunk_ids": [
+        "CH070-S06-C001"
+      ],
+      "tested_concept": "Assessing Outcomes in Kidney Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q068",
+      "source_chunk_ids": [
+        "CH070-S06-C002"
+      ],
+      "tested_concept": "Assessing Outcomes in Kidney Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q069",
+      "source_chunk_ids": [
+        "CH070-S06-C003"
+      ],
+      "tested_concept": "Assessing Outcomes in Kidney Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q070",
+      "source_chunk_ids": [
+        "CH070-S06-C004"
+      ],
+      "tested_concept": "Assessing Outcomes in Kidney Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q071",
+      "source_chunk_ids": [
+        "CH070-S06-C001"
+      ],
+      "tested_concept": "Assessing Outcomes in Kidney Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q072",
+      "source_chunk_ids": [
+        "CH070-S06-C002"
+      ],
+      "tested_concept": "Assessing Outcomes in Kidney Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q073",
+      "source_chunk_ids": [
+        "CH070-S06-C003"
+      ],
+      "tested_concept": "Assessing Outcomes in Kidney Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q074",
+      "source_chunk_ids": [
+        "CH070-S06-C004"
+      ],
+      "tested_concept": "Assessing Outcomes in Kidney Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q075",
+      "source_chunk_ids": [
+        "CH070-S06-C001"
+      ],
+      "tested_concept": "Assessing Outcomes in Kidney Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q076",
+      "source_chunk_ids": [
+        "CH070-S06-C002"
+      ],
+      "tested_concept": "Assessing Outcomes in Kidney Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q077",
+      "source_chunk_ids": [
+        "CH070-S06-C003"
+      ],
+      "tested_concept": "Assessing Outcomes in Kidney Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q078",
+      "source_chunk_ids": [
+        "CH070-S07-C001"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q079",
+      "source_chunk_ids": [
+        "CH070-S07-C002"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q080",
+      "source_chunk_ids": [
+        "CH070-S07-C003"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH070-Q081",
+      "source_chunk_ids": [
+        "CH070-S07-C004"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q082",
+      "source_chunk_ids": [
+        "CH070-S07-C005"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q083",
+      "source_chunk_ids": [
+        "CH070-S07-C006"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q084",
+      "source_chunk_ids": [
+        "CH070-S07-C007"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q085",
+      "source_chunk_ids": [
+        "CH070-S07-C001"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q086",
+      "source_chunk_ids": [
+        "CH070-S07-C002"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q087",
+      "source_chunk_ids": [
+        "CH070-S07-C003"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q088",
+      "source_chunk_ids": [
+        "CH070-S07-C004"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q089",
+      "source_chunk_ids": [
+        "CH070-S07-C005"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q090",
+      "source_chunk_ids": [
+        "CH070-S07-C006"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q091",
+      "source_chunk_ids": [
+        "CH070-S07-C007"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q092",
+      "source_chunk_ids": [
+        "CH070-S07-C001"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q093",
+      "source_chunk_ids": [
+        "CH070-S07-C002"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q094",
+      "source_chunk_ids": [
+        "CH070-S07-C003"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q095",
+      "source_chunk_ids": [
+        "CH070-S07-C004"
+      ],
+      "tested_concept": "Medical Management of the Transplant Recipient",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q096",
+      "source_chunk_ids": [
+        "CH070-S08-C001"
+      ],
+      "tested_concept": "Transplant Issues in Specific Patient Groups",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q097",
+      "source_chunk_ids": [
+        "CH070-S08-C002"
+      ],
+      "tested_concept": "Transplant Issues in Specific Patient Groups",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q098",
+      "source_chunk_ids": [
+        "CH070-S08-C001"
+      ],
+      "tested_concept": "Transplant Issues in Specific Patient Groups",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q099",
+      "source_chunk_ids": [
+        "CH070-S08-C002"
+      ],
+      "tested_concept": "Transplant Issues in Specific Patient Groups",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH070-Q100",
+      "source_chunk_ids": [
+        "CH070-S08-C001"
+      ],
+      "tested_concept": "Transplant Issues in Specific Patient Groups",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
