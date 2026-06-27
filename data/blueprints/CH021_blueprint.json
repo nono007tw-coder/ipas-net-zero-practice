@@ -1,0 +1,1132 @@
+{
+  "chapter_id": "CH021",
+  "chapter_title": "Developmental Programming of Blood Pressure and Renal Function Through the Life Course",
+  "clinical_weight": 2,
+  "core_themes": [
+    "Proposed Mechanisms of Developmental Programming in the Kidney",
+    "Programming of Renal Function and Disease",
+    "Evidence for Programming in the Kidney",
+    "Developmental Programming in the Kidney",
+    "Impact of Nephron Endowment in Transplantation",
+    "Conclusion",
+    "Developmental Programming of Blood Pressure and Renal Function Through the Life Course",
+    "Maternal Health and Intergenerational Effects of Programming"
+  ],
+  "sections": [
+    {
+      "section_title": "Developmental Programming of Blood Pressure and Renal Function Through the Life Course",
+      "chunk_ids": [
+        "CH021-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH021-S01-C001"
+      ],
+      "key_concepts": [
+        "Developmental Programming of Blood Pressure and Renal Function Through the Life Course"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Developmental Programming in the Kidney",
+      "chunk_ids": [
+        "CH021-S02-C001",
+        "CH021-S02-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH021-S02-C001",
+        "CH021-S02-C002"
+      ],
+      "key_concepts": [
+        "Developmental Programming in the Kidney"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Evidence for Programming in the Kidney",
+      "chunk_ids": [
+        "CH021-S03-C001",
+        "CH021-S03-C002",
+        "CH021-S03-C003",
+        "CH021-S03-C004",
+        "CH021-S03-C005",
+        "CH021-S03-C006",
+        "CH021-S03-C007"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH021-S03-C001",
+        "CH021-S03-C002",
+        "CH021-S03-C003",
+        "CH021-S03-C004",
+        "CH021-S03-C005",
+        "CH021-S03-C006",
+        "CH021-S03-C007"
+      ],
+      "key_concepts": [
+        "Evidence for Programming in the Kidney"
+      ],
+      "recommended_question_count": 22,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Programming of Renal Function and Disease",
+      "chunk_ids": [
+        "CH021-S04-C001",
+        "CH021-S04-C002",
+        "CH021-S04-C003",
+        "CH021-S04-C004",
+        "CH021-S04-C005",
+        "CH021-S04-C006",
+        "CH021-S04-C007",
+        "CH021-S04-C008"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH021-S04-C001",
+        "CH021-S04-C002",
+        "CH021-S04-C003",
+        "CH021-S04-C004",
+        "CH021-S04-C005",
+        "CH021-S04-C006",
+        "CH021-S04-C007",
+        "CH021-S04-C008"
+      ],
+      "key_concepts": [
+        "Programming of Renal Function and Disease"
+      ],
+      "recommended_question_count": 27,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "chunk_ids": [
+        "CH021-S05-C001",
+        "CH021-S05-C002",
+        "CH021-S05-C003",
+        "CH021-S05-C004",
+        "CH021-S05-C005",
+        "CH021-S05-C006",
+        "CH021-S05-C007",
+        "CH021-S05-C008",
+        "CH021-S05-C009",
+        "CH021-S05-C010"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH021-S05-C001",
+        "CH021-S05-C002",
+        "CH021-S05-C003",
+        "CH021-S05-C004",
+        "CH021-S05-C005",
+        "CH021-S05-C006",
+        "CH021-S05-C007",
+        "CH021-S05-C008",
+        "CH021-S05-C009",
+        "CH021-S05-C010"
+      ],
+      "key_concepts": [
+        "Proposed Mechanisms of Developmental Programming in the Kidney"
+      ],
+      "recommended_question_count": 30,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Maternal Health and Intergenerational Effects of Programming",
+      "chunk_ids": [
+        "CH021-S06-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH021-S06-C001"
+      ],
+      "key_concepts": [
+        "Maternal Health and Intergenerational Effects of Programming"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Impact of Nephron Endowment in Transplantation",
+      "chunk_ids": [
+        "CH021-S07-C001",
+        "CH021-S07-C002",
+        "CH021-S07-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH021-S07-C001",
+        "CH021-S07-C002",
+        "CH021-S07-C003"
+      ],
+      "key_concepts": [
+        "Impact of Nephron Endowment in Transplantation"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Conclusion",
+      "chunk_ids": [
+        "CH021-S08-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH021-S08-C001"
+      ],
+      "key_concepts": [
+        "Conclusion"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH021-Q001",
+      "source_chunk_ids": [
+        "CH021-S01-C001"
+      ],
+      "tested_concept": "Developmental Programming of Blood Pressure and Renal Function Through the Life Course",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q002",
+      "source_chunk_ids": [
+        "CH021-S01-C001"
+      ],
+      "tested_concept": "Developmental Programming of Blood Pressure and Renal Function Through the Life Course",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q003",
+      "source_chunk_ids": [
+        "CH021-S02-C001"
+      ],
+      "tested_concept": "Developmental Programming in the Kidney",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q004",
+      "source_chunk_ids": [
+        "CH021-S02-C002"
+      ],
+      "tested_concept": "Developmental Programming in the Kidney",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q005",
+      "source_chunk_ids": [
+        "CH021-S02-C001"
+      ],
+      "tested_concept": "Developmental Programming in the Kidney",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q006",
+      "source_chunk_ids": [
+        "CH021-S02-C002"
+      ],
+      "tested_concept": "Developmental Programming in the Kidney",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q007",
+      "source_chunk_ids": [
+        "CH021-S02-C001"
+      ],
+      "tested_concept": "Developmental Programming in the Kidney",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q008",
+      "source_chunk_ids": [
+        "CH021-S02-C002"
+      ],
+      "tested_concept": "Developmental Programming in the Kidney",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q009",
+      "source_chunk_ids": [
+        "CH021-S02-C001"
+      ],
+      "tested_concept": "Developmental Programming in the Kidney",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q010",
+      "source_chunk_ids": [
+        "CH021-S03-C001"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q011",
+      "source_chunk_ids": [
+        "CH021-S03-C002"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q012",
+      "source_chunk_ids": [
+        "CH021-S03-C003"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q013",
+      "source_chunk_ids": [
+        "CH021-S03-C004"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q014",
+      "source_chunk_ids": [
+        "CH021-S03-C005"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q015",
+      "source_chunk_ids": [
+        "CH021-S03-C006"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q016",
+      "source_chunk_ids": [
+        "CH021-S03-C007"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q017",
+      "source_chunk_ids": [
+        "CH021-S03-C001"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q018",
+      "source_chunk_ids": [
+        "CH021-S03-C002"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q019",
+      "source_chunk_ids": [
+        "CH021-S03-C003"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q020",
+      "source_chunk_ids": [
+        "CH021-S03-C004"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q021",
+      "source_chunk_ids": [
+        "CH021-S03-C005"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q022",
+      "source_chunk_ids": [
+        "CH021-S03-C006"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q023",
+      "source_chunk_ids": [
+        "CH021-S03-C007"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q024",
+      "source_chunk_ids": [
+        "CH021-S03-C001"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q025",
+      "source_chunk_ids": [
+        "CH021-S03-C002"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q026",
+      "source_chunk_ids": [
+        "CH021-S03-C003"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q027",
+      "source_chunk_ids": [
+        "CH021-S03-C004"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q028",
+      "source_chunk_ids": [
+        "CH021-S03-C005"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q029",
+      "source_chunk_ids": [
+        "CH021-S03-C006"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q030",
+      "source_chunk_ids": [
+        "CH021-S03-C007"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q031",
+      "source_chunk_ids": [
+        "CH021-S03-C001"
+      ],
+      "tested_concept": "Evidence for Programming in the Kidney",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q032",
+      "source_chunk_ids": [
+        "CH021-S04-C001"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q033",
+      "source_chunk_ids": [
+        "CH021-S04-C002"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q034",
+      "source_chunk_ids": [
+        "CH021-S04-C003"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q035",
+      "source_chunk_ids": [
+        "CH021-S04-C004"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q036",
+      "source_chunk_ids": [
+        "CH021-S04-C005"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q037",
+      "source_chunk_ids": [
+        "CH021-S04-C006"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q038",
+      "source_chunk_ids": [
+        "CH021-S04-C007"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q039",
+      "source_chunk_ids": [
+        "CH021-S04-C008"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q040",
+      "source_chunk_ids": [
+        "CH021-S04-C001"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q041",
+      "source_chunk_ids": [
+        "CH021-S04-C002"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q042",
+      "source_chunk_ids": [
+        "CH021-S04-C003"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q043",
+      "source_chunk_ids": [
+        "CH021-S04-C004"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q044",
+      "source_chunk_ids": [
+        "CH021-S04-C005"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q045",
+      "source_chunk_ids": [
+        "CH021-S04-C006"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q046",
+      "source_chunk_ids": [
+        "CH021-S04-C007"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q047",
+      "source_chunk_ids": [
+        "CH021-S04-C008"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q048",
+      "source_chunk_ids": [
+        "CH021-S04-C001"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q049",
+      "source_chunk_ids": [
+        "CH021-S04-C002"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q050",
+      "source_chunk_ids": [
+        "CH021-S04-C003"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q051",
+      "source_chunk_ids": [
+        "CH021-S04-C004"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q052",
+      "source_chunk_ids": [
+        "CH021-S04-C005"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q053",
+      "source_chunk_ids": [
+        "CH021-S04-C006"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q054",
+      "source_chunk_ids": [
+        "CH021-S04-C007"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q055",
+      "source_chunk_ids": [
+        "CH021-S04-C008"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q056",
+      "source_chunk_ids": [
+        "CH021-S04-C001"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q057",
+      "source_chunk_ids": [
+        "CH021-S04-C002"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q058",
+      "source_chunk_ids": [
+        "CH021-S04-C003"
+      ],
+      "tested_concept": "Programming of Renal Function and Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q059",
+      "source_chunk_ids": [
+        "CH021-S05-C001"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q060",
+      "source_chunk_ids": [
+        "CH021-S05-C002"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q061",
+      "source_chunk_ids": [
+        "CH021-S05-C003"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q062",
+      "source_chunk_ids": [
+        "CH021-S05-C004"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q063",
+      "source_chunk_ids": [
+        "CH021-S05-C005"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q064",
+      "source_chunk_ids": [
+        "CH021-S05-C006"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q065",
+      "source_chunk_ids": [
+        "CH021-S05-C007"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q066",
+      "source_chunk_ids": [
+        "CH021-S05-C008"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q067",
+      "source_chunk_ids": [
+        "CH021-S05-C009"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q068",
+      "source_chunk_ids": [
+        "CH021-S05-C010"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q069",
+      "source_chunk_ids": [
+        "CH021-S05-C001"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q070",
+      "source_chunk_ids": [
+        "CH021-S05-C002"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q071",
+      "source_chunk_ids": [
+        "CH021-S05-C003"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q072",
+      "source_chunk_ids": [
+        "CH021-S05-C004"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q073",
+      "source_chunk_ids": [
+        "CH021-S05-C005"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q074",
+      "source_chunk_ids": [
+        "CH021-S05-C006"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q075",
+      "source_chunk_ids": [
+        "CH021-S05-C007"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q076",
+      "source_chunk_ids": [
+        "CH021-S05-C008"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q077",
+      "source_chunk_ids": [
+        "CH021-S05-C009"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q078",
+      "source_chunk_ids": [
+        "CH021-S05-C010"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q079",
+      "source_chunk_ids": [
+        "CH021-S05-C001"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q080",
+      "source_chunk_ids": [
+        "CH021-S05-C002"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH021-Q081",
+      "source_chunk_ids": [
+        "CH021-S05-C003"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q082",
+      "source_chunk_ids": [
+        "CH021-S05-C004"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q083",
+      "source_chunk_ids": [
+        "CH021-S05-C005"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q084",
+      "source_chunk_ids": [
+        "CH021-S05-C006"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q085",
+      "source_chunk_ids": [
+        "CH021-S05-C007"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q086",
+      "source_chunk_ids": [
+        "CH021-S05-C008"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q087",
+      "source_chunk_ids": [
+        "CH021-S05-C009"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q088",
+      "source_chunk_ids": [
+        "CH021-S05-C010"
+      ],
+      "tested_concept": "Proposed Mechanisms of Developmental Programming in the Kidney",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q089",
+      "source_chunk_ids": [
+        "CH021-S06-C001"
+      ],
+      "tested_concept": "Maternal Health and Intergenerational Effects of Programming",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q090",
+      "source_chunk_ids": [
+        "CH021-S06-C001"
+      ],
+      "tested_concept": "Maternal Health and Intergenerational Effects of Programming",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q091",
+      "source_chunk_ids": [
+        "CH021-S07-C001"
+      ],
+      "tested_concept": "Impact of Nephron Endowment in Transplantation",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q092",
+      "source_chunk_ids": [
+        "CH021-S07-C002"
+      ],
+      "tested_concept": "Impact of Nephron Endowment in Transplantation",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q093",
+      "source_chunk_ids": [
+        "CH021-S07-C003"
+      ],
+      "tested_concept": "Impact of Nephron Endowment in Transplantation",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q094",
+      "source_chunk_ids": [
+        "CH021-S07-C001"
+      ],
+      "tested_concept": "Impact of Nephron Endowment in Transplantation",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q095",
+      "source_chunk_ids": [
+        "CH021-S07-C002"
+      ],
+      "tested_concept": "Impact of Nephron Endowment in Transplantation",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q096",
+      "source_chunk_ids": [
+        "CH021-S07-C003"
+      ],
+      "tested_concept": "Impact of Nephron Endowment in Transplantation",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q097",
+      "source_chunk_ids": [
+        "CH021-S07-C001"
+      ],
+      "tested_concept": "Impact of Nephron Endowment in Transplantation",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q098",
+      "source_chunk_ids": [
+        "CH021-S08-C001"
+      ],
+      "tested_concept": "Conclusion",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q099",
+      "source_chunk_ids": [
+        "CH021-S08-C001"
+      ],
+      "tested_concept": "Conclusion",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH021-Q100",
+      "source_chunk_ids": [
+        "CH021-S08-C001"
+      ],
+      "tested_concept": "Conclusion",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
