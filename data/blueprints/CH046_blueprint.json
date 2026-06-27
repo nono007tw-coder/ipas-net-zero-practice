@@ -1,0 +1,1163 @@
+{
+  "chapter_id": "CH046",
+  "chapter_title": "Primary and Secondary Hypertension",
+  "clinical_weight": 5,
+  "core_themes": [
+    "Pathophysiology",
+    "Secondary Hypertension",
+    "Clinical Evaluation",
+    "Goals of Antihypertensive Therapy",
+    "Hypertension Definitions",
+    "Epidemiology",
+    "Hypertensive Urgency and Emergency",
+    "Management of Hypertension in Chronic Kidney Disease"
+  ],
+  "sections": [
+    {
+      "section_title": "Hypertension Definitions",
+      "chunk_ids": [
+        "CH046-S01-C001",
+        "CH046-S01-C002",
+        "CH046-S01-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH046-S01-C001",
+        "CH046-S01-C002",
+        "CH046-S01-C003"
+      ],
+      "key_concepts": [
+        "Hypertension Definitions"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Epidemiology",
+      "chunk_ids": [
+        "CH046-S02-C001",
+        "CH046-S02-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH046-S02-C001",
+        "CH046-S02-C002"
+      ],
+      "key_concepts": [
+        "Epidemiology"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Pathophysiology",
+      "chunk_ids": [
+        "CH046-S03-C001",
+        "CH046-S03-C002",
+        "CH046-S03-C003",
+        "CH046-S03-C004",
+        "CH046-S03-C005",
+        "CH046-S03-C006",
+        "CH046-S03-C007",
+        "CH046-S03-C008",
+        "CH046-S03-C009"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH046-S03-C001",
+        "CH046-S03-C002",
+        "CH046-S03-C003",
+        "CH046-S03-C004",
+        "CH046-S03-C005",
+        "CH046-S03-C006",
+        "CH046-S03-C007",
+        "CH046-S03-C008",
+        "CH046-S03-C009"
+      ],
+      "key_concepts": [
+        "Pathophysiology"
+      ],
+      "recommended_question_count": 24,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Clinical Evaluation",
+      "chunk_ids": [
+        "CH046-S04-C001",
+        "CH046-S04-C002",
+        "CH046-S04-C003",
+        "CH046-S04-C004",
+        "CH046-S04-C005",
+        "CH046-S04-C006",
+        "CH046-S04-C007",
+        "CH046-S04-C008"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH046-S04-C001",
+        "CH046-S04-C002",
+        "CH046-S04-C003",
+        "CH046-S04-C004",
+        "CH046-S04-C005",
+        "CH046-S04-C006",
+        "CH046-S04-C007",
+        "CH046-S04-C008"
+      ],
+      "key_concepts": [
+        "Clinical Evaluation"
+      ],
+      "recommended_question_count": 19,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Secondary Hypertension",
+      "chunk_ids": [
+        "CH046-S05-C001",
+        "CH046-S05-C002",
+        "CH046-S05-C003",
+        "CH046-S05-C004",
+        "CH046-S05-C005",
+        "CH046-S05-C006",
+        "CH046-S05-C007",
+        "CH046-S05-C008"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH046-S05-C001",
+        "CH046-S05-C002",
+        "CH046-S05-C003",
+        "CH046-S05-C004",
+        "CH046-S05-C005",
+        "CH046-S05-C006",
+        "CH046-S05-C007",
+        "CH046-S05-C008"
+      ],
+      "key_concepts": [
+        "Secondary Hypertension"
+      ],
+      "recommended_question_count": 21,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Hypertensive Urgency and Emergency",
+      "chunk_ids": [
+        "CH046-S06-C001",
+        "CH046-S06-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH046-S06-C001",
+        "CH046-S06-C002"
+      ],
+      "key_concepts": [
+        "Hypertensive Urgency and Emergency"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Goals of Antihypertensive Therapy",
+      "chunk_ids": [
+        "CH046-S07-C001",
+        "CH046-S07-C002",
+        "CH046-S07-C003",
+        "CH046-S07-C004",
+        "CH046-S07-C005",
+        "CH046-S07-C006"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH046-S07-C001",
+        "CH046-S07-C002",
+        "CH046-S07-C003",
+        "CH046-S07-C004",
+        "CH046-S07-C005",
+        "CH046-S07-C006"
+      ],
+      "key_concepts": [
+        "Goals of Antihypertensive Therapy"
+      ],
+      "recommended_question_count": 16,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Management of Hypertension in Chronic Kidney Disease",
+      "chunk_ids": [
+        "CH046-S08-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH046-S08-C001"
+      ],
+      "key_concepts": [
+        "Management of Hypertension in Chronic Kidney Disease"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Resistant Hypertension",
+      "chunk_ids": [
+        "CH046-S09-C001",
+        "CH046-S09-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH046-S09-C001"
+      ],
+      "key_concepts": [
+        "Resistant Hypertension"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH046-Q001",
+      "source_chunk_ids": [
+        "CH046-S01-C001"
+      ],
+      "tested_concept": "Hypertension Definitions",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q002",
+      "source_chunk_ids": [
+        "CH046-S01-C002"
+      ],
+      "tested_concept": "Hypertension Definitions",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q003",
+      "source_chunk_ids": [
+        "CH046-S01-C003"
+      ],
+      "tested_concept": "Hypertension Definitions",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q004",
+      "source_chunk_ids": [
+        "CH046-S01-C001"
+      ],
+      "tested_concept": "Hypertension Definitions",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q005",
+      "source_chunk_ids": [
+        "CH046-S01-C002"
+      ],
+      "tested_concept": "Hypertension Definitions",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q006",
+      "source_chunk_ids": [
+        "CH046-S01-C003"
+      ],
+      "tested_concept": "Hypertension Definitions",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q007",
+      "source_chunk_ids": [
+        "CH046-S02-C001"
+      ],
+      "tested_concept": "Epidemiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q008",
+      "source_chunk_ids": [
+        "CH046-S02-C002"
+      ],
+      "tested_concept": "Epidemiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q009",
+      "source_chunk_ids": [
+        "CH046-S02-C001"
+      ],
+      "tested_concept": "Epidemiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q010",
+      "source_chunk_ids": [
+        "CH046-S02-C002"
+      ],
+      "tested_concept": "Epidemiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q011",
+      "source_chunk_ids": [
+        "CH046-S03-C001"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q012",
+      "source_chunk_ids": [
+        "CH046-S03-C002"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q013",
+      "source_chunk_ids": [
+        "CH046-S03-C003"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q014",
+      "source_chunk_ids": [
+        "CH046-S03-C004"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q015",
+      "source_chunk_ids": [
+        "CH046-S03-C005"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q016",
+      "source_chunk_ids": [
+        "CH046-S03-C006"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q017",
+      "source_chunk_ids": [
+        "CH046-S03-C007"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q018",
+      "source_chunk_ids": [
+        "CH046-S03-C008"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q019",
+      "source_chunk_ids": [
+        "CH046-S03-C009"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q020",
+      "source_chunk_ids": [
+        "CH046-S03-C001"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q021",
+      "source_chunk_ids": [
+        "CH046-S03-C002"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q022",
+      "source_chunk_ids": [
+        "CH046-S03-C003"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q023",
+      "source_chunk_ids": [
+        "CH046-S03-C004"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q024",
+      "source_chunk_ids": [
+        "CH046-S03-C005"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q025",
+      "source_chunk_ids": [
+        "CH046-S03-C006"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q026",
+      "source_chunk_ids": [
+        "CH046-S03-C007"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q027",
+      "source_chunk_ids": [
+        "CH046-S03-C008"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q028",
+      "source_chunk_ids": [
+        "CH046-S03-C009"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q029",
+      "source_chunk_ids": [
+        "CH046-S03-C001"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q030",
+      "source_chunk_ids": [
+        "CH046-S03-C002"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q031",
+      "source_chunk_ids": [
+        "CH046-S03-C003"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q032",
+      "source_chunk_ids": [
+        "CH046-S03-C004"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q033",
+      "source_chunk_ids": [
+        "CH046-S03-C005"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q034",
+      "source_chunk_ids": [
+        "CH046-S03-C006"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q035",
+      "source_chunk_ids": [
+        "CH046-S04-C001"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q036",
+      "source_chunk_ids": [
+        "CH046-S04-C002"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q037",
+      "source_chunk_ids": [
+        "CH046-S04-C003"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q038",
+      "source_chunk_ids": [
+        "CH046-S04-C004"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q039",
+      "source_chunk_ids": [
+        "CH046-S04-C005"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q040",
+      "source_chunk_ids": [
+        "CH046-S04-C006"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q041",
+      "source_chunk_ids": [
+        "CH046-S04-C007"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q042",
+      "source_chunk_ids": [
+        "CH046-S04-C008"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q043",
+      "source_chunk_ids": [
+        "CH046-S04-C001"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q044",
+      "source_chunk_ids": [
+        "CH046-S04-C002"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q045",
+      "source_chunk_ids": [
+        "CH046-S04-C003"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q046",
+      "source_chunk_ids": [
+        "CH046-S04-C004"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q047",
+      "source_chunk_ids": [
+        "CH046-S04-C005"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q048",
+      "source_chunk_ids": [
+        "CH046-S04-C006"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q049",
+      "source_chunk_ids": [
+        "CH046-S04-C007"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q050",
+      "source_chunk_ids": [
+        "CH046-S04-C008"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q051",
+      "source_chunk_ids": [
+        "CH046-S04-C001"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q052",
+      "source_chunk_ids": [
+        "CH046-S04-C002"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q053",
+      "source_chunk_ids": [
+        "CH046-S04-C003"
+      ],
+      "tested_concept": "Clinical Evaluation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q054",
+      "source_chunk_ids": [
+        "CH046-S05-C001"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q055",
+      "source_chunk_ids": [
+        "CH046-S05-C002"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q056",
+      "source_chunk_ids": [
+        "CH046-S05-C003"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q057",
+      "source_chunk_ids": [
+        "CH046-S05-C004"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q058",
+      "source_chunk_ids": [
+        "CH046-S05-C005"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q059",
+      "source_chunk_ids": [
+        "CH046-S05-C006"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q060",
+      "source_chunk_ids": [
+        "CH046-S05-C007"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q061",
+      "source_chunk_ids": [
+        "CH046-S05-C008"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q062",
+      "source_chunk_ids": [
+        "CH046-S05-C001"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q063",
+      "source_chunk_ids": [
+        "CH046-S05-C002"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q064",
+      "source_chunk_ids": [
+        "CH046-S05-C003"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q065",
+      "source_chunk_ids": [
+        "CH046-S05-C004"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q066",
+      "source_chunk_ids": [
+        "CH046-S05-C005"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q067",
+      "source_chunk_ids": [
+        "CH046-S05-C006"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q068",
+      "source_chunk_ids": [
+        "CH046-S05-C007"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q069",
+      "source_chunk_ids": [
+        "CH046-S05-C008"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q070",
+      "source_chunk_ids": [
+        "CH046-S05-C001"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q071",
+      "source_chunk_ids": [
+        "CH046-S05-C002"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q072",
+      "source_chunk_ids": [
+        "CH046-S05-C003"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q073",
+      "source_chunk_ids": [
+        "CH046-S05-C004"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q074",
+      "source_chunk_ids": [
+        "CH046-S05-C005"
+      ],
+      "tested_concept": "Secondary Hypertension",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q075",
+      "source_chunk_ids": [
+        "CH046-S06-C001"
+      ],
+      "tested_concept": "Hypertensive Urgency and Emergency",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q076",
+      "source_chunk_ids": [
+        "CH046-S06-C002"
+      ],
+      "tested_concept": "Hypertensive Urgency and Emergency",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q077",
+      "source_chunk_ids": [
+        "CH046-S06-C001"
+      ],
+      "tested_concept": "Hypertensive Urgency and Emergency",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q078",
+      "source_chunk_ids": [
+        "CH046-S06-C002"
+      ],
+      "tested_concept": "Hypertensive Urgency and Emergency",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q079",
+      "source_chunk_ids": [
+        "CH046-S07-C001"
+      ],
+      "tested_concept": "Goals of Antihypertensive Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q080",
+      "source_chunk_ids": [
+        "CH046-S07-C002"
+      ],
+      "tested_concept": "Goals of Antihypertensive Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH046-Q081",
+      "source_chunk_ids": [
+        "CH046-S07-C003"
+      ],
+      "tested_concept": "Goals of Antihypertensive Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q082",
+      "source_chunk_ids": [
+        "CH046-S07-C004"
+      ],
+      "tested_concept": "Goals of Antihypertensive Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q083",
+      "source_chunk_ids": [
+        "CH046-S07-C005"
+      ],
+      "tested_concept": "Goals of Antihypertensive Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q084",
+      "source_chunk_ids": [
+        "CH046-S07-C006"
+      ],
+      "tested_concept": "Goals of Antihypertensive Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q085",
+      "source_chunk_ids": [
+        "CH046-S07-C001"
+      ],
+      "tested_concept": "Goals of Antihypertensive Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q086",
+      "source_chunk_ids": [
+        "CH046-S07-C002"
+      ],
+      "tested_concept": "Goals of Antihypertensive Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q087",
+      "source_chunk_ids": [
+        "CH046-S07-C003"
+      ],
+      "tested_concept": "Goals of Antihypertensive Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q088",
+      "source_chunk_ids": [
+        "CH046-S07-C004"
+      ],
+      "tested_concept": "Goals of Antihypertensive Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q089",
+      "source_chunk_ids": [
+        "CH046-S07-C005"
+      ],
+      "tested_concept": "Goals of Antihypertensive Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q090",
+      "source_chunk_ids": [
+        "CH046-S07-C006"
+      ],
+      "tested_concept": "Goals of Antihypertensive Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q091",
+      "source_chunk_ids": [
+        "CH046-S07-C001"
+      ],
+      "tested_concept": "Goals of Antihypertensive Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q092",
+      "source_chunk_ids": [
+        "CH046-S07-C002"
+      ],
+      "tested_concept": "Goals of Antihypertensive Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q093",
+      "source_chunk_ids": [
+        "CH046-S07-C003"
+      ],
+      "tested_concept": "Goals of Antihypertensive Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q094",
+      "source_chunk_ids": [
+        "CH046-S07-C004"
+      ],
+      "tested_concept": "Goals of Antihypertensive Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q095",
+      "source_chunk_ids": [
+        "CH046-S08-C001"
+      ],
+      "tested_concept": "Management of Hypertension in Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q096",
+      "source_chunk_ids": [
+        "CH046-S08-C001"
+      ],
+      "tested_concept": "Management of Hypertension in Chronic Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q097",
+      "source_chunk_ids": [
+        "CH046-S08-C001"
+      ],
+      "tested_concept": "Management of Hypertension in Chronic Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q098",
+      "source_chunk_ids": [
+        "CH046-S09-C001"
+      ],
+      "tested_concept": "Resistant Hypertension",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q099",
+      "source_chunk_ids": [
+        "CH046-S09-C001"
+      ],
+      "tested_concept": "Resistant Hypertension",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH046-Q100",
+      "source_chunk_ids": [
+        "CH046-S09-C001"
+      ],
+      "tested_concept": "Resistant Hypertension",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
