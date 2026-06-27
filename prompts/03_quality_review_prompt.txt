@@ -17,6 +17,7 @@
 12. 是否過度引用原文
 
 請輸出：
+- question_id
 - review_status: accepted / minor_revision / major_revision / rejected
 - quality_score: 0-100
 - problems_found
