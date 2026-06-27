@@ -1,0 +1,1053 @@
+{
+  "chapter_id": "CH055",
+  "chapter_title": "Hematologic Aspects of Kidney Disease",
+  "clinical_weight": 5,
+  "core_themes": [
+    "Anemia of Kidney Disease",
+    "Disorders of Hemostasis in Chronic Kidney Disease",
+    "White Cell Function in Chronic Kidney Disease"
+  ],
+  "sections": [
+    {
+      "section_title": "Anemia of Kidney Disease",
+      "chunk_ids": [
+        "CH055-S01-C001",
+        "CH055-S01-C002",
+        "CH055-S01-C003",
+        "CH055-S01-C004",
+        "CH055-S01-C005",
+        "CH055-S01-C006",
+        "CH055-S01-C007",
+        "CH055-S01-C008",
+        "CH055-S01-C009",
+        "CH055-S01-C010",
+        "CH055-S01-C011",
+        "CH055-S01-C012",
+        "CH055-S01-C013",
+        "CH055-S01-C014",
+        "CH055-S01-C015",
+        "CH055-S01-C016",
+        "CH055-S01-C017",
+        "CH055-S01-C018",
+        "CH055-S01-C019",
+        "CH055-S01-C020",
+        "CH055-S01-C021",
+        "CH055-S01-C022",
+        "CH055-S01-C023",
+        "CH055-S01-C024",
+        "CH055-S01-C025",
+        "CH055-S01-C026",
+        "CH055-S01-C027",
+        "CH055-S01-C028",
+        "CH055-S01-C029",
+        "CH055-S01-C030"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH055-S01-C001",
+        "CH055-S01-C002",
+        "CH055-S01-C003",
+        "CH055-S01-C004",
+        "CH055-S01-C005",
+        "CH055-S01-C006",
+        "CH055-S01-C007",
+        "CH055-S01-C008",
+        "CH055-S01-C009",
+        "CH055-S01-C010",
+        "CH055-S01-C011",
+        "CH055-S01-C012",
+        "CH055-S01-C013",
+        "CH055-S01-C014",
+        "CH055-S01-C015",
+        "CH055-S01-C016",
+        "CH055-S01-C017",
+        "CH055-S01-C018",
+        "CH055-S01-C019",
+        "CH055-S01-C020",
+        "CH055-S01-C021",
+        "CH055-S01-C022",
+        "CH055-S01-C023",
+        "CH055-S01-C024",
+        "CH055-S01-C025",
+        "CH055-S01-C026",
+        "CH055-S01-C027",
+        "CH055-S01-C028",
+        "CH055-S01-C029",
+        "CH055-S01-C030"
+      ],
+      "key_concepts": [
+        "Anemia of Kidney Disease"
+      ],
+      "recommended_question_count": 83,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Disorders of Hemostasis in Chronic Kidney Disease",
+      "chunk_ids": [
+        "CH055-S02-C001",
+        "CH055-S02-C002",
+        "CH055-S02-C003",
+        "CH055-S02-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH055-S02-C001",
+        "CH055-S02-C002",
+        "CH055-S02-C003",
+        "CH055-S02-C004"
+      ],
+      "key_concepts": [
+        "Disorders of Hemostasis in Chronic Kidney Disease"
+      ],
+      "recommended_question_count": 11,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "White Cell Function in Chronic Kidney Disease",
+      "chunk_ids": [
+        "CH055-S03-C001",
+        "CH055-S03-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH055-S03-C001",
+        "CH055-S03-C002"
+      ],
+      "key_concepts": [
+        "White Cell Function in Chronic Kidney Disease"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH055-Q001",
+      "source_chunk_ids": [
+        "CH055-S01-C001"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q002",
+      "source_chunk_ids": [
+        "CH055-S01-C002"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q003",
+      "source_chunk_ids": [
+        "CH055-S01-C003"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q004",
+      "source_chunk_ids": [
+        "CH055-S01-C004"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q005",
+      "source_chunk_ids": [
+        "CH055-S01-C005"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q006",
+      "source_chunk_ids": [
+        "CH055-S01-C006"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q007",
+      "source_chunk_ids": [
+        "CH055-S01-C007"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q008",
+      "source_chunk_ids": [
+        "CH055-S01-C008"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q009",
+      "source_chunk_ids": [
+        "CH055-S01-C009"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q010",
+      "source_chunk_ids": [
+        "CH055-S01-C010"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q011",
+      "source_chunk_ids": [
+        "CH055-S01-C011"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q012",
+      "source_chunk_ids": [
+        "CH055-S01-C012"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q013",
+      "source_chunk_ids": [
+        "CH055-S01-C013"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q014",
+      "source_chunk_ids": [
+        "CH055-S01-C014"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q015",
+      "source_chunk_ids": [
+        "CH055-S01-C015"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q016",
+      "source_chunk_ids": [
+        "CH055-S01-C016"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q017",
+      "source_chunk_ids": [
+        "CH055-S01-C017"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q018",
+      "source_chunk_ids": [
+        "CH055-S01-C018"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q019",
+      "source_chunk_ids": [
+        "CH055-S01-C019"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q020",
+      "source_chunk_ids": [
+        "CH055-S01-C020"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q021",
+      "source_chunk_ids": [
+        "CH055-S01-C021"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q022",
+      "source_chunk_ids": [
+        "CH055-S01-C022"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q023",
+      "source_chunk_ids": [
+        "CH055-S01-C023"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q024",
+      "source_chunk_ids": [
+        "CH055-S01-C024"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q025",
+      "source_chunk_ids": [
+        "CH055-S01-C025"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q026",
+      "source_chunk_ids": [
+        "CH055-S01-C026"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q027",
+      "source_chunk_ids": [
+        "CH055-S01-C027"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q028",
+      "source_chunk_ids": [
+        "CH055-S01-C028"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q029",
+      "source_chunk_ids": [
+        "CH055-S01-C029"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q030",
+      "source_chunk_ids": [
+        "CH055-S01-C030"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q031",
+      "source_chunk_ids": [
+        "CH055-S01-C001"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q032",
+      "source_chunk_ids": [
+        "CH055-S01-C002"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q033",
+      "source_chunk_ids": [
+        "CH055-S01-C003"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q034",
+      "source_chunk_ids": [
+        "CH055-S01-C004"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q035",
+      "source_chunk_ids": [
+        "CH055-S01-C005"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q036",
+      "source_chunk_ids": [
+        "CH055-S01-C006"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q037",
+      "source_chunk_ids": [
+        "CH055-S01-C007"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q038",
+      "source_chunk_ids": [
+        "CH055-S01-C008"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q039",
+      "source_chunk_ids": [
+        "CH055-S01-C009"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q040",
+      "source_chunk_ids": [
+        "CH055-S01-C010"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q041",
+      "source_chunk_ids": [
+        "CH055-S01-C011"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q042",
+      "source_chunk_ids": [
+        "CH055-S01-C012"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q043",
+      "source_chunk_ids": [
+        "CH055-S01-C013"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q044",
+      "source_chunk_ids": [
+        "CH055-S01-C014"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q045",
+      "source_chunk_ids": [
+        "CH055-S01-C015"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q046",
+      "source_chunk_ids": [
+        "CH055-S01-C016"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q047",
+      "source_chunk_ids": [
+        "CH055-S01-C017"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q048",
+      "source_chunk_ids": [
+        "CH055-S01-C018"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q049",
+      "source_chunk_ids": [
+        "CH055-S01-C019"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q050",
+      "source_chunk_ids": [
+        "CH055-S01-C020"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q051",
+      "source_chunk_ids": [
+        "CH055-S01-C021"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q052",
+      "source_chunk_ids": [
+        "CH055-S01-C022"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q053",
+      "source_chunk_ids": [
+        "CH055-S01-C023"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q054",
+      "source_chunk_ids": [
+        "CH055-S01-C024"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q055",
+      "source_chunk_ids": [
+        "CH055-S01-C025"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q056",
+      "source_chunk_ids": [
+        "CH055-S01-C026"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q057",
+      "source_chunk_ids": [
+        "CH055-S01-C027"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q058",
+      "source_chunk_ids": [
+        "CH055-S01-C028"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q059",
+      "source_chunk_ids": [
+        "CH055-S01-C029"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q060",
+      "source_chunk_ids": [
+        "CH055-S01-C030"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q061",
+      "source_chunk_ids": [
+        "CH055-S01-C001"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q062",
+      "source_chunk_ids": [
+        "CH055-S01-C002"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q063",
+      "source_chunk_ids": [
+        "CH055-S01-C003"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q064",
+      "source_chunk_ids": [
+        "CH055-S01-C004"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q065",
+      "source_chunk_ids": [
+        "CH055-S01-C005"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q066",
+      "source_chunk_ids": [
+        "CH055-S01-C006"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q067",
+      "source_chunk_ids": [
+        "CH055-S01-C007"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q068",
+      "source_chunk_ids": [
+        "CH055-S01-C008"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q069",
+      "source_chunk_ids": [
+        "CH055-S01-C009"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q070",
+      "source_chunk_ids": [
+        "CH055-S01-C010"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q071",
+      "source_chunk_ids": [
+        "CH055-S01-C011"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q072",
+      "source_chunk_ids": [
+        "CH055-S01-C012"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q073",
+      "source_chunk_ids": [
+        "CH055-S01-C013"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q074",
+      "source_chunk_ids": [
+        "CH055-S01-C014"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q075",
+      "source_chunk_ids": [
+        "CH055-S01-C015"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q076",
+      "source_chunk_ids": [
+        "CH055-S01-C016"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q077",
+      "source_chunk_ids": [
+        "CH055-S01-C017"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q078",
+      "source_chunk_ids": [
+        "CH055-S01-C018"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q079",
+      "source_chunk_ids": [
+        "CH055-S01-C019"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q080",
+      "source_chunk_ids": [
+        "CH055-S01-C020"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH055-Q081",
+      "source_chunk_ids": [
+        "CH055-S01-C021"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q082",
+      "source_chunk_ids": [
+        "CH055-S01-C022"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q083",
+      "source_chunk_ids": [
+        "CH055-S01-C023"
+      ],
+      "tested_concept": "Anemia of Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q084",
+      "source_chunk_ids": [
+        "CH055-S02-C001"
+      ],
+      "tested_concept": "Disorders of Hemostasis in Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q085",
+      "source_chunk_ids": [
+        "CH055-S02-C002"
+      ],
+      "tested_concept": "Disorders of Hemostasis in Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q086",
+      "source_chunk_ids": [
+        "CH055-S02-C003"
+      ],
+      "tested_concept": "Disorders of Hemostasis in Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q087",
+      "source_chunk_ids": [
+        "CH055-S02-C004"
+      ],
+      "tested_concept": "Disorders of Hemostasis in Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q088",
+      "source_chunk_ids": [
+        "CH055-S02-C001"
+      ],
+      "tested_concept": "Disorders of Hemostasis in Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q089",
+      "source_chunk_ids": [
+        "CH055-S02-C002"
+      ],
+      "tested_concept": "Disorders of Hemostasis in Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q090",
+      "source_chunk_ids": [
+        "CH055-S02-C003"
+      ],
+      "tested_concept": "Disorders of Hemostasis in Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q091",
+      "source_chunk_ids": [
+        "CH055-S02-C004"
+      ],
+      "tested_concept": "Disorders of Hemostasis in Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q092",
+      "source_chunk_ids": [
+        "CH055-S02-C001"
+      ],
+      "tested_concept": "Disorders of Hemostasis in Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q093",
+      "source_chunk_ids": [
+        "CH055-S02-C002"
+      ],
+      "tested_concept": "Disorders of Hemostasis in Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q094",
+      "source_chunk_ids": [
+        "CH055-S02-C003"
+      ],
+      "tested_concept": "Disorders of Hemostasis in Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q095",
+      "source_chunk_ids": [
+        "CH055-S03-C001"
+      ],
+      "tested_concept": "White Cell Function in Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q096",
+      "source_chunk_ids": [
+        "CH055-S03-C002"
+      ],
+      "tested_concept": "White Cell Function in Chronic Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q097",
+      "source_chunk_ids": [
+        "CH055-S03-C001"
+      ],
+      "tested_concept": "White Cell Function in Chronic Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q098",
+      "source_chunk_ids": [
+        "CH055-S03-C002"
+      ],
+      "tested_concept": "White Cell Function in Chronic Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q099",
+      "source_chunk_ids": [
+        "CH055-S03-C001"
+      ],
+      "tested_concept": "White Cell Function in Chronic Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH055-Q100",
+      "source_chunk_ids": [
+        "CH055-S03-C002"
+      ],
+      "tested_concept": "White Cell Function in Chronic Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
