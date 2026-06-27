@@ -1,0 +1,1086 @@
+{
+  "chapter_id": "CH065",
+  "chapter_title": "Critical Care Nephrology",
+  "clinical_weight": 5,
+  "core_themes": [
+    "Indications for Commencing RENAL Replacement Therapy",
+    "Acute Kidney Injury in the Context of Critical Illness",
+    "Mode of Clearance",
+    "Drug Dosing Considerations",
+    "Vascular Access Considerations",
+    "RENAL Replacement Therapy Modality",
+    "Intensity of RENAL Replacement Therapy",
+    "Key Points"
+  ],
+  "sections": [
+    {
+      "section_title": "Key Points",
+      "chunk_ids": [
+        "CH065-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH065-S01-C001"
+      ],
+      "key_concepts": [
+        "Key Points"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Acute Kidney Injury in the Context of Critical Illness",
+      "chunk_ids": [
+        "CH065-S02-C001",
+        "CH065-S02-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH065-S02-C001",
+        "CH065-S02-C002"
+      ],
+      "key_concepts": [
+        "Acute Kidney Injury in the Context of Critical Illness"
+      ],
+      "recommended_question_count": 20,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Indications for Commencing RENAL Replacement Therapy",
+      "chunk_ids": [
+        "CH065-S03-C001",
+        "CH065-S03-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH065-S03-C001",
+        "CH065-S03-C002"
+      ],
+      "key_concepts": [
+        "Indications for Commencing RENAL Replacement Therapy"
+      ],
+      "recommended_question_count": 22,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "RENAL Replacement Therapy Modality",
+      "chunk_ids": [
+        "CH065-S04-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH065-S04-C001"
+      ],
+      "key_concepts": [
+        "RENAL Replacement Therapy Modality"
+      ],
+      "recommended_question_count": 10,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Mode of Clearance",
+      "chunk_ids": [
+        "CH065-S05-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH065-S05-C001"
+      ],
+      "key_concepts": [
+        "Mode of Clearance"
+      ],
+      "recommended_question_count": 12,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Intensity of RENAL Replacement Therapy",
+      "chunk_ids": [
+        "CH065-S06-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH065-S06-C001"
+      ],
+      "key_concepts": [
+        "Intensity of RENAL Replacement Therapy"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Vascular Access Considerations",
+      "chunk_ids": [
+        "CH065-S07-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH065-S07-C001"
+      ],
+      "key_concepts": [
+        "Vascular Access Considerations"
+      ],
+      "recommended_question_count": 11,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Drug Dosing Considerations",
+      "chunk_ids": [
+        "CH065-S08-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH065-S08-C001"
+      ],
+      "key_concepts": [
+        "Drug Dosing Considerations"
+      ],
+      "recommended_question_count": 12,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH065-Q001",
+      "source_chunk_ids": [
+        "CH065-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q002",
+      "source_chunk_ids": [
+        "CH065-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q003",
+      "source_chunk_ids": [
+        "CH065-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q004",
+      "source_chunk_ids": [
+        "CH065-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q005",
+      "source_chunk_ids": [
+        "CH065-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q006",
+      "source_chunk_ids": [
+        "CH065-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q007",
+      "source_chunk_ids": [
+        "CH065-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q008",
+      "source_chunk_ids": [
+        "CH065-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q009",
+      "source_chunk_ids": [
+        "CH065-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q010",
+      "source_chunk_ids": [
+        "CH065-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q011",
+      "source_chunk_ids": [
+        "CH065-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q012",
+      "source_chunk_ids": [
+        "CH065-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q013",
+      "source_chunk_ids": [
+        "CH065-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q014",
+      "source_chunk_ids": [
+        "CH065-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q015",
+      "source_chunk_ids": [
+        "CH065-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q016",
+      "source_chunk_ids": [
+        "CH065-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q017",
+      "source_chunk_ids": [
+        "CH065-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q018",
+      "source_chunk_ids": [
+        "CH065-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q019",
+      "source_chunk_ids": [
+        "CH065-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q020",
+      "source_chunk_ids": [
+        "CH065-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q021",
+      "source_chunk_ids": [
+        "CH065-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q022",
+      "source_chunk_ids": [
+        "CH065-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q023",
+      "source_chunk_ids": [
+        "CH065-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q024",
+      "source_chunk_ids": [
+        "CH065-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q025",
+      "source_chunk_ids": [
+        "CH065-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q026",
+      "source_chunk_ids": [
+        "CH065-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in the Context of Critical Illness",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q027",
+      "source_chunk_ids": [
+        "CH065-S03-C001"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q028",
+      "source_chunk_ids": [
+        "CH065-S03-C002"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q029",
+      "source_chunk_ids": [
+        "CH065-S03-C001"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q030",
+      "source_chunk_ids": [
+        "CH065-S03-C002"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q031",
+      "source_chunk_ids": [
+        "CH065-S03-C001"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q032",
+      "source_chunk_ids": [
+        "CH065-S03-C002"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q033",
+      "source_chunk_ids": [
+        "CH065-S03-C001"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q034",
+      "source_chunk_ids": [
+        "CH065-S03-C002"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q035",
+      "source_chunk_ids": [
+        "CH065-S03-C001"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q036",
+      "source_chunk_ids": [
+        "CH065-S03-C002"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q037",
+      "source_chunk_ids": [
+        "CH065-S03-C001"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q038",
+      "source_chunk_ids": [
+        "CH065-S03-C002"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q039",
+      "source_chunk_ids": [
+        "CH065-S03-C001"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q040",
+      "source_chunk_ids": [
+        "CH065-S03-C002"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q041",
+      "source_chunk_ids": [
+        "CH065-S03-C001"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q042",
+      "source_chunk_ids": [
+        "CH065-S03-C002"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q043",
+      "source_chunk_ids": [
+        "CH065-S03-C001"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q044",
+      "source_chunk_ids": [
+        "CH065-S03-C002"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q045",
+      "source_chunk_ids": [
+        "CH065-S03-C001"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q046",
+      "source_chunk_ids": [
+        "CH065-S03-C002"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q047",
+      "source_chunk_ids": [
+        "CH065-S03-C001"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q048",
+      "source_chunk_ids": [
+        "CH065-S03-C002"
+      ],
+      "tested_concept": "Indications for Commencing RENAL Replacement Therapy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q049",
+      "source_chunk_ids": [
+        "CH065-S04-C001"
+      ],
+      "tested_concept": "RENAL Replacement Therapy Modality",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q050",
+      "source_chunk_ids": [
+        "CH065-S04-C001"
+      ],
+      "tested_concept": "RENAL Replacement Therapy Modality",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q051",
+      "source_chunk_ids": [
+        "CH065-S04-C001"
+      ],
+      "tested_concept": "RENAL Replacement Therapy Modality",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q052",
+      "source_chunk_ids": [
+        "CH065-S04-C001"
+      ],
+      "tested_concept": "RENAL Replacement Therapy Modality",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q053",
+      "source_chunk_ids": [
+        "CH065-S04-C001"
+      ],
+      "tested_concept": "RENAL Replacement Therapy Modality",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q054",
+      "source_chunk_ids": [
+        "CH065-S04-C001"
+      ],
+      "tested_concept": "RENAL Replacement Therapy Modality",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q055",
+      "source_chunk_ids": [
+        "CH065-S04-C001"
+      ],
+      "tested_concept": "RENAL Replacement Therapy Modality",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q056",
+      "source_chunk_ids": [
+        "CH065-S04-C001"
+      ],
+      "tested_concept": "RENAL Replacement Therapy Modality",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q057",
+      "source_chunk_ids": [
+        "CH065-S04-C001"
+      ],
+      "tested_concept": "RENAL Replacement Therapy Modality",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q058",
+      "source_chunk_ids": [
+        "CH065-S04-C001"
+      ],
+      "tested_concept": "RENAL Replacement Therapy Modality",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q059",
+      "source_chunk_ids": [
+        "CH065-S05-C001"
+      ],
+      "tested_concept": "Mode of Clearance",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q060",
+      "source_chunk_ids": [
+        "CH065-S05-C001"
+      ],
+      "tested_concept": "Mode of Clearance",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q061",
+      "source_chunk_ids": [
+        "CH065-S05-C001"
+      ],
+      "tested_concept": "Mode of Clearance",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q062",
+      "source_chunk_ids": [
+        "CH065-S05-C001"
+      ],
+      "tested_concept": "Mode of Clearance",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q063",
+      "source_chunk_ids": [
+        "CH065-S05-C001"
+      ],
+      "tested_concept": "Mode of Clearance",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q064",
+      "source_chunk_ids": [
+        "CH065-S05-C001"
+      ],
+      "tested_concept": "Mode of Clearance",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q065",
+      "source_chunk_ids": [
+        "CH065-S05-C001"
+      ],
+      "tested_concept": "Mode of Clearance",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q066",
+      "source_chunk_ids": [
+        "CH065-S05-C001"
+      ],
+      "tested_concept": "Mode of Clearance",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q067",
+      "source_chunk_ids": [
+        "CH065-S05-C001"
+      ],
+      "tested_concept": "Mode of Clearance",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q068",
+      "source_chunk_ids": [
+        "CH065-S05-C001"
+      ],
+      "tested_concept": "Mode of Clearance",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q069",
+      "source_chunk_ids": [
+        "CH065-S05-C001"
+      ],
+      "tested_concept": "Mode of Clearance",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q070",
+      "source_chunk_ids": [
+        "CH065-S05-C001"
+      ],
+      "tested_concept": "Mode of Clearance",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q071",
+      "source_chunk_ids": [
+        "CH065-S06-C001"
+      ],
+      "tested_concept": "Intensity of RENAL Replacement Therapy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q072",
+      "source_chunk_ids": [
+        "CH065-S06-C001"
+      ],
+      "tested_concept": "Intensity of RENAL Replacement Therapy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q073",
+      "source_chunk_ids": [
+        "CH065-S06-C001"
+      ],
+      "tested_concept": "Intensity of RENAL Replacement Therapy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q074",
+      "source_chunk_ids": [
+        "CH065-S06-C001"
+      ],
+      "tested_concept": "Intensity of RENAL Replacement Therapy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q075",
+      "source_chunk_ids": [
+        "CH065-S06-C001"
+      ],
+      "tested_concept": "Intensity of RENAL Replacement Therapy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q076",
+      "source_chunk_ids": [
+        "CH065-S06-C001"
+      ],
+      "tested_concept": "Intensity of RENAL Replacement Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q077",
+      "source_chunk_ids": [
+        "CH065-S06-C001"
+      ],
+      "tested_concept": "Intensity of RENAL Replacement Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q078",
+      "source_chunk_ids": [
+        "CH065-S07-C001"
+      ],
+      "tested_concept": "Vascular Access Considerations",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q079",
+      "source_chunk_ids": [
+        "CH065-S07-C001"
+      ],
+      "tested_concept": "Vascular Access Considerations",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q080",
+      "source_chunk_ids": [
+        "CH065-S07-C001"
+      ],
+      "tested_concept": "Vascular Access Considerations",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH065-Q081",
+      "source_chunk_ids": [
+        "CH065-S07-C001"
+      ],
+      "tested_concept": "Vascular Access Considerations",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q082",
+      "source_chunk_ids": [
+        "CH065-S07-C001"
+      ],
+      "tested_concept": "Vascular Access Considerations",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q083",
+      "source_chunk_ids": [
+        "CH065-S07-C001"
+      ],
+      "tested_concept": "Vascular Access Considerations",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q084",
+      "source_chunk_ids": [
+        "CH065-S07-C001"
+      ],
+      "tested_concept": "Vascular Access Considerations",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q085",
+      "source_chunk_ids": [
+        "CH065-S07-C001"
+      ],
+      "tested_concept": "Vascular Access Considerations",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q086",
+      "source_chunk_ids": [
+        "CH065-S07-C001"
+      ],
+      "tested_concept": "Vascular Access Considerations",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q087",
+      "source_chunk_ids": [
+        "CH065-S07-C001"
+      ],
+      "tested_concept": "Vascular Access Considerations",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q088",
+      "source_chunk_ids": [
+        "CH065-S07-C001"
+      ],
+      "tested_concept": "Vascular Access Considerations",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q089",
+      "source_chunk_ids": [
+        "CH065-S08-C001"
+      ],
+      "tested_concept": "Drug Dosing Considerations",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q090",
+      "source_chunk_ids": [
+        "CH065-S08-C001"
+      ],
+      "tested_concept": "Drug Dosing Considerations",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q091",
+      "source_chunk_ids": [
+        "CH065-S08-C001"
+      ],
+      "tested_concept": "Drug Dosing Considerations",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q092",
+      "source_chunk_ids": [
+        "CH065-S08-C001"
+      ],
+      "tested_concept": "Drug Dosing Considerations",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q093",
+      "source_chunk_ids": [
+        "CH065-S08-C001"
+      ],
+      "tested_concept": "Drug Dosing Considerations",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q094",
+      "source_chunk_ids": [
+        "CH065-S08-C001"
+      ],
+      "tested_concept": "Drug Dosing Considerations",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q095",
+      "source_chunk_ids": [
+        "CH065-S08-C001"
+      ],
+      "tested_concept": "Drug Dosing Considerations",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q096",
+      "source_chunk_ids": [
+        "CH065-S08-C001"
+      ],
+      "tested_concept": "Drug Dosing Considerations",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q097",
+      "source_chunk_ids": [
+        "CH065-S08-C001"
+      ],
+      "tested_concept": "Drug Dosing Considerations",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q098",
+      "source_chunk_ids": [
+        "CH065-S08-C001"
+      ],
+      "tested_concept": "Drug Dosing Considerations",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q099",
+      "source_chunk_ids": [
+        "CH065-S08-C001"
+      ],
+      "tested_concept": "Drug Dosing Considerations",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH065-Q100",
+      "source_chunk_ids": [
+        "CH065-S08-C001"
+      ],
+      "tested_concept": "Drug Dosing Considerations",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
