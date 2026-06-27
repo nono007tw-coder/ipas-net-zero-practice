@@ -1,0 +1,1048 @@
+{
+  "chapter_id": "CH077",
+  "chapter_title": "Global Considerations in Kidney Disease",
+  "clinical_weight": 1,
+  "core_themes": [
+    "Chronic Kidney Disease",
+    "Acute Kidney Injury",
+    "Introduction",
+    "Human Resources for Nephrology",
+    "End-Stage Renal Disease and Renal Replacement Therapy"
+  ],
+  "sections": [
+    {
+      "section_title": "Introduction",
+      "chunk_ids": [
+        "CH077-S01-C001",
+        "CH077-S01-C002",
+        "CH077-S01-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH077-S01-C001",
+        "CH077-S01-C002",
+        "CH077-S01-C003"
+      ],
+      "key_concepts": [
+        "Introduction"
+      ],
+      "recommended_question_count": 15,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Human Resources for Nephrology",
+      "chunk_ids": [
+        "CH077-S02-C001",
+        "CH077-S02-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH077-S02-C001"
+      ],
+      "key_concepts": [
+        "Human Resources for Nephrology"
+      ],
+      "recommended_question_count": 8,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Acute Kidney Injury",
+      "chunk_ids": [
+        "CH077-S03-C001",
+        "CH077-S03-C002",
+        "CH077-S03-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH077-S03-C001",
+        "CH077-S03-C002",
+        "CH077-S03-C003"
+      ],
+      "key_concepts": [
+        "Acute Kidney Injury"
+      ],
+      "recommended_question_count": 17,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Chronic Kidney Disease",
+      "chunk_ids": [
+        "CH077-S04-C001",
+        "CH077-S04-C002",
+        "CH077-S04-C003",
+        "CH077-S04-C004",
+        "CH077-S04-C005",
+        "CH077-S04-C006",
+        "CH077-S04-C007",
+        "CH077-S04-C008"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH077-S04-C001",
+        "CH077-S04-C002",
+        "CH077-S04-C003",
+        "CH077-S04-C004",
+        "CH077-S04-C005",
+        "CH077-S04-C006",
+        "CH077-S04-C007",
+        "CH077-S04-C008"
+      ],
+      "key_concepts": [
+        "Chronic Kidney Disease"
+      ],
+      "recommended_question_count": 54,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "End-Stage Renal Disease and Renal Replacement Therapy",
+      "chunk_ids": [
+        "CH077-S05-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH077-S05-C001"
+      ],
+      "key_concepts": [
+        "End-Stage Renal Disease and Renal Replacement Therapy"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH077-Q001",
+      "source_chunk_ids": [
+        "CH077-S01-C001"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q002",
+      "source_chunk_ids": [
+        "CH077-S01-C002"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q003",
+      "source_chunk_ids": [
+        "CH077-S01-C003"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q004",
+      "source_chunk_ids": [
+        "CH077-S01-C001"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q005",
+      "source_chunk_ids": [
+        "CH077-S01-C002"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q006",
+      "source_chunk_ids": [
+        "CH077-S01-C003"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q007",
+      "source_chunk_ids": [
+        "CH077-S01-C001"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q008",
+      "source_chunk_ids": [
+        "CH077-S01-C002"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q009",
+      "source_chunk_ids": [
+        "CH077-S01-C003"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q010",
+      "source_chunk_ids": [
+        "CH077-S01-C001"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q011",
+      "source_chunk_ids": [
+        "CH077-S01-C002"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q012",
+      "source_chunk_ids": [
+        "CH077-S01-C003"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q013",
+      "source_chunk_ids": [
+        "CH077-S01-C001"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q014",
+      "source_chunk_ids": [
+        "CH077-S01-C002"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q015",
+      "source_chunk_ids": [
+        "CH077-S01-C003"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q016",
+      "source_chunk_ids": [
+        "CH077-S02-C001"
+      ],
+      "tested_concept": "Human Resources for Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q017",
+      "source_chunk_ids": [
+        "CH077-S02-C001"
+      ],
+      "tested_concept": "Human Resources for Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q018",
+      "source_chunk_ids": [
+        "CH077-S02-C001"
+      ],
+      "tested_concept": "Human Resources for Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q019",
+      "source_chunk_ids": [
+        "CH077-S02-C001"
+      ],
+      "tested_concept": "Human Resources for Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q020",
+      "source_chunk_ids": [
+        "CH077-S02-C001"
+      ],
+      "tested_concept": "Human Resources for Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q021",
+      "source_chunk_ids": [
+        "CH077-S02-C001"
+      ],
+      "tested_concept": "Human Resources for Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q022",
+      "source_chunk_ids": [
+        "CH077-S02-C001"
+      ],
+      "tested_concept": "Human Resources for Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q023",
+      "source_chunk_ids": [
+        "CH077-S02-C001"
+      ],
+      "tested_concept": "Human Resources for Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q024",
+      "source_chunk_ids": [
+        "CH077-S03-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q025",
+      "source_chunk_ids": [
+        "CH077-S03-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q026",
+      "source_chunk_ids": [
+        "CH077-S03-C003"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q027",
+      "source_chunk_ids": [
+        "CH077-S03-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q028",
+      "source_chunk_ids": [
+        "CH077-S03-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q029",
+      "source_chunk_ids": [
+        "CH077-S03-C003"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q030",
+      "source_chunk_ids": [
+        "CH077-S03-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q031",
+      "source_chunk_ids": [
+        "CH077-S03-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q032",
+      "source_chunk_ids": [
+        "CH077-S03-C003"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q033",
+      "source_chunk_ids": [
+        "CH077-S03-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q034",
+      "source_chunk_ids": [
+        "CH077-S03-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q035",
+      "source_chunk_ids": [
+        "CH077-S03-C003"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q036",
+      "source_chunk_ids": [
+        "CH077-S03-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q037",
+      "source_chunk_ids": [
+        "CH077-S03-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q038",
+      "source_chunk_ids": [
+        "CH077-S03-C003"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q039",
+      "source_chunk_ids": [
+        "CH077-S03-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q040",
+      "source_chunk_ids": [
+        "CH077-S03-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q041",
+      "source_chunk_ids": [
+        "CH077-S04-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q042",
+      "source_chunk_ids": [
+        "CH077-S04-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q043",
+      "source_chunk_ids": [
+        "CH077-S04-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q044",
+      "source_chunk_ids": [
+        "CH077-S04-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q045",
+      "source_chunk_ids": [
+        "CH077-S04-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q046",
+      "source_chunk_ids": [
+        "CH077-S04-C006"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q047",
+      "source_chunk_ids": [
+        "CH077-S04-C007"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q048",
+      "source_chunk_ids": [
+        "CH077-S04-C008"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q049",
+      "source_chunk_ids": [
+        "CH077-S04-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q050",
+      "source_chunk_ids": [
+        "CH077-S04-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q051",
+      "source_chunk_ids": [
+        "CH077-S04-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q052",
+      "source_chunk_ids": [
+        "CH077-S04-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q053",
+      "source_chunk_ids": [
+        "CH077-S04-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q054",
+      "source_chunk_ids": [
+        "CH077-S04-C006"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q055",
+      "source_chunk_ids": [
+        "CH077-S04-C007"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q056",
+      "source_chunk_ids": [
+        "CH077-S04-C008"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q057",
+      "source_chunk_ids": [
+        "CH077-S04-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q058",
+      "source_chunk_ids": [
+        "CH077-S04-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q059",
+      "source_chunk_ids": [
+        "CH077-S04-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q060",
+      "source_chunk_ids": [
+        "CH077-S04-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q061",
+      "source_chunk_ids": [
+        "CH077-S04-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q062",
+      "source_chunk_ids": [
+        "CH077-S04-C006"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q063",
+      "source_chunk_ids": [
+        "CH077-S04-C007"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q064",
+      "source_chunk_ids": [
+        "CH077-S04-C008"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q065",
+      "source_chunk_ids": [
+        "CH077-S04-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q066",
+      "source_chunk_ids": [
+        "CH077-S04-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q067",
+      "source_chunk_ids": [
+        "CH077-S04-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q068",
+      "source_chunk_ids": [
+        "CH077-S04-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q069",
+      "source_chunk_ids": [
+        "CH077-S04-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q070",
+      "source_chunk_ids": [
+        "CH077-S04-C006"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q071",
+      "source_chunk_ids": [
+        "CH077-S04-C007"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q072",
+      "source_chunk_ids": [
+        "CH077-S04-C008"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q073",
+      "source_chunk_ids": [
+        "CH077-S04-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q074",
+      "source_chunk_ids": [
+        "CH077-S04-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q075",
+      "source_chunk_ids": [
+        "CH077-S04-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q076",
+      "source_chunk_ids": [
+        "CH077-S04-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q077",
+      "source_chunk_ids": [
+        "CH077-S04-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q078",
+      "source_chunk_ids": [
+        "CH077-S04-C006"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q079",
+      "source_chunk_ids": [
+        "CH077-S04-C007"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q080",
+      "source_chunk_ids": [
+        "CH077-S04-C008"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH077-Q081",
+      "source_chunk_ids": [
+        "CH077-S04-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q082",
+      "source_chunk_ids": [
+        "CH077-S04-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q083",
+      "source_chunk_ids": [
+        "CH077-S04-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q084",
+      "source_chunk_ids": [
+        "CH077-S04-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q085",
+      "source_chunk_ids": [
+        "CH077-S04-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q086",
+      "source_chunk_ids": [
+        "CH077-S04-C006"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q087",
+      "source_chunk_ids": [
+        "CH077-S04-C007"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q088",
+      "source_chunk_ids": [
+        "CH077-S04-C008"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q089",
+      "source_chunk_ids": [
+        "CH077-S04-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q090",
+      "source_chunk_ids": [
+        "CH077-S04-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q091",
+      "source_chunk_ids": [
+        "CH077-S04-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q092",
+      "source_chunk_ids": [
+        "CH077-S04-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q093",
+      "source_chunk_ids": [
+        "CH077-S04-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q094",
+      "source_chunk_ids": [
+        "CH077-S04-C006"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q095",
+      "source_chunk_ids": [
+        "CH077-S05-C001"
+      ],
+      "tested_concept": "End-Stage Renal Disease and Renal Replacement Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q096",
+      "source_chunk_ids": [
+        "CH077-S05-C001"
+      ],
+      "tested_concept": "End-Stage Renal Disease and Renal Replacement Therapy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q097",
+      "source_chunk_ids": [
+        "CH077-S05-C001"
+      ],
+      "tested_concept": "End-Stage Renal Disease and Renal Replacement Therapy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q098",
+      "source_chunk_ids": [
+        "CH077-S05-C001"
+      ],
+      "tested_concept": "End-Stage Renal Disease and Renal Replacement Therapy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q099",
+      "source_chunk_ids": [
+        "CH077-S05-C001"
+      ],
+      "tested_concept": "End-Stage Renal Disease and Renal Replacement Therapy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH077-Q100",
+      "source_chunk_ids": [
+        "CH077-S05-C001"
+      ],
+      "tested_concept": "End-Stage Renal Disease and Renal Replacement Therapy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
