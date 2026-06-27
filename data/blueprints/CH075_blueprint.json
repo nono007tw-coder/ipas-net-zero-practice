@@ -1,0 +1,990 @@
+{
+  "chapter_id": "CH075",
+  "chapter_title": "Global Challenges and Initiatives in Kidney Health",
+  "clinical_weight": 1,
+  "core_themes": [
+    "Global Initiatives for Kidney Health",
+    "Global Challenges in Kidney Health"
+  ],
+  "sections": [
+    {
+      "section_title": "Global Challenges in Kidney Health",
+      "chunk_ids": [
+        "CH075-S01-C001",
+        "CH075-S01-C002",
+        "CH075-S01-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH075-S01-C001",
+        "CH075-S01-C002",
+        "CH075-S01-C003"
+      ],
+      "key_concepts": [
+        "Global Challenges in Kidney Health"
+      ],
+      "recommended_question_count": 23,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Global Initiatives for Kidney Health",
+      "chunk_ids": [
+        "CH075-S02-C001",
+        "CH075-S02-C002",
+        "CH075-S02-C003",
+        "CH075-S02-C004",
+        "CH075-S02-C005",
+        "CH075-S02-C006",
+        "CH075-S02-C007",
+        "CH075-S02-C008",
+        "CH075-S02-C009",
+        "CH075-S02-C010"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH075-S02-C001",
+        "CH075-S02-C002",
+        "CH075-S02-C003",
+        "CH075-S02-C004",
+        "CH075-S02-C005",
+        "CH075-S02-C006",
+        "CH075-S02-C007",
+        "CH075-S02-C008",
+        "CH075-S02-C009",
+        "CH075-S02-C010"
+      ],
+      "key_concepts": [
+        "Global Initiatives for Kidney Health"
+      ],
+      "recommended_question_count": 77,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH075-Q001",
+      "source_chunk_ids": [
+        "CH075-S01-C001"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q002",
+      "source_chunk_ids": [
+        "CH075-S01-C002"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q003",
+      "source_chunk_ids": [
+        "CH075-S01-C003"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q004",
+      "source_chunk_ids": [
+        "CH075-S01-C001"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q005",
+      "source_chunk_ids": [
+        "CH075-S01-C002"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q006",
+      "source_chunk_ids": [
+        "CH075-S01-C003"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q007",
+      "source_chunk_ids": [
+        "CH075-S01-C001"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q008",
+      "source_chunk_ids": [
+        "CH075-S01-C002"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q009",
+      "source_chunk_ids": [
+        "CH075-S01-C003"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q010",
+      "source_chunk_ids": [
+        "CH075-S01-C001"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q011",
+      "source_chunk_ids": [
+        "CH075-S01-C002"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q012",
+      "source_chunk_ids": [
+        "CH075-S01-C003"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q013",
+      "source_chunk_ids": [
+        "CH075-S01-C001"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q014",
+      "source_chunk_ids": [
+        "CH075-S01-C002"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q015",
+      "source_chunk_ids": [
+        "CH075-S01-C003"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q016",
+      "source_chunk_ids": [
+        "CH075-S01-C001"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q017",
+      "source_chunk_ids": [
+        "CH075-S01-C002"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q018",
+      "source_chunk_ids": [
+        "CH075-S01-C003"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q019",
+      "source_chunk_ids": [
+        "CH075-S01-C001"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q020",
+      "source_chunk_ids": [
+        "CH075-S01-C002"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q021",
+      "source_chunk_ids": [
+        "CH075-S01-C003"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q022",
+      "source_chunk_ids": [
+        "CH075-S01-C001"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q023",
+      "source_chunk_ids": [
+        "CH075-S01-C002"
+      ],
+      "tested_concept": "Global Challenges in Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q024",
+      "source_chunk_ids": [
+        "CH075-S02-C001"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q025",
+      "source_chunk_ids": [
+        "CH075-S02-C002"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q026",
+      "source_chunk_ids": [
+        "CH075-S02-C003"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q027",
+      "source_chunk_ids": [
+        "CH075-S02-C004"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q028",
+      "source_chunk_ids": [
+        "CH075-S02-C005"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q029",
+      "source_chunk_ids": [
+        "CH075-S02-C006"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q030",
+      "source_chunk_ids": [
+        "CH075-S02-C007"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q031",
+      "source_chunk_ids": [
+        "CH075-S02-C008"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q032",
+      "source_chunk_ids": [
+        "CH075-S02-C009"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q033",
+      "source_chunk_ids": [
+        "CH075-S02-C010"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q034",
+      "source_chunk_ids": [
+        "CH075-S02-C001"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q035",
+      "source_chunk_ids": [
+        "CH075-S02-C002"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q036",
+      "source_chunk_ids": [
+        "CH075-S02-C003"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q037",
+      "source_chunk_ids": [
+        "CH075-S02-C004"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q038",
+      "source_chunk_ids": [
+        "CH075-S02-C005"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q039",
+      "source_chunk_ids": [
+        "CH075-S02-C006"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q040",
+      "source_chunk_ids": [
+        "CH075-S02-C007"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q041",
+      "source_chunk_ids": [
+        "CH075-S02-C008"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q042",
+      "source_chunk_ids": [
+        "CH075-S02-C009"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q043",
+      "source_chunk_ids": [
+        "CH075-S02-C010"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q044",
+      "source_chunk_ids": [
+        "CH075-S02-C001"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q045",
+      "source_chunk_ids": [
+        "CH075-S02-C002"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q046",
+      "source_chunk_ids": [
+        "CH075-S02-C003"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q047",
+      "source_chunk_ids": [
+        "CH075-S02-C004"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q048",
+      "source_chunk_ids": [
+        "CH075-S02-C005"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q049",
+      "source_chunk_ids": [
+        "CH075-S02-C006"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q050",
+      "source_chunk_ids": [
+        "CH075-S02-C007"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q051",
+      "source_chunk_ids": [
+        "CH075-S02-C008"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q052",
+      "source_chunk_ids": [
+        "CH075-S02-C009"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q053",
+      "source_chunk_ids": [
+        "CH075-S02-C010"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q054",
+      "source_chunk_ids": [
+        "CH075-S02-C001"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q055",
+      "source_chunk_ids": [
+        "CH075-S02-C002"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q056",
+      "source_chunk_ids": [
+        "CH075-S02-C003"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q057",
+      "source_chunk_ids": [
+        "CH075-S02-C004"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q058",
+      "source_chunk_ids": [
+        "CH075-S02-C005"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q059",
+      "source_chunk_ids": [
+        "CH075-S02-C006"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q060",
+      "source_chunk_ids": [
+        "CH075-S02-C007"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q061",
+      "source_chunk_ids": [
+        "CH075-S02-C008"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q062",
+      "source_chunk_ids": [
+        "CH075-S02-C009"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q063",
+      "source_chunk_ids": [
+        "CH075-S02-C010"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q064",
+      "source_chunk_ids": [
+        "CH075-S02-C001"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q065",
+      "source_chunk_ids": [
+        "CH075-S02-C002"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q066",
+      "source_chunk_ids": [
+        "CH075-S02-C003"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q067",
+      "source_chunk_ids": [
+        "CH075-S02-C004"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q068",
+      "source_chunk_ids": [
+        "CH075-S02-C005"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q069",
+      "source_chunk_ids": [
+        "CH075-S02-C006"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q070",
+      "source_chunk_ids": [
+        "CH075-S02-C007"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q071",
+      "source_chunk_ids": [
+        "CH075-S02-C008"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q072",
+      "source_chunk_ids": [
+        "CH075-S02-C009"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q073",
+      "source_chunk_ids": [
+        "CH075-S02-C010"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q074",
+      "source_chunk_ids": [
+        "CH075-S02-C001"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q075",
+      "source_chunk_ids": [
+        "CH075-S02-C002"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q076",
+      "source_chunk_ids": [
+        "CH075-S02-C003"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q077",
+      "source_chunk_ids": [
+        "CH075-S02-C004"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q078",
+      "source_chunk_ids": [
+        "CH075-S02-C005"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q079",
+      "source_chunk_ids": [
+        "CH075-S02-C006"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q080",
+      "source_chunk_ids": [
+        "CH075-S02-C007"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH075-Q081",
+      "source_chunk_ids": [
+        "CH075-S02-C008"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q082",
+      "source_chunk_ids": [
+        "CH075-S02-C009"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q083",
+      "source_chunk_ids": [
+        "CH075-S02-C010"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q084",
+      "source_chunk_ids": [
+        "CH075-S02-C001"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q085",
+      "source_chunk_ids": [
+        "CH075-S02-C002"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q086",
+      "source_chunk_ids": [
+        "CH075-S02-C003"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q087",
+      "source_chunk_ids": [
+        "CH075-S02-C004"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q088",
+      "source_chunk_ids": [
+        "CH075-S02-C005"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q089",
+      "source_chunk_ids": [
+        "CH075-S02-C006"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q090",
+      "source_chunk_ids": [
+        "CH075-S02-C007"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q091",
+      "source_chunk_ids": [
+        "CH075-S02-C008"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q092",
+      "source_chunk_ids": [
+        "CH075-S02-C009"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q093",
+      "source_chunk_ids": [
+        "CH075-S02-C010"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q094",
+      "source_chunk_ids": [
+        "CH075-S02-C001"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q095",
+      "source_chunk_ids": [
+        "CH075-S02-C002"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q096",
+      "source_chunk_ids": [
+        "CH075-S02-C003"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q097",
+      "source_chunk_ids": [
+        "CH075-S02-C004"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q098",
+      "source_chunk_ids": [
+        "CH075-S02-C005"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q099",
+      "source_chunk_ids": [
+        "CH075-S02-C006"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH075-Q100",
+      "source_chunk_ids": [
+        "CH075-S02-C007"
+      ],
+      "tested_concept": "Global Initiatives for Kidney Health",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
