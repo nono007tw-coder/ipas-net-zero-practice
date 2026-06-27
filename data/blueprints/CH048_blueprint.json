@@ -1,0 +1,1067 @@
+{
+  "chapter_id": "CH048",
+  "chapter_title": "Pregnancy and Kidney Disease",
+  "clinical_weight": 4,
+  "core_themes": [
+    "Preeclampsia and HELLP Syndrome",
+    "Chronic Kidney Disease in Pregnancy",
+    "Chronic Hypertension and Gestational Hypertension",
+    "Physiologic Changes of Pregnancy",
+    "Acute Kidney Injury in Pregnancy"
+  ],
+  "sections": [
+    {
+      "section_title": "Physiologic Changes of Pregnancy",
+      "chunk_ids": [
+        "CH048-S01-C001",
+        "CH048-S01-C002",
+        "CH048-S01-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH048-S01-C001",
+        "CH048-S01-C002",
+        "CH048-S01-C003"
+      ],
+      "key_concepts": [
+        "Physiologic Changes of Pregnancy"
+      ],
+      "recommended_question_count": 11,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Preeclampsia and HELLP Syndrome",
+      "chunk_ids": [
+        "CH048-S02-C001",
+        "CH048-S02-C002",
+        "CH048-S02-C003",
+        "CH048-S02-C004",
+        "CH048-S02-C005",
+        "CH048-S02-C006",
+        "CH048-S02-C007",
+        "CH048-S02-C008",
+        "CH048-S02-C009",
+        "CH048-S02-C010",
+        "CH048-S02-C011",
+        "CH048-S02-C012"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH048-S02-C001",
+        "CH048-S02-C002",
+        "CH048-S02-C003",
+        "CH048-S02-C004",
+        "CH048-S02-C005",
+        "CH048-S02-C006",
+        "CH048-S02-C007",
+        "CH048-S02-C008",
+        "CH048-S02-C009",
+        "CH048-S02-C010",
+        "CH048-S02-C011",
+        "CH048-S02-C012"
+      ],
+      "key_concepts": [
+        "Preeclampsia and HELLP Syndrome"
+      ],
+      "recommended_question_count": 45,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Chronic Hypertension and Gestational Hypertension",
+      "chunk_ids": [
+        "CH048-S03-C001",
+        "CH048-S03-C002",
+        "CH048-S03-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH048-S03-C001",
+        "CH048-S03-C002",
+        "CH048-S03-C003"
+      ],
+      "key_concepts": [
+        "Chronic Hypertension and Gestational Hypertension"
+      ],
+      "recommended_question_count": 14,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Acute Kidney Injury in Pregnancy",
+      "chunk_ids": [
+        "CH048-S04-C001",
+        "CH048-S04-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH048-S04-C001",
+        "CH048-S04-C002"
+      ],
+      "key_concepts": [
+        "Acute Kidney Injury in Pregnancy"
+      ],
+      "recommended_question_count": 8,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Chronic Kidney Disease in Pregnancy",
+      "chunk_ids": [
+        "CH048-S05-C001",
+        "CH048-S05-C002",
+        "CH048-S05-C003",
+        "CH048-S05-C004",
+        "CH048-S05-C005",
+        "CH048-S05-C006"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH048-S05-C001",
+        "CH048-S05-C002",
+        "CH048-S05-C003",
+        "CH048-S05-C004",
+        "CH048-S05-C005",
+        "CH048-S05-C006"
+      ],
+      "key_concepts": [
+        "Chronic Kidney Disease in Pregnancy"
+      ],
+      "recommended_question_count": 22,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH048-Q001",
+      "source_chunk_ids": [
+        "CH048-S01-C001"
+      ],
+      "tested_concept": "Physiologic Changes of Pregnancy",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q002",
+      "source_chunk_ids": [
+        "CH048-S01-C002"
+      ],
+      "tested_concept": "Physiologic Changes of Pregnancy",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q003",
+      "source_chunk_ids": [
+        "CH048-S01-C003"
+      ],
+      "tested_concept": "Physiologic Changes of Pregnancy",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q004",
+      "source_chunk_ids": [
+        "CH048-S01-C001"
+      ],
+      "tested_concept": "Physiologic Changes of Pregnancy",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q005",
+      "source_chunk_ids": [
+        "CH048-S01-C002"
+      ],
+      "tested_concept": "Physiologic Changes of Pregnancy",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q006",
+      "source_chunk_ids": [
+        "CH048-S01-C003"
+      ],
+      "tested_concept": "Physiologic Changes of Pregnancy",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q007",
+      "source_chunk_ids": [
+        "CH048-S01-C001"
+      ],
+      "tested_concept": "Physiologic Changes of Pregnancy",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q008",
+      "source_chunk_ids": [
+        "CH048-S01-C002"
+      ],
+      "tested_concept": "Physiologic Changes of Pregnancy",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q009",
+      "source_chunk_ids": [
+        "CH048-S01-C003"
+      ],
+      "tested_concept": "Physiologic Changes of Pregnancy",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q010",
+      "source_chunk_ids": [
+        "CH048-S01-C001"
+      ],
+      "tested_concept": "Physiologic Changes of Pregnancy",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q011",
+      "source_chunk_ids": [
+        "CH048-S01-C002"
+      ],
+      "tested_concept": "Physiologic Changes of Pregnancy",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q012",
+      "source_chunk_ids": [
+        "CH048-S02-C001"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q013",
+      "source_chunk_ids": [
+        "CH048-S02-C002"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q014",
+      "source_chunk_ids": [
+        "CH048-S02-C003"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q015",
+      "source_chunk_ids": [
+        "CH048-S02-C004"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q016",
+      "source_chunk_ids": [
+        "CH048-S02-C005"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q017",
+      "source_chunk_ids": [
+        "CH048-S02-C006"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q018",
+      "source_chunk_ids": [
+        "CH048-S02-C007"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q019",
+      "source_chunk_ids": [
+        "CH048-S02-C008"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q020",
+      "source_chunk_ids": [
+        "CH048-S02-C009"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q021",
+      "source_chunk_ids": [
+        "CH048-S02-C010"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q022",
+      "source_chunk_ids": [
+        "CH048-S02-C011"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q023",
+      "source_chunk_ids": [
+        "CH048-S02-C012"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q024",
+      "source_chunk_ids": [
+        "CH048-S02-C001"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q025",
+      "source_chunk_ids": [
+        "CH048-S02-C002"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q026",
+      "source_chunk_ids": [
+        "CH048-S02-C003"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q027",
+      "source_chunk_ids": [
+        "CH048-S02-C004"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q028",
+      "source_chunk_ids": [
+        "CH048-S02-C005"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q029",
+      "source_chunk_ids": [
+        "CH048-S02-C006"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q030",
+      "source_chunk_ids": [
+        "CH048-S02-C007"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q031",
+      "source_chunk_ids": [
+        "CH048-S02-C008"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q032",
+      "source_chunk_ids": [
+        "CH048-S02-C009"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q033",
+      "source_chunk_ids": [
+        "CH048-S02-C010"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q034",
+      "source_chunk_ids": [
+        "CH048-S02-C011"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q035",
+      "source_chunk_ids": [
+        "CH048-S02-C012"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q036",
+      "source_chunk_ids": [
+        "CH048-S02-C001"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q037",
+      "source_chunk_ids": [
+        "CH048-S02-C002"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q038",
+      "source_chunk_ids": [
+        "CH048-S02-C003"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q039",
+      "source_chunk_ids": [
+        "CH048-S02-C004"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q040",
+      "source_chunk_ids": [
+        "CH048-S02-C005"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q041",
+      "source_chunk_ids": [
+        "CH048-S02-C006"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q042",
+      "source_chunk_ids": [
+        "CH048-S02-C007"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q043",
+      "source_chunk_ids": [
+        "CH048-S02-C008"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q044",
+      "source_chunk_ids": [
+        "CH048-S02-C009"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q045",
+      "source_chunk_ids": [
+        "CH048-S02-C010"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q046",
+      "source_chunk_ids": [
+        "CH048-S02-C011"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q047",
+      "source_chunk_ids": [
+        "CH048-S02-C012"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q048",
+      "source_chunk_ids": [
+        "CH048-S02-C001"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q049",
+      "source_chunk_ids": [
+        "CH048-S02-C002"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q050",
+      "source_chunk_ids": [
+        "CH048-S02-C003"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q051",
+      "source_chunk_ids": [
+        "CH048-S02-C004"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q052",
+      "source_chunk_ids": [
+        "CH048-S02-C005"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q053",
+      "source_chunk_ids": [
+        "CH048-S02-C006"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q054",
+      "source_chunk_ids": [
+        "CH048-S02-C007"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q055",
+      "source_chunk_ids": [
+        "CH048-S02-C008"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q056",
+      "source_chunk_ids": [
+        "CH048-S02-C009"
+      ],
+      "tested_concept": "Preeclampsia and HELLP Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q057",
+      "source_chunk_ids": [
+        "CH048-S03-C001"
+      ],
+      "tested_concept": "Chronic Hypertension and Gestational Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q058",
+      "source_chunk_ids": [
+        "CH048-S03-C002"
+      ],
+      "tested_concept": "Chronic Hypertension and Gestational Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q059",
+      "source_chunk_ids": [
+        "CH048-S03-C003"
+      ],
+      "tested_concept": "Chronic Hypertension and Gestational Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q060",
+      "source_chunk_ids": [
+        "CH048-S03-C001"
+      ],
+      "tested_concept": "Chronic Hypertension and Gestational Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q061",
+      "source_chunk_ids": [
+        "CH048-S03-C002"
+      ],
+      "tested_concept": "Chronic Hypertension and Gestational Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q062",
+      "source_chunk_ids": [
+        "CH048-S03-C003"
+      ],
+      "tested_concept": "Chronic Hypertension and Gestational Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q063",
+      "source_chunk_ids": [
+        "CH048-S03-C001"
+      ],
+      "tested_concept": "Chronic Hypertension and Gestational Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q064",
+      "source_chunk_ids": [
+        "CH048-S03-C002"
+      ],
+      "tested_concept": "Chronic Hypertension and Gestational Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q065",
+      "source_chunk_ids": [
+        "CH048-S03-C003"
+      ],
+      "tested_concept": "Chronic Hypertension and Gestational Hypertension",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q066",
+      "source_chunk_ids": [
+        "CH048-S03-C001"
+      ],
+      "tested_concept": "Chronic Hypertension and Gestational Hypertension",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q067",
+      "source_chunk_ids": [
+        "CH048-S03-C002"
+      ],
+      "tested_concept": "Chronic Hypertension and Gestational Hypertension",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q068",
+      "source_chunk_ids": [
+        "CH048-S03-C003"
+      ],
+      "tested_concept": "Chronic Hypertension and Gestational Hypertension",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q069",
+      "source_chunk_ids": [
+        "CH048-S03-C001"
+      ],
+      "tested_concept": "Chronic Hypertension and Gestational Hypertension",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q070",
+      "source_chunk_ids": [
+        "CH048-S03-C002"
+      ],
+      "tested_concept": "Chronic Hypertension and Gestational Hypertension",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q071",
+      "source_chunk_ids": [
+        "CH048-S04-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in Pregnancy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q072",
+      "source_chunk_ids": [
+        "CH048-S04-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in Pregnancy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q073",
+      "source_chunk_ids": [
+        "CH048-S04-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in Pregnancy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q074",
+      "source_chunk_ids": [
+        "CH048-S04-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in Pregnancy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q075",
+      "source_chunk_ids": [
+        "CH048-S04-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in Pregnancy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q076",
+      "source_chunk_ids": [
+        "CH048-S04-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in Pregnancy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q077",
+      "source_chunk_ids": [
+        "CH048-S04-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in Pregnancy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q078",
+      "source_chunk_ids": [
+        "CH048-S04-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in Pregnancy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q079",
+      "source_chunk_ids": [
+        "CH048-S05-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q080",
+      "source_chunk_ids": [
+        "CH048-S05-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH048-Q081",
+      "source_chunk_ids": [
+        "CH048-S05-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q082",
+      "source_chunk_ids": [
+        "CH048-S05-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q083",
+      "source_chunk_ids": [
+        "CH048-S05-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q084",
+      "source_chunk_ids": [
+        "CH048-S05-C006"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q085",
+      "source_chunk_ids": [
+        "CH048-S05-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q086",
+      "source_chunk_ids": [
+        "CH048-S05-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q087",
+      "source_chunk_ids": [
+        "CH048-S05-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q088",
+      "source_chunk_ids": [
+        "CH048-S05-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q089",
+      "source_chunk_ids": [
+        "CH048-S05-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q090",
+      "source_chunk_ids": [
+        "CH048-S05-C006"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q091",
+      "source_chunk_ids": [
+        "CH048-S05-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q092",
+      "source_chunk_ids": [
+        "CH048-S05-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q093",
+      "source_chunk_ids": [
+        "CH048-S05-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q094",
+      "source_chunk_ids": [
+        "CH048-S05-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q095",
+      "source_chunk_ids": [
+        "CH048-S05-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q096",
+      "source_chunk_ids": [
+        "CH048-S05-C006"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q097",
+      "source_chunk_ids": [
+        "CH048-S05-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q098",
+      "source_chunk_ids": [
+        "CH048-S05-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q099",
+      "source_chunk_ids": [
+        "CH048-S05-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH048-Q100",
+      "source_chunk_ids": [
+        "CH048-S05-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Pregnancy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
