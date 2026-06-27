@@ -62,6 +62,20 @@ data/raw_chapters/chapter_085.txt
 
 請保留原文順序。系統不會修改原始檔，chunking 只會讀取並產生可追蹤的 JSON。
 
+若提供的完整 Brenner PDF 含有章節書籤，可自動辨識並抽取 85 章：
+
+```bash
+python src/extract_brenner_pdf.py --pdf "Brenner 11th Edition PDF.pdf"
+```
+
+輸出：
+
+- `data/chapter_catalog.json`: 85 章名稱、PDF 起訖頁與小節書籤
+- `data/raw_chapters/chapter_001.txt` 至 `chapter_085.txt`
+- 每章對應的 `chapter_001_manifest.json` 至 `chapter_085_manifest.json`
+
+原文與 chunks 已列入 `.gitignore`，不可上傳至公開 GitHub。每章 manifest 會保留來源 PDF hash、PDF 頁碼、文字檔 hash 與每頁字元偏移，供後續追蹤。
+
 可先透過匯入工具複製原文並建立 SHA-256 manifest：
 
 ```bash
@@ -263,6 +277,7 @@ python src/select_exam.py --num-questions 100 --exam-id exam_set_001
 ## 已完成功能
 
 - `src/schemas.py`
+- `src/extract_brenner_pdf.py`
 - `src/ingest.py`
 - `src/chunking.py`
 - `src/blueprint.py`
