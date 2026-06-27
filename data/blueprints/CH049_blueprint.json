@@ -1,0 +1,1071 @@
+{
+  "chapter_id": "CH049",
+  "chapter_title": "Antihypertensive Therapy",
+  "clinical_weight": 5,
+  "core_themes": [
+    "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+    "Selection of Antihypertensive Drug Therapy",
+    "Drug Treatment of Hypertensive Urgencies and Emergencies"
+  ],
+  "sections": [
+    {
+      "section_title": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "chunk_ids": [
+        "CH049-S01-C001",
+        "CH049-S01-C002",
+        "CH049-S01-C003",
+        "CH049-S01-C004",
+        "CH049-S01-C005",
+        "CH049-S01-C006",
+        "CH049-S01-C007",
+        "CH049-S01-C008",
+        "CH049-S01-C009",
+        "CH049-S01-C010",
+        "CH049-S01-C011",
+        "CH049-S01-C012",
+        "CH049-S01-C013",
+        "CH049-S01-C014",
+        "CH049-S01-C015",
+        "CH049-S01-C016",
+        "CH049-S01-C017",
+        "CH049-S01-C018",
+        "CH049-S01-C019",
+        "CH049-S01-C020",
+        "CH049-S01-C021",
+        "CH049-S01-C022",
+        "CH049-S01-C023",
+        "CH049-S01-C024",
+        "CH049-S01-C025",
+        "CH049-S01-C026",
+        "CH049-S01-C027",
+        "CH049-S01-C028",
+        "CH049-S01-C029",
+        "CH049-S01-C030",
+        "CH049-S01-C031",
+        "CH049-S01-C032"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH049-S01-C001",
+        "CH049-S01-C002",
+        "CH049-S01-C003",
+        "CH049-S01-C004",
+        "CH049-S01-C005",
+        "CH049-S01-C006",
+        "CH049-S01-C007",
+        "CH049-S01-C008",
+        "CH049-S01-C009",
+        "CH049-S01-C010",
+        "CH049-S01-C011",
+        "CH049-S01-C012",
+        "CH049-S01-C013",
+        "CH049-S01-C014",
+        "CH049-S01-C015",
+        "CH049-S01-C016",
+        "CH049-S01-C017",
+        "CH049-S01-C018",
+        "CH049-S01-C019",
+        "CH049-S01-C020",
+        "CH049-S01-C021",
+        "CH049-S01-C022",
+        "CH049-S01-C023",
+        "CH049-S01-C024",
+        "CH049-S01-C025",
+        "CH049-S01-C026",
+        "CH049-S01-C027",
+        "CH049-S01-C028",
+        "CH049-S01-C029",
+        "CH049-S01-C030",
+        "CH049-S01-C031",
+        "CH049-S01-C032"
+      ],
+      "key_concepts": [
+        "Pharmacology of the Nondiuretic Antihypertensive Drugs"
+      ],
+      "recommended_question_count": 71,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Selection of Antihypertensive Drug Therapy",
+      "chunk_ids": [
+        "CH049-S02-C001",
+        "CH049-S02-C002",
+        "CH049-S02-C003",
+        "CH049-S02-C004",
+        "CH049-S02-C005",
+        "CH049-S02-C006",
+        "CH049-S02-C007",
+        "CH049-S02-C008",
+        "CH049-S02-C009",
+        "CH049-S02-C010"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH049-S02-C001",
+        "CH049-S02-C002",
+        "CH049-S02-C003",
+        "CH049-S02-C004",
+        "CH049-S02-C005",
+        "CH049-S02-C006",
+        "CH049-S02-C007",
+        "CH049-S02-C008",
+        "CH049-S02-C009",
+        "CH049-S02-C010"
+      ],
+      "key_concepts": [
+        "Selection of Antihypertensive Drug Therapy"
+      ],
+      "recommended_question_count": 22,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Drug Treatment of Hypertensive Urgencies and Emergencies",
+      "chunk_ids": [
+        "CH049-S03-C001",
+        "CH049-S03-C002",
+        "CH049-S03-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH049-S03-C001",
+        "CH049-S03-C002",
+        "CH049-S03-C003"
+      ],
+      "key_concepts": [
+        "Drug Treatment of Hypertensive Urgencies and Emergencies"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH049-Q001",
+      "source_chunk_ids": [
+        "CH049-S01-C001"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q002",
+      "source_chunk_ids": [
+        "CH049-S01-C002"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q003",
+      "source_chunk_ids": [
+        "CH049-S01-C003"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q004",
+      "source_chunk_ids": [
+        "CH049-S01-C004"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q005",
+      "source_chunk_ids": [
+        "CH049-S01-C005"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q006",
+      "source_chunk_ids": [
+        "CH049-S01-C006"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q007",
+      "source_chunk_ids": [
+        "CH049-S01-C007"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q008",
+      "source_chunk_ids": [
+        "CH049-S01-C008"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q009",
+      "source_chunk_ids": [
+        "CH049-S01-C009"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q010",
+      "source_chunk_ids": [
+        "CH049-S01-C010"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q011",
+      "source_chunk_ids": [
+        "CH049-S01-C011"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q012",
+      "source_chunk_ids": [
+        "CH049-S01-C012"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q013",
+      "source_chunk_ids": [
+        "CH049-S01-C013"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q014",
+      "source_chunk_ids": [
+        "CH049-S01-C014"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q015",
+      "source_chunk_ids": [
+        "CH049-S01-C015"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q016",
+      "source_chunk_ids": [
+        "CH049-S01-C016"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q017",
+      "source_chunk_ids": [
+        "CH049-S01-C017"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q018",
+      "source_chunk_ids": [
+        "CH049-S01-C018"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q019",
+      "source_chunk_ids": [
+        "CH049-S01-C019"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q020",
+      "source_chunk_ids": [
+        "CH049-S01-C020"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q021",
+      "source_chunk_ids": [
+        "CH049-S01-C021"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q022",
+      "source_chunk_ids": [
+        "CH049-S01-C022"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q023",
+      "source_chunk_ids": [
+        "CH049-S01-C023"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q024",
+      "source_chunk_ids": [
+        "CH049-S01-C024"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q025",
+      "source_chunk_ids": [
+        "CH049-S01-C025"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q026",
+      "source_chunk_ids": [
+        "CH049-S01-C026"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q027",
+      "source_chunk_ids": [
+        "CH049-S01-C027"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q028",
+      "source_chunk_ids": [
+        "CH049-S01-C028"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q029",
+      "source_chunk_ids": [
+        "CH049-S01-C029"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q030",
+      "source_chunk_ids": [
+        "CH049-S01-C030"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q031",
+      "source_chunk_ids": [
+        "CH049-S01-C031"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q032",
+      "source_chunk_ids": [
+        "CH049-S01-C032"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q033",
+      "source_chunk_ids": [
+        "CH049-S01-C001"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q034",
+      "source_chunk_ids": [
+        "CH049-S01-C002"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q035",
+      "source_chunk_ids": [
+        "CH049-S01-C003"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q036",
+      "source_chunk_ids": [
+        "CH049-S01-C004"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q037",
+      "source_chunk_ids": [
+        "CH049-S01-C005"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q038",
+      "source_chunk_ids": [
+        "CH049-S01-C006"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q039",
+      "source_chunk_ids": [
+        "CH049-S01-C007"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q040",
+      "source_chunk_ids": [
+        "CH049-S01-C008"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q041",
+      "source_chunk_ids": [
+        "CH049-S01-C009"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q042",
+      "source_chunk_ids": [
+        "CH049-S01-C010"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q043",
+      "source_chunk_ids": [
+        "CH049-S01-C011"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q044",
+      "source_chunk_ids": [
+        "CH049-S01-C012"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q045",
+      "source_chunk_ids": [
+        "CH049-S01-C013"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q046",
+      "source_chunk_ids": [
+        "CH049-S01-C014"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q047",
+      "source_chunk_ids": [
+        "CH049-S01-C015"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q048",
+      "source_chunk_ids": [
+        "CH049-S01-C016"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q049",
+      "source_chunk_ids": [
+        "CH049-S01-C017"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q050",
+      "source_chunk_ids": [
+        "CH049-S01-C018"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q051",
+      "source_chunk_ids": [
+        "CH049-S01-C019"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q052",
+      "source_chunk_ids": [
+        "CH049-S01-C020"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q053",
+      "source_chunk_ids": [
+        "CH049-S01-C021"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q054",
+      "source_chunk_ids": [
+        "CH049-S01-C022"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q055",
+      "source_chunk_ids": [
+        "CH049-S01-C023"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q056",
+      "source_chunk_ids": [
+        "CH049-S01-C024"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q057",
+      "source_chunk_ids": [
+        "CH049-S01-C025"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q058",
+      "source_chunk_ids": [
+        "CH049-S01-C026"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q059",
+      "source_chunk_ids": [
+        "CH049-S01-C027"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q060",
+      "source_chunk_ids": [
+        "CH049-S01-C028"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q061",
+      "source_chunk_ids": [
+        "CH049-S01-C029"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q062",
+      "source_chunk_ids": [
+        "CH049-S01-C030"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q063",
+      "source_chunk_ids": [
+        "CH049-S01-C031"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q064",
+      "source_chunk_ids": [
+        "CH049-S01-C032"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q065",
+      "source_chunk_ids": [
+        "CH049-S01-C001"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q066",
+      "source_chunk_ids": [
+        "CH049-S01-C002"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q067",
+      "source_chunk_ids": [
+        "CH049-S01-C003"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q068",
+      "source_chunk_ids": [
+        "CH049-S01-C004"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q069",
+      "source_chunk_ids": [
+        "CH049-S01-C005"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q070",
+      "source_chunk_ids": [
+        "CH049-S01-C006"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q071",
+      "source_chunk_ids": [
+        "CH049-S01-C007"
+      ],
+      "tested_concept": "Pharmacology of the Nondiuretic Antihypertensive Drugs",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q072",
+      "source_chunk_ids": [
+        "CH049-S02-C001"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q073",
+      "source_chunk_ids": [
+        "CH049-S02-C002"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q074",
+      "source_chunk_ids": [
+        "CH049-S02-C003"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q075",
+      "source_chunk_ids": [
+        "CH049-S02-C004"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q076",
+      "source_chunk_ids": [
+        "CH049-S02-C005"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q077",
+      "source_chunk_ids": [
+        "CH049-S02-C006"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q078",
+      "source_chunk_ids": [
+        "CH049-S02-C007"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q079",
+      "source_chunk_ids": [
+        "CH049-S02-C008"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q080",
+      "source_chunk_ids": [
+        "CH049-S02-C009"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH049-Q081",
+      "source_chunk_ids": [
+        "CH049-S02-C010"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q082",
+      "source_chunk_ids": [
+        "CH049-S02-C001"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q083",
+      "source_chunk_ids": [
+        "CH049-S02-C002"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q084",
+      "source_chunk_ids": [
+        "CH049-S02-C003"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q085",
+      "source_chunk_ids": [
+        "CH049-S02-C004"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q086",
+      "source_chunk_ids": [
+        "CH049-S02-C005"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q087",
+      "source_chunk_ids": [
+        "CH049-S02-C006"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q088",
+      "source_chunk_ids": [
+        "CH049-S02-C007"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q089",
+      "source_chunk_ids": [
+        "CH049-S02-C008"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q090",
+      "source_chunk_ids": [
+        "CH049-S02-C009"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q091",
+      "source_chunk_ids": [
+        "CH049-S02-C010"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q092",
+      "source_chunk_ids": [
+        "CH049-S02-C001"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q093",
+      "source_chunk_ids": [
+        "CH049-S02-C002"
+      ],
+      "tested_concept": "Selection of Antihypertensive Drug Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q094",
+      "source_chunk_ids": [
+        "CH049-S03-C001"
+      ],
+      "tested_concept": "Drug Treatment of Hypertensive Urgencies and Emergencies",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q095",
+      "source_chunk_ids": [
+        "CH049-S03-C002"
+      ],
+      "tested_concept": "Drug Treatment of Hypertensive Urgencies and Emergencies",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q096",
+      "source_chunk_ids": [
+        "CH049-S03-C003"
+      ],
+      "tested_concept": "Drug Treatment of Hypertensive Urgencies and Emergencies",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q097",
+      "source_chunk_ids": [
+        "CH049-S03-C001"
+      ],
+      "tested_concept": "Drug Treatment of Hypertensive Urgencies and Emergencies",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q098",
+      "source_chunk_ids": [
+        "CH049-S03-C002"
+      ],
+      "tested_concept": "Drug Treatment of Hypertensive Urgencies and Emergencies",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q099",
+      "source_chunk_ids": [
+        "CH049-S03-C003"
+      ],
+      "tested_concept": "Drug Treatment of Hypertensive Urgencies and Emergencies",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH049-Q100",
+      "source_chunk_ids": [
+        "CH049-S03-C001"
+      ],
+      "tested_concept": "Drug Treatment of Hypertensive Urgencies and Emergencies",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
