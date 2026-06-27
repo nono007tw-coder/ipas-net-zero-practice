@@ -87,9 +87,9 @@ window.BRENNER_CHAPTERS = [
 ];
 
 window.QUESTION_BANK_TARGET = {
-  questionsPerChapter: 150,
+  questionsPerChapter: 100,
   totalChapters: 85,
-  totalQuestions: 12750
+  totalQuestions: 8500
 };
 
 window.BRENNER_CHAPTER_WEIGHTS = {
