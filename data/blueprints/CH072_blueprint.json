@@ -1,0 +1,1584 @@
+{
+  "chapter_id": "CH072",
+  "chapter_title": "Diseases of the Kidney and Upper Urinary Tract in Children",
+  "clinical_weight": 3,
+  "core_themes": [
+    "Treatment of Nephrotic Syndrome",
+    "Immune Complex Membranoproliferative Glomerulonephritis and C3 Glomerulopathy",
+    "Renal Diseases With Vasculitis",
+    "Tubular Disorders",
+    "Nephrotic Syndrome",
+    "Molecular Pathogenesis",
+    "Systemic Diseases With Renal Involvement",
+    "Thrombotic Microangiopathy"
+  ],
+  "sections": [
+    {
+      "section_title": "Diseases of the Kidney and Upper Urinary Tract in Children",
+      "chunk_ids": [
+        "CH072-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S01-C001"
+      ],
+      "key_concepts": [
+        "Diseases of the Kidney and Upper Urinary Tract in Children"
+      ],
+      "recommended_question_count": 1,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Evaluation of Kidney Function in Children",
+      "chunk_ids": [
+        "CH072-S02-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S02-C001"
+      ],
+      "key_concepts": [
+        "Evaluation of Kidney Function in Children"
+      ],
+      "recommended_question_count": 1,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Clinical Classification of Kidney Malformation",
+      "chunk_ids": [
+        "CH072-S03-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S03-C001"
+      ],
+      "key_concepts": [
+        "Clinical Classification of Kidney Malformation"
+      ],
+      "recommended_question_count": 1,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Epidemiology of Congenital Anomalies of the Kidney and Urinary Tract",
+      "chunk_ids": [
+        "CH072-S04-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S04-C001"
+      ],
+      "key_concepts": [
+        "Epidemiology of Congenital Anomalies of the Kidney and Urinary Tract"
+      ],
+      "recommended_question_count": 1,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Pathogenesis of Congenital Anomalies of the Kidney and Urinary Tract",
+      "chunk_ids": [
+        "CH072-S05-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S05-C001"
+      ],
+      "key_concepts": [
+        "Pathogenesis of Congenital Anomalies of the Kidney and Urinary Tract"
+      ],
+      "recommended_question_count": 1,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Molecular Pathogenesis",
+      "chunk_ids": [
+        "CH072-S06-C001",
+        "CH072-S06-C002",
+        "CH072-S06-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S06-C001",
+        "CH072-S06-C002",
+        "CH072-S06-C003"
+      ],
+      "key_concepts": [
+        "Molecular Pathogenesis"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "The Environment in Utero and Congenital Anomalies of the Kidney and Urinary Tract",
+      "chunk_ids": [
+        "CH072-S07-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S07-C001"
+      ],
+      "key_concepts": [
+        "The Environment in Utero and Congenital Anomalies of the Kidney and Urinary Tract"
+      ],
+      "recommended_question_count": 1,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Functional Consequences of Congenital Anomalies of the Kidney and Urinary Tract",
+      "chunk_ids": [
+        "CH072-S08-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S08-C001"
+      ],
+      "key_concepts": [
+        "Functional Consequences of Congenital Anomalies of the Kidney and Urinary Tract"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Clinical Presentation of Congenital Anomalies of the Kidney and Urinary Tract",
+      "chunk_ids": [
+        "CH072-S09-C001",
+        "CH072-S09-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S09-C001",
+        "CH072-S09-C002"
+      ],
+      "key_concepts": [
+        "Clinical Presentation of Congenital Anomalies of the Kidney and Urinary Tract"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Clinical Management of Congenital Anomalies of the Kidney and Urinary Tract",
+      "chunk_ids": [
+        "CH072-S10-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S10-C001"
+      ],
+      "key_concepts": [
+        "Clinical Management of Congenital Anomalies of the Kidney and Urinary Tract"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Glomerular Diseases",
+      "chunk_ids": [
+        "CH072-S11-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S11-C001"
+      ],
+      "key_concepts": [
+        "Glomerular Diseases"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Thin Basement Membrane Nephropathy",
+      "chunk_ids": [
+        "CH072-S12-C001",
+        "CH072-S12-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S12-C001",
+        "CH072-S12-C002"
+      ],
+      "key_concepts": [
+        "Thin Basement Membrane Nephropathy"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Nephrotic Syndrome",
+      "chunk_ids": [
+        "CH072-S13-C001",
+        "CH072-S13-C002",
+        "CH072-S13-C003",
+        "CH072-S13-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S13-C001",
+        "CH072-S13-C002",
+        "CH072-S13-C003",
+        "CH072-S13-C004"
+      ],
+      "key_concepts": [
+        "Nephrotic Syndrome"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Treatment of Nephrotic Syndrome",
+      "chunk_ids": [
+        "CH072-S14-C001",
+        "CH072-S14-C002",
+        "CH072-S14-C003",
+        "CH072-S14-C004",
+        "CH072-S14-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S14-C001",
+        "CH072-S14-C002",
+        "CH072-S14-C003",
+        "CH072-S14-C004",
+        "CH072-S14-C005"
+      ],
+      "key_concepts": [
+        "Treatment of Nephrotic Syndrome"
+      ],
+      "recommended_question_count": 8,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Complement-Associated Kidney Diseases",
+      "chunk_ids": [
+        "CH072-S15-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S15-C001"
+      ],
+      "key_concepts": [
+        "Complement-Associated Kidney Diseases"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Immune Complex Membranoproliferative Glomerulonephritis and C3 Glomerulopathy",
+      "chunk_ids": [
+        "CH072-S16-C001",
+        "CH072-S16-C002",
+        "CH072-S16-C003",
+        "CH072-S16-C004",
+        "CH072-S16-C005",
+        "CH072-S16-C006"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S16-C001",
+        "CH072-S16-C002",
+        "CH072-S16-C003",
+        "CH072-S16-C004",
+        "CH072-S16-C005",
+        "CH072-S16-C006"
+      ],
+      "key_concepts": [
+        "Immune Complex Membranoproliferative Glomerulonephritis and C3 Glomerulopathy"
+      ],
+      "recommended_question_count": 8,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Membranous Nephropathy",
+      "chunk_ids": [
+        "CH072-S17-C001",
+        "CH072-S17-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S17-C001",
+        "CH072-S17-C002"
+      ],
+      "key_concepts": [
+        "Membranous Nephropathy"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Thrombotic Microangiopathy",
+      "chunk_ids": [
+        "CH072-S18-C001",
+        "CH072-S18-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S18-C001",
+        "CH072-S18-C002"
+      ],
+      "key_concepts": [
+        "Thrombotic Microangiopathy"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Infectious Forms of Thrombotic Microangiopathy",
+      "chunk_ids": [
+        "CH072-S19-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S19-C001"
+      ],
+      "key_concepts": [
+        "Infectious Forms of Thrombotic Microangiopathy"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Noninfectious, Noncomplement-Mediated Forms of Thrombotic Microangiopathy",
+      "chunk_ids": [
+        "CH072-S20-C001",
+        "CH072-S20-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S20-C001",
+        "CH072-S20-C002"
+      ],
+      "key_concepts": [
+        "Noninfectious, Noncomplement-Mediated Forms of Thrombotic Microangiopathy"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Noninfectious, Complement- Mediated Thrombotic Microangiopathy",
+      "chunk_ids": [
+        "CH072-S21-C001",
+        "CH072-S21-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S21-C001",
+        "CH072-S21-C002"
+      ],
+      "key_concepts": [
+        "Noninfectious, Complement- Mediated Thrombotic Microangiopathy"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Secondary Forms of Thrombotic Microangiopathy With Possible Complement Contribution",
+      "chunk_ids": [
+        "CH072-S22-C001",
+        "CH072-S22-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S22-C001",
+        "CH072-S22-C002"
+      ],
+      "key_concepts": [
+        "Secondary Forms of Thrombotic Microangiopathy With Possible Complement Contribution"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Thrombotic Thrombocytopenic Purpura",
+      "chunk_ids": [
+        "CH072-S23-C001",
+        "CH072-S23-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S23-C001",
+        "CH072-S23-C002"
+      ],
+      "key_concepts": [
+        "Thrombotic Thrombocytopenic Purpura"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Systemic Diseases With Renal Involvement",
+      "chunk_ids": [
+        "CH072-S24-C001",
+        "CH072-S24-C002",
+        "CH072-S24-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S24-C001",
+        "CH072-S24-C002",
+        "CH072-S24-C003"
+      ],
+      "key_concepts": [
+        "Systemic Diseases With Renal Involvement"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Renal Diseases With Vasculitis",
+      "chunk_ids": [
+        "CH072-S25-C001",
+        "CH072-S25-C002",
+        "CH072-S25-C003",
+        "CH072-S25-C004",
+        "CH072-S25-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S25-C001",
+        "CH072-S25-C002",
+        "CH072-S25-C003",
+        "CH072-S25-C004",
+        "CH072-S25-C005"
+      ],
+      "key_concepts": [
+        "Renal Diseases With Vasculitis"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Tubular Disorders",
+      "chunk_ids": [
+        "CH072-S26-C001",
+        "CH072-S26-C002",
+        "CH072-S26-C003",
+        "CH072-S26-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S26-C001",
+        "CH072-S26-C002",
+        "CH072-S26-C003",
+        "CH072-S26-C004"
+      ],
+      "key_concepts": [
+        "Tubular Disorders"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Urolithiasis and Nephrocalcinosis in Children",
+      "chunk_ids": [
+        "CH072-S27-C001",
+        "CH072-S27-C002",
+        "CH072-S27-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S27-C001",
+        "CH072-S27-C002",
+        "CH072-S27-C003"
+      ],
+      "key_concepts": [
+        "Urolithiasis and Nephrocalcinosis in Children"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Genetics of Pediatric Urolithiasis and Nephrocalcinosis",
+      "chunk_ids": [
+        "CH072-S28-C001",
+        "CH072-S28-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S28-C001",
+        "CH072-S28-C002"
+      ],
+      "key_concepts": [
+        "Genetics of Pediatric Urolithiasis and Nephrocalcinosis"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Pediatric Aspects of Chronic Kidney Disease",
+      "chunk_ids": [
+        "CH072-S29-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S29-C001"
+      ],
+      "key_concepts": [
+        "Pediatric Aspects of Chronic Kidney Disease"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Prevention and Treatment of Growth Failure in Chronic Kidney Disease",
+      "chunk_ids": [
+        "CH072-S30-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S30-C001"
+      ],
+      "key_concepts": [
+        "Prevention and Treatment of Growth Failure in Chronic Kidney Disease"
+      ],
+      "recommended_question_count": 1,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Cardiovascular Comorbidity in Pediatric Chronic Kidney Disease",
+      "chunk_ids": [
+        "CH072-S31-C001",
+        "CH072-S31-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S31-C001",
+        "CH072-S31-C002"
+      ],
+      "key_concepts": [
+        "Cardiovascular Comorbidity in Pediatric Chronic Kidney Disease"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Progression of Chronic Renal Failure in Children",
+      "chunk_ids": [
+        "CH072-S32-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH072-S32-C001"
+      ],
+      "key_concepts": [
+        "Progression of Chronic Renal Failure in Children"
+      ],
+      "recommended_question_count": 1,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH072-Q001",
+      "source_chunk_ids": [
+        "CH072-S01-C001"
+      ],
+      "tested_concept": "Diseases of the Kidney and Upper Urinary Tract in Children",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q002",
+      "source_chunk_ids": [
+        "CH072-S02-C001"
+      ],
+      "tested_concept": "Evaluation of Kidney Function in Children",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q003",
+      "source_chunk_ids": [
+        "CH072-S03-C001"
+      ],
+      "tested_concept": "Clinical Classification of Kidney Malformation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q004",
+      "source_chunk_ids": [
+        "CH072-S04-C001"
+      ],
+      "tested_concept": "Epidemiology of Congenital Anomalies of the Kidney and Urinary Tract",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q005",
+      "source_chunk_ids": [
+        "CH072-S05-C001"
+      ],
+      "tested_concept": "Pathogenesis of Congenital Anomalies of the Kidney and Urinary Tract",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q006",
+      "source_chunk_ids": [
+        "CH072-S06-C001"
+      ],
+      "tested_concept": "Molecular Pathogenesis",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q007",
+      "source_chunk_ids": [
+        "CH072-S06-C002"
+      ],
+      "tested_concept": "Molecular Pathogenesis",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q008",
+      "source_chunk_ids": [
+        "CH072-S06-C003"
+      ],
+      "tested_concept": "Molecular Pathogenesis",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q009",
+      "source_chunk_ids": [
+        "CH072-S06-C001"
+      ],
+      "tested_concept": "Molecular Pathogenesis",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q010",
+      "source_chunk_ids": [
+        "CH072-S06-C002"
+      ],
+      "tested_concept": "Molecular Pathogenesis",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q011",
+      "source_chunk_ids": [
+        "CH072-S07-C001"
+      ],
+      "tested_concept": "The Environment in Utero and Congenital Anomalies of the Kidney and Urinary Tract",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q012",
+      "source_chunk_ids": [
+        "CH072-S08-C001"
+      ],
+      "tested_concept": "Functional Consequences of Congenital Anomalies of the Kidney and Urinary Tract",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q013",
+      "source_chunk_ids": [
+        "CH072-S08-C001"
+      ],
+      "tested_concept": "Functional Consequences of Congenital Anomalies of the Kidney and Urinary Tract",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q014",
+      "source_chunk_ids": [
+        "CH072-S09-C001"
+      ],
+      "tested_concept": "Clinical Presentation of Congenital Anomalies of the Kidney and Urinary Tract",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q015",
+      "source_chunk_ids": [
+        "CH072-S09-C002"
+      ],
+      "tested_concept": "Clinical Presentation of Congenital Anomalies of the Kidney and Urinary Tract",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q016",
+      "source_chunk_ids": [
+        "CH072-S09-C001"
+      ],
+      "tested_concept": "Clinical Presentation of Congenital Anomalies of the Kidney and Urinary Tract",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q017",
+      "source_chunk_ids": [
+        "CH072-S10-C001"
+      ],
+      "tested_concept": "Clinical Management of Congenital Anomalies of the Kidney and Urinary Tract",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q018",
+      "source_chunk_ids": [
+        "CH072-S10-C001"
+      ],
+      "tested_concept": "Clinical Management of Congenital Anomalies of the Kidney and Urinary Tract",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q019",
+      "source_chunk_ids": [
+        "CH072-S11-C001"
+      ],
+      "tested_concept": "Glomerular Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q020",
+      "source_chunk_ids": [
+        "CH072-S11-C001"
+      ],
+      "tested_concept": "Glomerular Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q021",
+      "source_chunk_ids": [
+        "CH072-S12-C001"
+      ],
+      "tested_concept": "Thin Basement Membrane Nephropathy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q022",
+      "source_chunk_ids": [
+        "CH072-S12-C002"
+      ],
+      "tested_concept": "Thin Basement Membrane Nephropathy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q023",
+      "source_chunk_ids": [
+        "CH072-S12-C001"
+      ],
+      "tested_concept": "Thin Basement Membrane Nephropathy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q024",
+      "source_chunk_ids": [
+        "CH072-S13-C001"
+      ],
+      "tested_concept": "Nephrotic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q025",
+      "source_chunk_ids": [
+        "CH072-S13-C002"
+      ],
+      "tested_concept": "Nephrotic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q026",
+      "source_chunk_ids": [
+        "CH072-S13-C003"
+      ],
+      "tested_concept": "Nephrotic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q027",
+      "source_chunk_ids": [
+        "CH072-S13-C004"
+      ],
+      "tested_concept": "Nephrotic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q028",
+      "source_chunk_ids": [
+        "CH072-S13-C001"
+      ],
+      "tested_concept": "Nephrotic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q029",
+      "source_chunk_ids": [
+        "CH072-S13-C002"
+      ],
+      "tested_concept": "Nephrotic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q030",
+      "source_chunk_ids": [
+        "CH072-S14-C001"
+      ],
+      "tested_concept": "Treatment of Nephrotic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q031",
+      "source_chunk_ids": [
+        "CH072-S14-C002"
+      ],
+      "tested_concept": "Treatment of Nephrotic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q032",
+      "source_chunk_ids": [
+        "CH072-S14-C003"
+      ],
+      "tested_concept": "Treatment of Nephrotic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q033",
+      "source_chunk_ids": [
+        "CH072-S14-C004"
+      ],
+      "tested_concept": "Treatment of Nephrotic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q034",
+      "source_chunk_ids": [
+        "CH072-S14-C005"
+      ],
+      "tested_concept": "Treatment of Nephrotic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q035",
+      "source_chunk_ids": [
+        "CH072-S14-C001"
+      ],
+      "tested_concept": "Treatment of Nephrotic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q036",
+      "source_chunk_ids": [
+        "CH072-S14-C002"
+      ],
+      "tested_concept": "Treatment of Nephrotic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q037",
+      "source_chunk_ids": [
+        "CH072-S14-C003"
+      ],
+      "tested_concept": "Treatment of Nephrotic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q038",
+      "source_chunk_ids": [
+        "CH072-S15-C001"
+      ],
+      "tested_concept": "Complement-Associated Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q039",
+      "source_chunk_ids": [
+        "CH072-S15-C001"
+      ],
+      "tested_concept": "Complement-Associated Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q040",
+      "source_chunk_ids": [
+        "CH072-S16-C001"
+      ],
+      "tested_concept": "Immune Complex Membranoproliferative Glomerulonephritis and C3 Glomerulopathy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q041",
+      "source_chunk_ids": [
+        "CH072-S16-C002"
+      ],
+      "tested_concept": "Immune Complex Membranoproliferative Glomerulonephritis and C3 Glomerulopathy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q042",
+      "source_chunk_ids": [
+        "CH072-S16-C003"
+      ],
+      "tested_concept": "Immune Complex Membranoproliferative Glomerulonephritis and C3 Glomerulopathy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q043",
+      "source_chunk_ids": [
+        "CH072-S16-C004"
+      ],
+      "tested_concept": "Immune Complex Membranoproliferative Glomerulonephritis and C3 Glomerulopathy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q044",
+      "source_chunk_ids": [
+        "CH072-S16-C005"
+      ],
+      "tested_concept": "Immune Complex Membranoproliferative Glomerulonephritis and C3 Glomerulopathy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q045",
+      "source_chunk_ids": [
+        "CH072-S16-C006"
+      ],
+      "tested_concept": "Immune Complex Membranoproliferative Glomerulonephritis and C3 Glomerulopathy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q046",
+      "source_chunk_ids": [
+        "CH072-S16-C001"
+      ],
+      "tested_concept": "Immune Complex Membranoproliferative Glomerulonephritis and C3 Glomerulopathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q047",
+      "source_chunk_ids": [
+        "CH072-S16-C002"
+      ],
+      "tested_concept": "Immune Complex Membranoproliferative Glomerulonephritis and C3 Glomerulopathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q048",
+      "source_chunk_ids": [
+        "CH072-S17-C001"
+      ],
+      "tested_concept": "Membranous Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q049",
+      "source_chunk_ids": [
+        "CH072-S17-C002"
+      ],
+      "tested_concept": "Membranous Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q050",
+      "source_chunk_ids": [
+        "CH072-S18-C001"
+      ],
+      "tested_concept": "Thrombotic Microangiopathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q051",
+      "source_chunk_ids": [
+        "CH072-S18-C002"
+      ],
+      "tested_concept": "Thrombotic Microangiopathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q052",
+      "source_chunk_ids": [
+        "CH072-S18-C001"
+      ],
+      "tested_concept": "Thrombotic Microangiopathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q053",
+      "source_chunk_ids": [
+        "CH072-S18-C002"
+      ],
+      "tested_concept": "Thrombotic Microangiopathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q054",
+      "source_chunk_ids": [
+        "CH072-S19-C001"
+      ],
+      "tested_concept": "Infectious Forms of Thrombotic Microangiopathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q055",
+      "source_chunk_ids": [
+        "CH072-S19-C001"
+      ],
+      "tested_concept": "Infectious Forms of Thrombotic Microangiopathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q056",
+      "source_chunk_ids": [
+        "CH072-S20-C001"
+      ],
+      "tested_concept": "Noninfectious, Noncomplement-Mediated Forms of Thrombotic Microangiopathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q057",
+      "source_chunk_ids": [
+        "CH072-S20-C002"
+      ],
+      "tested_concept": "Noninfectious, Noncomplement-Mediated Forms of Thrombotic Microangiopathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q058",
+      "source_chunk_ids": [
+        "CH072-S20-C001"
+      ],
+      "tested_concept": "Noninfectious, Noncomplement-Mediated Forms of Thrombotic Microangiopathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q059",
+      "source_chunk_ids": [
+        "CH072-S21-C001"
+      ],
+      "tested_concept": "Noninfectious, Complement- Mediated Thrombotic Microangiopathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q060",
+      "source_chunk_ids": [
+        "CH072-S21-C002"
+      ],
+      "tested_concept": "Noninfectious, Complement- Mediated Thrombotic Microangiopathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q061",
+      "source_chunk_ids": [
+        "CH072-S21-C001"
+      ],
+      "tested_concept": "Noninfectious, Complement- Mediated Thrombotic Microangiopathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q062",
+      "source_chunk_ids": [
+        "CH072-S22-C001"
+      ],
+      "tested_concept": "Secondary Forms of Thrombotic Microangiopathy With Possible Complement Contribution",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q063",
+      "source_chunk_ids": [
+        "CH072-S22-C002"
+      ],
+      "tested_concept": "Secondary Forms of Thrombotic Microangiopathy With Possible Complement Contribution",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q064",
+      "source_chunk_ids": [
+        "CH072-S22-C001"
+      ],
+      "tested_concept": "Secondary Forms of Thrombotic Microangiopathy With Possible Complement Contribution",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q065",
+      "source_chunk_ids": [
+        "CH072-S23-C001"
+      ],
+      "tested_concept": "Thrombotic Thrombocytopenic Purpura",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q066",
+      "source_chunk_ids": [
+        "CH072-S23-C002"
+      ],
+      "tested_concept": "Thrombotic Thrombocytopenic Purpura",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q067",
+      "source_chunk_ids": [
+        "CH072-S23-C001"
+      ],
+      "tested_concept": "Thrombotic Thrombocytopenic Purpura",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q068",
+      "source_chunk_ids": [
+        "CH072-S24-C001"
+      ],
+      "tested_concept": "Systemic Diseases With Renal Involvement",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q069",
+      "source_chunk_ids": [
+        "CH072-S24-C002"
+      ],
+      "tested_concept": "Systemic Diseases With Renal Involvement",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q070",
+      "source_chunk_ids": [
+        "CH072-S24-C003"
+      ],
+      "tested_concept": "Systemic Diseases With Renal Involvement",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q071",
+      "source_chunk_ids": [
+        "CH072-S24-C001"
+      ],
+      "tested_concept": "Systemic Diseases With Renal Involvement",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q072",
+      "source_chunk_ids": [
+        "CH072-S24-C002"
+      ],
+      "tested_concept": "Systemic Diseases With Renal Involvement",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q073",
+      "source_chunk_ids": [
+        "CH072-S25-C001"
+      ],
+      "tested_concept": "Renal Diseases With Vasculitis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q074",
+      "source_chunk_ids": [
+        "CH072-S25-C002"
+      ],
+      "tested_concept": "Renal Diseases With Vasculitis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q075",
+      "source_chunk_ids": [
+        "CH072-S25-C003"
+      ],
+      "tested_concept": "Renal Diseases With Vasculitis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q076",
+      "source_chunk_ids": [
+        "CH072-S25-C004"
+      ],
+      "tested_concept": "Renal Diseases With Vasculitis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q077",
+      "source_chunk_ids": [
+        "CH072-S25-C005"
+      ],
+      "tested_concept": "Renal Diseases With Vasculitis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q078",
+      "source_chunk_ids": [
+        "CH072-S25-C001"
+      ],
+      "tested_concept": "Renal Diseases With Vasculitis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q079",
+      "source_chunk_ids": [
+        "CH072-S25-C002"
+      ],
+      "tested_concept": "Renal Diseases With Vasculitis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q080",
+      "source_chunk_ids": [
+        "CH072-S26-C001"
+      ],
+      "tested_concept": "Tubular Disorders",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH072-Q081",
+      "source_chunk_ids": [
+        "CH072-S26-C002"
+      ],
+      "tested_concept": "Tubular Disorders",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q082",
+      "source_chunk_ids": [
+        "CH072-S26-C003"
+      ],
+      "tested_concept": "Tubular Disorders",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q083",
+      "source_chunk_ids": [
+        "CH072-S26-C004"
+      ],
+      "tested_concept": "Tubular Disorders",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q084",
+      "source_chunk_ids": [
+        "CH072-S26-C001"
+      ],
+      "tested_concept": "Tubular Disorders",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q085",
+      "source_chunk_ids": [
+        "CH072-S26-C002"
+      ],
+      "tested_concept": "Tubular Disorders",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q086",
+      "source_chunk_ids": [
+        "CH072-S26-C003"
+      ],
+      "tested_concept": "Tubular Disorders",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q087",
+      "source_chunk_ids": [
+        "CH072-S27-C001"
+      ],
+      "tested_concept": "Urolithiasis and Nephrocalcinosis in Children",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q088",
+      "source_chunk_ids": [
+        "CH072-S27-C002"
+      ],
+      "tested_concept": "Urolithiasis and Nephrocalcinosis in Children",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q089",
+      "source_chunk_ids": [
+        "CH072-S27-C003"
+      ],
+      "tested_concept": "Urolithiasis and Nephrocalcinosis in Children",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q090",
+      "source_chunk_ids": [
+        "CH072-S27-C001"
+      ],
+      "tested_concept": "Urolithiasis and Nephrocalcinosis in Children",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q091",
+      "source_chunk_ids": [
+        "CH072-S28-C001"
+      ],
+      "tested_concept": "Genetics of Pediatric Urolithiasis and Nephrocalcinosis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q092",
+      "source_chunk_ids": [
+        "CH072-S28-C002"
+      ],
+      "tested_concept": "Genetics of Pediatric Urolithiasis and Nephrocalcinosis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q093",
+      "source_chunk_ids": [
+        "CH072-S28-C001"
+      ],
+      "tested_concept": "Genetics of Pediatric Urolithiasis and Nephrocalcinosis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q094",
+      "source_chunk_ids": [
+        "CH072-S29-C001"
+      ],
+      "tested_concept": "Pediatric Aspects of Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q095",
+      "source_chunk_ids": [
+        "CH072-S29-C001"
+      ],
+      "tested_concept": "Pediatric Aspects of Chronic Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q096",
+      "source_chunk_ids": [
+        "CH072-S30-C001"
+      ],
+      "tested_concept": "Prevention and Treatment of Growth Failure in Chronic Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q097",
+      "source_chunk_ids": [
+        "CH072-S31-C001"
+      ],
+      "tested_concept": "Cardiovascular Comorbidity in Pediatric Chronic Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q098",
+      "source_chunk_ids": [
+        "CH072-S31-C002"
+      ],
+      "tested_concept": "Cardiovascular Comorbidity in Pediatric Chronic Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q099",
+      "source_chunk_ids": [
+        "CH072-S31-C001"
+      ],
+      "tested_concept": "Cardiovascular Comorbidity in Pediatric Chronic Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH072-Q100",
+      "source_chunk_ids": [
+        "CH072-S32-C001"
+      ],
+      "tested_concept": "Progression of Chronic Renal Failure in Children",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
