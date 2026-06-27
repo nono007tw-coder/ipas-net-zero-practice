@@ -1,0 +1,1090 @@
+{
+  "chapter_id": "CH083",
+  "chapter_title": "Health Disparities in Nephrology",
+  "clinical_weight": 2,
+  "core_themes": [
+    "Disparities in the Treatment of End-Stage Kidney Disease",
+    "Social Origins of Disparities in Nephrology",
+    "Biologic Origins of Disparities in Nephrology",
+    "Moving Toward More Equitable Care",
+    "Health System and Disparities in Nephrology",
+    "Initiatives to Reduce Disparities",
+    "Summary and Challenges",
+    "Disparity"
+  ],
+  "sections": [
+    {
+      "section_title": "Disparity",
+      "chunk_ids": [
+        "CH083-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH083-S01-C001"
+      ],
+      "key_concepts": [
+        "Disparity"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Social Origins of Disparities in Nephrology",
+      "chunk_ids": [
+        "CH083-S02-C001",
+        "CH083-S02-C002",
+        "CH083-S02-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH083-S02-C001",
+        "CH083-S02-C002",
+        "CH083-S02-C003"
+      ],
+      "key_concepts": [
+        "Social Origins of Disparities in Nephrology"
+      ],
+      "recommended_question_count": 26,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Biologic Origins of Disparities in Nephrology",
+      "chunk_ids": [
+        "CH083-S03-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH083-S03-C001"
+      ],
+      "key_concepts": [
+        "Biologic Origins of Disparities in Nephrology"
+      ],
+      "recommended_question_count": 10,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Health System and Disparities in Nephrology",
+      "chunk_ids": [
+        "CH083-S04-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH083-S04-C001"
+      ],
+      "key_concepts": [
+        "Health System and Disparities in Nephrology"
+      ],
+      "recommended_question_count": 9,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "chunk_ids": [
+        "CH083-S05-C001",
+        "CH083-S05-C002",
+        "CH083-S05-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH083-S05-C001",
+        "CH083-S05-C002",
+        "CH083-S05-C003"
+      ],
+      "key_concepts": [
+        "Disparities in the Treatment of End-Stage Kidney Disease"
+      ],
+      "recommended_question_count": 28,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Moving Toward More Equitable Care",
+      "chunk_ids": [
+        "CH083-S06-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH083-S06-C001"
+      ],
+      "key_concepts": [
+        "Moving Toward More Equitable Care"
+      ],
+      "recommended_question_count": 10,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Initiatives to Reduce Disparities",
+      "chunk_ids": [
+        "CH083-S07-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH083-S07-C001"
+      ],
+      "key_concepts": [
+        "Initiatives to Reduce Disparities"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Summary and Challenges",
+      "chunk_ids": [
+        "CH083-S08-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH083-S08-C001"
+      ],
+      "key_concepts": [
+        "Summary and Challenges"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH083-Q001",
+      "source_chunk_ids": [
+        "CH083-S01-C001"
+      ],
+      "tested_concept": "Disparity",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q002",
+      "source_chunk_ids": [
+        "CH083-S01-C001"
+      ],
+      "tested_concept": "Disparity",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q003",
+      "source_chunk_ids": [
+        "CH083-S01-C001"
+      ],
+      "tested_concept": "Disparity",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q004",
+      "source_chunk_ids": [
+        "CH083-S01-C001"
+      ],
+      "tested_concept": "Disparity",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q005",
+      "source_chunk_ids": [
+        "CH083-S02-C001"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q006",
+      "source_chunk_ids": [
+        "CH083-S02-C002"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q007",
+      "source_chunk_ids": [
+        "CH083-S02-C003"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q008",
+      "source_chunk_ids": [
+        "CH083-S02-C001"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q009",
+      "source_chunk_ids": [
+        "CH083-S02-C002"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q010",
+      "source_chunk_ids": [
+        "CH083-S02-C003"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q011",
+      "source_chunk_ids": [
+        "CH083-S02-C001"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q012",
+      "source_chunk_ids": [
+        "CH083-S02-C002"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q013",
+      "source_chunk_ids": [
+        "CH083-S02-C003"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q014",
+      "source_chunk_ids": [
+        "CH083-S02-C001"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q015",
+      "source_chunk_ids": [
+        "CH083-S02-C002"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q016",
+      "source_chunk_ids": [
+        "CH083-S02-C003"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q017",
+      "source_chunk_ids": [
+        "CH083-S02-C001"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q018",
+      "source_chunk_ids": [
+        "CH083-S02-C002"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q019",
+      "source_chunk_ids": [
+        "CH083-S02-C003"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q020",
+      "source_chunk_ids": [
+        "CH083-S02-C001"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q021",
+      "source_chunk_ids": [
+        "CH083-S02-C002"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q022",
+      "source_chunk_ids": [
+        "CH083-S02-C003"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q023",
+      "source_chunk_ids": [
+        "CH083-S02-C001"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q024",
+      "source_chunk_ids": [
+        "CH083-S02-C002"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q025",
+      "source_chunk_ids": [
+        "CH083-S02-C003"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q026",
+      "source_chunk_ids": [
+        "CH083-S02-C001"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q027",
+      "source_chunk_ids": [
+        "CH083-S02-C002"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q028",
+      "source_chunk_ids": [
+        "CH083-S02-C003"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q029",
+      "source_chunk_ids": [
+        "CH083-S02-C001"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q030",
+      "source_chunk_ids": [
+        "CH083-S02-C002"
+      ],
+      "tested_concept": "Social Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q031",
+      "source_chunk_ids": [
+        "CH083-S03-C001"
+      ],
+      "tested_concept": "Biologic Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q032",
+      "source_chunk_ids": [
+        "CH083-S03-C001"
+      ],
+      "tested_concept": "Biologic Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q033",
+      "source_chunk_ids": [
+        "CH083-S03-C001"
+      ],
+      "tested_concept": "Biologic Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q034",
+      "source_chunk_ids": [
+        "CH083-S03-C001"
+      ],
+      "tested_concept": "Biologic Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q035",
+      "source_chunk_ids": [
+        "CH083-S03-C001"
+      ],
+      "tested_concept": "Biologic Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q036",
+      "source_chunk_ids": [
+        "CH083-S03-C001"
+      ],
+      "tested_concept": "Biologic Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q037",
+      "source_chunk_ids": [
+        "CH083-S03-C001"
+      ],
+      "tested_concept": "Biologic Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q038",
+      "source_chunk_ids": [
+        "CH083-S03-C001"
+      ],
+      "tested_concept": "Biologic Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q039",
+      "source_chunk_ids": [
+        "CH083-S03-C001"
+      ],
+      "tested_concept": "Biologic Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q040",
+      "source_chunk_ids": [
+        "CH083-S03-C001"
+      ],
+      "tested_concept": "Biologic Origins of Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q041",
+      "source_chunk_ids": [
+        "CH083-S04-C001"
+      ],
+      "tested_concept": "Health System and Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q042",
+      "source_chunk_ids": [
+        "CH083-S04-C001"
+      ],
+      "tested_concept": "Health System and Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q043",
+      "source_chunk_ids": [
+        "CH083-S04-C001"
+      ],
+      "tested_concept": "Health System and Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q044",
+      "source_chunk_ids": [
+        "CH083-S04-C001"
+      ],
+      "tested_concept": "Health System and Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q045",
+      "source_chunk_ids": [
+        "CH083-S04-C001"
+      ],
+      "tested_concept": "Health System and Disparities in Nephrology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q046",
+      "source_chunk_ids": [
+        "CH083-S04-C001"
+      ],
+      "tested_concept": "Health System and Disparities in Nephrology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q047",
+      "source_chunk_ids": [
+        "CH083-S04-C001"
+      ],
+      "tested_concept": "Health System and Disparities in Nephrology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q048",
+      "source_chunk_ids": [
+        "CH083-S04-C001"
+      ],
+      "tested_concept": "Health System and Disparities in Nephrology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q049",
+      "source_chunk_ids": [
+        "CH083-S04-C001"
+      ],
+      "tested_concept": "Health System and Disparities in Nephrology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q050",
+      "source_chunk_ids": [
+        "CH083-S05-C001"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q051",
+      "source_chunk_ids": [
+        "CH083-S05-C002"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q052",
+      "source_chunk_ids": [
+        "CH083-S05-C003"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q053",
+      "source_chunk_ids": [
+        "CH083-S05-C001"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q054",
+      "source_chunk_ids": [
+        "CH083-S05-C002"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q055",
+      "source_chunk_ids": [
+        "CH083-S05-C003"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q056",
+      "source_chunk_ids": [
+        "CH083-S05-C001"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q057",
+      "source_chunk_ids": [
+        "CH083-S05-C002"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q058",
+      "source_chunk_ids": [
+        "CH083-S05-C003"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q059",
+      "source_chunk_ids": [
+        "CH083-S05-C001"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q060",
+      "source_chunk_ids": [
+        "CH083-S05-C002"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q061",
+      "source_chunk_ids": [
+        "CH083-S05-C003"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q062",
+      "source_chunk_ids": [
+        "CH083-S05-C001"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q063",
+      "source_chunk_ids": [
+        "CH083-S05-C002"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q064",
+      "source_chunk_ids": [
+        "CH083-S05-C003"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q065",
+      "source_chunk_ids": [
+        "CH083-S05-C001"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q066",
+      "source_chunk_ids": [
+        "CH083-S05-C002"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q067",
+      "source_chunk_ids": [
+        "CH083-S05-C003"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q068",
+      "source_chunk_ids": [
+        "CH083-S05-C001"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q069",
+      "source_chunk_ids": [
+        "CH083-S05-C002"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q070",
+      "source_chunk_ids": [
+        "CH083-S05-C003"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q071",
+      "source_chunk_ids": [
+        "CH083-S05-C001"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q072",
+      "source_chunk_ids": [
+        "CH083-S05-C002"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q073",
+      "source_chunk_ids": [
+        "CH083-S05-C003"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q074",
+      "source_chunk_ids": [
+        "CH083-S05-C001"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q075",
+      "source_chunk_ids": [
+        "CH083-S05-C002"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q076",
+      "source_chunk_ids": [
+        "CH083-S05-C003"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q077",
+      "source_chunk_ids": [
+        "CH083-S05-C001"
+      ],
+      "tested_concept": "Disparities in the Treatment of End-Stage Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q078",
+      "source_chunk_ids": [
+        "CH083-S06-C001"
+      ],
+      "tested_concept": "Moving Toward More Equitable Care",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q079",
+      "source_chunk_ids": [
+        "CH083-S06-C001"
+      ],
+      "tested_concept": "Moving Toward More Equitable Care",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q080",
+      "source_chunk_ids": [
+        "CH083-S06-C001"
+      ],
+      "tested_concept": "Moving Toward More Equitable Care",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH083-Q081",
+      "source_chunk_ids": [
+        "CH083-S06-C001"
+      ],
+      "tested_concept": "Moving Toward More Equitable Care",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q082",
+      "source_chunk_ids": [
+        "CH083-S06-C001"
+      ],
+      "tested_concept": "Moving Toward More Equitable Care",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q083",
+      "source_chunk_ids": [
+        "CH083-S06-C001"
+      ],
+      "tested_concept": "Moving Toward More Equitable Care",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q084",
+      "source_chunk_ids": [
+        "CH083-S06-C001"
+      ],
+      "tested_concept": "Moving Toward More Equitable Care",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q085",
+      "source_chunk_ids": [
+        "CH083-S06-C001"
+      ],
+      "tested_concept": "Moving Toward More Equitable Care",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q086",
+      "source_chunk_ids": [
+        "CH083-S06-C001"
+      ],
+      "tested_concept": "Moving Toward More Equitable Care",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q087",
+      "source_chunk_ids": [
+        "CH083-S06-C001"
+      ],
+      "tested_concept": "Moving Toward More Equitable Care",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q088",
+      "source_chunk_ids": [
+        "CH083-S07-C001"
+      ],
+      "tested_concept": "Initiatives to Reduce Disparities",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q089",
+      "source_chunk_ids": [
+        "CH083-S07-C001"
+      ],
+      "tested_concept": "Initiatives to Reduce Disparities",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q090",
+      "source_chunk_ids": [
+        "CH083-S07-C001"
+      ],
+      "tested_concept": "Initiatives to Reduce Disparities",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q091",
+      "source_chunk_ids": [
+        "CH083-S07-C001"
+      ],
+      "tested_concept": "Initiatives to Reduce Disparities",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q092",
+      "source_chunk_ids": [
+        "CH083-S07-C001"
+      ],
+      "tested_concept": "Initiatives to Reduce Disparities",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q093",
+      "source_chunk_ids": [
+        "CH083-S07-C001"
+      ],
+      "tested_concept": "Initiatives to Reduce Disparities",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q094",
+      "source_chunk_ids": [
+        "CH083-S07-C001"
+      ],
+      "tested_concept": "Initiatives to Reduce Disparities",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q095",
+      "source_chunk_ids": [
+        "CH083-S08-C001"
+      ],
+      "tested_concept": "Summary and Challenges",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q096",
+      "source_chunk_ids": [
+        "CH083-S08-C001"
+      ],
+      "tested_concept": "Summary and Challenges",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q097",
+      "source_chunk_ids": [
+        "CH083-S08-C001"
+      ],
+      "tested_concept": "Summary and Challenges",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q098",
+      "source_chunk_ids": [
+        "CH083-S08-C001"
+      ],
+      "tested_concept": "Summary and Challenges",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q099",
+      "source_chunk_ids": [
+        "CH083-S08-C001"
+      ],
+      "tested_concept": "Summary and Challenges",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH083-Q100",
+      "source_chunk_ids": [
+        "CH083-S08-C001"
+      ],
+      "tested_concept": "Summary and Challenges",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
