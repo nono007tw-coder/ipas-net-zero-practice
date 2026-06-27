@@ -1,0 +1,1060 @@
+{
+  "chapter_id": "CH078",
+  "chapter_title": "Near and Middle East",
+  "clinical_weight": 1,
+  "core_themes": [
+    "Chronic Kidney Disease",
+    "Management of End-Stage Kidney Disease in the Middle East",
+    "Acute Kidney Injury",
+    "Summary",
+    "Key Points"
+  ],
+  "sections": [
+    {
+      "section_title": "Key Points",
+      "chunk_ids": [
+        "CH078-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH078-S01-C001"
+      ],
+      "key_concepts": [
+        "Key Points"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Acute Kidney Injury",
+      "chunk_ids": [
+        "CH078-S02-C001",
+        "CH078-S02-C002",
+        "CH078-S02-C003",
+        "CH078-S02-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH078-S02-C001",
+        "CH078-S02-C003",
+        "CH078-S02-C004"
+      ],
+      "key_concepts": [
+        "Acute Kidney Injury"
+      ],
+      "recommended_question_count": 13,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Chronic Kidney Disease",
+      "chunk_ids": [
+        "CH078-S03-C001",
+        "CH078-S03-C002",
+        "CH078-S03-C003",
+        "CH078-S03-C004",
+        "CH078-S03-C005",
+        "CH078-S03-C006",
+        "CH078-S03-C007",
+        "CH078-S03-C008",
+        "CH078-S03-C009",
+        "CH078-S03-C010",
+        "CH078-S03-C011"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH078-S03-C001",
+        "CH078-S03-C002",
+        "CH078-S03-C003",
+        "CH078-S03-C004",
+        "CH078-S03-C005",
+        "CH078-S03-C006",
+        "CH078-S03-C007",
+        "CH078-S03-C008",
+        "CH078-S03-C009",
+        "CH078-S03-C010",
+        "CH078-S03-C011"
+      ],
+      "key_concepts": [
+        "Chronic Kidney Disease"
+      ],
+      "recommended_question_count": 51,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Management of End-Stage Kidney Disease in the Middle East",
+      "chunk_ids": [
+        "CH078-S04-C001",
+        "CH078-S04-C002",
+        "CH078-S04-C003",
+        "CH078-S04-C004",
+        "CH078-S04-C005",
+        "CH078-S04-C006"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH078-S04-C001",
+        "CH078-S04-C002",
+        "CH078-S04-C003",
+        "CH078-S04-C004",
+        "CH078-S04-C005",
+        "CH078-S04-C006"
+      ],
+      "key_concepts": [
+        "Management of End-Stage Kidney Disease in the Middle East"
+      ],
+      "recommended_question_count": 29,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Summary",
+      "chunk_ids": [
+        "CH078-S05-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH078-S05-C001"
+      ],
+      "key_concepts": [
+        "Summary"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH078-Q001",
+      "source_chunk_ids": [
+        "CH078-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q002",
+      "source_chunk_ids": [
+        "CH078-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q003",
+      "source_chunk_ids": [
+        "CH078-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q004",
+      "source_chunk_ids": [
+        "CH078-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q005",
+      "source_chunk_ids": [
+        "CH078-S02-C003"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q006",
+      "source_chunk_ids": [
+        "CH078-S02-C004"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q007",
+      "source_chunk_ids": [
+        "CH078-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q008",
+      "source_chunk_ids": [
+        "CH078-S02-C003"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q009",
+      "source_chunk_ids": [
+        "CH078-S02-C004"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q010",
+      "source_chunk_ids": [
+        "CH078-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q011",
+      "source_chunk_ids": [
+        "CH078-S02-C003"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q012",
+      "source_chunk_ids": [
+        "CH078-S02-C004"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q013",
+      "source_chunk_ids": [
+        "CH078-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q014",
+      "source_chunk_ids": [
+        "CH078-S02-C003"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q015",
+      "source_chunk_ids": [
+        "CH078-S02-C004"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q016",
+      "source_chunk_ids": [
+        "CH078-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q017",
+      "source_chunk_ids": [
+        "CH078-S03-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q018",
+      "source_chunk_ids": [
+        "CH078-S03-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q019",
+      "source_chunk_ids": [
+        "CH078-S03-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q020",
+      "source_chunk_ids": [
+        "CH078-S03-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q021",
+      "source_chunk_ids": [
+        "CH078-S03-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q022",
+      "source_chunk_ids": [
+        "CH078-S03-C006"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q023",
+      "source_chunk_ids": [
+        "CH078-S03-C007"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q024",
+      "source_chunk_ids": [
+        "CH078-S03-C008"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q025",
+      "source_chunk_ids": [
+        "CH078-S03-C009"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q026",
+      "source_chunk_ids": [
+        "CH078-S03-C010"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q027",
+      "source_chunk_ids": [
+        "CH078-S03-C011"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q028",
+      "source_chunk_ids": [
+        "CH078-S03-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q029",
+      "source_chunk_ids": [
+        "CH078-S03-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q030",
+      "source_chunk_ids": [
+        "CH078-S03-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q031",
+      "source_chunk_ids": [
+        "CH078-S03-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q032",
+      "source_chunk_ids": [
+        "CH078-S03-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q033",
+      "source_chunk_ids": [
+        "CH078-S03-C006"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q034",
+      "source_chunk_ids": [
+        "CH078-S03-C007"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q035",
+      "source_chunk_ids": [
+        "CH078-S03-C008"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q036",
+      "source_chunk_ids": [
+        "CH078-S03-C009"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q037",
+      "source_chunk_ids": [
+        "CH078-S03-C010"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q038",
+      "source_chunk_ids": [
+        "CH078-S03-C011"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q039",
+      "source_chunk_ids": [
+        "CH078-S03-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q040",
+      "source_chunk_ids": [
+        "CH078-S03-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q041",
+      "source_chunk_ids": [
+        "CH078-S03-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q042",
+      "source_chunk_ids": [
+        "CH078-S03-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q043",
+      "source_chunk_ids": [
+        "CH078-S03-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q044",
+      "source_chunk_ids": [
+        "CH078-S03-C006"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q045",
+      "source_chunk_ids": [
+        "CH078-S03-C007"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q046",
+      "source_chunk_ids": [
+        "CH078-S03-C008"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q047",
+      "source_chunk_ids": [
+        "CH078-S03-C009"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q048",
+      "source_chunk_ids": [
+        "CH078-S03-C010"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q049",
+      "source_chunk_ids": [
+        "CH078-S03-C011"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q050",
+      "source_chunk_ids": [
+        "CH078-S03-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q051",
+      "source_chunk_ids": [
+        "CH078-S03-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q052",
+      "source_chunk_ids": [
+        "CH078-S03-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q053",
+      "source_chunk_ids": [
+        "CH078-S03-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q054",
+      "source_chunk_ids": [
+        "CH078-S03-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q055",
+      "source_chunk_ids": [
+        "CH078-S03-C006"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q056",
+      "source_chunk_ids": [
+        "CH078-S03-C007"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q057",
+      "source_chunk_ids": [
+        "CH078-S03-C008"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q058",
+      "source_chunk_ids": [
+        "CH078-S03-C009"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q059",
+      "source_chunk_ids": [
+        "CH078-S03-C010"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q060",
+      "source_chunk_ids": [
+        "CH078-S03-C011"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q061",
+      "source_chunk_ids": [
+        "CH078-S03-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q062",
+      "source_chunk_ids": [
+        "CH078-S03-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q063",
+      "source_chunk_ids": [
+        "CH078-S03-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q064",
+      "source_chunk_ids": [
+        "CH078-S03-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q065",
+      "source_chunk_ids": [
+        "CH078-S03-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q066",
+      "source_chunk_ids": [
+        "CH078-S03-C006"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q067",
+      "source_chunk_ids": [
+        "CH078-S03-C007"
+      ],
+      "tested_concept": "Chronic Kidney Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q068",
+      "source_chunk_ids": [
+        "CH078-S04-C001"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q069",
+      "source_chunk_ids": [
+        "CH078-S04-C002"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q070",
+      "source_chunk_ids": [
+        "CH078-S04-C003"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q071",
+      "source_chunk_ids": [
+        "CH078-S04-C004"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q072",
+      "source_chunk_ids": [
+        "CH078-S04-C005"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q073",
+      "source_chunk_ids": [
+        "CH078-S04-C006"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q074",
+      "source_chunk_ids": [
+        "CH078-S04-C001"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q075",
+      "source_chunk_ids": [
+        "CH078-S04-C002"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q076",
+      "source_chunk_ids": [
+        "CH078-S04-C003"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q077",
+      "source_chunk_ids": [
+        "CH078-S04-C004"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q078",
+      "source_chunk_ids": [
+        "CH078-S04-C005"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q079",
+      "source_chunk_ids": [
+        "CH078-S04-C006"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q080",
+      "source_chunk_ids": [
+        "CH078-S04-C001"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH078-Q081",
+      "source_chunk_ids": [
+        "CH078-S04-C002"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q082",
+      "source_chunk_ids": [
+        "CH078-S04-C003"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q083",
+      "source_chunk_ids": [
+        "CH078-S04-C004"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q084",
+      "source_chunk_ids": [
+        "CH078-S04-C005"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q085",
+      "source_chunk_ids": [
+        "CH078-S04-C006"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q086",
+      "source_chunk_ids": [
+        "CH078-S04-C001"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q087",
+      "source_chunk_ids": [
+        "CH078-S04-C002"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q088",
+      "source_chunk_ids": [
+        "CH078-S04-C003"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q089",
+      "source_chunk_ids": [
+        "CH078-S04-C004"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q090",
+      "source_chunk_ids": [
+        "CH078-S04-C005"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q091",
+      "source_chunk_ids": [
+        "CH078-S04-C006"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q092",
+      "source_chunk_ids": [
+        "CH078-S04-C001"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q093",
+      "source_chunk_ids": [
+        "CH078-S04-C002"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q094",
+      "source_chunk_ids": [
+        "CH078-S04-C003"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q095",
+      "source_chunk_ids": [
+        "CH078-S04-C004"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q096",
+      "source_chunk_ids": [
+        "CH078-S04-C005"
+      ],
+      "tested_concept": "Management of End-Stage Kidney Disease in the Middle East",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q097",
+      "source_chunk_ids": [
+        "CH078-S05-C001"
+      ],
+      "tested_concept": "Summary",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q098",
+      "source_chunk_ids": [
+        "CH078-S05-C001"
+      ],
+      "tested_concept": "Summary",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q099",
+      "source_chunk_ids": [
+        "CH078-S05-C001"
+      ],
+      "tested_concept": "Summary",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH078-Q100",
+      "source_chunk_ids": [
+        "CH078-S05-C001"
+      ],
+      "tested_concept": "Summary",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
