@@ -1,0 +1,1208 @@
+{
+  "chapter_id": "CH064",
+  "chapter_title": "Peritoneal Dialysis",
+  "clinical_weight": 5,
+  "core_themes": [
+    "Peritonitis",
+    "Peritoneal Dialysis Solutions",
+    "Dialysis Adequacy",
+    "The Peritoneal Catheter and Access",
+    "Nutrition and Peritoneal Dialysis",
+    "Peritoneal Transport Physiology",
+    "Evaluation of Peritoneal Solute and Water Transfer Rate",
+    "Clearance Targets and Clinical Outcomes"
+  ],
+  "sections": [
+    {
+      "section_title": "Peritoneal Membrane Anatomy and Structure",
+      "chunk_ids": [
+        "CH064-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH064-S01-C001"
+      ],
+      "key_concepts": [
+        "Peritoneal Membrane Anatomy and Structure"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Peritoneal Transport Physiology",
+      "chunk_ids": [
+        "CH064-S02-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH064-S02-C001"
+      ],
+      "key_concepts": [
+        "Peritoneal Transport Physiology"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Evaluation of Peritoneal Solute and Water Transfer Rate",
+      "chunk_ids": [
+        "CH064-S03-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH064-S03-C001"
+      ],
+      "key_concepts": [
+        "Evaluation of Peritoneal Solute and Water Transfer Rate"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "The Peritoneal Catheter and Access",
+      "chunk_ids": [
+        "CH064-S04-C001",
+        "CH064-S04-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH064-S04-C001",
+        "CH064-S04-C002"
+      ],
+      "key_concepts": [
+        "The Peritoneal Catheter and Access"
+      ],
+      "recommended_question_count": 9,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Peritoneal Dialysis Solutions",
+      "chunk_ids": [
+        "CH064-S05-C001",
+        "CH064-S05-C002",
+        "CH064-S05-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH064-S05-C001",
+        "CH064-S05-C002",
+        "CH064-S05-C003"
+      ],
+      "key_concepts": [
+        "Peritoneal Dialysis Solutions"
+      ],
+      "recommended_question_count": 14,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Dialysis Adequacy",
+      "chunk_ids": [
+        "CH064-S06-C001",
+        "CH064-S06-C002",
+        "CH064-S06-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH064-S06-C001",
+        "CH064-S06-C002",
+        "CH064-S06-C003"
+      ],
+      "key_concepts": [
+        "Dialysis Adequacy"
+      ],
+      "recommended_question_count": 12,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Clearance Targets and Clinical Outcomes",
+      "chunk_ids": [
+        "CH064-S07-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH064-S07-C001"
+      ],
+      "key_concepts": [
+        "Clearance Targets and Clinical Outcomes"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Nutrition and Peritoneal Dialysis",
+      "chunk_ids": [
+        "CH064-S08-C001",
+        "CH064-S08-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH064-S08-C001",
+        "CH064-S08-C002"
+      ],
+      "key_concepts": [
+        "Nutrition and Peritoneal Dialysis"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Residual Kidney Function and Peritoneal Dialysis",
+      "chunk_ids": [
+        "CH064-S09-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH064-S09-C001"
+      ],
+      "key_concepts": [
+        "Residual Kidney Function and Peritoneal Dialysis"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Cardiovascular Disease in Peritoneal Dialysis",
+      "chunk_ids": [
+        "CH064-S10-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH064-S10-C001"
+      ],
+      "key_concepts": [
+        "Cardiovascular Disease in Peritoneal Dialysis"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Peritonitis",
+      "chunk_ids": [
+        "CH064-S11-C001",
+        "CH064-S11-C002",
+        "CH064-S11-C003",
+        "CH064-S11-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH064-S11-C001",
+        "CH064-S11-C002",
+        "CH064-S11-C003",
+        "CH064-S11-C004"
+      ],
+      "key_concepts": [
+        "Peritonitis"
+      ],
+      "recommended_question_count": 17,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Noninfectious Complications of Peritoneal Dialysis",
+      "chunk_ids": [
+        "CH064-S12-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH064-S12-C001"
+      ],
+      "key_concepts": [
+        "Noninfectious Complications of Peritoneal Dialysis"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Patient Outcomes With Peritoneal Dialysis",
+      "chunk_ids": [
+        "CH064-S13-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH064-S13-C001"
+      ],
+      "key_concepts": [
+        "Patient Outcomes With Peritoneal Dialysis"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Economics and Cost Effectiveness of Peritoneal Dialysis",
+      "chunk_ids": [
+        "CH064-S14-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH064-S14-C001"
+      ],
+      "key_concepts": [
+        "Economics and Cost Effectiveness of Peritoneal Dialysis"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH064-Q001",
+      "source_chunk_ids": [
+        "CH064-S01-C001"
+      ],
+      "tested_concept": "Peritoneal Membrane Anatomy and Structure",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q002",
+      "source_chunk_ids": [
+        "CH064-S01-C001"
+      ],
+      "tested_concept": "Peritoneal Membrane Anatomy and Structure",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q003",
+      "source_chunk_ids": [
+        "CH064-S01-C001"
+      ],
+      "tested_concept": "Peritoneal Membrane Anatomy and Structure",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q004",
+      "source_chunk_ids": [
+        "CH064-S02-C001"
+      ],
+      "tested_concept": "Peritoneal Transport Physiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q005",
+      "source_chunk_ids": [
+        "CH064-S02-C001"
+      ],
+      "tested_concept": "Peritoneal Transport Physiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q006",
+      "source_chunk_ids": [
+        "CH064-S02-C001"
+      ],
+      "tested_concept": "Peritoneal Transport Physiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q007",
+      "source_chunk_ids": [
+        "CH064-S02-C001"
+      ],
+      "tested_concept": "Peritoneal Transport Physiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q008",
+      "source_chunk_ids": [
+        "CH064-S02-C001"
+      ],
+      "tested_concept": "Peritoneal Transport Physiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q009",
+      "source_chunk_ids": [
+        "CH064-S03-C001"
+      ],
+      "tested_concept": "Evaluation of Peritoneal Solute and Water Transfer Rate",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q010",
+      "source_chunk_ids": [
+        "CH064-S03-C001"
+      ],
+      "tested_concept": "Evaluation of Peritoneal Solute and Water Transfer Rate",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q011",
+      "source_chunk_ids": [
+        "CH064-S03-C001"
+      ],
+      "tested_concept": "Evaluation of Peritoneal Solute and Water Transfer Rate",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q012",
+      "source_chunk_ids": [
+        "CH064-S03-C001"
+      ],
+      "tested_concept": "Evaluation of Peritoneal Solute and Water Transfer Rate",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q013",
+      "source_chunk_ids": [
+        "CH064-S03-C001"
+      ],
+      "tested_concept": "Evaluation of Peritoneal Solute and Water Transfer Rate",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q014",
+      "source_chunk_ids": [
+        "CH064-S04-C001"
+      ],
+      "tested_concept": "The Peritoneal Catheter and Access",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q015",
+      "source_chunk_ids": [
+        "CH064-S04-C002"
+      ],
+      "tested_concept": "The Peritoneal Catheter and Access",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q016",
+      "source_chunk_ids": [
+        "CH064-S04-C001"
+      ],
+      "tested_concept": "The Peritoneal Catheter and Access",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q017",
+      "source_chunk_ids": [
+        "CH064-S04-C002"
+      ],
+      "tested_concept": "The Peritoneal Catheter and Access",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q018",
+      "source_chunk_ids": [
+        "CH064-S04-C001"
+      ],
+      "tested_concept": "The Peritoneal Catheter and Access",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q019",
+      "source_chunk_ids": [
+        "CH064-S04-C002"
+      ],
+      "tested_concept": "The Peritoneal Catheter and Access",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q020",
+      "source_chunk_ids": [
+        "CH064-S04-C001"
+      ],
+      "tested_concept": "The Peritoneal Catheter and Access",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q021",
+      "source_chunk_ids": [
+        "CH064-S04-C002"
+      ],
+      "tested_concept": "The Peritoneal Catheter and Access",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q022",
+      "source_chunk_ids": [
+        "CH064-S04-C001"
+      ],
+      "tested_concept": "The Peritoneal Catheter and Access",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q023",
+      "source_chunk_ids": [
+        "CH064-S05-C001"
+      ],
+      "tested_concept": "Peritoneal Dialysis Solutions",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q024",
+      "source_chunk_ids": [
+        "CH064-S05-C002"
+      ],
+      "tested_concept": "Peritoneal Dialysis Solutions",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q025",
+      "source_chunk_ids": [
+        "CH064-S05-C003"
+      ],
+      "tested_concept": "Peritoneal Dialysis Solutions",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q026",
+      "source_chunk_ids": [
+        "CH064-S05-C001"
+      ],
+      "tested_concept": "Peritoneal Dialysis Solutions",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q027",
+      "source_chunk_ids": [
+        "CH064-S05-C002"
+      ],
+      "tested_concept": "Peritoneal Dialysis Solutions",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q028",
+      "source_chunk_ids": [
+        "CH064-S05-C003"
+      ],
+      "tested_concept": "Peritoneal Dialysis Solutions",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q029",
+      "source_chunk_ids": [
+        "CH064-S05-C001"
+      ],
+      "tested_concept": "Peritoneal Dialysis Solutions",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q030",
+      "source_chunk_ids": [
+        "CH064-S05-C002"
+      ],
+      "tested_concept": "Peritoneal Dialysis Solutions",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q031",
+      "source_chunk_ids": [
+        "CH064-S05-C003"
+      ],
+      "tested_concept": "Peritoneal Dialysis Solutions",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q032",
+      "source_chunk_ids": [
+        "CH064-S05-C001"
+      ],
+      "tested_concept": "Peritoneal Dialysis Solutions",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q033",
+      "source_chunk_ids": [
+        "CH064-S05-C002"
+      ],
+      "tested_concept": "Peritoneal Dialysis Solutions",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q034",
+      "source_chunk_ids": [
+        "CH064-S05-C003"
+      ],
+      "tested_concept": "Peritoneal Dialysis Solutions",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q035",
+      "source_chunk_ids": [
+        "CH064-S05-C001"
+      ],
+      "tested_concept": "Peritoneal Dialysis Solutions",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q036",
+      "source_chunk_ids": [
+        "CH064-S05-C002"
+      ],
+      "tested_concept": "Peritoneal Dialysis Solutions",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q037",
+      "source_chunk_ids": [
+        "CH064-S06-C001"
+      ],
+      "tested_concept": "Dialysis Adequacy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q038",
+      "source_chunk_ids": [
+        "CH064-S06-C002"
+      ],
+      "tested_concept": "Dialysis Adequacy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q039",
+      "source_chunk_ids": [
+        "CH064-S06-C003"
+      ],
+      "tested_concept": "Dialysis Adequacy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q040",
+      "source_chunk_ids": [
+        "CH064-S06-C001"
+      ],
+      "tested_concept": "Dialysis Adequacy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q041",
+      "source_chunk_ids": [
+        "CH064-S06-C002"
+      ],
+      "tested_concept": "Dialysis Adequacy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q042",
+      "source_chunk_ids": [
+        "CH064-S06-C003"
+      ],
+      "tested_concept": "Dialysis Adequacy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q043",
+      "source_chunk_ids": [
+        "CH064-S06-C001"
+      ],
+      "tested_concept": "Dialysis Adequacy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q044",
+      "source_chunk_ids": [
+        "CH064-S06-C002"
+      ],
+      "tested_concept": "Dialysis Adequacy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q045",
+      "source_chunk_ids": [
+        "CH064-S06-C003"
+      ],
+      "tested_concept": "Dialysis Adequacy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q046",
+      "source_chunk_ids": [
+        "CH064-S06-C001"
+      ],
+      "tested_concept": "Dialysis Adequacy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q047",
+      "source_chunk_ids": [
+        "CH064-S06-C002"
+      ],
+      "tested_concept": "Dialysis Adequacy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q048",
+      "source_chunk_ids": [
+        "CH064-S06-C003"
+      ],
+      "tested_concept": "Dialysis Adequacy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q049",
+      "source_chunk_ids": [
+        "CH064-S07-C001"
+      ],
+      "tested_concept": "Clearance Targets and Clinical Outcomes",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q050",
+      "source_chunk_ids": [
+        "CH064-S07-C001"
+      ],
+      "tested_concept": "Clearance Targets and Clinical Outcomes",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q051",
+      "source_chunk_ids": [
+        "CH064-S07-C001"
+      ],
+      "tested_concept": "Clearance Targets and Clinical Outcomes",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q052",
+      "source_chunk_ids": [
+        "CH064-S07-C001"
+      ],
+      "tested_concept": "Clearance Targets and Clinical Outcomes",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q053",
+      "source_chunk_ids": [
+        "CH064-S07-C001"
+      ],
+      "tested_concept": "Clearance Targets and Clinical Outcomes",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q054",
+      "source_chunk_ids": [
+        "CH064-S08-C001"
+      ],
+      "tested_concept": "Nutrition and Peritoneal Dialysis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q055",
+      "source_chunk_ids": [
+        "CH064-S08-C002"
+      ],
+      "tested_concept": "Nutrition and Peritoneal Dialysis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q056",
+      "source_chunk_ids": [
+        "CH064-S08-C001"
+      ],
+      "tested_concept": "Nutrition and Peritoneal Dialysis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q057",
+      "source_chunk_ids": [
+        "CH064-S08-C002"
+      ],
+      "tested_concept": "Nutrition and Peritoneal Dialysis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q058",
+      "source_chunk_ids": [
+        "CH064-S08-C001"
+      ],
+      "tested_concept": "Nutrition and Peritoneal Dialysis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q059",
+      "source_chunk_ids": [
+        "CH064-S08-C002"
+      ],
+      "tested_concept": "Nutrition and Peritoneal Dialysis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q060",
+      "source_chunk_ids": [
+        "CH064-S08-C001"
+      ],
+      "tested_concept": "Nutrition and Peritoneal Dialysis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q061",
+      "source_chunk_ids": [
+        "CH064-S09-C001"
+      ],
+      "tested_concept": "Residual Kidney Function and Peritoneal Dialysis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q062",
+      "source_chunk_ids": [
+        "CH064-S09-C001"
+      ],
+      "tested_concept": "Residual Kidney Function and Peritoneal Dialysis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q063",
+      "source_chunk_ids": [
+        "CH064-S09-C001"
+      ],
+      "tested_concept": "Residual Kidney Function and Peritoneal Dialysis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q064",
+      "source_chunk_ids": [
+        "CH064-S09-C001"
+      ],
+      "tested_concept": "Residual Kidney Function and Peritoneal Dialysis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q065",
+      "source_chunk_ids": [
+        "CH064-S10-C001"
+      ],
+      "tested_concept": "Cardiovascular Disease in Peritoneal Dialysis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q066",
+      "source_chunk_ids": [
+        "CH064-S10-C001"
+      ],
+      "tested_concept": "Cardiovascular Disease in Peritoneal Dialysis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q067",
+      "source_chunk_ids": [
+        "CH064-S10-C001"
+      ],
+      "tested_concept": "Cardiovascular Disease in Peritoneal Dialysis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q068",
+      "source_chunk_ids": [
+        "CH064-S10-C001"
+      ],
+      "tested_concept": "Cardiovascular Disease in Peritoneal Dialysis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q069",
+      "source_chunk_ids": [
+        "CH064-S11-C001"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q070",
+      "source_chunk_ids": [
+        "CH064-S11-C002"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q071",
+      "source_chunk_ids": [
+        "CH064-S11-C003"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q072",
+      "source_chunk_ids": [
+        "CH064-S11-C004"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q073",
+      "source_chunk_ids": [
+        "CH064-S11-C001"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q074",
+      "source_chunk_ids": [
+        "CH064-S11-C002"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q075",
+      "source_chunk_ids": [
+        "CH064-S11-C003"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q076",
+      "source_chunk_ids": [
+        "CH064-S11-C004"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q077",
+      "source_chunk_ids": [
+        "CH064-S11-C001"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q078",
+      "source_chunk_ids": [
+        "CH064-S11-C002"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q079",
+      "source_chunk_ids": [
+        "CH064-S11-C003"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q080",
+      "source_chunk_ids": [
+        "CH064-S11-C004"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH064-Q081",
+      "source_chunk_ids": [
+        "CH064-S11-C001"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q082",
+      "source_chunk_ids": [
+        "CH064-S11-C002"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q083",
+      "source_chunk_ids": [
+        "CH064-S11-C003"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q084",
+      "source_chunk_ids": [
+        "CH064-S11-C004"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q085",
+      "source_chunk_ids": [
+        "CH064-S11-C001"
+      ],
+      "tested_concept": "Peritonitis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q086",
+      "source_chunk_ids": [
+        "CH064-S12-C001"
+      ],
+      "tested_concept": "Noninfectious Complications of Peritoneal Dialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q087",
+      "source_chunk_ids": [
+        "CH064-S12-C001"
+      ],
+      "tested_concept": "Noninfectious Complications of Peritoneal Dialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q088",
+      "source_chunk_ids": [
+        "CH064-S12-C001"
+      ],
+      "tested_concept": "Noninfectious Complications of Peritoneal Dialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q089",
+      "source_chunk_ids": [
+        "CH064-S12-C001"
+      ],
+      "tested_concept": "Noninfectious Complications of Peritoneal Dialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q090",
+      "source_chunk_ids": [
+        "CH064-S12-C001"
+      ],
+      "tested_concept": "Noninfectious Complications of Peritoneal Dialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q091",
+      "source_chunk_ids": [
+        "CH064-S13-C001"
+      ],
+      "tested_concept": "Patient Outcomes With Peritoneal Dialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q092",
+      "source_chunk_ids": [
+        "CH064-S13-C001"
+      ],
+      "tested_concept": "Patient Outcomes With Peritoneal Dialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q093",
+      "source_chunk_ids": [
+        "CH064-S13-C001"
+      ],
+      "tested_concept": "Patient Outcomes With Peritoneal Dialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q094",
+      "source_chunk_ids": [
+        "CH064-S13-C001"
+      ],
+      "tested_concept": "Patient Outcomes With Peritoneal Dialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q095",
+      "source_chunk_ids": [
+        "CH064-S13-C001"
+      ],
+      "tested_concept": "Patient Outcomes With Peritoneal Dialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q096",
+      "source_chunk_ids": [
+        "CH064-S14-C001"
+      ],
+      "tested_concept": "Economics and Cost Effectiveness of Peritoneal Dialysis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q097",
+      "source_chunk_ids": [
+        "CH064-S14-C001"
+      ],
+      "tested_concept": "Economics and Cost Effectiveness of Peritoneal Dialysis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q098",
+      "source_chunk_ids": [
+        "CH064-S14-C001"
+      ],
+      "tested_concept": "Economics and Cost Effectiveness of Peritoneal Dialysis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q099",
+      "source_chunk_ids": [
+        "CH064-S14-C001"
+      ],
+      "tested_concept": "Economics and Cost Effectiveness of Peritoneal Dialysis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH064-Q100",
+      "source_chunk_ids": [
+        "CH064-S14-C001"
+      ],
+      "tested_concept": "Economics and Cost Effectiveness of Peritoneal Dialysis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
