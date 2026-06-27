@@ -1,0 +1,1302 @@
+{
+  "chapter_id": "CH074",
+  "chapter_title": "Renal Replacement Therapy (Dialysis and Transplantation) in Pediatric End-Stage Kidney Disease",
+  "clinical_weight": 2,
+  "core_themes": [
+    "Early Complications of Kidney Transplantation",
+    "Long-Term Follow-Up of Children With Kidney Transplant",
+    "Clinical Consequences of Pediatric End-Stage Kidney Disease",
+    "Hemodialysis",
+    "Immunosuppression",
+    "Preparation of the Recipient for Transplantation",
+    "Peritoneal Dialysis",
+    "Pediatric Kidney Transplantation"
+  ],
+  "sections": [
+    {
+      "section_title": "Key Points",
+      "chunk_ids": [
+        "CH074-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S01-C001"
+      ],
+      "key_concepts": [
+        "Key Points"
+      ],
+      "recommended_question_count": 1,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Etiology",
+      "chunk_ids": [
+        "CH074-S02-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S02-C001"
+      ],
+      "key_concepts": [
+        "Etiology"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Clinical Consequences of Pediatric End-Stage Kidney Disease",
+      "chunk_ids": [
+        "CH074-S03-C001",
+        "CH074-S03-C002",
+        "CH074-S03-C003",
+        "CH074-S03-C004",
+        "CH074-S03-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S03-C001",
+        "CH074-S03-C002",
+        "CH074-S03-C003",
+        "CH074-S03-C004",
+        "CH074-S03-C005"
+      ],
+      "key_concepts": [
+        "Clinical Consequences of Pediatric End-Stage Kidney Disease"
+      ],
+      "recommended_question_count": 13,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Renal Replacement Therapy",
+      "chunk_ids": [
+        "CH074-S04-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S04-C001"
+      ],
+      "key_concepts": [
+        "Renal Replacement Therapy"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Advantages of Renal Transplantation Over Chronic Dialysis in Children",
+      "chunk_ids": [
+        "CH074-S05-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S05-C001"
+      ],
+      "key_concepts": [
+        "Advantages of Renal Transplantation Over Chronic Dialysis in Children"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Comparing Hemodialysis With Peritoneal Dialysis",
+      "chunk_ids": [
+        "CH074-S06-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S06-C001"
+      ],
+      "key_concepts": [
+        "Comparing Hemodialysis With Peritoneal Dialysis"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Hemodialysis",
+      "chunk_ids": [
+        "CH074-S07-C001",
+        "CH074-S07-C002",
+        "CH074-S07-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S07-C001",
+        "CH074-S07-C002",
+        "CH074-S07-C003"
+      ],
+      "key_concepts": [
+        "Hemodialysis"
+      ],
+      "recommended_question_count": 9,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Peritoneal Dialysis",
+      "chunk_ids": [
+        "CH074-S08-C001",
+        "CH074-S08-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S08-C001",
+        "CH074-S08-C002"
+      ],
+      "key_concepts": [
+        "Peritoneal Dialysis"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Renal Replacement Therapy for Children With Inborn Errors of Metabolism",
+      "chunk_ids": [
+        "CH074-S09-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S09-C001"
+      ],
+      "key_concepts": [
+        "Renal Replacement Therapy for Children With Inborn Errors of Metabolism"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Continuous Renal Replacement Therapy",
+      "chunk_ids": [
+        "CH074-S10-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S10-C001"
+      ],
+      "key_concepts": [
+        "Continuous Renal Replacement Therapy"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Pediatric Kidney Transplantation",
+      "chunk_ids": [
+        "CH074-S11-C001",
+        "CH074-S11-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S11-C001",
+        "CH074-S11-C002"
+      ],
+      "key_concepts": [
+        "Pediatric Kidney Transplantation"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Preparation of the Recipient for Transplantation",
+      "chunk_ids": [
+        "CH074-S12-C001",
+        "CH074-S12-C002",
+        "CH074-S12-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S12-C001",
+        "CH074-S12-C002",
+        "CH074-S12-C003"
+      ],
+      "key_concepts": [
+        "Preparation of the Recipient for Transplantation"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Transplant Immunology",
+      "chunk_ids": [
+        "CH074-S13-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S13-C001"
+      ],
+      "key_concepts": [
+        "Transplant Immunology"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Immunosuppression",
+      "chunk_ids": [
+        "CH074-S14-C001",
+        "CH074-S14-C002",
+        "CH074-S14-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S14-C001",
+        "CH074-S14-C002",
+        "CH074-S14-C003"
+      ],
+      "key_concepts": [
+        "Immunosuppression"
+      ],
+      "recommended_question_count": 8,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Perioperative Management",
+      "chunk_ids": [
+        "CH074-S15-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S15-C001"
+      ],
+      "key_concepts": [
+        "Perioperative Management"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Early Complications of Kidney Transplantation",
+      "chunk_ids": [
+        "CH074-S16-C001",
+        "CH074-S16-C002",
+        "CH074-S16-C003",
+        "CH074-S16-C004",
+        "CH074-S16-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S16-C001",
+        "CH074-S16-C002",
+        "CH074-S16-C003",
+        "CH074-S16-C004",
+        "CH074-S16-C005"
+      ],
+      "key_concepts": [
+        "Early Complications of Kidney Transplantation"
+      ],
+      "recommended_question_count": 14,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Graft Survival",
+      "chunk_ids": [
+        "CH074-S17-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S17-C001"
+      ],
+      "key_concepts": [
+        "Graft Survival"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Long-Term Follow-Up of Children With Kidney Transplant",
+      "chunk_ids": [
+        "CH074-S18-C001",
+        "CH074-S18-C002",
+        "CH074-S18-C003",
+        "CH074-S18-C004",
+        "CH074-S18-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH074-S18-C001",
+        "CH074-S18-C002",
+        "CH074-S18-C003",
+        "CH074-S18-C004",
+        "CH074-S18-C005"
+      ],
+      "key_concepts": [
+        "Long-Term Follow-Up of Children With Kidney Transplant"
+      ],
+      "recommended_question_count": 14,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH074-Q001",
+      "source_chunk_ids": [
+        "CH074-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q002",
+      "source_chunk_ids": [
+        "CH074-S02-C001"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q003",
+      "source_chunk_ids": [
+        "CH074-S02-C001"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q004",
+      "source_chunk_ids": [
+        "CH074-S02-C001"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q005",
+      "source_chunk_ids": [
+        "CH074-S03-C001"
+      ],
+      "tested_concept": "Clinical Consequences of Pediatric End-Stage Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q006",
+      "source_chunk_ids": [
+        "CH074-S03-C002"
+      ],
+      "tested_concept": "Clinical Consequences of Pediatric End-Stage Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q007",
+      "source_chunk_ids": [
+        "CH074-S03-C003"
+      ],
+      "tested_concept": "Clinical Consequences of Pediatric End-Stage Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q008",
+      "source_chunk_ids": [
+        "CH074-S03-C004"
+      ],
+      "tested_concept": "Clinical Consequences of Pediatric End-Stage Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q009",
+      "source_chunk_ids": [
+        "CH074-S03-C005"
+      ],
+      "tested_concept": "Clinical Consequences of Pediatric End-Stage Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q010",
+      "source_chunk_ids": [
+        "CH074-S03-C001"
+      ],
+      "tested_concept": "Clinical Consequences of Pediatric End-Stage Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q011",
+      "source_chunk_ids": [
+        "CH074-S03-C002"
+      ],
+      "tested_concept": "Clinical Consequences of Pediatric End-Stage Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q012",
+      "source_chunk_ids": [
+        "CH074-S03-C003"
+      ],
+      "tested_concept": "Clinical Consequences of Pediatric End-Stage Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q013",
+      "source_chunk_ids": [
+        "CH074-S03-C004"
+      ],
+      "tested_concept": "Clinical Consequences of Pediatric End-Stage Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q014",
+      "source_chunk_ids": [
+        "CH074-S03-C005"
+      ],
+      "tested_concept": "Clinical Consequences of Pediatric End-Stage Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q015",
+      "source_chunk_ids": [
+        "CH074-S03-C001"
+      ],
+      "tested_concept": "Clinical Consequences of Pediatric End-Stage Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q016",
+      "source_chunk_ids": [
+        "CH074-S03-C002"
+      ],
+      "tested_concept": "Clinical Consequences of Pediatric End-Stage Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q017",
+      "source_chunk_ids": [
+        "CH074-S03-C003"
+      ],
+      "tested_concept": "Clinical Consequences of Pediatric End-Stage Kidney Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q018",
+      "source_chunk_ids": [
+        "CH074-S04-C001"
+      ],
+      "tested_concept": "Renal Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q019",
+      "source_chunk_ids": [
+        "CH074-S04-C001"
+      ],
+      "tested_concept": "Renal Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q020",
+      "source_chunk_ids": [
+        "CH074-S04-C001"
+      ],
+      "tested_concept": "Renal Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q021",
+      "source_chunk_ids": [
+        "CH074-S05-C001"
+      ],
+      "tested_concept": "Advantages of Renal Transplantation Over Chronic Dialysis in Children",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q022",
+      "source_chunk_ids": [
+        "CH074-S05-C001"
+      ],
+      "tested_concept": "Advantages of Renal Transplantation Over Chronic Dialysis in Children",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q023",
+      "source_chunk_ids": [
+        "CH074-S06-C001"
+      ],
+      "tested_concept": "Comparing Hemodialysis With Peritoneal Dialysis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q024",
+      "source_chunk_ids": [
+        "CH074-S06-C001"
+      ],
+      "tested_concept": "Comparing Hemodialysis With Peritoneal Dialysis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q025",
+      "source_chunk_ids": [
+        "CH074-S07-C001"
+      ],
+      "tested_concept": "Hemodialysis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q026",
+      "source_chunk_ids": [
+        "CH074-S07-C002"
+      ],
+      "tested_concept": "Hemodialysis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q027",
+      "source_chunk_ids": [
+        "CH074-S07-C003"
+      ],
+      "tested_concept": "Hemodialysis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q028",
+      "source_chunk_ids": [
+        "CH074-S07-C001"
+      ],
+      "tested_concept": "Hemodialysis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q029",
+      "source_chunk_ids": [
+        "CH074-S07-C002"
+      ],
+      "tested_concept": "Hemodialysis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q030",
+      "source_chunk_ids": [
+        "CH074-S07-C003"
+      ],
+      "tested_concept": "Hemodialysis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q031",
+      "source_chunk_ids": [
+        "CH074-S07-C001"
+      ],
+      "tested_concept": "Hemodialysis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q032",
+      "source_chunk_ids": [
+        "CH074-S07-C002"
+      ],
+      "tested_concept": "Hemodialysis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q033",
+      "source_chunk_ids": [
+        "CH074-S07-C003"
+      ],
+      "tested_concept": "Hemodialysis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q034",
+      "source_chunk_ids": [
+        "CH074-S08-C001"
+      ],
+      "tested_concept": "Peritoneal Dialysis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q035",
+      "source_chunk_ids": [
+        "CH074-S08-C002"
+      ],
+      "tested_concept": "Peritoneal Dialysis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q036",
+      "source_chunk_ids": [
+        "CH074-S08-C001"
+      ],
+      "tested_concept": "Peritoneal Dialysis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q037",
+      "source_chunk_ids": [
+        "CH074-S08-C002"
+      ],
+      "tested_concept": "Peritoneal Dialysis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q038",
+      "source_chunk_ids": [
+        "CH074-S08-C001"
+      ],
+      "tested_concept": "Peritoneal Dialysis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q039",
+      "source_chunk_ids": [
+        "CH074-S09-C001"
+      ],
+      "tested_concept": "Renal Replacement Therapy for Children With Inborn Errors of Metabolism",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q040",
+      "source_chunk_ids": [
+        "CH074-S09-C001"
+      ],
+      "tested_concept": "Renal Replacement Therapy for Children With Inborn Errors of Metabolism",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q041",
+      "source_chunk_ids": [
+        "CH074-S09-C001"
+      ],
+      "tested_concept": "Renal Replacement Therapy for Children With Inborn Errors of Metabolism",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q042",
+      "source_chunk_ids": [
+        "CH074-S10-C001"
+      ],
+      "tested_concept": "Continuous Renal Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q043",
+      "source_chunk_ids": [
+        "CH074-S10-C001"
+      ],
+      "tested_concept": "Continuous Renal Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q044",
+      "source_chunk_ids": [
+        "CH074-S10-C001"
+      ],
+      "tested_concept": "Continuous Renal Replacement Therapy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q045",
+      "source_chunk_ids": [
+        "CH074-S11-C001"
+      ],
+      "tested_concept": "Pediatric Kidney Transplantation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q046",
+      "source_chunk_ids": [
+        "CH074-S11-C002"
+      ],
+      "tested_concept": "Pediatric Kidney Transplantation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q047",
+      "source_chunk_ids": [
+        "CH074-S11-C001"
+      ],
+      "tested_concept": "Pediatric Kidney Transplantation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q048",
+      "source_chunk_ids": [
+        "CH074-S11-C002"
+      ],
+      "tested_concept": "Pediatric Kidney Transplantation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q049",
+      "source_chunk_ids": [
+        "CH074-S12-C001"
+      ],
+      "tested_concept": "Preparation of the Recipient for Transplantation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q050",
+      "source_chunk_ids": [
+        "CH074-S12-C002"
+      ],
+      "tested_concept": "Preparation of the Recipient for Transplantation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q051",
+      "source_chunk_ids": [
+        "CH074-S12-C003"
+      ],
+      "tested_concept": "Preparation of the Recipient for Transplantation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q052",
+      "source_chunk_ids": [
+        "CH074-S12-C001"
+      ],
+      "tested_concept": "Preparation of the Recipient for Transplantation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q053",
+      "source_chunk_ids": [
+        "CH074-S12-C002"
+      ],
+      "tested_concept": "Preparation of the Recipient for Transplantation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q054",
+      "source_chunk_ids": [
+        "CH074-S12-C003"
+      ],
+      "tested_concept": "Preparation of the Recipient for Transplantation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q055",
+      "source_chunk_ids": [
+        "CH074-S12-C001"
+      ],
+      "tested_concept": "Preparation of the Recipient for Transplantation",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q056",
+      "source_chunk_ids": [
+        "CH074-S13-C001"
+      ],
+      "tested_concept": "Transplant Immunology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q057",
+      "source_chunk_ids": [
+        "CH074-S13-C001"
+      ],
+      "tested_concept": "Transplant Immunology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q058",
+      "source_chunk_ids": [
+        "CH074-S13-C001"
+      ],
+      "tested_concept": "Transplant Immunology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q059",
+      "source_chunk_ids": [
+        "CH074-S14-C001"
+      ],
+      "tested_concept": "Immunosuppression",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q060",
+      "source_chunk_ids": [
+        "CH074-S14-C002"
+      ],
+      "tested_concept": "Immunosuppression",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q061",
+      "source_chunk_ids": [
+        "CH074-S14-C003"
+      ],
+      "tested_concept": "Immunosuppression",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q062",
+      "source_chunk_ids": [
+        "CH074-S14-C001"
+      ],
+      "tested_concept": "Immunosuppression",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q063",
+      "source_chunk_ids": [
+        "CH074-S14-C002"
+      ],
+      "tested_concept": "Immunosuppression",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q064",
+      "source_chunk_ids": [
+        "CH074-S14-C003"
+      ],
+      "tested_concept": "Immunosuppression",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q065",
+      "source_chunk_ids": [
+        "CH074-S14-C001"
+      ],
+      "tested_concept": "Immunosuppression",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q066",
+      "source_chunk_ids": [
+        "CH074-S14-C002"
+      ],
+      "tested_concept": "Immunosuppression",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q067",
+      "source_chunk_ids": [
+        "CH074-S15-C001"
+      ],
+      "tested_concept": "Perioperative Management",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q068",
+      "source_chunk_ids": [
+        "CH074-S15-C001"
+      ],
+      "tested_concept": "Perioperative Management",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q069",
+      "source_chunk_ids": [
+        "CH074-S15-C001"
+      ],
+      "tested_concept": "Perioperative Management",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q070",
+      "source_chunk_ids": [
+        "CH074-S16-C001"
+      ],
+      "tested_concept": "Early Complications of Kidney Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q071",
+      "source_chunk_ids": [
+        "CH074-S16-C002"
+      ],
+      "tested_concept": "Early Complications of Kidney Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q072",
+      "source_chunk_ids": [
+        "CH074-S16-C003"
+      ],
+      "tested_concept": "Early Complications of Kidney Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q073",
+      "source_chunk_ids": [
+        "CH074-S16-C004"
+      ],
+      "tested_concept": "Early Complications of Kidney Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q074",
+      "source_chunk_ids": [
+        "CH074-S16-C005"
+      ],
+      "tested_concept": "Early Complications of Kidney Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q075",
+      "source_chunk_ids": [
+        "CH074-S16-C001"
+      ],
+      "tested_concept": "Early Complications of Kidney Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q076",
+      "source_chunk_ids": [
+        "CH074-S16-C002"
+      ],
+      "tested_concept": "Early Complications of Kidney Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q077",
+      "source_chunk_ids": [
+        "CH074-S16-C003"
+      ],
+      "tested_concept": "Early Complications of Kidney Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q078",
+      "source_chunk_ids": [
+        "CH074-S16-C004"
+      ],
+      "tested_concept": "Early Complications of Kidney Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q079",
+      "source_chunk_ids": [
+        "CH074-S16-C005"
+      ],
+      "tested_concept": "Early Complications of Kidney Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q080",
+      "source_chunk_ids": [
+        "CH074-S16-C001"
+      ],
+      "tested_concept": "Early Complications of Kidney Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH074-Q081",
+      "source_chunk_ids": [
+        "CH074-S16-C002"
+      ],
+      "tested_concept": "Early Complications of Kidney Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q082",
+      "source_chunk_ids": [
+        "CH074-S16-C003"
+      ],
+      "tested_concept": "Early Complications of Kidney Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q083",
+      "source_chunk_ids": [
+        "CH074-S16-C004"
+      ],
+      "tested_concept": "Early Complications of Kidney Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q084",
+      "source_chunk_ids": [
+        "CH074-S17-C001"
+      ],
+      "tested_concept": "Graft Survival",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q085",
+      "source_chunk_ids": [
+        "CH074-S17-C001"
+      ],
+      "tested_concept": "Graft Survival",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q086",
+      "source_chunk_ids": [
+        "CH074-S17-C001"
+      ],
+      "tested_concept": "Graft Survival",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q087",
+      "source_chunk_ids": [
+        "CH074-S18-C001"
+      ],
+      "tested_concept": "Long-Term Follow-Up of Children With Kidney Transplant",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q088",
+      "source_chunk_ids": [
+        "CH074-S18-C002"
+      ],
+      "tested_concept": "Long-Term Follow-Up of Children With Kidney Transplant",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q089",
+      "source_chunk_ids": [
+        "CH074-S18-C003"
+      ],
+      "tested_concept": "Long-Term Follow-Up of Children With Kidney Transplant",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q090",
+      "source_chunk_ids": [
+        "CH074-S18-C004"
+      ],
+      "tested_concept": "Long-Term Follow-Up of Children With Kidney Transplant",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q091",
+      "source_chunk_ids": [
+        "CH074-S18-C005"
+      ],
+      "tested_concept": "Long-Term Follow-Up of Children With Kidney Transplant",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q092",
+      "source_chunk_ids": [
+        "CH074-S18-C001"
+      ],
+      "tested_concept": "Long-Term Follow-Up of Children With Kidney Transplant",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q093",
+      "source_chunk_ids": [
+        "CH074-S18-C002"
+      ],
+      "tested_concept": "Long-Term Follow-Up of Children With Kidney Transplant",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q094",
+      "source_chunk_ids": [
+        "CH074-S18-C003"
+      ],
+      "tested_concept": "Long-Term Follow-Up of Children With Kidney Transplant",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q095",
+      "source_chunk_ids": [
+        "CH074-S18-C004"
+      ],
+      "tested_concept": "Long-Term Follow-Up of Children With Kidney Transplant",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q096",
+      "source_chunk_ids": [
+        "CH074-S18-C005"
+      ],
+      "tested_concept": "Long-Term Follow-Up of Children With Kidney Transplant",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q097",
+      "source_chunk_ids": [
+        "CH074-S18-C001"
+      ],
+      "tested_concept": "Long-Term Follow-Up of Children With Kidney Transplant",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q098",
+      "source_chunk_ids": [
+        "CH074-S18-C002"
+      ],
+      "tested_concept": "Long-Term Follow-Up of Children With Kidney Transplant",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q099",
+      "source_chunk_ids": [
+        "CH074-S18-C003"
+      ],
+      "tested_concept": "Long-Term Follow-Up of Children With Kidney Transplant",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH074-Q100",
+      "source_chunk_ids": [
+        "CH074-S18-C004"
+      ],
+      "tested_concept": "Long-Term Follow-Up of Children With Kidney Transplant",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
