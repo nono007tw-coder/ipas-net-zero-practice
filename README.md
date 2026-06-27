@@ -62,6 +62,12 @@ data/raw_chapters/chapter_085.txt
 
 請保留原文順序。系統不會修改原始檔，chunking 只會讀取並產生可追蹤的 JSON。
 
+可先透過匯入工具複製原文並建立 SHA-256 manifest：
+
+```bash
+python src/ingest.py --input authorized_chapter_001.txt --chapter CH001 --title "Embryology of the Kidney"
+```
+
 ## 如何執行 chunking
 
 單章切分：
@@ -90,19 +96,33 @@ python src/chunking.py --input-dir data/raw_chapters --output-dir data/chunks
 
 ## 如何建立章節 blueprint
 
-使用 `prompts/01_chapter_blueprint_prompt.txt`。將 `data/chunks/chapter_001_chunks.json` 的內容放入 `{{chapter_chunks}}`，交由命題總召模型產生 JSON blueprint。
+先建立只包含本章 chunks 的 blueprint prompt：
 
-輸出建議存成：
+```bash
+python src/blueprint.py --chapter CH001
+```
 
-```text
-data/blueprints/CH001_blueprint.json
+模型回傳 JSON 後，先驗證再存入正式 blueprint：
+
+```bash
+python src/blueprint.py --chapter CH001 --response model_blueprint.json
 ```
 
 每章 blueprint 應規劃 100 題，包含核心考點、題型分布、難度分布與不適合命題內容。
 
 ## 如何分批產生題目
 
-使用 `prompts/02_question_generation_prompt.txt`。
+建立第一批 10 題的命題 prompt：
+
+```bash
+python src/generate_questions.py --chapter CH001 --batch 1
+```
+
+模型回傳 JSON array 後驗證：
+
+```bash
+python src/generate_questions.py --chapter CH001 --batch 1 --response model_batch_01.json
+```
 
 每章 100 題需分成 10 批，每批 10 題：
 
@@ -120,7 +140,7 @@ CH001-Q091 至 CH001-Q100
 - 本批題號範圍
 - 指定來源 chunks
 
-初稿題目建議存到：
+初稿題目會存到：
 
 ```text
 data/generated_questions/CH001_batch_01.json
@@ -128,7 +148,19 @@ data/generated_questions/CH001_batch_01.json
 
 ## 如何審題
 
-使用 `prompts/03_quality_review_prompt.txt`。每題需由第二階段 reviewer 檢查：
+為指定題目建立 reviewer prompt：
+
+```bash
+python src/review_questions.py --questions data/generated_questions/CH001_batch_01.json --chunks data/chunks/chapter_001_chunks.json --question-id CH001-Q001
+```
+
+Reviewer 回傳 JSON 後套用審查：
+
+```bash
+python src/review_questions.py --questions data/generated_questions/CH001_batch_01.json --chunks data/chunks/chapter_001_chunks.json --response CH001_batch_01_reviews.json
+```
+
+每題需由第二階段 reviewer 檢查：
 
 - 是否完全忠於原文
 - 是否使用外部知識
@@ -138,10 +170,10 @@ data/generated_questions/CH001_batch_01.json
 - 是否過度瑣碎
 - 是否與既有題目重複
 
-審題後題目建議存到：
+審題後題目會存到：
 
 ```text
-data/reviewed_questions/CH001_reviewed.jsonl
+data/reviewed_questions/CH001_batch_01_reviewed.json
 ```
 
 品質分數建議：
@@ -153,7 +185,19 @@ data/reviewed_questions/CH001_reviewed.jsonl
 
 ## 如何去重
 
-後續將實作 `src/deduplicate.py`。目前建議先以審題 prompt 檢查：
+同章去重：
+
+```bash
+python src/deduplicate.py --scope chapter --chapter CH001
+```
+
+跨章去重：
+
+```bash
+python src/deduplicate.py --scope all
+```
+
+程式會檢查：
 
 - 題幹相似
 - 考點相似
@@ -187,7 +231,7 @@ python src/export.py --input-dir data/final_item_bank --output-dir outputs --for
 
 ## 如何產生正式考卷
 
-後續將實作 `src/select_exam.py`。正式考卷選題規則：
+`src/select_exam.py` 已實作正式考卷選題，規則如下：
 
 - 只選 `review_status = accepted`
 - 排除 `quality_score < 90`
@@ -198,35 +242,67 @@ python src/export.py --input-dir data/final_item_bank --output-dir outputs --for
 - 避免同一來源 chunk 過度集中
 - 可設定章節權重
 
-預計命令：
+執行命令：
 
 ```bash
-python src/select_exam.py --num_questions 100 --output outputs/exam_sets/exam_set_001.xlsx
+python src/select_exam.py --num-questions 100 --exam-id exam_set_001
 ```
+
+系統會產生：
+
+- `exam_set_001.xlsx`
+- `exam_set_001_questions_only.docx`
+- `exam_set_001_answer_key.xlsx`
+- `exam_set_001_with_explanations.docx`
+- `exam_set_001_manifest.json`
 
 ## 版權注意事項
 
 本系統只能在使用者合法提供原文的前提下，用於建立教學與複習題庫。不得公開散布 Brenner 原文、完整段落、表格、圖說或大量逐字摘錄。題庫應保留來源追蹤資訊，但 `source_basis` 只能是簡短依據摘要，不應重製受版權保護內容。
 
-## 已完成核心檔案
+## 已完成功能
 
 - `src/schemas.py`
+- `src/ingest.py`
 - `src/chunking.py`
+- `src/blueprint.py`
+- `src/generate_questions.py`
+- `src/review_questions.py`
+- `src/deduplicate.py`
+- `src/select_exam.py`
 - `src/export.py`
+- `src/utils.py`
 - `prompts/01_chapter_blueprint_prompt.txt`
 - `prompts/02_question_generation_prompt.txt`
 - `prompts/03_quality_review_prompt.txt`
-- `README.md`
-
-## 後續仍需實作
-
-- `src/blueprint.py`: 將 chunks 與 prompt 組合成可送模型的 blueprint 請求。
-- `src/generate_questions.py`: 依 blueprint 與 chunk 分批產生題目。
-- `src/review_questions.py`: 批次審題並產生品質分數。
-- `src/deduplicate.py`: 同章與跨章去重。
-- `src/select_exam.py`: 正式考卷選題。
-- `src/utils.py`: 共用讀寫、驗證與 logging。
 - `prompts/04_deduplication_prompt.txt`
 - `prompts/05_exam_selection_prompt.txt`
 - `prompts/06_revision_prompt.txt`
-- PDF/DOCX 正式考卷輸出。
+- `data/blueprints/chapter_weights.json`
+- `tests/test_pipeline.py`
+- `README.md`
+
+## 模型互動方式
+
+為了確保所有題目只能根據使用者提供的原文產生，程式不會自行從網路取得醫學內容。流程分成：
+
+1. CLI 產生包含指定 chunks 的 prompt。
+2. 將 prompt 交給命題或審題模型。
+3. 將模型回傳的 JSON 透過 `--response` 送回 CLI 驗證。
+4. 通過 chapter、chunk、題號與 QuestionItem schema 驗證後才寫入題庫。
+
+## 測試
+
+```bash
+set PYTHONPATH=src
+python -m unittest discover -s tests -v
+```
+
+目前測試涵蓋 chunking、blueprint、分批題號、QuestionItem schema、去重、章節加權選題與 XLSX/DOCX 輸出。
+
+## 後續可擴充
+
+- 對接特定模型 API，但仍必須只傳送使用者提供的 chunks。
+- 增加人工審題簽核介面與版本紀錄。
+- 增加更進階的 embedding 去重；目前已提供不依賴外部服務的文字相似度去重。
+- 將通過審核的 final item bank 自動轉換為線上網站 `questions-data.js`。
