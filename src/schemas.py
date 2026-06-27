@@ -53,6 +53,7 @@ class ChunkItem:
     paragraph_range: str
     text: str
     word_count: int
+    source_pdf_page_range: str = ""
 
     def validate(self) -> list[str]:
         errors: list[str] = []
