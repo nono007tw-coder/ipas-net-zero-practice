@@ -1,0 +1,1142 @@
+{
+  "chapter_id": "CH016",
+  "chapter_title": "Disorders of Acid-Base Balance",
+  "clinical_weight": 5,
+  "core_themes": [
+    "Metabolic Disorders",
+    "Stepwise Approach to the Diagnosis of Acid-Base Disorders",
+    "Respiratory Disorders",
+    "Renal Regulation",
+    "Systemic Response to Addition of Metabolic Acids",
+    "Systemic Response to Gain of Alkali",
+    "Acid-Base Homeostasis",
+    "Systemic Response to Respiratory Acidosis or Alkalosis"
+  ],
+  "sections": [
+    {
+      "section_title": "Acid-Base Homeostasis",
+      "chunk_ids": [
+        "CH016-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH016-S01-C001"
+      ],
+      "key_concepts": [
+        "Acid-Base Homeostasis"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Renal Regulation",
+      "chunk_ids": [
+        "CH016-S02-C001",
+        "CH016-S02-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH016-S02-C001",
+        "CH016-S02-C002"
+      ],
+      "key_concepts": [
+        "Renal Regulation"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Systemic Response to Respiratory Acidosis or Alkalosis",
+      "chunk_ids": [
+        "CH016-S03-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH016-S03-C001"
+      ],
+      "key_concepts": [
+        "Systemic Response to Respiratory Acidosis or Alkalosis"
+      ],
+      "recommended_question_count": 1,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Systemic Response to Addition of Metabolic Acids",
+      "chunk_ids": [
+        "CH016-S04-C001",
+        "CH016-S04-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH016-S04-C001",
+        "CH016-S04-C002"
+      ],
+      "key_concepts": [
+        "Systemic Response to Addition of Metabolic Acids"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Systemic Response to Gain of Alkali",
+      "chunk_ids": [
+        "CH016-S05-C001",
+        "CH016-S05-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH016-S05-C001",
+        "CH016-S05-C002"
+      ],
+      "key_concepts": [
+        "Systemic Response to Gain of Alkali"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Stepwise Approach to the Diagnosis of Acid-Base Disorders",
+      "chunk_ids": [
+        "CH016-S06-C001",
+        "CH016-S06-C002",
+        "CH016-S06-C003",
+        "CH016-S06-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH016-S06-C001",
+        "CH016-S06-C002",
+        "CH016-S06-C003",
+        "CH016-S06-C004"
+      ],
+      "key_concepts": [
+        "Stepwise Approach to the Diagnosis of Acid-Base Disorders"
+      ],
+      "recommended_question_count": 10,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Respiratory Disorders",
+      "chunk_ids": [
+        "CH016-S07-C001",
+        "CH016-S07-C002",
+        "CH016-S07-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH016-S07-C001",
+        "CH016-S07-C002",
+        "CH016-S07-C003"
+      ],
+      "key_concepts": [
+        "Respiratory Disorders"
+      ],
+      "recommended_question_count": 8,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Metabolic Disorders",
+      "chunk_ids": [
+        "CH016-S08-C001",
+        "CH016-S08-C002",
+        "CH016-S08-C003",
+        "CH016-S08-C004",
+        "CH016-S08-C005",
+        "CH016-S08-C006",
+        "CH016-S08-C007",
+        "CH016-S08-C008",
+        "CH016-S08-C009",
+        "CH016-S08-C010",
+        "CH016-S08-C011",
+        "CH016-S08-C012",
+        "CH016-S08-C013",
+        "CH016-S08-C014",
+        "CH016-S08-C015",
+        "CH016-S08-C016",
+        "CH016-S08-C017",
+        "CH016-S08-C018",
+        "CH016-S08-C019",
+        "CH016-S08-C020",
+        "CH016-S08-C021",
+        "CH016-S08-C022",
+        "CH016-S08-C023"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH016-S08-C001",
+        "CH016-S08-C002",
+        "CH016-S08-C003",
+        "CH016-S08-C004",
+        "CH016-S08-C005",
+        "CH016-S08-C006",
+        "CH016-S08-C007",
+        "CH016-S08-C008",
+        "CH016-S08-C009",
+        "CH016-S08-C010",
+        "CH016-S08-C011",
+        "CH016-S08-C012",
+        "CH016-S08-C013",
+        "CH016-S08-C014",
+        "CH016-S08-C015",
+        "CH016-S08-C016",
+        "CH016-S08-C017",
+        "CH016-S08-C018",
+        "CH016-S08-C019",
+        "CH016-S08-C020",
+        "CH016-S08-C021",
+        "CH016-S08-C022",
+        "CH016-S08-C023"
+      ],
+      "key_concepts": [
+        "Metabolic Disorders"
+      ],
+      "recommended_question_count": 64,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH016-Q001",
+      "source_chunk_ids": [
+        "CH016-S01-C001"
+      ],
+      "tested_concept": "Acid-Base Homeostasis",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q002",
+      "source_chunk_ids": [
+        "CH016-S01-C001"
+      ],
+      "tested_concept": "Acid-Base Homeostasis",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q003",
+      "source_chunk_ids": [
+        "CH016-S02-C001"
+      ],
+      "tested_concept": "Renal Regulation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q004",
+      "source_chunk_ids": [
+        "CH016-S02-C002"
+      ],
+      "tested_concept": "Renal Regulation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q005",
+      "source_chunk_ids": [
+        "CH016-S02-C001"
+      ],
+      "tested_concept": "Renal Regulation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q006",
+      "source_chunk_ids": [
+        "CH016-S02-C002"
+      ],
+      "tested_concept": "Renal Regulation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q007",
+      "source_chunk_ids": [
+        "CH016-S02-C001"
+      ],
+      "tested_concept": "Renal Regulation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q008",
+      "source_chunk_ids": [
+        "CH016-S03-C001"
+      ],
+      "tested_concept": "Systemic Response to Respiratory Acidosis or Alkalosis",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q009",
+      "source_chunk_ids": [
+        "CH016-S04-C001"
+      ],
+      "tested_concept": "Systemic Response to Addition of Metabolic Acids",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q010",
+      "source_chunk_ids": [
+        "CH016-S04-C002"
+      ],
+      "tested_concept": "Systemic Response to Addition of Metabolic Acids",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q011",
+      "source_chunk_ids": [
+        "CH016-S04-C001"
+      ],
+      "tested_concept": "Systemic Response to Addition of Metabolic Acids",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q012",
+      "source_chunk_ids": [
+        "CH016-S04-C002"
+      ],
+      "tested_concept": "Systemic Response to Addition of Metabolic Acids",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q013",
+      "source_chunk_ids": [
+        "CH016-S04-C001"
+      ],
+      "tested_concept": "Systemic Response to Addition of Metabolic Acids",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q014",
+      "source_chunk_ids": [
+        "CH016-S05-C001"
+      ],
+      "tested_concept": "Systemic Response to Gain of Alkali",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q015",
+      "source_chunk_ids": [
+        "CH016-S05-C002"
+      ],
+      "tested_concept": "Systemic Response to Gain of Alkali",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q016",
+      "source_chunk_ids": [
+        "CH016-S05-C001"
+      ],
+      "tested_concept": "Systemic Response to Gain of Alkali",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q017",
+      "source_chunk_ids": [
+        "CH016-S05-C002"
+      ],
+      "tested_concept": "Systemic Response to Gain of Alkali",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q018",
+      "source_chunk_ids": [
+        "CH016-S05-C001"
+      ],
+      "tested_concept": "Systemic Response to Gain of Alkali",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q019",
+      "source_chunk_ids": [
+        "CH016-S06-C001"
+      ],
+      "tested_concept": "Stepwise Approach to the Diagnosis of Acid-Base Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q020",
+      "source_chunk_ids": [
+        "CH016-S06-C002"
+      ],
+      "tested_concept": "Stepwise Approach to the Diagnosis of Acid-Base Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q021",
+      "source_chunk_ids": [
+        "CH016-S06-C003"
+      ],
+      "tested_concept": "Stepwise Approach to the Diagnosis of Acid-Base Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q022",
+      "source_chunk_ids": [
+        "CH016-S06-C004"
+      ],
+      "tested_concept": "Stepwise Approach to the Diagnosis of Acid-Base Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q023",
+      "source_chunk_ids": [
+        "CH016-S06-C001"
+      ],
+      "tested_concept": "Stepwise Approach to the Diagnosis of Acid-Base Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q024",
+      "source_chunk_ids": [
+        "CH016-S06-C002"
+      ],
+      "tested_concept": "Stepwise Approach to the Diagnosis of Acid-Base Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q025",
+      "source_chunk_ids": [
+        "CH016-S06-C003"
+      ],
+      "tested_concept": "Stepwise Approach to the Diagnosis of Acid-Base Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q026",
+      "source_chunk_ids": [
+        "CH016-S06-C004"
+      ],
+      "tested_concept": "Stepwise Approach to the Diagnosis of Acid-Base Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q027",
+      "source_chunk_ids": [
+        "CH016-S06-C001"
+      ],
+      "tested_concept": "Stepwise Approach to the Diagnosis of Acid-Base Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q028",
+      "source_chunk_ids": [
+        "CH016-S06-C002"
+      ],
+      "tested_concept": "Stepwise Approach to the Diagnosis of Acid-Base Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q029",
+      "source_chunk_ids": [
+        "CH016-S07-C001"
+      ],
+      "tested_concept": "Respiratory Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q030",
+      "source_chunk_ids": [
+        "CH016-S07-C002"
+      ],
+      "tested_concept": "Respiratory Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q031",
+      "source_chunk_ids": [
+        "CH016-S07-C003"
+      ],
+      "tested_concept": "Respiratory Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q032",
+      "source_chunk_ids": [
+        "CH016-S07-C001"
+      ],
+      "tested_concept": "Respiratory Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q033",
+      "source_chunk_ids": [
+        "CH016-S07-C002"
+      ],
+      "tested_concept": "Respiratory Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q034",
+      "source_chunk_ids": [
+        "CH016-S07-C003"
+      ],
+      "tested_concept": "Respiratory Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q035",
+      "source_chunk_ids": [
+        "CH016-S07-C001"
+      ],
+      "tested_concept": "Respiratory Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q036",
+      "source_chunk_ids": [
+        "CH016-S07-C002"
+      ],
+      "tested_concept": "Respiratory Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q037",
+      "source_chunk_ids": [
+        "CH016-S08-C001"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q038",
+      "source_chunk_ids": [
+        "CH016-S08-C002"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q039",
+      "source_chunk_ids": [
+        "CH016-S08-C003"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q040",
+      "source_chunk_ids": [
+        "CH016-S08-C004"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q041",
+      "source_chunk_ids": [
+        "CH016-S08-C005"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q042",
+      "source_chunk_ids": [
+        "CH016-S08-C006"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q043",
+      "source_chunk_ids": [
+        "CH016-S08-C007"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q044",
+      "source_chunk_ids": [
+        "CH016-S08-C008"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q045",
+      "source_chunk_ids": [
+        "CH016-S08-C009"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q046",
+      "source_chunk_ids": [
+        "CH016-S08-C010"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q047",
+      "source_chunk_ids": [
+        "CH016-S08-C011"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q048",
+      "source_chunk_ids": [
+        "CH016-S08-C012"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q049",
+      "source_chunk_ids": [
+        "CH016-S08-C013"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q050",
+      "source_chunk_ids": [
+        "CH016-S08-C014"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q051",
+      "source_chunk_ids": [
+        "CH016-S08-C015"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q052",
+      "source_chunk_ids": [
+        "CH016-S08-C016"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q053",
+      "source_chunk_ids": [
+        "CH016-S08-C017"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q054",
+      "source_chunk_ids": [
+        "CH016-S08-C018"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q055",
+      "source_chunk_ids": [
+        "CH016-S08-C019"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q056",
+      "source_chunk_ids": [
+        "CH016-S08-C020"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q057",
+      "source_chunk_ids": [
+        "CH016-S08-C021"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q058",
+      "source_chunk_ids": [
+        "CH016-S08-C022"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q059",
+      "source_chunk_ids": [
+        "CH016-S08-C023"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q060",
+      "source_chunk_ids": [
+        "CH016-S08-C001"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q061",
+      "source_chunk_ids": [
+        "CH016-S08-C002"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q062",
+      "source_chunk_ids": [
+        "CH016-S08-C003"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q063",
+      "source_chunk_ids": [
+        "CH016-S08-C004"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q064",
+      "source_chunk_ids": [
+        "CH016-S08-C005"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q065",
+      "source_chunk_ids": [
+        "CH016-S08-C006"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q066",
+      "source_chunk_ids": [
+        "CH016-S08-C007"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q067",
+      "source_chunk_ids": [
+        "CH016-S08-C008"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q068",
+      "source_chunk_ids": [
+        "CH016-S08-C009"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q069",
+      "source_chunk_ids": [
+        "CH016-S08-C010"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q070",
+      "source_chunk_ids": [
+        "CH016-S08-C011"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q071",
+      "source_chunk_ids": [
+        "CH016-S08-C012"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q072",
+      "source_chunk_ids": [
+        "CH016-S08-C013"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q073",
+      "source_chunk_ids": [
+        "CH016-S08-C014"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q074",
+      "source_chunk_ids": [
+        "CH016-S08-C015"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q075",
+      "source_chunk_ids": [
+        "CH016-S08-C016"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q076",
+      "source_chunk_ids": [
+        "CH016-S08-C017"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q077",
+      "source_chunk_ids": [
+        "CH016-S08-C018"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q078",
+      "source_chunk_ids": [
+        "CH016-S08-C019"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q079",
+      "source_chunk_ids": [
+        "CH016-S08-C020"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q080",
+      "source_chunk_ids": [
+        "CH016-S08-C021"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH016-Q081",
+      "source_chunk_ids": [
+        "CH016-S08-C022"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q082",
+      "source_chunk_ids": [
+        "CH016-S08-C023"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q083",
+      "source_chunk_ids": [
+        "CH016-S08-C001"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q084",
+      "source_chunk_ids": [
+        "CH016-S08-C002"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q085",
+      "source_chunk_ids": [
+        "CH016-S08-C003"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q086",
+      "source_chunk_ids": [
+        "CH016-S08-C004"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q087",
+      "source_chunk_ids": [
+        "CH016-S08-C005"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q088",
+      "source_chunk_ids": [
+        "CH016-S08-C006"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q089",
+      "source_chunk_ids": [
+        "CH016-S08-C007"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q090",
+      "source_chunk_ids": [
+        "CH016-S08-C008"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q091",
+      "source_chunk_ids": [
+        "CH016-S08-C009"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q092",
+      "source_chunk_ids": [
+        "CH016-S08-C010"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q093",
+      "source_chunk_ids": [
+        "CH016-S08-C011"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q094",
+      "source_chunk_ids": [
+        "CH016-S08-C012"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q095",
+      "source_chunk_ids": [
+        "CH016-S08-C013"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q096",
+      "source_chunk_ids": [
+        "CH016-S08-C014"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q097",
+      "source_chunk_ids": [
+        "CH016-S08-C015"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q098",
+      "source_chunk_ids": [
+        "CH016-S08-C016"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q099",
+      "source_chunk_ids": [
+        "CH016-S08-C017"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH016-Q100",
+      "source_chunk_ids": [
+        "CH016-S08-C018"
+      ],
+      "tested_concept": "Metabolic Disorders",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
