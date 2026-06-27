@@ -1,0 +1,1037 @@
+{
+  "chapter_id": "CH041",
+  "chapter_title": "Kidney Cancer",
+  "clinical_weight": 2,
+  "core_themes": [
+    "Evaluation and Prognostic Assessment of Renal Masses",
+    "Biology of Renal Cell Carcinoma",
+    "Advanced Renal Cell Carcinoma and Systemic Therapy",
+    "Cystic Diseases and Renal Cell Carcinoma",
+    "Acquired Cystic Kidney Disease, Renal Cell Carcinoma, and Renal Transplantation"
+  ],
+  "sections": [
+    {
+      "section_title": "Biology of Renal Cell Carcinoma",
+      "chunk_ids": [
+        "CH041-S01-C001",
+        "CH041-S01-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH041-S01-C001",
+        "CH041-S01-C002"
+      ],
+      "key_concepts": [
+        "Biology of Renal Cell Carcinoma"
+      ],
+      "recommended_question_count": 23,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Cystic Diseases and Renal Cell Carcinoma",
+      "chunk_ids": [
+        "CH041-S02-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH041-S02-C001"
+      ],
+      "key_concepts": [
+        "Cystic Diseases and Renal Cell Carcinoma"
+      ],
+      "recommended_question_count": 10,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Acquired Cystic Kidney Disease, Renal Cell Carcinoma, and Renal Transplantation",
+      "chunk_ids": [
+        "CH041-S03-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH041-S03-C001"
+      ],
+      "key_concepts": [
+        "Acquired Cystic Kidney Disease, Renal Cell Carcinoma, and Renal Transplantation"
+      ],
+      "recommended_question_count": 10,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Evaluation and Prognostic Assessment of Renal Masses",
+      "chunk_ids": [
+        "CH041-S04-C001",
+        "CH041-S04-C002",
+        "CH041-S04-C003",
+        "CH041-S04-C004",
+        "CH041-S04-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH041-S04-C001",
+        "CH041-S04-C002",
+        "CH041-S04-C003",
+        "CH041-S04-C004",
+        "CH041-S04-C005"
+      ],
+      "key_concepts": [
+        "Evaluation and Prognostic Assessment of Renal Masses"
+      ],
+      "recommended_question_count": 43,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Advanced Renal Cell Carcinoma and Systemic Therapy",
+      "chunk_ids": [
+        "CH041-S05-C001",
+        "CH041-S05-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH041-S05-C001",
+        "CH041-S05-C002"
+      ],
+      "key_concepts": [
+        "Advanced Renal Cell Carcinoma and Systemic Therapy"
+      ],
+      "recommended_question_count": 14,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH041-Q001",
+      "source_chunk_ids": [
+        "CH041-S01-C001"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q002",
+      "source_chunk_ids": [
+        "CH041-S01-C002"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q003",
+      "source_chunk_ids": [
+        "CH041-S01-C001"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q004",
+      "source_chunk_ids": [
+        "CH041-S01-C002"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q005",
+      "source_chunk_ids": [
+        "CH041-S01-C001"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q006",
+      "source_chunk_ids": [
+        "CH041-S01-C002"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q007",
+      "source_chunk_ids": [
+        "CH041-S01-C001"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q008",
+      "source_chunk_ids": [
+        "CH041-S01-C002"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q009",
+      "source_chunk_ids": [
+        "CH041-S01-C001"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q010",
+      "source_chunk_ids": [
+        "CH041-S01-C002"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q011",
+      "source_chunk_ids": [
+        "CH041-S01-C001"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q012",
+      "source_chunk_ids": [
+        "CH041-S01-C002"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q013",
+      "source_chunk_ids": [
+        "CH041-S01-C001"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q014",
+      "source_chunk_ids": [
+        "CH041-S01-C002"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q015",
+      "source_chunk_ids": [
+        "CH041-S01-C001"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q016",
+      "source_chunk_ids": [
+        "CH041-S01-C002"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q017",
+      "source_chunk_ids": [
+        "CH041-S01-C001"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q018",
+      "source_chunk_ids": [
+        "CH041-S01-C002"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q019",
+      "source_chunk_ids": [
+        "CH041-S01-C001"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q020",
+      "source_chunk_ids": [
+        "CH041-S01-C002"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q021",
+      "source_chunk_ids": [
+        "CH041-S01-C001"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q022",
+      "source_chunk_ids": [
+        "CH041-S01-C002"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q023",
+      "source_chunk_ids": [
+        "CH041-S01-C001"
+      ],
+      "tested_concept": "Biology of Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q024",
+      "source_chunk_ids": [
+        "CH041-S02-C001"
+      ],
+      "tested_concept": "Cystic Diseases and Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q025",
+      "source_chunk_ids": [
+        "CH041-S02-C001"
+      ],
+      "tested_concept": "Cystic Diseases and Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q026",
+      "source_chunk_ids": [
+        "CH041-S02-C001"
+      ],
+      "tested_concept": "Cystic Diseases and Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q027",
+      "source_chunk_ids": [
+        "CH041-S02-C001"
+      ],
+      "tested_concept": "Cystic Diseases and Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q028",
+      "source_chunk_ids": [
+        "CH041-S02-C001"
+      ],
+      "tested_concept": "Cystic Diseases and Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q029",
+      "source_chunk_ids": [
+        "CH041-S02-C001"
+      ],
+      "tested_concept": "Cystic Diseases and Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q030",
+      "source_chunk_ids": [
+        "CH041-S02-C001"
+      ],
+      "tested_concept": "Cystic Diseases and Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q031",
+      "source_chunk_ids": [
+        "CH041-S02-C001"
+      ],
+      "tested_concept": "Cystic Diseases and Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q032",
+      "source_chunk_ids": [
+        "CH041-S02-C001"
+      ],
+      "tested_concept": "Cystic Diseases and Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q033",
+      "source_chunk_ids": [
+        "CH041-S02-C001"
+      ],
+      "tested_concept": "Cystic Diseases and Renal Cell Carcinoma",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q034",
+      "source_chunk_ids": [
+        "CH041-S03-C001"
+      ],
+      "tested_concept": "Acquired Cystic Kidney Disease, Renal Cell Carcinoma, and Renal Transplantation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q035",
+      "source_chunk_ids": [
+        "CH041-S03-C001"
+      ],
+      "tested_concept": "Acquired Cystic Kidney Disease, Renal Cell Carcinoma, and Renal Transplantation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q036",
+      "source_chunk_ids": [
+        "CH041-S03-C001"
+      ],
+      "tested_concept": "Acquired Cystic Kidney Disease, Renal Cell Carcinoma, and Renal Transplantation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q037",
+      "source_chunk_ids": [
+        "CH041-S03-C001"
+      ],
+      "tested_concept": "Acquired Cystic Kidney Disease, Renal Cell Carcinoma, and Renal Transplantation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q038",
+      "source_chunk_ids": [
+        "CH041-S03-C001"
+      ],
+      "tested_concept": "Acquired Cystic Kidney Disease, Renal Cell Carcinoma, and Renal Transplantation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q039",
+      "source_chunk_ids": [
+        "CH041-S03-C001"
+      ],
+      "tested_concept": "Acquired Cystic Kidney Disease, Renal Cell Carcinoma, and Renal Transplantation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q040",
+      "source_chunk_ids": [
+        "CH041-S03-C001"
+      ],
+      "tested_concept": "Acquired Cystic Kidney Disease, Renal Cell Carcinoma, and Renal Transplantation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q041",
+      "source_chunk_ids": [
+        "CH041-S03-C001"
+      ],
+      "tested_concept": "Acquired Cystic Kidney Disease, Renal Cell Carcinoma, and Renal Transplantation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q042",
+      "source_chunk_ids": [
+        "CH041-S03-C001"
+      ],
+      "tested_concept": "Acquired Cystic Kidney Disease, Renal Cell Carcinoma, and Renal Transplantation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q043",
+      "source_chunk_ids": [
+        "CH041-S03-C001"
+      ],
+      "tested_concept": "Acquired Cystic Kidney Disease, Renal Cell Carcinoma, and Renal Transplantation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q044",
+      "source_chunk_ids": [
+        "CH041-S04-C001"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q045",
+      "source_chunk_ids": [
+        "CH041-S04-C002"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q046",
+      "source_chunk_ids": [
+        "CH041-S04-C003"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q047",
+      "source_chunk_ids": [
+        "CH041-S04-C004"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q048",
+      "source_chunk_ids": [
+        "CH041-S04-C005"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q049",
+      "source_chunk_ids": [
+        "CH041-S04-C001"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q050",
+      "source_chunk_ids": [
+        "CH041-S04-C002"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q051",
+      "source_chunk_ids": [
+        "CH041-S04-C003"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q052",
+      "source_chunk_ids": [
+        "CH041-S04-C004"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q053",
+      "source_chunk_ids": [
+        "CH041-S04-C005"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q054",
+      "source_chunk_ids": [
+        "CH041-S04-C001"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q055",
+      "source_chunk_ids": [
+        "CH041-S04-C002"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q056",
+      "source_chunk_ids": [
+        "CH041-S04-C003"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q057",
+      "source_chunk_ids": [
+        "CH041-S04-C004"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q058",
+      "source_chunk_ids": [
+        "CH041-S04-C005"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q059",
+      "source_chunk_ids": [
+        "CH041-S04-C001"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q060",
+      "source_chunk_ids": [
+        "CH041-S04-C002"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q061",
+      "source_chunk_ids": [
+        "CH041-S04-C003"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q062",
+      "source_chunk_ids": [
+        "CH041-S04-C004"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q063",
+      "source_chunk_ids": [
+        "CH041-S04-C005"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q064",
+      "source_chunk_ids": [
+        "CH041-S04-C001"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q065",
+      "source_chunk_ids": [
+        "CH041-S04-C002"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q066",
+      "source_chunk_ids": [
+        "CH041-S04-C003"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q067",
+      "source_chunk_ids": [
+        "CH041-S04-C004"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q068",
+      "source_chunk_ids": [
+        "CH041-S04-C005"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q069",
+      "source_chunk_ids": [
+        "CH041-S04-C001"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q070",
+      "source_chunk_ids": [
+        "CH041-S04-C002"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q071",
+      "source_chunk_ids": [
+        "CH041-S04-C003"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q072",
+      "source_chunk_ids": [
+        "CH041-S04-C004"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q073",
+      "source_chunk_ids": [
+        "CH041-S04-C005"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q074",
+      "source_chunk_ids": [
+        "CH041-S04-C001"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q075",
+      "source_chunk_ids": [
+        "CH041-S04-C002"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q076",
+      "source_chunk_ids": [
+        "CH041-S04-C003"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q077",
+      "source_chunk_ids": [
+        "CH041-S04-C004"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q078",
+      "source_chunk_ids": [
+        "CH041-S04-C005"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q079",
+      "source_chunk_ids": [
+        "CH041-S04-C001"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q080",
+      "source_chunk_ids": [
+        "CH041-S04-C002"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH041-Q081",
+      "source_chunk_ids": [
+        "CH041-S04-C003"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q082",
+      "source_chunk_ids": [
+        "CH041-S04-C004"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q083",
+      "source_chunk_ids": [
+        "CH041-S04-C005"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q084",
+      "source_chunk_ids": [
+        "CH041-S04-C001"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q085",
+      "source_chunk_ids": [
+        "CH041-S04-C002"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q086",
+      "source_chunk_ids": [
+        "CH041-S04-C003"
+      ],
+      "tested_concept": "Evaluation and Prognostic Assessment of Renal Masses",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q087",
+      "source_chunk_ids": [
+        "CH041-S05-C001"
+      ],
+      "tested_concept": "Advanced Renal Cell Carcinoma and Systemic Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q088",
+      "source_chunk_ids": [
+        "CH041-S05-C002"
+      ],
+      "tested_concept": "Advanced Renal Cell Carcinoma and Systemic Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q089",
+      "source_chunk_ids": [
+        "CH041-S05-C001"
+      ],
+      "tested_concept": "Advanced Renal Cell Carcinoma and Systemic Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q090",
+      "source_chunk_ids": [
+        "CH041-S05-C002"
+      ],
+      "tested_concept": "Advanced Renal Cell Carcinoma and Systemic Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q091",
+      "source_chunk_ids": [
+        "CH041-S05-C001"
+      ],
+      "tested_concept": "Advanced Renal Cell Carcinoma and Systemic Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q092",
+      "source_chunk_ids": [
+        "CH041-S05-C002"
+      ],
+      "tested_concept": "Advanced Renal Cell Carcinoma and Systemic Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q093",
+      "source_chunk_ids": [
+        "CH041-S05-C001"
+      ],
+      "tested_concept": "Advanced Renal Cell Carcinoma and Systemic Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q094",
+      "source_chunk_ids": [
+        "CH041-S05-C002"
+      ],
+      "tested_concept": "Advanced Renal Cell Carcinoma and Systemic Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q095",
+      "source_chunk_ids": [
+        "CH041-S05-C001"
+      ],
+      "tested_concept": "Advanced Renal Cell Carcinoma and Systemic Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q096",
+      "source_chunk_ids": [
+        "CH041-S05-C002"
+      ],
+      "tested_concept": "Advanced Renal Cell Carcinoma and Systemic Therapy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q097",
+      "source_chunk_ids": [
+        "CH041-S05-C001"
+      ],
+      "tested_concept": "Advanced Renal Cell Carcinoma and Systemic Therapy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q098",
+      "source_chunk_ids": [
+        "CH041-S05-C002"
+      ],
+      "tested_concept": "Advanced Renal Cell Carcinoma and Systemic Therapy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q099",
+      "source_chunk_ids": [
+        "CH041-S05-C001"
+      ],
+      "tested_concept": "Advanced Renal Cell Carcinoma and Systemic Therapy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH041-Q100",
+      "source_chunk_ids": [
+        "CH041-S05-C002"
+      ],
+      "tested_concept": "Advanced Renal Cell Carcinoma and Systemic Therapy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
