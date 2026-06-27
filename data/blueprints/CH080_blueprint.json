@@ -1,0 +1,1076 @@
+{
+  "chapter_id": "CH080",
+  "chapter_title": "The Far East",
+  "clinical_weight": 1,
+  "core_themes": [
+    "Specific Kidney Diseases",
+    "Kidney Injury Related to Infections",
+    "Acute Kidney Injury and Chronic Kidney Disease",
+    "Kidney Transplantation—Special Issues in Asia",
+    "Dialysis in Asia",
+    "Introduction"
+  ],
+  "sections": [
+    {
+      "section_title": "Introduction",
+      "chunk_ids": [
+        "CH080-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH080-S01-C001"
+      ],
+      "key_concepts": [
+        "Introduction"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Acute Kidney Injury and Chronic Kidney Disease",
+      "chunk_ids": [
+        "CH080-S02-C001",
+        "CH080-S02-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH080-S02-C001",
+        "CH080-S02-C002"
+      ],
+      "key_concepts": [
+        "Acute Kidney Injury and Chronic Kidney Disease"
+      ],
+      "recommended_question_count": 10,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Specific Kidney Diseases",
+      "chunk_ids": [
+        "CH080-S03-C001",
+        "CH080-S03-C002",
+        "CH080-S03-C003",
+        "CH080-S03-C004",
+        "CH080-S03-C005",
+        "CH080-S03-C006",
+        "CH080-S03-C007",
+        "CH080-S03-C008",
+        "CH080-S03-C009"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH080-S03-C001",
+        "CH080-S03-C002",
+        "CH080-S03-C003",
+        "CH080-S03-C004",
+        "CH080-S03-C005",
+        "CH080-S03-C006",
+        "CH080-S03-C007",
+        "CH080-S03-C008",
+        "CH080-S03-C009"
+      ],
+      "key_concepts": [
+        "Specific Kidney Diseases"
+      ],
+      "recommended_question_count": 41,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Kidney Injury Related to Infections",
+      "chunk_ids": [
+        "CH080-S04-C001",
+        "CH080-S04-C002",
+        "CH080-S04-C003",
+        "CH080-S04-C004",
+        "CH080-S04-C005",
+        "CH080-S04-C006",
+        "CH080-S04-C007"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH080-S04-C001",
+        "CH080-S04-C002",
+        "CH080-S04-C003",
+        "CH080-S04-C004",
+        "CH080-S04-C005",
+        "CH080-S04-C006",
+        "CH080-S04-C007"
+      ],
+      "key_concepts": [
+        "Kidney Injury Related to Infections"
+      ],
+      "recommended_question_count": 32,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Dialysis in Asia",
+      "chunk_ids": [
+        "CH080-S05-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH080-S05-C001"
+      ],
+      "key_concepts": [
+        "Dialysis in Asia"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Kidney Transplantation—Special Issues in Asia",
+      "chunk_ids": [
+        "CH080-S06-C001",
+        "CH080-S06-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH080-S06-C001",
+        "CH080-S06-C002"
+      ],
+      "key_concepts": [
+        "Kidney Transplantation—Special Issues in Asia"
+      ],
+      "recommended_question_count": 9,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH080-Q001",
+      "source_chunk_ids": [
+        "CH080-S01-C001"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q002",
+      "source_chunk_ids": [
+        "CH080-S01-C001"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q003",
+      "source_chunk_ids": [
+        "CH080-S01-C001"
+      ],
+      "tested_concept": "Introduction",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q004",
+      "source_chunk_ids": [
+        "CH080-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury and Chronic Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q005",
+      "source_chunk_ids": [
+        "CH080-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury and Chronic Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q006",
+      "source_chunk_ids": [
+        "CH080-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury and Chronic Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q007",
+      "source_chunk_ids": [
+        "CH080-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury and Chronic Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q008",
+      "source_chunk_ids": [
+        "CH080-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury and Chronic Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q009",
+      "source_chunk_ids": [
+        "CH080-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury and Chronic Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q010",
+      "source_chunk_ids": [
+        "CH080-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury and Chronic Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q011",
+      "source_chunk_ids": [
+        "CH080-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury and Chronic Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q012",
+      "source_chunk_ids": [
+        "CH080-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury and Chronic Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q013",
+      "source_chunk_ids": [
+        "CH080-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury and Chronic Kidney Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q014",
+      "source_chunk_ids": [
+        "CH080-S03-C001"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q015",
+      "source_chunk_ids": [
+        "CH080-S03-C002"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q016",
+      "source_chunk_ids": [
+        "CH080-S03-C003"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q017",
+      "source_chunk_ids": [
+        "CH080-S03-C004"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q018",
+      "source_chunk_ids": [
+        "CH080-S03-C005"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q019",
+      "source_chunk_ids": [
+        "CH080-S03-C006"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q020",
+      "source_chunk_ids": [
+        "CH080-S03-C007"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q021",
+      "source_chunk_ids": [
+        "CH080-S03-C008"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q022",
+      "source_chunk_ids": [
+        "CH080-S03-C009"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q023",
+      "source_chunk_ids": [
+        "CH080-S03-C001"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q024",
+      "source_chunk_ids": [
+        "CH080-S03-C002"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q025",
+      "source_chunk_ids": [
+        "CH080-S03-C003"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q026",
+      "source_chunk_ids": [
+        "CH080-S03-C004"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q027",
+      "source_chunk_ids": [
+        "CH080-S03-C005"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q028",
+      "source_chunk_ids": [
+        "CH080-S03-C006"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q029",
+      "source_chunk_ids": [
+        "CH080-S03-C007"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q030",
+      "source_chunk_ids": [
+        "CH080-S03-C008"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q031",
+      "source_chunk_ids": [
+        "CH080-S03-C009"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q032",
+      "source_chunk_ids": [
+        "CH080-S03-C001"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q033",
+      "source_chunk_ids": [
+        "CH080-S03-C002"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q034",
+      "source_chunk_ids": [
+        "CH080-S03-C003"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q035",
+      "source_chunk_ids": [
+        "CH080-S03-C004"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q036",
+      "source_chunk_ids": [
+        "CH080-S03-C005"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q037",
+      "source_chunk_ids": [
+        "CH080-S03-C006"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q038",
+      "source_chunk_ids": [
+        "CH080-S03-C007"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q039",
+      "source_chunk_ids": [
+        "CH080-S03-C008"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q040",
+      "source_chunk_ids": [
+        "CH080-S03-C009"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q041",
+      "source_chunk_ids": [
+        "CH080-S03-C001"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q042",
+      "source_chunk_ids": [
+        "CH080-S03-C002"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q043",
+      "source_chunk_ids": [
+        "CH080-S03-C003"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q044",
+      "source_chunk_ids": [
+        "CH080-S03-C004"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q045",
+      "source_chunk_ids": [
+        "CH080-S03-C005"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q046",
+      "source_chunk_ids": [
+        "CH080-S03-C006"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q047",
+      "source_chunk_ids": [
+        "CH080-S03-C007"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q048",
+      "source_chunk_ids": [
+        "CH080-S03-C008"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q049",
+      "source_chunk_ids": [
+        "CH080-S03-C009"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q050",
+      "source_chunk_ids": [
+        "CH080-S03-C001"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q051",
+      "source_chunk_ids": [
+        "CH080-S03-C002"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q052",
+      "source_chunk_ids": [
+        "CH080-S03-C003"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q053",
+      "source_chunk_ids": [
+        "CH080-S03-C004"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q054",
+      "source_chunk_ids": [
+        "CH080-S03-C005"
+      ],
+      "tested_concept": "Specific Kidney Diseases",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q055",
+      "source_chunk_ids": [
+        "CH080-S04-C001"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q056",
+      "source_chunk_ids": [
+        "CH080-S04-C002"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q057",
+      "source_chunk_ids": [
+        "CH080-S04-C003"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q058",
+      "source_chunk_ids": [
+        "CH080-S04-C004"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q059",
+      "source_chunk_ids": [
+        "CH080-S04-C005"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q060",
+      "source_chunk_ids": [
+        "CH080-S04-C006"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q061",
+      "source_chunk_ids": [
+        "CH080-S04-C007"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q062",
+      "source_chunk_ids": [
+        "CH080-S04-C001"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q063",
+      "source_chunk_ids": [
+        "CH080-S04-C002"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q064",
+      "source_chunk_ids": [
+        "CH080-S04-C003"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q065",
+      "source_chunk_ids": [
+        "CH080-S04-C004"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q066",
+      "source_chunk_ids": [
+        "CH080-S04-C005"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q067",
+      "source_chunk_ids": [
+        "CH080-S04-C006"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q068",
+      "source_chunk_ids": [
+        "CH080-S04-C007"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q069",
+      "source_chunk_ids": [
+        "CH080-S04-C001"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q070",
+      "source_chunk_ids": [
+        "CH080-S04-C002"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q071",
+      "source_chunk_ids": [
+        "CH080-S04-C003"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q072",
+      "source_chunk_ids": [
+        "CH080-S04-C004"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q073",
+      "source_chunk_ids": [
+        "CH080-S04-C005"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q074",
+      "source_chunk_ids": [
+        "CH080-S04-C006"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q075",
+      "source_chunk_ids": [
+        "CH080-S04-C007"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q076",
+      "source_chunk_ids": [
+        "CH080-S04-C001"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q077",
+      "source_chunk_ids": [
+        "CH080-S04-C002"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q078",
+      "source_chunk_ids": [
+        "CH080-S04-C003"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q079",
+      "source_chunk_ids": [
+        "CH080-S04-C004"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q080",
+      "source_chunk_ids": [
+        "CH080-S04-C005"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH080-Q081",
+      "source_chunk_ids": [
+        "CH080-S04-C006"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q082",
+      "source_chunk_ids": [
+        "CH080-S04-C007"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q083",
+      "source_chunk_ids": [
+        "CH080-S04-C001"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q084",
+      "source_chunk_ids": [
+        "CH080-S04-C002"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q085",
+      "source_chunk_ids": [
+        "CH080-S04-C003"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q086",
+      "source_chunk_ids": [
+        "CH080-S04-C004"
+      ],
+      "tested_concept": "Kidney Injury Related to Infections",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q087",
+      "source_chunk_ids": [
+        "CH080-S05-C001"
+      ],
+      "tested_concept": "Dialysis in Asia",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q088",
+      "source_chunk_ids": [
+        "CH080-S05-C001"
+      ],
+      "tested_concept": "Dialysis in Asia",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q089",
+      "source_chunk_ids": [
+        "CH080-S05-C001"
+      ],
+      "tested_concept": "Dialysis in Asia",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q090",
+      "source_chunk_ids": [
+        "CH080-S05-C001"
+      ],
+      "tested_concept": "Dialysis in Asia",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q091",
+      "source_chunk_ids": [
+        "CH080-S05-C001"
+      ],
+      "tested_concept": "Dialysis in Asia",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q092",
+      "source_chunk_ids": [
+        "CH080-S06-C001"
+      ],
+      "tested_concept": "Kidney Transplantation—Special Issues in Asia",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q093",
+      "source_chunk_ids": [
+        "CH080-S06-C002"
+      ],
+      "tested_concept": "Kidney Transplantation—Special Issues in Asia",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q094",
+      "source_chunk_ids": [
+        "CH080-S06-C001"
+      ],
+      "tested_concept": "Kidney Transplantation—Special Issues in Asia",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q095",
+      "source_chunk_ids": [
+        "CH080-S06-C002"
+      ],
+      "tested_concept": "Kidney Transplantation—Special Issues in Asia",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q096",
+      "source_chunk_ids": [
+        "CH080-S06-C001"
+      ],
+      "tested_concept": "Kidney Transplantation—Special Issues in Asia",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q097",
+      "source_chunk_ids": [
+        "CH080-S06-C002"
+      ],
+      "tested_concept": "Kidney Transplantation—Special Issues in Asia",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q098",
+      "source_chunk_ids": [
+        "CH080-S06-C001"
+      ],
+      "tested_concept": "Kidney Transplantation—Special Issues in Asia",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q099",
+      "source_chunk_ids": [
+        "CH080-S06-C002"
+      ],
+      "tested_concept": "Kidney Transplantation—Special Issues in Asia",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH080-Q100",
+      "source_chunk_ids": [
+        "CH080-S06-C001"
+      ],
+      "tested_concept": "Kidney Transplantation—Special Issues in Asia",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
