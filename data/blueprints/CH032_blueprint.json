@@ -1,0 +1,1441 @@
+{
+  "chapter_id": "CH032",
+  "chapter_title": "Secondary Glomerular Disease",
+  "clinical_weight": 5,
+  "core_themes": [
+    "Systemic Lupus Erythematosus",
+    "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+    "Amyloidosis",
+    "Glomerular Involvement in Other Vasculitides",
+    "Antiglomerular Basement Membrane Disease and Goodpasture Syndrome",
+    "Fibrillary Glomerulonephritis and Immunotactoid Glomerulonephritis",
+    "Glomerular Involvement With Viral Infections",
+    "Henoch–Schönlein Purpura"
+  ],
+  "sections": [
+    {
+      "section_title": "Systemic Lupus Erythematosus",
+      "chunk_ids": [
+        "CH032-S01-C001",
+        "CH032-S01-C002",
+        "CH032-S01-C003",
+        "CH032-S01-C004",
+        "CH032-S01-C005",
+        "CH032-S01-C006",
+        "CH032-S01-C007",
+        "CH032-S01-C008",
+        "CH032-S01-C009",
+        "CH032-S01-C010",
+        "CH032-S01-C011",
+        "CH032-S01-C012"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S01-C001",
+        "CH032-S01-C002",
+        "CH032-S01-C003",
+        "CH032-S01-C004",
+        "CH032-S01-C005",
+        "CH032-S01-C006",
+        "CH032-S01-C007",
+        "CH032-S01-C008",
+        "CH032-S01-C009",
+        "CH032-S01-C010",
+        "CH032-S01-C011",
+        "CH032-S01-C012"
+      ],
+      "key_concepts": [
+        "Systemic Lupus Erythematosus"
+      ],
+      "recommended_question_count": 19,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Antiphospholipid Syndrome",
+      "chunk_ids": [
+        "CH032-S02-C001",
+        "CH032-S02-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S02-C001",
+        "CH032-S02-C002"
+      ],
+      "key_concepts": [
+        "Antiphospholipid Syndrome"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Mixed Connective Tissue Disease",
+      "chunk_ids": [
+        "CH032-S03-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S03-C001"
+      ],
+      "key_concepts": [
+        "Mixed Connective Tissue Disease"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "chunk_ids": [
+        "CH032-S04-C001",
+        "CH032-S04-C002",
+        "CH032-S04-C003",
+        "CH032-S04-C004",
+        "CH032-S04-C005",
+        "CH032-S04-C006",
+        "CH032-S04-C007",
+        "CH032-S04-C008",
+        "CH032-S04-C009",
+        "CH032-S04-C010"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S04-C001",
+        "CH032-S04-C002",
+        "CH032-S04-C003",
+        "CH032-S04-C004",
+        "CH032-S04-C005",
+        "CH032-S04-C006",
+        "CH032-S04-C007",
+        "CH032-S04-C008",
+        "CH032-S04-C009",
+        "CH032-S04-C010"
+      ],
+      "key_concepts": [
+        "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis"
+      ],
+      "recommended_question_count": 16,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Glomerular Involvement in Other Vasculitides",
+      "chunk_ids": [
+        "CH032-S05-C001",
+        "CH032-S05-C002",
+        "CH032-S05-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S05-C001",
+        "CH032-S05-C002",
+        "CH032-S05-C003"
+      ],
+      "key_concepts": [
+        "Glomerular Involvement in Other Vasculitides"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Henoch–Schönlein Purpura",
+      "chunk_ids": [
+        "CH032-S06-C001",
+        "CH032-S06-C002",
+        "CH032-S06-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S06-C001",
+        "CH032-S06-C002",
+        "CH032-S06-C003"
+      ],
+      "key_concepts": [
+        "Henoch–Schönlein Purpura"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Antiglomerular Basement Membrane Disease and Goodpasture Syndrome",
+      "chunk_ids": [
+        "CH032-S07-C001",
+        "CH032-S07-C002",
+        "CH032-S07-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S07-C001",
+        "CH032-S07-C002",
+        "CH032-S07-C003"
+      ],
+      "key_concepts": [
+        "Antiglomerular Basement Membrane Disease and Goodpasture Syndrome"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Sjögren Syndrome",
+      "chunk_ids": [
+        "CH032-S08-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S08-C001"
+      ],
+      "key_concepts": [
+        "Sjögren Syndrome"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Amyloidosis",
+      "chunk_ids": [
+        "CH032-S09-C001",
+        "CH032-S09-C002",
+        "CH032-S09-C003",
+        "CH032-S09-C004",
+        "CH032-S09-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S09-C001",
+        "CH032-S09-C002",
+        "CH032-S09-C003",
+        "CH032-S09-C004",
+        "CH032-S09-C005"
+      ],
+      "key_concepts": [
+        "Amyloidosis"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Fibrillary Glomerulonephritis and Immunotactoid Glomerulonephritis",
+      "chunk_ids": [
+        "CH032-S10-C001",
+        "CH032-S10-C002",
+        "CH032-S10-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S10-C001",
+        "CH032-S10-C002",
+        "CH032-S10-C003"
+      ],
+      "key_concepts": [
+        "Fibrillary Glomerulonephritis and Immunotactoid Glomerulonephritis"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Waldenström Macroglobulinemia",
+      "chunk_ids": [
+        "CH032-S11-C001",
+        "CH032-S11-C002",
+        "CH032-S11-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S11-C001",
+        "CH032-S11-C002"
+      ],
+      "key_concepts": [
+        "Waldenström Macroglobulinemia"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Alport Syndrome",
+      "chunk_ids": [
+        "CH032-S12-C001",
+        "CH032-S12-C002",
+        "CH032-S12-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S12-C001",
+        "CH032-S12-C002",
+        "CH032-S12-C003"
+      ],
+      "key_concepts": [
+        "Alport Syndrome"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Differential Diagnosis of Familial Hematurias",
+      "chunk_ids": [
+        "CH032-S13-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S13-C001"
+      ],
+      "key_concepts": [
+        "Differential Diagnosis of Familial Hematurias"
+      ],
+      "recommended_question_count": 1,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Nail–Patella Syndrome (Hereditary Osteo-Onychodysplasia)",
+      "chunk_ids": [
+        "CH032-S14-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S14-C001"
+      ],
+      "key_concepts": [
+        "Nail–Patella Syndrome (Hereditary Osteo-Onychodysplasia)"
+      ],
+      "recommended_question_count": 1,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Fabry Disease (Angiokeratoma Corporis Diffusum Universale)",
+      "chunk_ids": [
+        "CH032-S15-C001",
+        "CH032-S15-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S15-C001",
+        "CH032-S15-C002"
+      ],
+      "key_concepts": [
+        "Fabry Disease (Angiokeratoma Corporis Diffusum Universale)"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Sickle Cell Nephropathy",
+      "chunk_ids": [
+        "CH032-S16-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S16-C001"
+      ],
+      "key_concepts": [
+        "Sickle Cell Nephropathy"
+      ],
+      "recommended_question_count": 1,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Lipodystrophy",
+      "chunk_ids": [
+        "CH032-S17-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S17-C001"
+      ],
+      "key_concepts": [
+        "Lipodystrophy"
+      ],
+      "recommended_question_count": 1,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Lecithin-Cholesterol Acyltransferase Deficiency",
+      "chunk_ids": [
+        "CH032-S18-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S18-C001"
+      ],
+      "key_concepts": [
+        "Lecithin-Cholesterol Acyltransferase Deficiency"
+      ],
+      "recommended_question_count": 1,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Glomerular Involvement With Bacterial Infections",
+      "chunk_ids": [
+        "CH032-S19-C001",
+        "CH032-S19-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S19-C001",
+        "CH032-S19-C002"
+      ],
+      "key_concepts": [
+        "Glomerular Involvement With Bacterial Infections"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Glomerular Involvement With Viral Infections",
+      "chunk_ids": [
+        "CH032-S20-C001",
+        "CH032-S20-C002",
+        "CH032-S20-C003",
+        "CH032-S20-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S20-C001",
+        "CH032-S20-C002",
+        "CH032-S20-C003",
+        "CH032-S20-C004"
+      ],
+      "key_concepts": [
+        "Glomerular Involvement With Viral Infections"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Glomerular Manifestations of Liver Disease",
+      "chunk_ids": [
+        "CH032-S21-C001",
+        "CH032-S21-C002",
+        "CH032-S21-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S21-C001",
+        "CH032-S21-C002",
+        "CH032-S21-C003"
+      ],
+      "key_concepts": [
+        "Glomerular Manifestations of Liver Disease"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Glomerular Lesions Associated With Neoplasia",
+      "chunk_ids": [
+        "CH032-S22-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S22-C001"
+      ],
+      "key_concepts": [
+        "Glomerular Lesions Associated With Neoplasia"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Glomerular Disease Associated With Drugs",
+      "chunk_ids": [
+        "CH032-S23-C001",
+        "CH032-S23-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH032-S23-C001",
+        "CH032-S23-C002"
+      ],
+      "key_concepts": [
+        "Glomerular Disease Associated With Drugs"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH032-Q001",
+      "source_chunk_ids": [
+        "CH032-S01-C001"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q002",
+      "source_chunk_ids": [
+        "CH032-S01-C002"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q003",
+      "source_chunk_ids": [
+        "CH032-S01-C003"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q004",
+      "source_chunk_ids": [
+        "CH032-S01-C004"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q005",
+      "source_chunk_ids": [
+        "CH032-S01-C005"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q006",
+      "source_chunk_ids": [
+        "CH032-S01-C006"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q007",
+      "source_chunk_ids": [
+        "CH032-S01-C007"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q008",
+      "source_chunk_ids": [
+        "CH032-S01-C008"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q009",
+      "source_chunk_ids": [
+        "CH032-S01-C009"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q010",
+      "source_chunk_ids": [
+        "CH032-S01-C010"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q011",
+      "source_chunk_ids": [
+        "CH032-S01-C011"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q012",
+      "source_chunk_ids": [
+        "CH032-S01-C012"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q013",
+      "source_chunk_ids": [
+        "CH032-S01-C001"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q014",
+      "source_chunk_ids": [
+        "CH032-S01-C002"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q015",
+      "source_chunk_ids": [
+        "CH032-S01-C003"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q016",
+      "source_chunk_ids": [
+        "CH032-S01-C004"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q017",
+      "source_chunk_ids": [
+        "CH032-S01-C005"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q018",
+      "source_chunk_ids": [
+        "CH032-S01-C006"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q019",
+      "source_chunk_ids": [
+        "CH032-S01-C007"
+      ],
+      "tested_concept": "Systemic Lupus Erythematosus",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q020",
+      "source_chunk_ids": [
+        "CH032-S02-C001"
+      ],
+      "tested_concept": "Antiphospholipid Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q021",
+      "source_chunk_ids": [
+        "CH032-S02-C002"
+      ],
+      "tested_concept": "Antiphospholipid Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q022",
+      "source_chunk_ids": [
+        "CH032-S02-C001"
+      ],
+      "tested_concept": "Antiphospholipid Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q023",
+      "source_chunk_ids": [
+        "CH032-S03-C001"
+      ],
+      "tested_concept": "Mixed Connective Tissue Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q024",
+      "source_chunk_ids": [
+        "CH032-S03-C001"
+      ],
+      "tested_concept": "Mixed Connective Tissue Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q025",
+      "source_chunk_ids": [
+        "CH032-S04-C001"
+      ],
+      "tested_concept": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q026",
+      "source_chunk_ids": [
+        "CH032-S04-C002"
+      ],
+      "tested_concept": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q027",
+      "source_chunk_ids": [
+        "CH032-S04-C003"
+      ],
+      "tested_concept": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q028",
+      "source_chunk_ids": [
+        "CH032-S04-C004"
+      ],
+      "tested_concept": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q029",
+      "source_chunk_ids": [
+        "CH032-S04-C005"
+      ],
+      "tested_concept": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q030",
+      "source_chunk_ids": [
+        "CH032-S04-C006"
+      ],
+      "tested_concept": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q031",
+      "source_chunk_ids": [
+        "CH032-S04-C007"
+      ],
+      "tested_concept": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q032",
+      "source_chunk_ids": [
+        "CH032-S04-C008"
+      ],
+      "tested_concept": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q033",
+      "source_chunk_ids": [
+        "CH032-S04-C009"
+      ],
+      "tested_concept": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q034",
+      "source_chunk_ids": [
+        "CH032-S04-C010"
+      ],
+      "tested_concept": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q035",
+      "source_chunk_ids": [
+        "CH032-S04-C001"
+      ],
+      "tested_concept": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q036",
+      "source_chunk_ids": [
+        "CH032-S04-C002"
+      ],
+      "tested_concept": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q037",
+      "source_chunk_ids": [
+        "CH032-S04-C003"
+      ],
+      "tested_concept": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q038",
+      "source_chunk_ids": [
+        "CH032-S04-C004"
+      ],
+      "tested_concept": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q039",
+      "source_chunk_ids": [
+        "CH032-S04-C005"
+      ],
+      "tested_concept": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q040",
+      "source_chunk_ids": [
+        "CH032-S04-C006"
+      ],
+      "tested_concept": "Antineutrophil Cytoplasmic Antibody–Associated Vasculitis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q041",
+      "source_chunk_ids": [
+        "CH032-S05-C001"
+      ],
+      "tested_concept": "Glomerular Involvement in Other Vasculitides",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q042",
+      "source_chunk_ids": [
+        "CH032-S05-C002"
+      ],
+      "tested_concept": "Glomerular Involvement in Other Vasculitides",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q043",
+      "source_chunk_ids": [
+        "CH032-S05-C003"
+      ],
+      "tested_concept": "Glomerular Involvement in Other Vasculitides",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q044",
+      "source_chunk_ids": [
+        "CH032-S05-C001"
+      ],
+      "tested_concept": "Glomerular Involvement in Other Vasculitides",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q045",
+      "source_chunk_ids": [
+        "CH032-S05-C002"
+      ],
+      "tested_concept": "Glomerular Involvement in Other Vasculitides",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q046",
+      "source_chunk_ids": [
+        "CH032-S06-C001"
+      ],
+      "tested_concept": "Henoch–Schönlein Purpura",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q047",
+      "source_chunk_ids": [
+        "CH032-S06-C002"
+      ],
+      "tested_concept": "Henoch–Schönlein Purpura",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q048",
+      "source_chunk_ids": [
+        "CH032-S06-C003"
+      ],
+      "tested_concept": "Henoch–Schönlein Purpura",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q049",
+      "source_chunk_ids": [
+        "CH032-S06-C001"
+      ],
+      "tested_concept": "Henoch–Schönlein Purpura",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q050",
+      "source_chunk_ids": [
+        "CH032-S07-C001"
+      ],
+      "tested_concept": "Antiglomerular Basement Membrane Disease and Goodpasture Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q051",
+      "source_chunk_ids": [
+        "CH032-S07-C002"
+      ],
+      "tested_concept": "Antiglomerular Basement Membrane Disease and Goodpasture Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q052",
+      "source_chunk_ids": [
+        "CH032-S07-C003"
+      ],
+      "tested_concept": "Antiglomerular Basement Membrane Disease and Goodpasture Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q053",
+      "source_chunk_ids": [
+        "CH032-S07-C001"
+      ],
+      "tested_concept": "Antiglomerular Basement Membrane Disease and Goodpasture Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q054",
+      "source_chunk_ids": [
+        "CH032-S07-C002"
+      ],
+      "tested_concept": "Antiglomerular Basement Membrane Disease and Goodpasture Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q055",
+      "source_chunk_ids": [
+        "CH032-S08-C001"
+      ],
+      "tested_concept": "Sjögren Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q056",
+      "source_chunk_ids": [
+        "CH032-S08-C001"
+      ],
+      "tested_concept": "Sjögren Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q057",
+      "source_chunk_ids": [
+        "CH032-S09-C001"
+      ],
+      "tested_concept": "Amyloidosis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q058",
+      "source_chunk_ids": [
+        "CH032-S09-C002"
+      ],
+      "tested_concept": "Amyloidosis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q059",
+      "source_chunk_ids": [
+        "CH032-S09-C003"
+      ],
+      "tested_concept": "Amyloidosis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q060",
+      "source_chunk_ids": [
+        "CH032-S09-C004"
+      ],
+      "tested_concept": "Amyloidosis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q061",
+      "source_chunk_ids": [
+        "CH032-S09-C005"
+      ],
+      "tested_concept": "Amyloidosis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q062",
+      "source_chunk_ids": [
+        "CH032-S09-C001"
+      ],
+      "tested_concept": "Amyloidosis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q063",
+      "source_chunk_ids": [
+        "CH032-S09-C002"
+      ],
+      "tested_concept": "Amyloidosis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q064",
+      "source_chunk_ids": [
+        "CH032-S10-C001"
+      ],
+      "tested_concept": "Fibrillary Glomerulonephritis and Immunotactoid Glomerulonephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q065",
+      "source_chunk_ids": [
+        "CH032-S10-C002"
+      ],
+      "tested_concept": "Fibrillary Glomerulonephritis and Immunotactoid Glomerulonephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q066",
+      "source_chunk_ids": [
+        "CH032-S10-C003"
+      ],
+      "tested_concept": "Fibrillary Glomerulonephritis and Immunotactoid Glomerulonephritis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q067",
+      "source_chunk_ids": [
+        "CH032-S10-C001"
+      ],
+      "tested_concept": "Fibrillary Glomerulonephritis and Immunotactoid Glomerulonephritis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q068",
+      "source_chunk_ids": [
+        "CH032-S10-C002"
+      ],
+      "tested_concept": "Fibrillary Glomerulonephritis and Immunotactoid Glomerulonephritis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q069",
+      "source_chunk_ids": [
+        "CH032-S11-C001"
+      ],
+      "tested_concept": "Waldenström Macroglobulinemia",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q070",
+      "source_chunk_ids": [
+        "CH032-S11-C002"
+      ],
+      "tested_concept": "Waldenström Macroglobulinemia",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q071",
+      "source_chunk_ids": [
+        "CH032-S11-C001"
+      ],
+      "tested_concept": "Waldenström Macroglobulinemia",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q072",
+      "source_chunk_ids": [
+        "CH032-S12-C001"
+      ],
+      "tested_concept": "Alport Syndrome",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q073",
+      "source_chunk_ids": [
+        "CH032-S12-C002"
+      ],
+      "tested_concept": "Alport Syndrome",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q074",
+      "source_chunk_ids": [
+        "CH032-S12-C003"
+      ],
+      "tested_concept": "Alport Syndrome",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q075",
+      "source_chunk_ids": [
+        "CH032-S12-C001"
+      ],
+      "tested_concept": "Alport Syndrome",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q076",
+      "source_chunk_ids": [
+        "CH032-S13-C001"
+      ],
+      "tested_concept": "Differential Diagnosis of Familial Hematurias",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q077",
+      "source_chunk_ids": [
+        "CH032-S14-C001"
+      ],
+      "tested_concept": "Nail–Patella Syndrome (Hereditary Osteo-Onychodysplasia)",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q078",
+      "source_chunk_ids": [
+        "CH032-S15-C001"
+      ],
+      "tested_concept": "Fabry Disease (Angiokeratoma Corporis Diffusum Universale)",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q079",
+      "source_chunk_ids": [
+        "CH032-S15-C002"
+      ],
+      "tested_concept": "Fabry Disease (Angiokeratoma Corporis Diffusum Universale)",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q080",
+      "source_chunk_ids": [
+        "CH032-S15-C001"
+      ],
+      "tested_concept": "Fabry Disease (Angiokeratoma Corporis Diffusum Universale)",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH032-Q081",
+      "source_chunk_ids": [
+        "CH032-S16-C001"
+      ],
+      "tested_concept": "Sickle Cell Nephropathy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q082",
+      "source_chunk_ids": [
+        "CH032-S17-C001"
+      ],
+      "tested_concept": "Lipodystrophy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q083",
+      "source_chunk_ids": [
+        "CH032-S18-C001"
+      ],
+      "tested_concept": "Lecithin-Cholesterol Acyltransferase Deficiency",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q084",
+      "source_chunk_ids": [
+        "CH032-S19-C001"
+      ],
+      "tested_concept": "Glomerular Involvement With Bacterial Infections",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q085",
+      "source_chunk_ids": [
+        "CH032-S19-C002"
+      ],
+      "tested_concept": "Glomerular Involvement With Bacterial Infections",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q086",
+      "source_chunk_ids": [
+        "CH032-S19-C001"
+      ],
+      "tested_concept": "Glomerular Involvement With Bacterial Infections",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q087",
+      "source_chunk_ids": [
+        "CH032-S20-C001"
+      ],
+      "tested_concept": "Glomerular Involvement With Viral Infections",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q088",
+      "source_chunk_ids": [
+        "CH032-S20-C002"
+      ],
+      "tested_concept": "Glomerular Involvement With Viral Infections",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q089",
+      "source_chunk_ids": [
+        "CH032-S20-C003"
+      ],
+      "tested_concept": "Glomerular Involvement With Viral Infections",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q090",
+      "source_chunk_ids": [
+        "CH032-S20-C004"
+      ],
+      "tested_concept": "Glomerular Involvement With Viral Infections",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q091",
+      "source_chunk_ids": [
+        "CH032-S20-C001"
+      ],
+      "tested_concept": "Glomerular Involvement With Viral Infections",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q092",
+      "source_chunk_ids": [
+        "CH032-S21-C001"
+      ],
+      "tested_concept": "Glomerular Manifestations of Liver Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q093",
+      "source_chunk_ids": [
+        "CH032-S21-C002"
+      ],
+      "tested_concept": "Glomerular Manifestations of Liver Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q094",
+      "source_chunk_ids": [
+        "CH032-S21-C003"
+      ],
+      "tested_concept": "Glomerular Manifestations of Liver Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q095",
+      "source_chunk_ids": [
+        "CH032-S21-C001"
+      ],
+      "tested_concept": "Glomerular Manifestations of Liver Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q096",
+      "source_chunk_ids": [
+        "CH032-S22-C001"
+      ],
+      "tested_concept": "Glomerular Lesions Associated With Neoplasia",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q097",
+      "source_chunk_ids": [
+        "CH032-S22-C001"
+      ],
+      "tested_concept": "Glomerular Lesions Associated With Neoplasia",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q098",
+      "source_chunk_ids": [
+        "CH032-S23-C001"
+      ],
+      "tested_concept": "Glomerular Disease Associated With Drugs",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q099",
+      "source_chunk_ids": [
+        "CH032-S23-C002"
+      ],
+      "tested_concept": "Glomerular Disease Associated With Drugs",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH032-Q100",
+      "source_chunk_ids": [
+        "CH032-S23-C001"
+      ],
+      "tested_concept": "Glomerular Disease Associated With Drugs",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
