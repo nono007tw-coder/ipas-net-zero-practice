@@ -16,3 +16,7 @@ rendered_pages/
 上傳到GitHub/
 __pycache__/
 *.py[cod]
+data/raw_chapters/*
+!data/raw_chapters/.gitkeep
+data/chunks/*
+!data/chunks/.gitkeep
