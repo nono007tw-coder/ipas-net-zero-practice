@@ -1,0 +1,1112 @@
+{
+  "chapter_id": "CH062",
+  "chapter_title": "Supportive Care in Advanced Chronic Kidney Disease",
+  "clinical_weight": 4,
+  "core_themes": [
+    "Conservative Kidney Management",
+    "Advance Care Planning",
+    "Symptom Assessment and Management",
+    "Chronic Pain Management",
+    "Culturally Competent Shared Decision Making",
+    "Prognostication",
+    "Special Considerations at the End of Life",
+    "Withdrawal of Dialysis"
+  ],
+  "sections": [
+    {
+      "section_title": "Key Points",
+      "chunk_ids": [
+        "CH062-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH062-S01-C001"
+      ],
+      "key_concepts": [
+        "Key Points"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Culturally Competent Shared Decision Making",
+      "chunk_ids": [
+        "CH062-S02-C001",
+        "CH062-S02-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH062-S02-C001",
+        "CH062-S02-C002"
+      ],
+      "key_concepts": [
+        "Culturally Competent Shared Decision Making"
+      ],
+      "recommended_question_count": 11,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Prognostication",
+      "chunk_ids": [
+        "CH062-S03-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH062-S03-C001"
+      ],
+      "key_concepts": [
+        "Prognostication"
+      ],
+      "recommended_question_count": 8,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Symptom Assessment and Management",
+      "chunk_ids": [
+        "CH062-S04-C001",
+        "CH062-S04-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH062-S04-C001",
+        "CH062-S04-C002"
+      ],
+      "key_concepts": [
+        "Symptom Assessment and Management"
+      ],
+      "recommended_question_count": 17,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Chronic Pain Management",
+      "chunk_ids": [
+        "CH062-S05-C001",
+        "CH062-S05-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH062-S05-C001",
+        "CH062-S05-C002"
+      ],
+      "key_concepts": [
+        "Chronic Pain Management"
+      ],
+      "recommended_question_count": 13,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Special Considerations at the End of Life",
+      "chunk_ids": [
+        "CH062-S06-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH062-S06-C001"
+      ],
+      "key_concepts": [
+        "Special Considerations at the End of Life"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Advance Care Planning",
+      "chunk_ids": [
+        "CH062-S07-C001",
+        "CH062-S07-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH062-S07-C001",
+        "CH062-S07-C002"
+      ],
+      "key_concepts": [
+        "Advance Care Planning"
+      ],
+      "recommended_question_count": 18,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Conservative Kidney Management",
+      "chunk_ids": [
+        "CH062-S08-C001",
+        "CH062-S08-C002",
+        "CH062-S08-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH062-S08-C001",
+        "CH062-S08-C002",
+        "CH062-S08-C003"
+      ],
+      "key_concepts": [
+        "Conservative Kidney Management"
+      ],
+      "recommended_question_count": 20,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Withdrawal of Dialysis",
+      "chunk_ids": [
+        "CH062-S09-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH062-S09-C001"
+      ],
+      "key_concepts": [
+        "Withdrawal of Dialysis"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH062-Q001",
+      "source_chunk_ids": [
+        "CH062-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q002",
+      "source_chunk_ids": [
+        "CH062-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q003",
+      "source_chunk_ids": [
+        "CH062-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q004",
+      "source_chunk_ids": [
+        "CH062-S02-C001"
+      ],
+      "tested_concept": "Culturally Competent Shared Decision Making",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q005",
+      "source_chunk_ids": [
+        "CH062-S02-C002"
+      ],
+      "tested_concept": "Culturally Competent Shared Decision Making",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q006",
+      "source_chunk_ids": [
+        "CH062-S02-C001"
+      ],
+      "tested_concept": "Culturally Competent Shared Decision Making",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q007",
+      "source_chunk_ids": [
+        "CH062-S02-C002"
+      ],
+      "tested_concept": "Culturally Competent Shared Decision Making",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q008",
+      "source_chunk_ids": [
+        "CH062-S02-C001"
+      ],
+      "tested_concept": "Culturally Competent Shared Decision Making",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q009",
+      "source_chunk_ids": [
+        "CH062-S02-C002"
+      ],
+      "tested_concept": "Culturally Competent Shared Decision Making",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q010",
+      "source_chunk_ids": [
+        "CH062-S02-C001"
+      ],
+      "tested_concept": "Culturally Competent Shared Decision Making",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q011",
+      "source_chunk_ids": [
+        "CH062-S02-C002"
+      ],
+      "tested_concept": "Culturally Competent Shared Decision Making",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q012",
+      "source_chunk_ids": [
+        "CH062-S02-C001"
+      ],
+      "tested_concept": "Culturally Competent Shared Decision Making",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q013",
+      "source_chunk_ids": [
+        "CH062-S02-C002"
+      ],
+      "tested_concept": "Culturally Competent Shared Decision Making",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q014",
+      "source_chunk_ids": [
+        "CH062-S02-C001"
+      ],
+      "tested_concept": "Culturally Competent Shared Decision Making",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q015",
+      "source_chunk_ids": [
+        "CH062-S03-C001"
+      ],
+      "tested_concept": "Prognostication",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q016",
+      "source_chunk_ids": [
+        "CH062-S03-C001"
+      ],
+      "tested_concept": "Prognostication",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q017",
+      "source_chunk_ids": [
+        "CH062-S03-C001"
+      ],
+      "tested_concept": "Prognostication",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q018",
+      "source_chunk_ids": [
+        "CH062-S03-C001"
+      ],
+      "tested_concept": "Prognostication",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q019",
+      "source_chunk_ids": [
+        "CH062-S03-C001"
+      ],
+      "tested_concept": "Prognostication",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q020",
+      "source_chunk_ids": [
+        "CH062-S03-C001"
+      ],
+      "tested_concept": "Prognostication",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q021",
+      "source_chunk_ids": [
+        "CH062-S03-C001"
+      ],
+      "tested_concept": "Prognostication",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q022",
+      "source_chunk_ids": [
+        "CH062-S03-C001"
+      ],
+      "tested_concept": "Prognostication",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q023",
+      "source_chunk_ids": [
+        "CH062-S04-C001"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q024",
+      "source_chunk_ids": [
+        "CH062-S04-C002"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q025",
+      "source_chunk_ids": [
+        "CH062-S04-C001"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q026",
+      "source_chunk_ids": [
+        "CH062-S04-C002"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q027",
+      "source_chunk_ids": [
+        "CH062-S04-C001"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q028",
+      "source_chunk_ids": [
+        "CH062-S04-C002"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q029",
+      "source_chunk_ids": [
+        "CH062-S04-C001"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q030",
+      "source_chunk_ids": [
+        "CH062-S04-C002"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q031",
+      "source_chunk_ids": [
+        "CH062-S04-C001"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q032",
+      "source_chunk_ids": [
+        "CH062-S04-C002"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q033",
+      "source_chunk_ids": [
+        "CH062-S04-C001"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q034",
+      "source_chunk_ids": [
+        "CH062-S04-C002"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q035",
+      "source_chunk_ids": [
+        "CH062-S04-C001"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q036",
+      "source_chunk_ids": [
+        "CH062-S04-C002"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q037",
+      "source_chunk_ids": [
+        "CH062-S04-C001"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q038",
+      "source_chunk_ids": [
+        "CH062-S04-C002"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q039",
+      "source_chunk_ids": [
+        "CH062-S04-C001"
+      ],
+      "tested_concept": "Symptom Assessment and Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q040",
+      "source_chunk_ids": [
+        "CH062-S05-C001"
+      ],
+      "tested_concept": "Chronic Pain Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q041",
+      "source_chunk_ids": [
+        "CH062-S05-C002"
+      ],
+      "tested_concept": "Chronic Pain Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q042",
+      "source_chunk_ids": [
+        "CH062-S05-C001"
+      ],
+      "tested_concept": "Chronic Pain Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q043",
+      "source_chunk_ids": [
+        "CH062-S05-C002"
+      ],
+      "tested_concept": "Chronic Pain Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q044",
+      "source_chunk_ids": [
+        "CH062-S05-C001"
+      ],
+      "tested_concept": "Chronic Pain Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q045",
+      "source_chunk_ids": [
+        "CH062-S05-C002"
+      ],
+      "tested_concept": "Chronic Pain Management",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q046",
+      "source_chunk_ids": [
+        "CH062-S05-C001"
+      ],
+      "tested_concept": "Chronic Pain Management",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q047",
+      "source_chunk_ids": [
+        "CH062-S05-C002"
+      ],
+      "tested_concept": "Chronic Pain Management",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q048",
+      "source_chunk_ids": [
+        "CH062-S05-C001"
+      ],
+      "tested_concept": "Chronic Pain Management",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q049",
+      "source_chunk_ids": [
+        "CH062-S05-C002"
+      ],
+      "tested_concept": "Chronic Pain Management",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q050",
+      "source_chunk_ids": [
+        "CH062-S05-C001"
+      ],
+      "tested_concept": "Chronic Pain Management",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q051",
+      "source_chunk_ids": [
+        "CH062-S05-C002"
+      ],
+      "tested_concept": "Chronic Pain Management",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q052",
+      "source_chunk_ids": [
+        "CH062-S05-C001"
+      ],
+      "tested_concept": "Chronic Pain Management",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q053",
+      "source_chunk_ids": [
+        "CH062-S06-C001"
+      ],
+      "tested_concept": "Special Considerations at the End of Life",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q054",
+      "source_chunk_ids": [
+        "CH062-S06-C001"
+      ],
+      "tested_concept": "Special Considerations at the End of Life",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q055",
+      "source_chunk_ids": [
+        "CH062-S06-C001"
+      ],
+      "tested_concept": "Special Considerations at the End of Life",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q056",
+      "source_chunk_ids": [
+        "CH062-S06-C001"
+      ],
+      "tested_concept": "Special Considerations at the End of Life",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q057",
+      "source_chunk_ids": [
+        "CH062-S06-C001"
+      ],
+      "tested_concept": "Special Considerations at the End of Life",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q058",
+      "source_chunk_ids": [
+        "CH062-S07-C001"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q059",
+      "source_chunk_ids": [
+        "CH062-S07-C002"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q060",
+      "source_chunk_ids": [
+        "CH062-S07-C001"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q061",
+      "source_chunk_ids": [
+        "CH062-S07-C002"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q062",
+      "source_chunk_ids": [
+        "CH062-S07-C001"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q063",
+      "source_chunk_ids": [
+        "CH062-S07-C002"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q064",
+      "source_chunk_ids": [
+        "CH062-S07-C001"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q065",
+      "source_chunk_ids": [
+        "CH062-S07-C002"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q066",
+      "source_chunk_ids": [
+        "CH062-S07-C001"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q067",
+      "source_chunk_ids": [
+        "CH062-S07-C002"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q068",
+      "source_chunk_ids": [
+        "CH062-S07-C001"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q069",
+      "source_chunk_ids": [
+        "CH062-S07-C002"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q070",
+      "source_chunk_ids": [
+        "CH062-S07-C001"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q071",
+      "source_chunk_ids": [
+        "CH062-S07-C002"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q072",
+      "source_chunk_ids": [
+        "CH062-S07-C001"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q073",
+      "source_chunk_ids": [
+        "CH062-S07-C002"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q074",
+      "source_chunk_ids": [
+        "CH062-S07-C001"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q075",
+      "source_chunk_ids": [
+        "CH062-S07-C002"
+      ],
+      "tested_concept": "Advance Care Planning",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q076",
+      "source_chunk_ids": [
+        "CH062-S08-C001"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q077",
+      "source_chunk_ids": [
+        "CH062-S08-C002"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q078",
+      "source_chunk_ids": [
+        "CH062-S08-C003"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q079",
+      "source_chunk_ids": [
+        "CH062-S08-C001"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q080",
+      "source_chunk_ids": [
+        "CH062-S08-C002"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH062-Q081",
+      "source_chunk_ids": [
+        "CH062-S08-C003"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q082",
+      "source_chunk_ids": [
+        "CH062-S08-C001"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q083",
+      "source_chunk_ids": [
+        "CH062-S08-C002"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q084",
+      "source_chunk_ids": [
+        "CH062-S08-C003"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q085",
+      "source_chunk_ids": [
+        "CH062-S08-C001"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q086",
+      "source_chunk_ids": [
+        "CH062-S08-C002"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q087",
+      "source_chunk_ids": [
+        "CH062-S08-C003"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q088",
+      "source_chunk_ids": [
+        "CH062-S08-C001"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q089",
+      "source_chunk_ids": [
+        "CH062-S08-C002"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q090",
+      "source_chunk_ids": [
+        "CH062-S08-C003"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q091",
+      "source_chunk_ids": [
+        "CH062-S08-C001"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q092",
+      "source_chunk_ids": [
+        "CH062-S08-C002"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q093",
+      "source_chunk_ids": [
+        "CH062-S08-C003"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q094",
+      "source_chunk_ids": [
+        "CH062-S08-C001"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q095",
+      "source_chunk_ids": [
+        "CH062-S08-C002"
+      ],
+      "tested_concept": "Conservative Kidney Management",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q096",
+      "source_chunk_ids": [
+        "CH062-S09-C001"
+      ],
+      "tested_concept": "Withdrawal of Dialysis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q097",
+      "source_chunk_ids": [
+        "CH062-S09-C001"
+      ],
+      "tested_concept": "Withdrawal of Dialysis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q098",
+      "source_chunk_ids": [
+        "CH062-S09-C001"
+      ],
+      "tested_concept": "Withdrawal of Dialysis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q099",
+      "source_chunk_ids": [
+        "CH062-S09-C001"
+      ],
+      "tested_concept": "Withdrawal of Dialysis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH062-Q100",
+      "source_chunk_ids": [
+        "CH062-S09-C001"
+      ],
+      "tested_concept": "Withdrawal of Dialysis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
