@@ -1,0 +1,1075 @@
+{
+  "chapter_id": "CH010",
+  "chapter_title": "Urine Concentration and Dilution",
+  "clinical_weight": 5,
+  "core_themes": [
+    "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+    "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+    "Vasopressin-Regulated Water Transport",
+    "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+    "Vasopressin and the Type 2 Vasopressin Receptor",
+    "Key Points"
+  ],
+  "sections": [
+    {
+      "section_title": "Key Points",
+      "chunk_ids": [
+        "CH010-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH010-S01-C001"
+      ],
+      "key_concepts": [
+        "Key Points"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "chunk_ids": [
+        "CH010-S02-C001",
+        "CH010-S02-C002",
+        "CH010-S02-C003",
+        "CH010-S02-C004",
+        "CH010-S02-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH010-S02-C001",
+        "CH010-S02-C002",
+        "CH010-S02-C003",
+        "CH010-S02-C004",
+        "CH010-S02-C005"
+      ],
+      "key_concepts": [
+        "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process"
+      ],
+      "recommended_question_count": 25,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Vasopressin and the Type 2 Vasopressin Receptor",
+      "chunk_ids": [
+        "CH010-S03-C001",
+        "CH010-S03-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH010-S03-C001",
+        "CH010-S03-C002"
+      ],
+      "key_concepts": [
+        "Vasopressin and the Type 2 Vasopressin Receptor"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Vasopressin-Regulated Water Transport",
+      "chunk_ids": [
+        "CH010-S04-C001",
+        "CH010-S04-C002",
+        "CH010-S04-C003",
+        "CH010-S04-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH010-S04-C001",
+        "CH010-S04-C002",
+        "CH010-S04-C003",
+        "CH010-S04-C004"
+      ],
+      "key_concepts": [
+        "Vasopressin-Regulated Water Transport"
+      ],
+      "recommended_question_count": 22,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "chunk_ids": [
+        "CH010-S05-C001",
+        "CH010-S05-C002",
+        "CH010-S05-C003",
+        "CH010-S05-C004",
+        "CH010-S05-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH010-S05-C001",
+        "CH010-S05-C002",
+        "CH010-S05-C003",
+        "CH010-S05-C004"
+      ],
+      "key_concepts": [
+        "Vasopressin-Regulated Urea Transport in the Inner Medulla"
+      ],
+      "recommended_question_count": 19,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "chunk_ids": [
+        "CH010-S06-C001",
+        "CH010-S06-C002",
+        "CH010-S06-C003",
+        "CH010-S06-C004",
+        "CH010-S06-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH010-S06-C001",
+        "CH010-S06-C002",
+        "CH010-S06-C003",
+        "CH010-S06-C004",
+        "CH010-S06-C005"
+      ],
+      "key_concepts": [
+        "Urine Concentration and Dilution Processes Along the Mammalian Nephron"
+      ],
+      "recommended_question_count": 24,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH010-Q001",
+      "source_chunk_ids": [
+        "CH010-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q002",
+      "source_chunk_ids": [
+        "CH010-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q003",
+      "source_chunk_ids": [
+        "CH010-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q004",
+      "source_chunk_ids": [
+        "CH010-S02-C001"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q005",
+      "source_chunk_ids": [
+        "CH010-S02-C002"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q006",
+      "source_chunk_ids": [
+        "CH010-S02-C003"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q007",
+      "source_chunk_ids": [
+        "CH010-S02-C004"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q008",
+      "source_chunk_ids": [
+        "CH010-S02-C005"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q009",
+      "source_chunk_ids": [
+        "CH010-S02-C001"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q010",
+      "source_chunk_ids": [
+        "CH010-S02-C002"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q011",
+      "source_chunk_ids": [
+        "CH010-S02-C003"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q012",
+      "source_chunk_ids": [
+        "CH010-S02-C004"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q013",
+      "source_chunk_ids": [
+        "CH010-S02-C005"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q014",
+      "source_chunk_ids": [
+        "CH010-S02-C001"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q015",
+      "source_chunk_ids": [
+        "CH010-S02-C002"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q016",
+      "source_chunk_ids": [
+        "CH010-S02-C003"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q017",
+      "source_chunk_ids": [
+        "CH010-S02-C004"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q018",
+      "source_chunk_ids": [
+        "CH010-S02-C005"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q019",
+      "source_chunk_ids": [
+        "CH010-S02-C001"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q020",
+      "source_chunk_ids": [
+        "CH010-S02-C002"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q021",
+      "source_chunk_ids": [
+        "CH010-S02-C003"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q022",
+      "source_chunk_ids": [
+        "CH010-S02-C004"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q023",
+      "source_chunk_ids": [
+        "CH010-S02-C005"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q024",
+      "source_chunk_ids": [
+        "CH010-S02-C001"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q025",
+      "source_chunk_ids": [
+        "CH010-S02-C002"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q026",
+      "source_chunk_ids": [
+        "CH010-S02-C003"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q027",
+      "source_chunk_ids": [
+        "CH010-S02-C004"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q028",
+      "source_chunk_ids": [
+        "CH010-S02-C005"
+      ],
+      "tested_concept": "Organization of Structures in the Kidney Relevant to Urinary Concentrating and Diluting Process",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q029",
+      "source_chunk_ids": [
+        "CH010-S03-C001"
+      ],
+      "tested_concept": "Vasopressin and the Type 2 Vasopressin Receptor",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q030",
+      "source_chunk_ids": [
+        "CH010-S03-C002"
+      ],
+      "tested_concept": "Vasopressin and the Type 2 Vasopressin Receptor",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q031",
+      "source_chunk_ids": [
+        "CH010-S03-C001"
+      ],
+      "tested_concept": "Vasopressin and the Type 2 Vasopressin Receptor",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q032",
+      "source_chunk_ids": [
+        "CH010-S03-C002"
+      ],
+      "tested_concept": "Vasopressin and the Type 2 Vasopressin Receptor",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q033",
+      "source_chunk_ids": [
+        "CH010-S03-C001"
+      ],
+      "tested_concept": "Vasopressin and the Type 2 Vasopressin Receptor",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q034",
+      "source_chunk_ids": [
+        "CH010-S03-C002"
+      ],
+      "tested_concept": "Vasopressin and the Type 2 Vasopressin Receptor",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q035",
+      "source_chunk_ids": [
+        "CH010-S03-C001"
+      ],
+      "tested_concept": "Vasopressin and the Type 2 Vasopressin Receptor",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q036",
+      "source_chunk_ids": [
+        "CH010-S04-C001"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q037",
+      "source_chunk_ids": [
+        "CH010-S04-C002"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q038",
+      "source_chunk_ids": [
+        "CH010-S04-C003"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q039",
+      "source_chunk_ids": [
+        "CH010-S04-C004"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q040",
+      "source_chunk_ids": [
+        "CH010-S04-C001"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q041",
+      "source_chunk_ids": [
+        "CH010-S04-C002"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q042",
+      "source_chunk_ids": [
+        "CH010-S04-C003"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q043",
+      "source_chunk_ids": [
+        "CH010-S04-C004"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q044",
+      "source_chunk_ids": [
+        "CH010-S04-C001"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q045",
+      "source_chunk_ids": [
+        "CH010-S04-C002"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q046",
+      "source_chunk_ids": [
+        "CH010-S04-C003"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q047",
+      "source_chunk_ids": [
+        "CH010-S04-C004"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q048",
+      "source_chunk_ids": [
+        "CH010-S04-C001"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q049",
+      "source_chunk_ids": [
+        "CH010-S04-C002"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q050",
+      "source_chunk_ids": [
+        "CH010-S04-C003"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q051",
+      "source_chunk_ids": [
+        "CH010-S04-C004"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q052",
+      "source_chunk_ids": [
+        "CH010-S04-C001"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q053",
+      "source_chunk_ids": [
+        "CH010-S04-C002"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q054",
+      "source_chunk_ids": [
+        "CH010-S04-C003"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q055",
+      "source_chunk_ids": [
+        "CH010-S04-C004"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q056",
+      "source_chunk_ids": [
+        "CH010-S04-C001"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q057",
+      "source_chunk_ids": [
+        "CH010-S04-C002"
+      ],
+      "tested_concept": "Vasopressin-Regulated Water Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q058",
+      "source_chunk_ids": [
+        "CH010-S05-C001"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q059",
+      "source_chunk_ids": [
+        "CH010-S05-C002"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q060",
+      "source_chunk_ids": [
+        "CH010-S05-C003"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q061",
+      "source_chunk_ids": [
+        "CH010-S05-C004"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q062",
+      "source_chunk_ids": [
+        "CH010-S05-C001"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q063",
+      "source_chunk_ids": [
+        "CH010-S05-C002"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q064",
+      "source_chunk_ids": [
+        "CH010-S05-C003"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q065",
+      "source_chunk_ids": [
+        "CH010-S05-C004"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q066",
+      "source_chunk_ids": [
+        "CH010-S05-C001"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q067",
+      "source_chunk_ids": [
+        "CH010-S05-C002"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q068",
+      "source_chunk_ids": [
+        "CH010-S05-C003"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q069",
+      "source_chunk_ids": [
+        "CH010-S05-C004"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q070",
+      "source_chunk_ids": [
+        "CH010-S05-C001"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q071",
+      "source_chunk_ids": [
+        "CH010-S05-C002"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q072",
+      "source_chunk_ids": [
+        "CH010-S05-C003"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q073",
+      "source_chunk_ids": [
+        "CH010-S05-C004"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q074",
+      "source_chunk_ids": [
+        "CH010-S05-C001"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q075",
+      "source_chunk_ids": [
+        "CH010-S05-C002"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q076",
+      "source_chunk_ids": [
+        "CH010-S05-C003"
+      ],
+      "tested_concept": "Vasopressin-Regulated Urea Transport in the Inner Medulla",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q077",
+      "source_chunk_ids": [
+        "CH010-S06-C001"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q078",
+      "source_chunk_ids": [
+        "CH010-S06-C002"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q079",
+      "source_chunk_ids": [
+        "CH010-S06-C003"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q080",
+      "source_chunk_ids": [
+        "CH010-S06-C004"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH010-Q081",
+      "source_chunk_ids": [
+        "CH010-S06-C005"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q082",
+      "source_chunk_ids": [
+        "CH010-S06-C001"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q083",
+      "source_chunk_ids": [
+        "CH010-S06-C002"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q084",
+      "source_chunk_ids": [
+        "CH010-S06-C003"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q085",
+      "source_chunk_ids": [
+        "CH010-S06-C004"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q086",
+      "source_chunk_ids": [
+        "CH010-S06-C005"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q087",
+      "source_chunk_ids": [
+        "CH010-S06-C001"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q088",
+      "source_chunk_ids": [
+        "CH010-S06-C002"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q089",
+      "source_chunk_ids": [
+        "CH010-S06-C003"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q090",
+      "source_chunk_ids": [
+        "CH010-S06-C004"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q091",
+      "source_chunk_ids": [
+        "CH010-S06-C005"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q092",
+      "source_chunk_ids": [
+        "CH010-S06-C001"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q093",
+      "source_chunk_ids": [
+        "CH010-S06-C002"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q094",
+      "source_chunk_ids": [
+        "CH010-S06-C003"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q095",
+      "source_chunk_ids": [
+        "CH010-S06-C004"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q096",
+      "source_chunk_ids": [
+        "CH010-S06-C005"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q097",
+      "source_chunk_ids": [
+        "CH010-S06-C001"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q098",
+      "source_chunk_ids": [
+        "CH010-S06-C002"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q099",
+      "source_chunk_ids": [
+        "CH010-S06-C003"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH010-Q100",
+      "source_chunk_ids": [
+        "CH010-S06-C004"
+      ],
+      "tested_concept": "Urine Concentration and Dilution Processes Along the Mammalian Nephron",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
