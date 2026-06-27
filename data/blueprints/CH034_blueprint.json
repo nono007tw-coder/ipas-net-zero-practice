@@ -1,0 +1,1158 @@
+{
+  "chapter_id": "CH034",
+  "chapter_title": "Thrombotic Microangiopathies",
+  "clinical_weight": 5,
+  "core_themes": [
+    "Infection-Associated Thrombotic Microangiopathies",
+    "Treatment of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+    "Primary Thrombotic Microangiopathies",
+    "Inherited Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+    "Clinical Features of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+    "Thrombotic Thrombocytopenic Purpura",
+    "Severe Hypertension-Associated Thrombotic Microangiopathy",
+    "Clinical and Laboratory Features"
+  ],
+  "sections": [
+    {
+      "section_title": "Classification",
+      "chunk_ids": [
+        "CH034-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH034-S01-C001"
+      ],
+      "key_concepts": [
+        "Classification"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Clinical and Laboratory Features",
+      "chunk_ids": [
+        "CH034-S02-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH034-S02-C001"
+      ],
+      "key_concepts": [
+        "Clinical and Laboratory Features"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Primary Thrombotic Microangiopathies",
+      "chunk_ids": [
+        "CH034-S03-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH034-S03-C001"
+      ],
+      "key_concepts": [
+        "Primary Thrombotic Microangiopathies"
+      ],
+      "recommended_question_count": 11,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Inherited Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "chunk_ids": [
+        "CH034-S04-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH034-S04-C001"
+      ],
+      "key_concepts": [
+        "Inherited Complement-Mediated Atypical Hemolytic Uremic Syndrome"
+      ],
+      "recommended_question_count": 9,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Clinical Features of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "chunk_ids": [
+        "CH034-S05-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH034-S05-C001"
+      ],
+      "key_concepts": [
+        "Clinical Features of Complement-Mediated Atypical Hemolytic Uremic Syndrome"
+      ],
+      "recommended_question_count": 8,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Treatment of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "chunk_ids": [
+        "CH034-S06-C001",
+        "CH034-S06-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH034-S06-C001",
+        "CH034-S06-C002"
+      ],
+      "key_concepts": [
+        "Treatment of Complement-Mediated Atypical Hemolytic Uremic Syndrome"
+      ],
+      "recommended_question_count": 12,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Thrombotic Thrombocytopenic Purpura",
+      "chunk_ids": [
+        "CH034-S07-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH034-S07-C001"
+      ],
+      "key_concepts": [
+        "Thrombotic Thrombocytopenic Purpura"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Infection-Associated Thrombotic Microangiopathies",
+      "chunk_ids": [
+        "CH034-S08-C001",
+        "CH034-S08-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH034-S08-C001",
+        "CH034-S08-C002"
+      ],
+      "key_concepts": [
+        "Infection-Associated Thrombotic Microangiopathies"
+      ],
+      "recommended_question_count": 19,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Pneumococcal Hemolytic Uremic Syndrome",
+      "chunk_ids": [
+        "CH034-S09-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH034-S09-C001"
+      ],
+      "key_concepts": [
+        "Pneumococcal Hemolytic Uremic Syndrome"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Secondary Thrombotic Microangiopathies",
+      "chunk_ids": [
+        "CH034-S10-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH034-S10-C001"
+      ],
+      "key_concepts": [
+        "Secondary Thrombotic Microangiopathies"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "De Novo Thrombotic Microangiopathy After Solid Organ Transplant",
+      "chunk_ids": [
+        "CH034-S11-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH034-S11-C001"
+      ],
+      "key_concepts": [
+        "De Novo Thrombotic Microangiopathy After Solid Organ Transplant"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Severe Hypertension-Associated Thrombotic Microangiopathy",
+      "chunk_ids": [
+        "CH034-S12-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH034-S12-C001"
+      ],
+      "key_concepts": [
+        "Severe Hypertension-Associated Thrombotic Microangiopathy"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH034-Q001",
+      "source_chunk_ids": [
+        "CH034-S01-C001"
+      ],
+      "tested_concept": "Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q002",
+      "source_chunk_ids": [
+        "CH034-S01-C001"
+      ],
+      "tested_concept": "Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q003",
+      "source_chunk_ids": [
+        "CH034-S01-C001"
+      ],
+      "tested_concept": "Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q004",
+      "source_chunk_ids": [
+        "CH034-S02-C001"
+      ],
+      "tested_concept": "Clinical and Laboratory Features",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q005",
+      "source_chunk_ids": [
+        "CH034-S02-C001"
+      ],
+      "tested_concept": "Clinical and Laboratory Features",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q006",
+      "source_chunk_ids": [
+        "CH034-S02-C001"
+      ],
+      "tested_concept": "Clinical and Laboratory Features",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q007",
+      "source_chunk_ids": [
+        "CH034-S02-C001"
+      ],
+      "tested_concept": "Clinical and Laboratory Features",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q008",
+      "source_chunk_ids": [
+        "CH034-S02-C001"
+      ],
+      "tested_concept": "Clinical and Laboratory Features",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q009",
+      "source_chunk_ids": [
+        "CH034-S02-C001"
+      ],
+      "tested_concept": "Clinical and Laboratory Features",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q010",
+      "source_chunk_ids": [
+        "CH034-S03-C001"
+      ],
+      "tested_concept": "Primary Thrombotic Microangiopathies",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q011",
+      "source_chunk_ids": [
+        "CH034-S03-C001"
+      ],
+      "tested_concept": "Primary Thrombotic Microangiopathies",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q012",
+      "source_chunk_ids": [
+        "CH034-S03-C001"
+      ],
+      "tested_concept": "Primary Thrombotic Microangiopathies",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q013",
+      "source_chunk_ids": [
+        "CH034-S03-C001"
+      ],
+      "tested_concept": "Primary Thrombotic Microangiopathies",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q014",
+      "source_chunk_ids": [
+        "CH034-S03-C001"
+      ],
+      "tested_concept": "Primary Thrombotic Microangiopathies",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q015",
+      "source_chunk_ids": [
+        "CH034-S03-C001"
+      ],
+      "tested_concept": "Primary Thrombotic Microangiopathies",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q016",
+      "source_chunk_ids": [
+        "CH034-S03-C001"
+      ],
+      "tested_concept": "Primary Thrombotic Microangiopathies",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q017",
+      "source_chunk_ids": [
+        "CH034-S03-C001"
+      ],
+      "tested_concept": "Primary Thrombotic Microangiopathies",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q018",
+      "source_chunk_ids": [
+        "CH034-S03-C001"
+      ],
+      "tested_concept": "Primary Thrombotic Microangiopathies",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q019",
+      "source_chunk_ids": [
+        "CH034-S03-C001"
+      ],
+      "tested_concept": "Primary Thrombotic Microangiopathies",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q020",
+      "source_chunk_ids": [
+        "CH034-S03-C001"
+      ],
+      "tested_concept": "Primary Thrombotic Microangiopathies",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q021",
+      "source_chunk_ids": [
+        "CH034-S04-C001"
+      ],
+      "tested_concept": "Inherited Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q022",
+      "source_chunk_ids": [
+        "CH034-S04-C001"
+      ],
+      "tested_concept": "Inherited Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q023",
+      "source_chunk_ids": [
+        "CH034-S04-C001"
+      ],
+      "tested_concept": "Inherited Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q024",
+      "source_chunk_ids": [
+        "CH034-S04-C001"
+      ],
+      "tested_concept": "Inherited Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q025",
+      "source_chunk_ids": [
+        "CH034-S04-C001"
+      ],
+      "tested_concept": "Inherited Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q026",
+      "source_chunk_ids": [
+        "CH034-S04-C001"
+      ],
+      "tested_concept": "Inherited Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q027",
+      "source_chunk_ids": [
+        "CH034-S04-C001"
+      ],
+      "tested_concept": "Inherited Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q028",
+      "source_chunk_ids": [
+        "CH034-S04-C001"
+      ],
+      "tested_concept": "Inherited Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q029",
+      "source_chunk_ids": [
+        "CH034-S04-C001"
+      ],
+      "tested_concept": "Inherited Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q030",
+      "source_chunk_ids": [
+        "CH034-S05-C001"
+      ],
+      "tested_concept": "Clinical Features of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q031",
+      "source_chunk_ids": [
+        "CH034-S05-C001"
+      ],
+      "tested_concept": "Clinical Features of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q032",
+      "source_chunk_ids": [
+        "CH034-S05-C001"
+      ],
+      "tested_concept": "Clinical Features of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q033",
+      "source_chunk_ids": [
+        "CH034-S05-C001"
+      ],
+      "tested_concept": "Clinical Features of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q034",
+      "source_chunk_ids": [
+        "CH034-S05-C001"
+      ],
+      "tested_concept": "Clinical Features of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q035",
+      "source_chunk_ids": [
+        "CH034-S05-C001"
+      ],
+      "tested_concept": "Clinical Features of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q036",
+      "source_chunk_ids": [
+        "CH034-S05-C001"
+      ],
+      "tested_concept": "Clinical Features of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q037",
+      "source_chunk_ids": [
+        "CH034-S05-C001"
+      ],
+      "tested_concept": "Clinical Features of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q038",
+      "source_chunk_ids": [
+        "CH034-S06-C001"
+      ],
+      "tested_concept": "Treatment of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q039",
+      "source_chunk_ids": [
+        "CH034-S06-C002"
+      ],
+      "tested_concept": "Treatment of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q040",
+      "source_chunk_ids": [
+        "CH034-S06-C001"
+      ],
+      "tested_concept": "Treatment of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q041",
+      "source_chunk_ids": [
+        "CH034-S06-C002"
+      ],
+      "tested_concept": "Treatment of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q042",
+      "source_chunk_ids": [
+        "CH034-S06-C001"
+      ],
+      "tested_concept": "Treatment of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q043",
+      "source_chunk_ids": [
+        "CH034-S06-C002"
+      ],
+      "tested_concept": "Treatment of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q044",
+      "source_chunk_ids": [
+        "CH034-S06-C001"
+      ],
+      "tested_concept": "Treatment of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q045",
+      "source_chunk_ids": [
+        "CH034-S06-C002"
+      ],
+      "tested_concept": "Treatment of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q046",
+      "source_chunk_ids": [
+        "CH034-S06-C001"
+      ],
+      "tested_concept": "Treatment of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q047",
+      "source_chunk_ids": [
+        "CH034-S06-C002"
+      ],
+      "tested_concept": "Treatment of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q048",
+      "source_chunk_ids": [
+        "CH034-S06-C001"
+      ],
+      "tested_concept": "Treatment of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q049",
+      "source_chunk_ids": [
+        "CH034-S06-C002"
+      ],
+      "tested_concept": "Treatment of Complement-Mediated Atypical Hemolytic Uremic Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q050",
+      "source_chunk_ids": [
+        "CH034-S07-C001"
+      ],
+      "tested_concept": "Thrombotic Thrombocytopenic Purpura",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q051",
+      "source_chunk_ids": [
+        "CH034-S07-C001"
+      ],
+      "tested_concept": "Thrombotic Thrombocytopenic Purpura",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q052",
+      "source_chunk_ids": [
+        "CH034-S07-C001"
+      ],
+      "tested_concept": "Thrombotic Thrombocytopenic Purpura",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q053",
+      "source_chunk_ids": [
+        "CH034-S07-C001"
+      ],
+      "tested_concept": "Thrombotic Thrombocytopenic Purpura",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q054",
+      "source_chunk_ids": [
+        "CH034-S07-C001"
+      ],
+      "tested_concept": "Thrombotic Thrombocytopenic Purpura",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q055",
+      "source_chunk_ids": [
+        "CH034-S07-C001"
+      ],
+      "tested_concept": "Thrombotic Thrombocytopenic Purpura",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q056",
+      "source_chunk_ids": [
+        "CH034-S07-C001"
+      ],
+      "tested_concept": "Thrombotic Thrombocytopenic Purpura",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q057",
+      "source_chunk_ids": [
+        "CH034-S08-C001"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q058",
+      "source_chunk_ids": [
+        "CH034-S08-C002"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q059",
+      "source_chunk_ids": [
+        "CH034-S08-C001"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q060",
+      "source_chunk_ids": [
+        "CH034-S08-C002"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q061",
+      "source_chunk_ids": [
+        "CH034-S08-C001"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q062",
+      "source_chunk_ids": [
+        "CH034-S08-C002"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q063",
+      "source_chunk_ids": [
+        "CH034-S08-C001"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q064",
+      "source_chunk_ids": [
+        "CH034-S08-C002"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q065",
+      "source_chunk_ids": [
+        "CH034-S08-C001"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q066",
+      "source_chunk_ids": [
+        "CH034-S08-C002"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q067",
+      "source_chunk_ids": [
+        "CH034-S08-C001"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q068",
+      "source_chunk_ids": [
+        "CH034-S08-C002"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q069",
+      "source_chunk_ids": [
+        "CH034-S08-C001"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q070",
+      "source_chunk_ids": [
+        "CH034-S08-C002"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q071",
+      "source_chunk_ids": [
+        "CH034-S08-C001"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q072",
+      "source_chunk_ids": [
+        "CH034-S08-C002"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q073",
+      "source_chunk_ids": [
+        "CH034-S08-C001"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q074",
+      "source_chunk_ids": [
+        "CH034-S08-C002"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q075",
+      "source_chunk_ids": [
+        "CH034-S08-C001"
+      ],
+      "tested_concept": "Infection-Associated Thrombotic Microangiopathies",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q076",
+      "source_chunk_ids": [
+        "CH034-S09-C001"
+      ],
+      "tested_concept": "Pneumococcal Hemolytic Uremic Syndrome",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q077",
+      "source_chunk_ids": [
+        "CH034-S09-C001"
+      ],
+      "tested_concept": "Pneumococcal Hemolytic Uremic Syndrome",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q078",
+      "source_chunk_ids": [
+        "CH034-S09-C001"
+      ],
+      "tested_concept": "Pneumococcal Hemolytic Uremic Syndrome",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q079",
+      "source_chunk_ids": [
+        "CH034-S09-C001"
+      ],
+      "tested_concept": "Pneumococcal Hemolytic Uremic Syndrome",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q080",
+      "source_chunk_ids": [
+        "CH034-S09-C001"
+      ],
+      "tested_concept": "Pneumococcal Hemolytic Uremic Syndrome",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH034-Q081",
+      "source_chunk_ids": [
+        "CH034-S09-C001"
+      ],
+      "tested_concept": "Pneumococcal Hemolytic Uremic Syndrome",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q082",
+      "source_chunk_ids": [
+        "CH034-S10-C001"
+      ],
+      "tested_concept": "Secondary Thrombotic Microangiopathies",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q083",
+      "source_chunk_ids": [
+        "CH034-S10-C001"
+      ],
+      "tested_concept": "Secondary Thrombotic Microangiopathies",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q084",
+      "source_chunk_ids": [
+        "CH034-S10-C001"
+      ],
+      "tested_concept": "Secondary Thrombotic Microangiopathies",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q085",
+      "source_chunk_ids": [
+        "CH034-S10-C001"
+      ],
+      "tested_concept": "Secondary Thrombotic Microangiopathies",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q086",
+      "source_chunk_ids": [
+        "CH034-S10-C001"
+      ],
+      "tested_concept": "Secondary Thrombotic Microangiopathies",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q087",
+      "source_chunk_ids": [
+        "CH034-S10-C001"
+      ],
+      "tested_concept": "Secondary Thrombotic Microangiopathies",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q088",
+      "source_chunk_ids": [
+        "CH034-S11-C001"
+      ],
+      "tested_concept": "De Novo Thrombotic Microangiopathy After Solid Organ Transplant",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q089",
+      "source_chunk_ids": [
+        "CH034-S11-C001"
+      ],
+      "tested_concept": "De Novo Thrombotic Microangiopathy After Solid Organ Transplant",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q090",
+      "source_chunk_ids": [
+        "CH034-S11-C001"
+      ],
+      "tested_concept": "De Novo Thrombotic Microangiopathy After Solid Organ Transplant",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q091",
+      "source_chunk_ids": [
+        "CH034-S11-C001"
+      ],
+      "tested_concept": "De Novo Thrombotic Microangiopathy After Solid Organ Transplant",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q092",
+      "source_chunk_ids": [
+        "CH034-S11-C001"
+      ],
+      "tested_concept": "De Novo Thrombotic Microangiopathy After Solid Organ Transplant",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q093",
+      "source_chunk_ids": [
+        "CH034-S11-C001"
+      ],
+      "tested_concept": "De Novo Thrombotic Microangiopathy After Solid Organ Transplant",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q094",
+      "source_chunk_ids": [
+        "CH034-S12-C001"
+      ],
+      "tested_concept": "Severe Hypertension-Associated Thrombotic Microangiopathy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q095",
+      "source_chunk_ids": [
+        "CH034-S12-C001"
+      ],
+      "tested_concept": "Severe Hypertension-Associated Thrombotic Microangiopathy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q096",
+      "source_chunk_ids": [
+        "CH034-S12-C001"
+      ],
+      "tested_concept": "Severe Hypertension-Associated Thrombotic Microangiopathy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q097",
+      "source_chunk_ids": [
+        "CH034-S12-C001"
+      ],
+      "tested_concept": "Severe Hypertension-Associated Thrombotic Microangiopathy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q098",
+      "source_chunk_ids": [
+        "CH034-S12-C001"
+      ],
+      "tested_concept": "Severe Hypertension-Associated Thrombotic Microangiopathy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q099",
+      "source_chunk_ids": [
+        "CH034-S12-C001"
+      ],
+      "tested_concept": "Severe Hypertension-Associated Thrombotic Microangiopathy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH034-Q100",
+      "source_chunk_ids": [
+        "CH034-S12-C001"
+      ],
+      "tested_concept": "Severe Hypertension-Associated Thrombotic Microangiopathy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
