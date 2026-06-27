@@ -108,6 +108,20 @@ python src/chunking.py --input-dir data/raw_chapters --output-dir data/chunks
 
 建議 chunk 長度為 500-1,200 words。程式會盡量依小節標題與段落切分。
 
+對已由完整 PDF 自動辨識的 85 章，建議使用書籤與 PDF 頁碼導向的批次切分：
+
+```bash
+python src/build_chapter_chunks.py
+```
+
+此流程會產生：
+
+- `data/chunks/chapter_001_chunks.json` 至 `chapter_085_chunks.json`
+- 每個 chunk 的 `chapter_id`、`section_title`、`chunk_id`
+- `paragraph_range` 與 `source_pdf_page_range`
+- 500-1,200 words 為主要目標；小節尾端可較短
+- References、Acknowledgments 與既有 Board Review Questions 不納入命題 chunks
+
 ## 如何建立章節 blueprint
 
 先建立只包含本章 chunks 的 blueprint prompt：
@@ -123,6 +137,25 @@ python src/blueprint.py --chapter CH001 --response model_blueprint.json
 ```
 
 每章 blueprint 應規劃 100 題，包含核心考點、題型分布、難度分布與不適合命題內容。
+
+完整 85 章可依 chunks 的文字量與小節結構自動建立初始藍圖：
+
+```bash
+python src/build_all_blueprints.py
+```
+
+輸出為 `data/blueprints/CH001_blueprint.json` 至 `CH085_blueprint.json`，共規劃 8,500 個唯一題號。藍圖是命題配置，不代表題目已通過醫師審查；實際題目仍須逐批根據指定 source chunk 產生並執行 reviewer 流程。
+
+目前自動辨識成果：
+
+- 85 個章節
+- 2,226 個來源 chunks
+- 約 1,975,199 個可命題 words
+- 每章 100 題，共 8,500 個唯一題號
+- 每章藍圖包含一星至五星 `clinical_weight`
+- `data/blueprints/blueprint_summary.json` 提供全書彙總
+
+自動藍圖以原文章節書籤、chunk 文字量與既定題型比例建立。`key_concepts` 初始值採用來源小節名稱；正式命題前仍應由腎臟專科醫師審閱核心考點與題數分配。
 
 ## 如何分批產生題目
 
@@ -278,6 +311,8 @@ python src/select_exam.py --num-questions 100 --exam-id exam_set_001
 
 - `src/schemas.py`
 - `src/extract_brenner_pdf.py`
+- `src/build_chapter_chunks.py`
+- `src/build_all_blueprints.py`
 - `src/ingest.py`
 - `src/chunking.py`
 - `src/blueprint.py`
