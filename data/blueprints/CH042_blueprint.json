@@ -1,0 +1,1093 @@
+{
+  "chapter_id": "CH042",
+  "chapter_title": "Onconephrology",
+  "clinical_weight": 4,
+  "core_themes": [
+    "Chronic Kidney Disease in Patients With Cancer",
+    "Acute Kidney Injury in Patients With Cancer",
+    "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+    "Anticancer Drugs and Kidney Disease",
+    "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation",
+    "Glomerular Diseases Associated With Cancer",
+    "Key Points"
+  ],
+  "sections": [
+    {
+      "section_title": "Key Points",
+      "chunk_ids": [
+        "CH042-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH042-S01-C001"
+      ],
+      "key_concepts": [
+        "Key Points"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Acute Kidney Injury in Patients With Cancer",
+      "chunk_ids": [
+        "CH042-S02-C001",
+        "CH042-S02-C002",
+        "CH042-S02-C003",
+        "CH042-S02-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH042-S02-C001",
+        "CH042-S02-C002",
+        "CH042-S02-C003",
+        "CH042-S02-C004"
+      ],
+      "key_concepts": [
+        "Acute Kidney Injury in Patients With Cancer"
+      ],
+      "recommended_question_count": 17,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Chronic Kidney Disease in Patients With Cancer",
+      "chunk_ids": [
+        "CH042-S03-C001",
+        "CH042-S03-C002",
+        "CH042-S03-C003",
+        "CH042-S03-C004",
+        "CH042-S03-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH042-S03-C001",
+        "CH042-S03-C002",
+        "CH042-S03-C003",
+        "CH042-S03-C004",
+        "CH042-S03-C005"
+      ],
+      "key_concepts": [
+        "Chronic Kidney Disease in Patients With Cancer"
+      ],
+      "recommended_question_count": 25,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Glomerular Diseases Associated With Cancer",
+      "chunk_ids": [
+        "CH042-S04-C001",
+        "CH042-S04-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH042-S04-C001",
+        "CH042-S04-C002"
+      ],
+      "key_concepts": [
+        "Glomerular Diseases Associated With Cancer"
+      ],
+      "recommended_question_count": 9,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "chunk_ids": [
+        "CH042-S05-C001",
+        "CH042-S05-C002",
+        "CH042-S05-C003",
+        "CH042-S05-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH042-S05-C001",
+        "CH042-S05-C002",
+        "CH042-S05-C003",
+        "CH042-S05-C004"
+      ],
+      "key_concepts": [
+        "Fluid and Electrolyte Abnormalities Associated With Malignancies"
+      ],
+      "recommended_question_count": 17,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation",
+      "chunk_ids": [
+        "CH042-S06-C001",
+        "CH042-S06-C002",
+        "CH042-S06-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH042-S06-C001",
+        "CH042-S06-C002",
+        "CH042-S06-C003"
+      ],
+      "key_concepts": [
+        "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation"
+      ],
+      "recommended_question_count": 14,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Anticancer Drugs and Kidney Disease",
+      "chunk_ids": [
+        "CH042-S07-C001",
+        "CH042-S07-C002",
+        "CH042-S07-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH042-S07-C001",
+        "CH042-S07-C002",
+        "CH042-S07-C003"
+      ],
+      "key_concepts": [
+        "Anticancer Drugs and Kidney Disease"
+      ],
+      "recommended_question_count": 16,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH042-Q001",
+      "source_chunk_ids": [
+        "CH042-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q002",
+      "source_chunk_ids": [
+        "CH042-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q003",
+      "source_chunk_ids": [
+        "CH042-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q004",
+      "source_chunk_ids": [
+        "CH042-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q005",
+      "source_chunk_ids": [
+        "CH042-S02-C003"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q006",
+      "source_chunk_ids": [
+        "CH042-S02-C004"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q007",
+      "source_chunk_ids": [
+        "CH042-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q008",
+      "source_chunk_ids": [
+        "CH042-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q009",
+      "source_chunk_ids": [
+        "CH042-S02-C003"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q010",
+      "source_chunk_ids": [
+        "CH042-S02-C004"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q011",
+      "source_chunk_ids": [
+        "CH042-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q012",
+      "source_chunk_ids": [
+        "CH042-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q013",
+      "source_chunk_ids": [
+        "CH042-S02-C003"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q014",
+      "source_chunk_ids": [
+        "CH042-S02-C004"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q015",
+      "source_chunk_ids": [
+        "CH042-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q016",
+      "source_chunk_ids": [
+        "CH042-S02-C002"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q017",
+      "source_chunk_ids": [
+        "CH042-S02-C003"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q018",
+      "source_chunk_ids": [
+        "CH042-S02-C004"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q019",
+      "source_chunk_ids": [
+        "CH042-S02-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q020",
+      "source_chunk_ids": [
+        "CH042-S03-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q021",
+      "source_chunk_ids": [
+        "CH042-S03-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q022",
+      "source_chunk_ids": [
+        "CH042-S03-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q023",
+      "source_chunk_ids": [
+        "CH042-S03-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q024",
+      "source_chunk_ids": [
+        "CH042-S03-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q025",
+      "source_chunk_ids": [
+        "CH042-S03-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q026",
+      "source_chunk_ids": [
+        "CH042-S03-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q027",
+      "source_chunk_ids": [
+        "CH042-S03-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q028",
+      "source_chunk_ids": [
+        "CH042-S03-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q029",
+      "source_chunk_ids": [
+        "CH042-S03-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q030",
+      "source_chunk_ids": [
+        "CH042-S03-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q031",
+      "source_chunk_ids": [
+        "CH042-S03-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q032",
+      "source_chunk_ids": [
+        "CH042-S03-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q033",
+      "source_chunk_ids": [
+        "CH042-S03-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q034",
+      "source_chunk_ids": [
+        "CH042-S03-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q035",
+      "source_chunk_ids": [
+        "CH042-S03-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q036",
+      "source_chunk_ids": [
+        "CH042-S03-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q037",
+      "source_chunk_ids": [
+        "CH042-S03-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q038",
+      "source_chunk_ids": [
+        "CH042-S03-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q039",
+      "source_chunk_ids": [
+        "CH042-S03-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q040",
+      "source_chunk_ids": [
+        "CH042-S03-C001"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q041",
+      "source_chunk_ids": [
+        "CH042-S03-C002"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q042",
+      "source_chunk_ids": [
+        "CH042-S03-C003"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q043",
+      "source_chunk_ids": [
+        "CH042-S03-C004"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q044",
+      "source_chunk_ids": [
+        "CH042-S03-C005"
+      ],
+      "tested_concept": "Chronic Kidney Disease in Patients With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q045",
+      "source_chunk_ids": [
+        "CH042-S04-C001"
+      ],
+      "tested_concept": "Glomerular Diseases Associated With Cancer",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q046",
+      "source_chunk_ids": [
+        "CH042-S04-C002"
+      ],
+      "tested_concept": "Glomerular Diseases Associated With Cancer",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q047",
+      "source_chunk_ids": [
+        "CH042-S04-C001"
+      ],
+      "tested_concept": "Glomerular Diseases Associated With Cancer",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q048",
+      "source_chunk_ids": [
+        "CH042-S04-C002"
+      ],
+      "tested_concept": "Glomerular Diseases Associated With Cancer",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q049",
+      "source_chunk_ids": [
+        "CH042-S04-C001"
+      ],
+      "tested_concept": "Glomerular Diseases Associated With Cancer",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q050",
+      "source_chunk_ids": [
+        "CH042-S04-C002"
+      ],
+      "tested_concept": "Glomerular Diseases Associated With Cancer",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q051",
+      "source_chunk_ids": [
+        "CH042-S04-C001"
+      ],
+      "tested_concept": "Glomerular Diseases Associated With Cancer",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q052",
+      "source_chunk_ids": [
+        "CH042-S04-C002"
+      ],
+      "tested_concept": "Glomerular Diseases Associated With Cancer",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q053",
+      "source_chunk_ids": [
+        "CH042-S04-C001"
+      ],
+      "tested_concept": "Glomerular Diseases Associated With Cancer",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q054",
+      "source_chunk_ids": [
+        "CH042-S05-C001"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q055",
+      "source_chunk_ids": [
+        "CH042-S05-C002"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q056",
+      "source_chunk_ids": [
+        "CH042-S05-C003"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q057",
+      "source_chunk_ids": [
+        "CH042-S05-C004"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q058",
+      "source_chunk_ids": [
+        "CH042-S05-C001"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q059",
+      "source_chunk_ids": [
+        "CH042-S05-C002"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q060",
+      "source_chunk_ids": [
+        "CH042-S05-C003"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q061",
+      "source_chunk_ids": [
+        "CH042-S05-C004"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q062",
+      "source_chunk_ids": [
+        "CH042-S05-C001"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q063",
+      "source_chunk_ids": [
+        "CH042-S05-C002"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q064",
+      "source_chunk_ids": [
+        "CH042-S05-C003"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q065",
+      "source_chunk_ids": [
+        "CH042-S05-C004"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q066",
+      "source_chunk_ids": [
+        "CH042-S05-C001"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q067",
+      "source_chunk_ids": [
+        "CH042-S05-C002"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q068",
+      "source_chunk_ids": [
+        "CH042-S05-C003"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q069",
+      "source_chunk_ids": [
+        "CH042-S05-C004"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q070",
+      "source_chunk_ids": [
+        "CH042-S05-C001"
+      ],
+      "tested_concept": "Fluid and Electrolyte Abnormalities Associated With Malignancies",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q071",
+      "source_chunk_ids": [
+        "CH042-S06-C001"
+      ],
+      "tested_concept": "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q072",
+      "source_chunk_ids": [
+        "CH042-S06-C002"
+      ],
+      "tested_concept": "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q073",
+      "source_chunk_ids": [
+        "CH042-S06-C003"
+      ],
+      "tested_concept": "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q074",
+      "source_chunk_ids": [
+        "CH042-S06-C001"
+      ],
+      "tested_concept": "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q075",
+      "source_chunk_ids": [
+        "CH042-S06-C002"
+      ],
+      "tested_concept": "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q076",
+      "source_chunk_ids": [
+        "CH042-S06-C003"
+      ],
+      "tested_concept": "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q077",
+      "source_chunk_ids": [
+        "CH042-S06-C001"
+      ],
+      "tested_concept": "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q078",
+      "source_chunk_ids": [
+        "CH042-S06-C002"
+      ],
+      "tested_concept": "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q079",
+      "source_chunk_ids": [
+        "CH042-S06-C003"
+      ],
+      "tested_concept": "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q080",
+      "source_chunk_ids": [
+        "CH042-S06-C001"
+      ],
+      "tested_concept": "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH042-Q081",
+      "source_chunk_ids": [
+        "CH042-S06-C002"
+      ],
+      "tested_concept": "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q082",
+      "source_chunk_ids": [
+        "CH042-S06-C003"
+      ],
+      "tested_concept": "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q083",
+      "source_chunk_ids": [
+        "CH042-S06-C001"
+      ],
+      "tested_concept": "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q084",
+      "source_chunk_ids": [
+        "CH042-S06-C002"
+      ],
+      "tested_concept": "Kidney Disease Associated With Hematopoietic Stem Cell Transplantation",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q085",
+      "source_chunk_ids": [
+        "CH042-S07-C001"
+      ],
+      "tested_concept": "Anticancer Drugs and Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q086",
+      "source_chunk_ids": [
+        "CH042-S07-C002"
+      ],
+      "tested_concept": "Anticancer Drugs and Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q087",
+      "source_chunk_ids": [
+        "CH042-S07-C003"
+      ],
+      "tested_concept": "Anticancer Drugs and Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q088",
+      "source_chunk_ids": [
+        "CH042-S07-C001"
+      ],
+      "tested_concept": "Anticancer Drugs and Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q089",
+      "source_chunk_ids": [
+        "CH042-S07-C002"
+      ],
+      "tested_concept": "Anticancer Drugs and Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q090",
+      "source_chunk_ids": [
+        "CH042-S07-C003"
+      ],
+      "tested_concept": "Anticancer Drugs and Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q091",
+      "source_chunk_ids": [
+        "CH042-S07-C001"
+      ],
+      "tested_concept": "Anticancer Drugs and Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q092",
+      "source_chunk_ids": [
+        "CH042-S07-C002"
+      ],
+      "tested_concept": "Anticancer Drugs and Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q093",
+      "source_chunk_ids": [
+        "CH042-S07-C003"
+      ],
+      "tested_concept": "Anticancer Drugs and Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q094",
+      "source_chunk_ids": [
+        "CH042-S07-C001"
+      ],
+      "tested_concept": "Anticancer Drugs and Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q095",
+      "source_chunk_ids": [
+        "CH042-S07-C002"
+      ],
+      "tested_concept": "Anticancer Drugs and Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q096",
+      "source_chunk_ids": [
+        "CH042-S07-C003"
+      ],
+      "tested_concept": "Anticancer Drugs and Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q097",
+      "source_chunk_ids": [
+        "CH042-S07-C001"
+      ],
+      "tested_concept": "Anticancer Drugs and Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q098",
+      "source_chunk_ids": [
+        "CH042-S07-C002"
+      ],
+      "tested_concept": "Anticancer Drugs and Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q099",
+      "source_chunk_ids": [
+        "CH042-S07-C003"
+      ],
+      "tested_concept": "Anticancer Drugs and Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH042-Q100",
+      "source_chunk_ids": [
+        "CH042-S07-C001"
+      ],
+      "tested_concept": "Anticancer Drugs and Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
