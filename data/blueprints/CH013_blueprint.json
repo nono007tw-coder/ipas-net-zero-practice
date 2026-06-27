@@ -1,0 +1,1133 @@
+{
+  "chapter_id": "CH013",
+  "chapter_title": "Arachidonic Acid Metabolites and the Kidney",
+  "clinical_weight": 3,
+  "core_themes": [
+    "Prostanoids",
+    "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+    "The Cytochrome P450 Pathway",
+    "The Lipoxygenase Pathway",
+    "Renal COX-1 and COX-2 Expression",
+    "The Cyclooxygenase Pathway",
+    "Renal Complications of Nonsteroidal Antiinflammatory Drugs",
+    "Prostaglandins"
+  ],
+  "sections": [
+    {
+      "section_title": "Cellular Origin of Eicosanoids",
+      "chunk_ids": [
+        "CH013-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH013-S01-C001"
+      ],
+      "key_concepts": [
+        "Cellular Origin of Eicosanoids"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "The Cyclooxygenase Pathway",
+      "chunk_ids": [
+        "CH013-S02-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH013-S02-C001"
+      ],
+      "key_concepts": [
+        "The Cyclooxygenase Pathway"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Renal COX-1 and COX-2 Expression",
+      "chunk_ids": [
+        "CH013-S03-C001",
+        "CH013-S03-C002",
+        "CH013-S03-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH013-S03-C001",
+        "CH013-S03-C002"
+      ],
+      "key_concepts": [
+        "Renal COX-1 and COX-2 Expression"
+      ],
+      "recommended_question_count": 9,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Renal Complications of Nonsteroidal Antiinflammatory Drugs",
+      "chunk_ids": [
+        "CH013-S04-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH013-S04-C001"
+      ],
+      "key_concepts": [
+        "Renal Complications of Nonsteroidal Antiinflammatory Drugs"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Prostanoids",
+      "chunk_ids": [
+        "CH013-S05-C001",
+        "CH013-S05-C002",
+        "CH013-S05-C003",
+        "CH013-S05-C004",
+        "CH013-S05-C005",
+        "CH013-S05-C006",
+        "CH013-S05-C007",
+        "CH013-S05-C008",
+        "CH013-S05-C009"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH013-S05-C001",
+        "CH013-S05-C002",
+        "CH013-S05-C003",
+        "CH013-S05-C004",
+        "CH013-S05-C005",
+        "CH013-S05-C006",
+        "CH013-S05-C007",
+        "CH013-S05-C008",
+        "CH013-S05-C009"
+      ],
+      "key_concepts": [
+        "Prostanoids"
+      ],
+      "recommended_question_count": 36,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Prostaglandins",
+      "chunk_ids": [
+        "CH013-S06-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH013-S06-C001"
+      ],
+      "key_concepts": [
+        "Prostaglandins"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "chunk_ids": [
+        "CH013-S07-C001",
+        "CH013-S07-C002",
+        "CH013-S07-C003",
+        "CH013-S07-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH013-S07-C001",
+        "CH013-S07-C002",
+        "CH013-S07-C003",
+        "CH013-S07-C004"
+      ],
+      "key_concepts": [
+        "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology"
+      ],
+      "recommended_question_count": 16,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "The Lipoxygenase Pathway",
+      "chunk_ids": [
+        "CH013-S08-C001",
+        "CH013-S08-C002",
+        "CH013-S08-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH013-S08-C001",
+        "CH013-S08-C002",
+        "CH013-S08-C003"
+      ],
+      "key_concepts": [
+        "The Lipoxygenase Pathway"
+      ],
+      "recommended_question_count": 11,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "The Cytochrome P450 Pathway",
+      "chunk_ids": [
+        "CH013-S09-C001",
+        "CH013-S09-C002",
+        "CH013-S09-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH013-S09-C001",
+        "CH013-S09-C002",
+        "CH013-S09-C003"
+      ],
+      "key_concepts": [
+        "The Cytochrome P450 Pathway"
+      ],
+      "recommended_question_count": 13,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH013-Q001",
+      "source_chunk_ids": [
+        "CH013-S01-C001"
+      ],
+      "tested_concept": "Cellular Origin of Eicosanoids",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q002",
+      "source_chunk_ids": [
+        "CH013-S01-C001"
+      ],
+      "tested_concept": "Cellular Origin of Eicosanoids",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q003",
+      "source_chunk_ids": [
+        "CH013-S02-C001"
+      ],
+      "tested_concept": "The Cyclooxygenase Pathway",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q004",
+      "source_chunk_ids": [
+        "CH013-S02-C001"
+      ],
+      "tested_concept": "The Cyclooxygenase Pathway",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q005",
+      "source_chunk_ids": [
+        "CH013-S02-C001"
+      ],
+      "tested_concept": "The Cyclooxygenase Pathway",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q006",
+      "source_chunk_ids": [
+        "CH013-S02-C001"
+      ],
+      "tested_concept": "The Cyclooxygenase Pathway",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q007",
+      "source_chunk_ids": [
+        "CH013-S02-C001"
+      ],
+      "tested_concept": "The Cyclooxygenase Pathway",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q008",
+      "source_chunk_ids": [
+        "CH013-S03-C001"
+      ],
+      "tested_concept": "Renal COX-1 and COX-2 Expression",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q009",
+      "source_chunk_ids": [
+        "CH013-S03-C002"
+      ],
+      "tested_concept": "Renal COX-1 and COX-2 Expression",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q010",
+      "source_chunk_ids": [
+        "CH013-S03-C001"
+      ],
+      "tested_concept": "Renal COX-1 and COX-2 Expression",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q011",
+      "source_chunk_ids": [
+        "CH013-S03-C002"
+      ],
+      "tested_concept": "Renal COX-1 and COX-2 Expression",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q012",
+      "source_chunk_ids": [
+        "CH013-S03-C001"
+      ],
+      "tested_concept": "Renal COX-1 and COX-2 Expression",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q013",
+      "source_chunk_ids": [
+        "CH013-S03-C002"
+      ],
+      "tested_concept": "Renal COX-1 and COX-2 Expression",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q014",
+      "source_chunk_ids": [
+        "CH013-S03-C001"
+      ],
+      "tested_concept": "Renal COX-1 and COX-2 Expression",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q015",
+      "source_chunk_ids": [
+        "CH013-S03-C002"
+      ],
+      "tested_concept": "Renal COX-1 and COX-2 Expression",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q016",
+      "source_chunk_ids": [
+        "CH013-S03-C001"
+      ],
+      "tested_concept": "Renal COX-1 and COX-2 Expression",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q017",
+      "source_chunk_ids": [
+        "CH013-S04-C001"
+      ],
+      "tested_concept": "Renal Complications of Nonsteroidal Antiinflammatory Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q018",
+      "source_chunk_ids": [
+        "CH013-S04-C001"
+      ],
+      "tested_concept": "Renal Complications of Nonsteroidal Antiinflammatory Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q019",
+      "source_chunk_ids": [
+        "CH013-S04-C001"
+      ],
+      "tested_concept": "Renal Complications of Nonsteroidal Antiinflammatory Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q020",
+      "source_chunk_ids": [
+        "CH013-S04-C001"
+      ],
+      "tested_concept": "Renal Complications of Nonsteroidal Antiinflammatory Drugs",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q021",
+      "source_chunk_ids": [
+        "CH013-S05-C001"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q022",
+      "source_chunk_ids": [
+        "CH013-S05-C002"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q023",
+      "source_chunk_ids": [
+        "CH013-S05-C003"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q024",
+      "source_chunk_ids": [
+        "CH013-S05-C004"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q025",
+      "source_chunk_ids": [
+        "CH013-S05-C005"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q026",
+      "source_chunk_ids": [
+        "CH013-S05-C006"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q027",
+      "source_chunk_ids": [
+        "CH013-S05-C007"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q028",
+      "source_chunk_ids": [
+        "CH013-S05-C008"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q029",
+      "source_chunk_ids": [
+        "CH013-S05-C009"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q030",
+      "source_chunk_ids": [
+        "CH013-S05-C001"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q031",
+      "source_chunk_ids": [
+        "CH013-S05-C002"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q032",
+      "source_chunk_ids": [
+        "CH013-S05-C003"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q033",
+      "source_chunk_ids": [
+        "CH013-S05-C004"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q034",
+      "source_chunk_ids": [
+        "CH013-S05-C005"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q035",
+      "source_chunk_ids": [
+        "CH013-S05-C006"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q036",
+      "source_chunk_ids": [
+        "CH013-S05-C007"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q037",
+      "source_chunk_ids": [
+        "CH013-S05-C008"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q038",
+      "source_chunk_ids": [
+        "CH013-S05-C009"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q039",
+      "source_chunk_ids": [
+        "CH013-S05-C001"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q040",
+      "source_chunk_ids": [
+        "CH013-S05-C002"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q041",
+      "source_chunk_ids": [
+        "CH013-S05-C003"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q042",
+      "source_chunk_ids": [
+        "CH013-S05-C004"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q043",
+      "source_chunk_ids": [
+        "CH013-S05-C005"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q044",
+      "source_chunk_ids": [
+        "CH013-S05-C006"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q045",
+      "source_chunk_ids": [
+        "CH013-S05-C007"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q046",
+      "source_chunk_ids": [
+        "CH013-S05-C008"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q047",
+      "source_chunk_ids": [
+        "CH013-S05-C009"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q048",
+      "source_chunk_ids": [
+        "CH013-S05-C001"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q049",
+      "source_chunk_ids": [
+        "CH013-S05-C002"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q050",
+      "source_chunk_ids": [
+        "CH013-S05-C003"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q051",
+      "source_chunk_ids": [
+        "CH013-S05-C004"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q052",
+      "source_chunk_ids": [
+        "CH013-S05-C005"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q053",
+      "source_chunk_ids": [
+        "CH013-S05-C006"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q054",
+      "source_chunk_ids": [
+        "CH013-S05-C007"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q055",
+      "source_chunk_ids": [
+        "CH013-S05-C008"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q056",
+      "source_chunk_ids": [
+        "CH013-S05-C009"
+      ],
+      "tested_concept": "Prostanoids",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q057",
+      "source_chunk_ids": [
+        "CH013-S06-C001"
+      ],
+      "tested_concept": "Prostaglandins",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q058",
+      "source_chunk_ids": [
+        "CH013-S06-C001"
+      ],
+      "tested_concept": "Prostaglandins",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q059",
+      "source_chunk_ids": [
+        "CH013-S06-C001"
+      ],
+      "tested_concept": "Prostaglandins",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q060",
+      "source_chunk_ids": [
+        "CH013-S06-C001"
+      ],
+      "tested_concept": "Prostaglandins",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q061",
+      "source_chunk_ids": [
+        "CH013-S07-C001"
+      ],
+      "tested_concept": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q062",
+      "source_chunk_ids": [
+        "CH013-S07-C002"
+      ],
+      "tested_concept": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q063",
+      "source_chunk_ids": [
+        "CH013-S07-C003"
+      ],
+      "tested_concept": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q064",
+      "source_chunk_ids": [
+        "CH013-S07-C004"
+      ],
+      "tested_concept": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q065",
+      "source_chunk_ids": [
+        "CH013-S07-C001"
+      ],
+      "tested_concept": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q066",
+      "source_chunk_ids": [
+        "CH013-S07-C002"
+      ],
+      "tested_concept": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q067",
+      "source_chunk_ids": [
+        "CH013-S07-C003"
+      ],
+      "tested_concept": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q068",
+      "source_chunk_ids": [
+        "CH013-S07-C004"
+      ],
+      "tested_concept": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q069",
+      "source_chunk_ids": [
+        "CH013-S07-C001"
+      ],
+      "tested_concept": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q070",
+      "source_chunk_ids": [
+        "CH013-S07-C002"
+      ],
+      "tested_concept": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q071",
+      "source_chunk_ids": [
+        "CH013-S07-C003"
+      ],
+      "tested_concept": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q072",
+      "source_chunk_ids": [
+        "CH013-S07-C004"
+      ],
+      "tested_concept": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q073",
+      "source_chunk_ids": [
+        "CH013-S07-C001"
+      ],
+      "tested_concept": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q074",
+      "source_chunk_ids": [
+        "CH013-S07-C002"
+      ],
+      "tested_concept": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q075",
+      "source_chunk_ids": [
+        "CH013-S07-C003"
+      ],
+      "tested_concept": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q076",
+      "source_chunk_ids": [
+        "CH013-S07-C004"
+      ],
+      "tested_concept": "Involvement of Cyclooxygenase Metabolites in Renal Pathophysiology",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q077",
+      "source_chunk_ids": [
+        "CH013-S08-C001"
+      ],
+      "tested_concept": "The Lipoxygenase Pathway",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q078",
+      "source_chunk_ids": [
+        "CH013-S08-C002"
+      ],
+      "tested_concept": "The Lipoxygenase Pathway",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q079",
+      "source_chunk_ids": [
+        "CH013-S08-C003"
+      ],
+      "tested_concept": "The Lipoxygenase Pathway",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q080",
+      "source_chunk_ids": [
+        "CH013-S08-C001"
+      ],
+      "tested_concept": "The Lipoxygenase Pathway",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH013-Q081",
+      "source_chunk_ids": [
+        "CH013-S08-C002"
+      ],
+      "tested_concept": "The Lipoxygenase Pathway",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q082",
+      "source_chunk_ids": [
+        "CH013-S08-C003"
+      ],
+      "tested_concept": "The Lipoxygenase Pathway",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q083",
+      "source_chunk_ids": [
+        "CH013-S08-C001"
+      ],
+      "tested_concept": "The Lipoxygenase Pathway",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q084",
+      "source_chunk_ids": [
+        "CH013-S08-C002"
+      ],
+      "tested_concept": "The Lipoxygenase Pathway",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q085",
+      "source_chunk_ids": [
+        "CH013-S08-C003"
+      ],
+      "tested_concept": "The Lipoxygenase Pathway",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q086",
+      "source_chunk_ids": [
+        "CH013-S08-C001"
+      ],
+      "tested_concept": "The Lipoxygenase Pathway",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q087",
+      "source_chunk_ids": [
+        "CH013-S08-C002"
+      ],
+      "tested_concept": "The Lipoxygenase Pathway",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q088",
+      "source_chunk_ids": [
+        "CH013-S09-C001"
+      ],
+      "tested_concept": "The Cytochrome P450 Pathway",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q089",
+      "source_chunk_ids": [
+        "CH013-S09-C002"
+      ],
+      "tested_concept": "The Cytochrome P450 Pathway",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q090",
+      "source_chunk_ids": [
+        "CH013-S09-C003"
+      ],
+      "tested_concept": "The Cytochrome P450 Pathway",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q091",
+      "source_chunk_ids": [
+        "CH013-S09-C001"
+      ],
+      "tested_concept": "The Cytochrome P450 Pathway",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q092",
+      "source_chunk_ids": [
+        "CH013-S09-C002"
+      ],
+      "tested_concept": "The Cytochrome P450 Pathway",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q093",
+      "source_chunk_ids": [
+        "CH013-S09-C003"
+      ],
+      "tested_concept": "The Cytochrome P450 Pathway",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q094",
+      "source_chunk_ids": [
+        "CH013-S09-C001"
+      ],
+      "tested_concept": "The Cytochrome P450 Pathway",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q095",
+      "source_chunk_ids": [
+        "CH013-S09-C002"
+      ],
+      "tested_concept": "The Cytochrome P450 Pathway",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q096",
+      "source_chunk_ids": [
+        "CH013-S09-C003"
+      ],
+      "tested_concept": "The Cytochrome P450 Pathway",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q097",
+      "source_chunk_ids": [
+        "CH013-S09-C001"
+      ],
+      "tested_concept": "The Cytochrome P450 Pathway",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q098",
+      "source_chunk_ids": [
+        "CH013-S09-C002"
+      ],
+      "tested_concept": "The Cytochrome P450 Pathway",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q099",
+      "source_chunk_ids": [
+        "CH013-S09-C003"
+      ],
+      "tested_concept": "The Cytochrome P450 Pathway",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH013-Q100",
+      "source_chunk_ids": [
+        "CH013-S09-C001"
+      ],
+      "tested_concept": "The Cytochrome P450 Pathway",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
