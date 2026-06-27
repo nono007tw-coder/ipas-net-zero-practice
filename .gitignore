@@ -1,6 +1,7 @@
 .gh-cli/
 .gh-config/
 .github-device-auth.json
+.github-device-current.json
 .github-token.tmp
 .source-cache/
 .gh-cli.zip
@@ -13,3 +14,5 @@ page_*_stack.jpg
 pdf_page_images/
 rendered_pages/
 上傳到GitHub/
+__pycache__/
+*.py[cod]
