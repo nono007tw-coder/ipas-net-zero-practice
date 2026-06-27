@@ -1,0 +1,1157 @@
+{
+  "chapter_id": "CH044",
+  "chapter_title": "Inherited Disorders of the Renal Tubule",
+  "clinical_weight": 4,
+  "core_themes": [
+    "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+    "Diabetes Insipidus",
+    "Inherited Disorders of Renal Amino Acid Transport",
+    "Inherited Disorders of Renal Phosphate Transport",
+    "Inherited Disorders of Acid–Base Transporters",
+    "Inherited Disorders With Hypertension and Hypokalemia",
+    "Bartter and Gitelman Syndromes",
+    "Pseudohypoaldosteronism"
+  ],
+  "sections": [
+    {
+      "section_title": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "chunk_ids": [
+        "CH044-S01-C001",
+        "CH044-S01-C002",
+        "CH044-S01-C003",
+        "CH044-S01-C004",
+        "CH044-S01-C005",
+        "CH044-S01-C006",
+        "CH044-S01-C007",
+        "CH044-S01-C008",
+        "CH044-S01-C009"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH044-S01-C001",
+        "CH044-S01-C002",
+        "CH044-S01-C003",
+        "CH044-S01-C004",
+        "CH044-S01-C005",
+        "CH044-S01-C006",
+        "CH044-S01-C007",
+        "CH044-S01-C008",
+        "CH044-S01-C009"
+      ],
+      "key_concepts": [
+        "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)"
+      ],
+      "recommended_question_count": 31,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Inherited Disorders of Renal Amino Acid Transport",
+      "chunk_ids": [
+        "CH044-S02-C001",
+        "CH044-S02-C002",
+        "CH044-S02-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH044-S02-C001",
+        "CH044-S02-C002",
+        "CH044-S02-C003"
+      ],
+      "key_concepts": [
+        "Inherited Disorders of Renal Amino Acid Transport"
+      ],
+      "recommended_question_count": 12,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Inherited Disorders of Renal Phosphate Transport",
+      "chunk_ids": [
+        "CH044-S03-C001",
+        "CH044-S03-C002",
+        "CH044-S03-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH044-S03-C001",
+        "CH044-S03-C002",
+        "CH044-S03-C003"
+      ],
+      "key_concepts": [
+        "Inherited Disorders of Renal Phosphate Transport"
+      ],
+      "recommended_question_count": 11,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Inherited Disorders of Renal Glucose Transport",
+      "chunk_ids": [
+        "CH044-S04-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH044-S04-C001"
+      ],
+      "key_concepts": [
+        "Inherited Disorders of Renal Glucose Transport"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Inherited Disorders of Acid–Base Transporters",
+      "chunk_ids": [
+        "CH044-S05-C001",
+        "CH044-S05-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH044-S05-C001",
+        "CH044-S05-C002"
+      ],
+      "key_concepts": [
+        "Inherited Disorders of Acid–Base Transporters"
+      ],
+      "recommended_question_count": 8,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Bartter and Gitelman Syndromes",
+      "chunk_ids": [
+        "CH044-S06-C001",
+        "CH044-S06-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH044-S06-C001",
+        "CH044-S06-C002"
+      ],
+      "key_concepts": [
+        "Bartter and Gitelman Syndromes"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Inherited Disorders With Hypertension and Hypokalemia",
+      "chunk_ids": [
+        "CH044-S07-C001",
+        "CH044-S07-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH044-S07-C001",
+        "CH044-S07-C002"
+      ],
+      "key_concepts": [
+        "Inherited Disorders With Hypertension and Hypokalemia"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Pseudohypoaldosteronism",
+      "chunk_ids": [
+        "CH044-S08-C001",
+        "CH044-S08-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH044-S08-C001",
+        "CH044-S08-C002"
+      ],
+      "key_concepts": [
+        "Pseudohypoaldosteronism"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Inherited Disorders of Renal Magnesium Processing",
+      "chunk_ids": [
+        "CH044-S09-C001",
+        "CH044-S09-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH044-S09-C001"
+      ],
+      "key_concepts": [
+        "Inherited Disorders of Renal Magnesium Processing"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Diabetes Insipidus",
+      "chunk_ids": [
+        "CH044-S10-C001",
+        "CH044-S10-C002",
+        "CH044-S10-C003",
+        "CH044-S10-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH044-S10-C001",
+        "CH044-S10-C002",
+        "CH044-S10-C003",
+        "CH044-S10-C004"
+      ],
+      "key_concepts": [
+        "Diabetes Insipidus"
+      ],
+      "recommended_question_count": 13,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH044-Q001",
+      "source_chunk_ids": [
+        "CH044-S01-C001"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q002",
+      "source_chunk_ids": [
+        "CH044-S01-C002"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q003",
+      "source_chunk_ids": [
+        "CH044-S01-C003"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q004",
+      "source_chunk_ids": [
+        "CH044-S01-C004"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q005",
+      "source_chunk_ids": [
+        "CH044-S01-C005"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q006",
+      "source_chunk_ids": [
+        "CH044-S01-C006"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q007",
+      "source_chunk_ids": [
+        "CH044-S01-C007"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q008",
+      "source_chunk_ids": [
+        "CH044-S01-C008"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q009",
+      "source_chunk_ids": [
+        "CH044-S01-C009"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q010",
+      "source_chunk_ids": [
+        "CH044-S01-C001"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q011",
+      "source_chunk_ids": [
+        "CH044-S01-C002"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q012",
+      "source_chunk_ids": [
+        "CH044-S01-C003"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q013",
+      "source_chunk_ids": [
+        "CH044-S01-C004"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q014",
+      "source_chunk_ids": [
+        "CH044-S01-C005"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q015",
+      "source_chunk_ids": [
+        "CH044-S01-C006"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q016",
+      "source_chunk_ids": [
+        "CH044-S01-C007"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q017",
+      "source_chunk_ids": [
+        "CH044-S01-C008"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q018",
+      "source_chunk_ids": [
+        "CH044-S01-C009"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q019",
+      "source_chunk_ids": [
+        "CH044-S01-C001"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q020",
+      "source_chunk_ids": [
+        "CH044-S01-C002"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q021",
+      "source_chunk_ids": [
+        "CH044-S01-C003"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q022",
+      "source_chunk_ids": [
+        "CH044-S01-C004"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q023",
+      "source_chunk_ids": [
+        "CH044-S01-C005"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q024",
+      "source_chunk_ids": [
+        "CH044-S01-C006"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q025",
+      "source_chunk_ids": [
+        "CH044-S01-C007"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q026",
+      "source_chunk_ids": [
+        "CH044-S01-C008"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q027",
+      "source_chunk_ids": [
+        "CH044-S01-C009"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q028",
+      "source_chunk_ids": [
+        "CH044-S01-C001"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q029",
+      "source_chunk_ids": [
+        "CH044-S01-C002"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q030",
+      "source_chunk_ids": [
+        "CH044-S01-C003"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q031",
+      "source_chunk_ids": [
+        "CH044-S01-C004"
+      ],
+      "tested_concept": "Inherited Disorders Associated With Generalized Dysfunction of the Proximal Tubule (Renal Fanconi Syndrome)",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q032",
+      "source_chunk_ids": [
+        "CH044-S02-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Amino Acid Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q033",
+      "source_chunk_ids": [
+        "CH044-S02-C002"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Amino Acid Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q034",
+      "source_chunk_ids": [
+        "CH044-S02-C003"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Amino Acid Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q035",
+      "source_chunk_ids": [
+        "CH044-S02-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Amino Acid Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q036",
+      "source_chunk_ids": [
+        "CH044-S02-C002"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Amino Acid Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q037",
+      "source_chunk_ids": [
+        "CH044-S02-C003"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Amino Acid Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q038",
+      "source_chunk_ids": [
+        "CH044-S02-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Amino Acid Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q039",
+      "source_chunk_ids": [
+        "CH044-S02-C002"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Amino Acid Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q040",
+      "source_chunk_ids": [
+        "CH044-S02-C003"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Amino Acid Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q041",
+      "source_chunk_ids": [
+        "CH044-S02-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Amino Acid Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q042",
+      "source_chunk_ids": [
+        "CH044-S02-C002"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Amino Acid Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q043",
+      "source_chunk_ids": [
+        "CH044-S02-C003"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Amino Acid Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q044",
+      "source_chunk_ids": [
+        "CH044-S03-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Phosphate Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q045",
+      "source_chunk_ids": [
+        "CH044-S03-C002"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Phosphate Transport",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q046",
+      "source_chunk_ids": [
+        "CH044-S03-C003"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Phosphate Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q047",
+      "source_chunk_ids": [
+        "CH044-S03-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Phosphate Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q048",
+      "source_chunk_ids": [
+        "CH044-S03-C002"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Phosphate Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q049",
+      "source_chunk_ids": [
+        "CH044-S03-C003"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Phosphate Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q050",
+      "source_chunk_ids": [
+        "CH044-S03-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Phosphate Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q051",
+      "source_chunk_ids": [
+        "CH044-S03-C002"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Phosphate Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q052",
+      "source_chunk_ids": [
+        "CH044-S03-C003"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Phosphate Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q053",
+      "source_chunk_ids": [
+        "CH044-S03-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Phosphate Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q054",
+      "source_chunk_ids": [
+        "CH044-S03-C002"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Phosphate Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q055",
+      "source_chunk_ids": [
+        "CH044-S04-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Glucose Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q056",
+      "source_chunk_ids": [
+        "CH044-S04-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Glucose Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q057",
+      "source_chunk_ids": [
+        "CH044-S04-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Glucose Transport",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q058",
+      "source_chunk_ids": [
+        "CH044-S05-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Acid–Base Transporters",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q059",
+      "source_chunk_ids": [
+        "CH044-S05-C002"
+      ],
+      "tested_concept": "Inherited Disorders of Acid–Base Transporters",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q060",
+      "source_chunk_ids": [
+        "CH044-S05-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Acid–Base Transporters",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q061",
+      "source_chunk_ids": [
+        "CH044-S05-C002"
+      ],
+      "tested_concept": "Inherited Disorders of Acid–Base Transporters",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q062",
+      "source_chunk_ids": [
+        "CH044-S05-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Acid–Base Transporters",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q063",
+      "source_chunk_ids": [
+        "CH044-S05-C002"
+      ],
+      "tested_concept": "Inherited Disorders of Acid–Base Transporters",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q064",
+      "source_chunk_ids": [
+        "CH044-S05-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Acid–Base Transporters",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q065",
+      "source_chunk_ids": [
+        "CH044-S05-C002"
+      ],
+      "tested_concept": "Inherited Disorders of Acid–Base Transporters",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q066",
+      "source_chunk_ids": [
+        "CH044-S06-C001"
+      ],
+      "tested_concept": "Bartter and Gitelman Syndromes",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q067",
+      "source_chunk_ids": [
+        "CH044-S06-C002"
+      ],
+      "tested_concept": "Bartter and Gitelman Syndromes",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q068",
+      "source_chunk_ids": [
+        "CH044-S06-C001"
+      ],
+      "tested_concept": "Bartter and Gitelman Syndromes",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q069",
+      "source_chunk_ids": [
+        "CH044-S06-C002"
+      ],
+      "tested_concept": "Bartter and Gitelman Syndromes",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q070",
+      "source_chunk_ids": [
+        "CH044-S06-C001"
+      ],
+      "tested_concept": "Bartter and Gitelman Syndromes",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q071",
+      "source_chunk_ids": [
+        "CH044-S06-C002"
+      ],
+      "tested_concept": "Bartter and Gitelman Syndromes",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q072",
+      "source_chunk_ids": [
+        "CH044-S07-C001"
+      ],
+      "tested_concept": "Inherited Disorders With Hypertension and Hypokalemia",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q073",
+      "source_chunk_ids": [
+        "CH044-S07-C002"
+      ],
+      "tested_concept": "Inherited Disorders With Hypertension and Hypokalemia",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q074",
+      "source_chunk_ids": [
+        "CH044-S07-C001"
+      ],
+      "tested_concept": "Inherited Disorders With Hypertension and Hypokalemia",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q075",
+      "source_chunk_ids": [
+        "CH044-S07-C002"
+      ],
+      "tested_concept": "Inherited Disorders With Hypertension and Hypokalemia",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q076",
+      "source_chunk_ids": [
+        "CH044-S07-C001"
+      ],
+      "tested_concept": "Inherited Disorders With Hypertension and Hypokalemia",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q077",
+      "source_chunk_ids": [
+        "CH044-S07-C002"
+      ],
+      "tested_concept": "Inherited Disorders With Hypertension and Hypokalemia",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q078",
+      "source_chunk_ids": [
+        "CH044-S07-C001"
+      ],
+      "tested_concept": "Inherited Disorders With Hypertension and Hypokalemia",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q079",
+      "source_chunk_ids": [
+        "CH044-S08-C001"
+      ],
+      "tested_concept": "Pseudohypoaldosteronism",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q080",
+      "source_chunk_ids": [
+        "CH044-S08-C002"
+      ],
+      "tested_concept": "Pseudohypoaldosteronism",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH044-Q081",
+      "source_chunk_ids": [
+        "CH044-S08-C001"
+      ],
+      "tested_concept": "Pseudohypoaldosteronism",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q082",
+      "source_chunk_ids": [
+        "CH044-S08-C002"
+      ],
+      "tested_concept": "Pseudohypoaldosteronism",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q083",
+      "source_chunk_ids": [
+        "CH044-S08-C001"
+      ],
+      "tested_concept": "Pseudohypoaldosteronism",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q084",
+      "source_chunk_ids": [
+        "CH044-S09-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Magnesium Processing",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q085",
+      "source_chunk_ids": [
+        "CH044-S09-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Magnesium Processing",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q086",
+      "source_chunk_ids": [
+        "CH044-S09-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Magnesium Processing",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q087",
+      "source_chunk_ids": [
+        "CH044-S09-C001"
+      ],
+      "tested_concept": "Inherited Disorders of Renal Magnesium Processing",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q088",
+      "source_chunk_ids": [
+        "CH044-S10-C001"
+      ],
+      "tested_concept": "Diabetes Insipidus",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q089",
+      "source_chunk_ids": [
+        "CH044-S10-C002"
+      ],
+      "tested_concept": "Diabetes Insipidus",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q090",
+      "source_chunk_ids": [
+        "CH044-S10-C003"
+      ],
+      "tested_concept": "Diabetes Insipidus",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q091",
+      "source_chunk_ids": [
+        "CH044-S10-C004"
+      ],
+      "tested_concept": "Diabetes Insipidus",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q092",
+      "source_chunk_ids": [
+        "CH044-S10-C001"
+      ],
+      "tested_concept": "Diabetes Insipidus",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q093",
+      "source_chunk_ids": [
+        "CH044-S10-C002"
+      ],
+      "tested_concept": "Diabetes Insipidus",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q094",
+      "source_chunk_ids": [
+        "CH044-S10-C003"
+      ],
+      "tested_concept": "Diabetes Insipidus",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q095",
+      "source_chunk_ids": [
+        "CH044-S10-C004"
+      ],
+      "tested_concept": "Diabetes Insipidus",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q096",
+      "source_chunk_ids": [
+        "CH044-S10-C001"
+      ],
+      "tested_concept": "Diabetes Insipidus",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q097",
+      "source_chunk_ids": [
+        "CH044-S10-C002"
+      ],
+      "tested_concept": "Diabetes Insipidus",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q098",
+      "source_chunk_ids": [
+        "CH044-S10-C003"
+      ],
+      "tested_concept": "Diabetes Insipidus",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q099",
+      "source_chunk_ids": [
+        "CH044-S10-C004"
+      ],
+      "tested_concept": "Diabetes Insipidus",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH044-Q100",
+      "source_chunk_ids": [
+        "CH044-S10-C001"
+      ],
+      "tested_concept": "Diabetes Insipidus",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
