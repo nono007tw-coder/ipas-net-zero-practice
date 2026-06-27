@@ -1,0 +1,1063 @@
+{
+  "chapter_id": "CH035",
+  "chapter_title": "Tubulointerstitial Diseases",
+  "clinical_weight": 4,
+  "core_themes": [
+    "Acute Tubulointerstitial Nephritis",
+    "Chronic Tubulointerstitial Diseases",
+    "Mechanisms of Tubulointerstitial Injury",
+    "Genetic Causes of Tubulointerstitial Diseases",
+    "Key points"
+  ],
+  "sections": [
+    {
+      "section_title": "Key points",
+      "chunk_ids": [
+        "CH035-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH035-S01-C001"
+      ],
+      "key_concepts": [
+        "Key points"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Mechanisms of Tubulointerstitial Injury",
+      "chunk_ids": [
+        "CH035-S02-C001",
+        "CH035-S02-C002",
+        "CH035-S02-C003",
+        "CH035-S02-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH035-S02-C001",
+        "CH035-S02-C002",
+        "CH035-S02-C003",
+        "CH035-S02-C004"
+      ],
+      "key_concepts": [
+        "Mechanisms of Tubulointerstitial Injury"
+      ],
+      "recommended_question_count": 17,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Genetic Causes of Tubulointerstitial Diseases",
+      "chunk_ids": [
+        "CH035-S03-C001",
+        "CH035-S03-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH035-S03-C001",
+        "CH035-S03-C002"
+      ],
+      "key_concepts": [
+        "Genetic Causes of Tubulointerstitial Diseases"
+      ],
+      "recommended_question_count": 8,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Acute Tubulointerstitial Nephritis",
+      "chunk_ids": [
+        "CH035-S04-C001",
+        "CH035-S04-C002",
+        "CH035-S04-C003",
+        "CH035-S04-C004",
+        "CH035-S04-C005",
+        "CH035-S04-C006",
+        "CH035-S04-C007",
+        "CH035-S04-C008",
+        "CH035-S04-C009",
+        "CH035-S04-C010"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH035-S04-C001",
+        "CH035-S04-C002",
+        "CH035-S04-C003",
+        "CH035-S04-C004",
+        "CH035-S04-C005",
+        "CH035-S04-C006",
+        "CH035-S04-C007",
+        "CH035-S04-C008",
+        "CH035-S04-C009",
+        "CH035-S04-C010"
+      ],
+      "key_concepts": [
+        "Acute Tubulointerstitial Nephritis"
+      ],
+      "recommended_question_count": 44,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Chronic Tubulointerstitial Diseases",
+      "chunk_ids": [
+        "CH035-S05-C001",
+        "CH035-S05-C002",
+        "CH035-S05-C003",
+        "CH035-S05-C004",
+        "CH035-S05-C005",
+        "CH035-S05-C006",
+        "CH035-S05-C007"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH035-S05-C001",
+        "CH035-S05-C002",
+        "CH035-S05-C003",
+        "CH035-S05-C004",
+        "CH035-S05-C005",
+        "CH035-S05-C006",
+        "CH035-S05-C007"
+      ],
+      "key_concepts": [
+        "Chronic Tubulointerstitial Diseases"
+      ],
+      "recommended_question_count": 29,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH035-Q001",
+      "source_chunk_ids": [
+        "CH035-S01-C001"
+      ],
+      "tested_concept": "Key points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q002",
+      "source_chunk_ids": [
+        "CH035-S01-C001"
+      ],
+      "tested_concept": "Key points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q003",
+      "source_chunk_ids": [
+        "CH035-S02-C001"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q004",
+      "source_chunk_ids": [
+        "CH035-S02-C002"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q005",
+      "source_chunk_ids": [
+        "CH035-S02-C003"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q006",
+      "source_chunk_ids": [
+        "CH035-S02-C004"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q007",
+      "source_chunk_ids": [
+        "CH035-S02-C001"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q008",
+      "source_chunk_ids": [
+        "CH035-S02-C002"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q009",
+      "source_chunk_ids": [
+        "CH035-S02-C003"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q010",
+      "source_chunk_ids": [
+        "CH035-S02-C004"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q011",
+      "source_chunk_ids": [
+        "CH035-S02-C001"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q012",
+      "source_chunk_ids": [
+        "CH035-S02-C002"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q013",
+      "source_chunk_ids": [
+        "CH035-S02-C003"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q014",
+      "source_chunk_ids": [
+        "CH035-S02-C004"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q015",
+      "source_chunk_ids": [
+        "CH035-S02-C001"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q016",
+      "source_chunk_ids": [
+        "CH035-S02-C002"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q017",
+      "source_chunk_ids": [
+        "CH035-S02-C003"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q018",
+      "source_chunk_ids": [
+        "CH035-S02-C004"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q019",
+      "source_chunk_ids": [
+        "CH035-S02-C001"
+      ],
+      "tested_concept": "Mechanisms of Tubulointerstitial Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q020",
+      "source_chunk_ids": [
+        "CH035-S03-C001"
+      ],
+      "tested_concept": "Genetic Causes of Tubulointerstitial Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q021",
+      "source_chunk_ids": [
+        "CH035-S03-C002"
+      ],
+      "tested_concept": "Genetic Causes of Tubulointerstitial Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q022",
+      "source_chunk_ids": [
+        "CH035-S03-C001"
+      ],
+      "tested_concept": "Genetic Causes of Tubulointerstitial Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q023",
+      "source_chunk_ids": [
+        "CH035-S03-C002"
+      ],
+      "tested_concept": "Genetic Causes of Tubulointerstitial Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q024",
+      "source_chunk_ids": [
+        "CH035-S03-C001"
+      ],
+      "tested_concept": "Genetic Causes of Tubulointerstitial Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q025",
+      "source_chunk_ids": [
+        "CH035-S03-C002"
+      ],
+      "tested_concept": "Genetic Causes of Tubulointerstitial Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q026",
+      "source_chunk_ids": [
+        "CH035-S03-C001"
+      ],
+      "tested_concept": "Genetic Causes of Tubulointerstitial Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q027",
+      "source_chunk_ids": [
+        "CH035-S03-C002"
+      ],
+      "tested_concept": "Genetic Causes of Tubulointerstitial Diseases",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q028",
+      "source_chunk_ids": [
+        "CH035-S04-C001"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q029",
+      "source_chunk_ids": [
+        "CH035-S04-C002"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q030",
+      "source_chunk_ids": [
+        "CH035-S04-C003"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q031",
+      "source_chunk_ids": [
+        "CH035-S04-C004"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q032",
+      "source_chunk_ids": [
+        "CH035-S04-C005"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q033",
+      "source_chunk_ids": [
+        "CH035-S04-C006"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q034",
+      "source_chunk_ids": [
+        "CH035-S04-C007"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q035",
+      "source_chunk_ids": [
+        "CH035-S04-C008"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q036",
+      "source_chunk_ids": [
+        "CH035-S04-C009"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q037",
+      "source_chunk_ids": [
+        "CH035-S04-C010"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q038",
+      "source_chunk_ids": [
+        "CH035-S04-C001"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q039",
+      "source_chunk_ids": [
+        "CH035-S04-C002"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q040",
+      "source_chunk_ids": [
+        "CH035-S04-C003"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q041",
+      "source_chunk_ids": [
+        "CH035-S04-C004"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q042",
+      "source_chunk_ids": [
+        "CH035-S04-C005"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q043",
+      "source_chunk_ids": [
+        "CH035-S04-C006"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q044",
+      "source_chunk_ids": [
+        "CH035-S04-C007"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q045",
+      "source_chunk_ids": [
+        "CH035-S04-C008"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q046",
+      "source_chunk_ids": [
+        "CH035-S04-C009"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q047",
+      "source_chunk_ids": [
+        "CH035-S04-C010"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q048",
+      "source_chunk_ids": [
+        "CH035-S04-C001"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q049",
+      "source_chunk_ids": [
+        "CH035-S04-C002"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q050",
+      "source_chunk_ids": [
+        "CH035-S04-C003"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q051",
+      "source_chunk_ids": [
+        "CH035-S04-C004"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q052",
+      "source_chunk_ids": [
+        "CH035-S04-C005"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q053",
+      "source_chunk_ids": [
+        "CH035-S04-C006"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q054",
+      "source_chunk_ids": [
+        "CH035-S04-C007"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q055",
+      "source_chunk_ids": [
+        "CH035-S04-C008"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q056",
+      "source_chunk_ids": [
+        "CH035-S04-C009"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q057",
+      "source_chunk_ids": [
+        "CH035-S04-C010"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q058",
+      "source_chunk_ids": [
+        "CH035-S04-C001"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q059",
+      "source_chunk_ids": [
+        "CH035-S04-C002"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q060",
+      "source_chunk_ids": [
+        "CH035-S04-C003"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q061",
+      "source_chunk_ids": [
+        "CH035-S04-C004"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q062",
+      "source_chunk_ids": [
+        "CH035-S04-C005"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q063",
+      "source_chunk_ids": [
+        "CH035-S04-C006"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q064",
+      "source_chunk_ids": [
+        "CH035-S04-C007"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q065",
+      "source_chunk_ids": [
+        "CH035-S04-C008"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q066",
+      "source_chunk_ids": [
+        "CH035-S04-C009"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q067",
+      "source_chunk_ids": [
+        "CH035-S04-C010"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q068",
+      "source_chunk_ids": [
+        "CH035-S04-C001"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q069",
+      "source_chunk_ids": [
+        "CH035-S04-C002"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q070",
+      "source_chunk_ids": [
+        "CH035-S04-C003"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q071",
+      "source_chunk_ids": [
+        "CH035-S04-C004"
+      ],
+      "tested_concept": "Acute Tubulointerstitial Nephritis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q072",
+      "source_chunk_ids": [
+        "CH035-S05-C001"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q073",
+      "source_chunk_ids": [
+        "CH035-S05-C002"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q074",
+      "source_chunk_ids": [
+        "CH035-S05-C003"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q075",
+      "source_chunk_ids": [
+        "CH035-S05-C004"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q076",
+      "source_chunk_ids": [
+        "CH035-S05-C005"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q077",
+      "source_chunk_ids": [
+        "CH035-S05-C006"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q078",
+      "source_chunk_ids": [
+        "CH035-S05-C007"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q079",
+      "source_chunk_ids": [
+        "CH035-S05-C001"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q080",
+      "source_chunk_ids": [
+        "CH035-S05-C002"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH035-Q081",
+      "source_chunk_ids": [
+        "CH035-S05-C003"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q082",
+      "source_chunk_ids": [
+        "CH035-S05-C004"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q083",
+      "source_chunk_ids": [
+        "CH035-S05-C005"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q084",
+      "source_chunk_ids": [
+        "CH035-S05-C006"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q085",
+      "source_chunk_ids": [
+        "CH035-S05-C007"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q086",
+      "source_chunk_ids": [
+        "CH035-S05-C001"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q087",
+      "source_chunk_ids": [
+        "CH035-S05-C002"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q088",
+      "source_chunk_ids": [
+        "CH035-S05-C003"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q089",
+      "source_chunk_ids": [
+        "CH035-S05-C004"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q090",
+      "source_chunk_ids": [
+        "CH035-S05-C005"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q091",
+      "source_chunk_ids": [
+        "CH035-S05-C006"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q092",
+      "source_chunk_ids": [
+        "CH035-S05-C007"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q093",
+      "source_chunk_ids": [
+        "CH035-S05-C001"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q094",
+      "source_chunk_ids": [
+        "CH035-S05-C002"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q095",
+      "source_chunk_ids": [
+        "CH035-S05-C003"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q096",
+      "source_chunk_ids": [
+        "CH035-S05-C004"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q097",
+      "source_chunk_ids": [
+        "CH035-S05-C005"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q098",
+      "source_chunk_ids": [
+        "CH035-S05-C006"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q099",
+      "source_chunk_ids": [
+        "CH035-S05-C007"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH035-Q100",
+      "source_chunk_ids": [
+        "CH035-S05-C001"
+      ],
+      "tested_concept": "Chronic Tubulointerstitial Diseases",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
