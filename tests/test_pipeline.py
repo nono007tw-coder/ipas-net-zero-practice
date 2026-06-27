@@ -6,6 +6,7 @@ import unittest
 from pathlib import Path
 
 from blueprint import validate_blueprint
+from build_all_blueprints import allocate_counts
 from chunking import chunk_paragraphs
 from deduplicate import deduplicate
 from generate_questions import batch_range, validate_generated
@@ -55,6 +56,11 @@ def make_question(
 
 
 class PipelineTests(unittest.TestCase):
+    def test_blueprint_allocation_totals_100(self) -> None:
+        counts = allocate_counts([10, 20, 70], 100)
+        self.assertEqual(counts, [10, 20, 70])
+        self.assertEqual(sum(counts), 100)
+
     def test_chunking_assigns_traceable_ids(self) -> None:
         paragraphs = ["Renal Physiology"] + [
             "This paragraph contains enough source words for a deterministic chunk test."
