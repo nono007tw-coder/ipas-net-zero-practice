@@ -1,0 +1,1136 @@
+{
+  "chapter_id": "CH012",
+  "chapter_title": "Aldosterone and Mineralocorticoid Receptors",
+  "clinical_weight": 4,
+  "core_themes": [
+    "Regulation of Sodium Absorption and Potassium Secretion",
+    "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+    "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+    "11β-Hydroxysteroid Dehydrogenase Type 2",
+    "Disease States",
+    "Nonepithelial Actions of Aldosterone",
+    "General Introduction to Aldosterone and Mineralocorticoid Receptors",
+    "Aldosterone Synthesis"
+  ],
+  "sections": [
+    {
+      "section_title": "Key Points",
+      "chunk_ids": [
+        "CH012-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH012-S01-C001"
+      ],
+      "key_concepts": [
+        "Key Points"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "General Introduction to Aldosterone and Mineralocorticoid Receptors",
+      "chunk_ids": [
+        "CH012-S02-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH012-S02-C001"
+      ],
+      "key_concepts": [
+        "General Introduction to Aldosterone and Mineralocorticoid Receptors"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Aldosterone Synthesis",
+      "chunk_ids": [
+        "CH012-S03-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH012-S03-C001"
+      ],
+      "key_concepts": [
+        "Aldosterone Synthesis"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "chunk_ids": [
+        "CH012-S04-C001",
+        "CH012-S04-C002",
+        "CH012-S04-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH012-S04-C001",
+        "CH012-S04-C002",
+        "CH012-S04-C003"
+      ],
+      "key_concepts": [
+        "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation"
+      ],
+      "recommended_question_count": 16,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Regulation of Sodium Absorption and Potassium Secretion",
+      "chunk_ids": [
+        "CH012-S05-C001",
+        "CH012-S05-C002",
+        "CH012-S05-C003",
+        "CH012-S05-C004",
+        "CH012-S05-C005",
+        "CH012-S05-C006"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH012-S05-C001",
+        "CH012-S05-C002",
+        "CH012-S05-C003",
+        "CH012-S05-C004",
+        "CH012-S05-C005",
+        "CH012-S05-C006"
+      ],
+      "key_concepts": [
+        "Regulation of Sodium Absorption and Potassium Secretion"
+      ],
+      "recommended_question_count": 36,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Nonrenal Aldosterone-Responsive Tight Epithelia",
+      "chunk_ids": [
+        "CH012-S06-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH012-S06-C001"
+      ],
+      "key_concepts": [
+        "Nonrenal Aldosterone-Responsive Tight Epithelia"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "chunk_ids": [
+        "CH012-S07-C001",
+        "CH012-S07-C002",
+        "CH012-S07-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH012-S07-C001",
+        "CH012-S07-C002",
+        "CH012-S07-C003"
+      ],
+      "key_concepts": [
+        "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects"
+      ],
+      "recommended_question_count": 16,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "11β-Hydroxysteroid Dehydrogenase Type 2",
+      "chunk_ids": [
+        "CH012-S08-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH012-S08-C001"
+      ],
+      "key_concepts": [
+        "11β-Hydroxysteroid Dehydrogenase Type 2"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Disease States",
+      "chunk_ids": [
+        "CH012-S09-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH012-S09-C001"
+      ],
+      "key_concepts": [
+        "Disease States"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Nonepithelial Actions of Aldosterone",
+      "chunk_ids": [
+        "CH012-S10-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH012-S10-C001"
+      ],
+      "key_concepts": [
+        "Nonepithelial Actions of Aldosterone"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH012-Q001",
+      "source_chunk_ids": [
+        "CH012-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q002",
+      "source_chunk_ids": [
+        "CH012-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q003",
+      "source_chunk_ids": [
+        "CH012-S02-C001"
+      ],
+      "tested_concept": "General Introduction to Aldosterone and Mineralocorticoid Receptors",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q004",
+      "source_chunk_ids": [
+        "CH012-S02-C001"
+      ],
+      "tested_concept": "General Introduction to Aldosterone and Mineralocorticoid Receptors",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q005",
+      "source_chunk_ids": [
+        "CH012-S02-C001"
+      ],
+      "tested_concept": "General Introduction to Aldosterone and Mineralocorticoid Receptors",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q006",
+      "source_chunk_ids": [
+        "CH012-S02-C001"
+      ],
+      "tested_concept": "General Introduction to Aldosterone and Mineralocorticoid Receptors",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q007",
+      "source_chunk_ids": [
+        "CH012-S02-C001"
+      ],
+      "tested_concept": "General Introduction to Aldosterone and Mineralocorticoid Receptors",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q008",
+      "source_chunk_ids": [
+        "CH012-S03-C001"
+      ],
+      "tested_concept": "Aldosterone Synthesis",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q009",
+      "source_chunk_ids": [
+        "CH012-S03-C001"
+      ],
+      "tested_concept": "Aldosterone Synthesis",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q010",
+      "source_chunk_ids": [
+        "CH012-S03-C001"
+      ],
+      "tested_concept": "Aldosterone Synthesis",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q011",
+      "source_chunk_ids": [
+        "CH012-S03-C001"
+      ],
+      "tested_concept": "Aldosterone Synthesis",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q012",
+      "source_chunk_ids": [
+        "CH012-S04-C001"
+      ],
+      "tested_concept": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q013",
+      "source_chunk_ids": [
+        "CH012-S04-C002"
+      ],
+      "tested_concept": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q014",
+      "source_chunk_ids": [
+        "CH012-S04-C003"
+      ],
+      "tested_concept": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q015",
+      "source_chunk_ids": [
+        "CH012-S04-C001"
+      ],
+      "tested_concept": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q016",
+      "source_chunk_ids": [
+        "CH012-S04-C002"
+      ],
+      "tested_concept": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q017",
+      "source_chunk_ids": [
+        "CH012-S04-C003"
+      ],
+      "tested_concept": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q018",
+      "source_chunk_ids": [
+        "CH012-S04-C001"
+      ],
+      "tested_concept": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q019",
+      "source_chunk_ids": [
+        "CH012-S04-C002"
+      ],
+      "tested_concept": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q020",
+      "source_chunk_ids": [
+        "CH012-S04-C003"
+      ],
+      "tested_concept": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q021",
+      "source_chunk_ids": [
+        "CH012-S04-C001"
+      ],
+      "tested_concept": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q022",
+      "source_chunk_ids": [
+        "CH012-S04-C002"
+      ],
+      "tested_concept": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q023",
+      "source_chunk_ids": [
+        "CH012-S04-C003"
+      ],
+      "tested_concept": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q024",
+      "source_chunk_ids": [
+        "CH012-S04-C001"
+      ],
+      "tested_concept": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q025",
+      "source_chunk_ids": [
+        "CH012-S04-C002"
+      ],
+      "tested_concept": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q026",
+      "source_chunk_ids": [
+        "CH012-S04-C003"
+      ],
+      "tested_concept": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q027",
+      "source_chunk_ids": [
+        "CH012-S04-C001"
+      ],
+      "tested_concept": "Mechanisms of Mineralocorticoid Receptor Function and Gene Regulation",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q028",
+      "source_chunk_ids": [
+        "CH012-S05-C001"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q029",
+      "source_chunk_ids": [
+        "CH012-S05-C002"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q030",
+      "source_chunk_ids": [
+        "CH012-S05-C003"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q031",
+      "source_chunk_ids": [
+        "CH012-S05-C004"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q032",
+      "source_chunk_ids": [
+        "CH012-S05-C005"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q033",
+      "source_chunk_ids": [
+        "CH012-S05-C006"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q034",
+      "source_chunk_ids": [
+        "CH012-S05-C001"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q035",
+      "source_chunk_ids": [
+        "CH012-S05-C002"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q036",
+      "source_chunk_ids": [
+        "CH012-S05-C003"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q037",
+      "source_chunk_ids": [
+        "CH012-S05-C004"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q038",
+      "source_chunk_ids": [
+        "CH012-S05-C005"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q039",
+      "source_chunk_ids": [
+        "CH012-S05-C006"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q040",
+      "source_chunk_ids": [
+        "CH012-S05-C001"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q041",
+      "source_chunk_ids": [
+        "CH012-S05-C002"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q042",
+      "source_chunk_ids": [
+        "CH012-S05-C003"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q043",
+      "source_chunk_ids": [
+        "CH012-S05-C004"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q044",
+      "source_chunk_ids": [
+        "CH012-S05-C005"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q045",
+      "source_chunk_ids": [
+        "CH012-S05-C006"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q046",
+      "source_chunk_ids": [
+        "CH012-S05-C001"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q047",
+      "source_chunk_ids": [
+        "CH012-S05-C002"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q048",
+      "source_chunk_ids": [
+        "CH012-S05-C003"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q049",
+      "source_chunk_ids": [
+        "CH012-S05-C004"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q050",
+      "source_chunk_ids": [
+        "CH012-S05-C005"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q051",
+      "source_chunk_ids": [
+        "CH012-S05-C006"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q052",
+      "source_chunk_ids": [
+        "CH012-S05-C001"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q053",
+      "source_chunk_ids": [
+        "CH012-S05-C002"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q054",
+      "source_chunk_ids": [
+        "CH012-S05-C003"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q055",
+      "source_chunk_ids": [
+        "CH012-S05-C004"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q056",
+      "source_chunk_ids": [
+        "CH012-S05-C005"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q057",
+      "source_chunk_ids": [
+        "CH012-S05-C006"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q058",
+      "source_chunk_ids": [
+        "CH012-S05-C001"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q059",
+      "source_chunk_ids": [
+        "CH012-S05-C002"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q060",
+      "source_chunk_ids": [
+        "CH012-S05-C003"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q061",
+      "source_chunk_ids": [
+        "CH012-S05-C004"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q062",
+      "source_chunk_ids": [
+        "CH012-S05-C005"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q063",
+      "source_chunk_ids": [
+        "CH012-S05-C006"
+      ],
+      "tested_concept": "Regulation of Sodium Absorption and Potassium Secretion",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q064",
+      "source_chunk_ids": [
+        "CH012-S06-C001"
+      ],
+      "tested_concept": "Nonrenal Aldosterone-Responsive Tight Epithelia",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q065",
+      "source_chunk_ids": [
+        "CH012-S06-C001"
+      ],
+      "tested_concept": "Nonrenal Aldosterone-Responsive Tight Epithelia",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q066",
+      "source_chunk_ids": [
+        "CH012-S06-C001"
+      ],
+      "tested_concept": "Nonrenal Aldosterone-Responsive Tight Epithelia",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q067",
+      "source_chunk_ids": [
+        "CH012-S07-C001"
+      ],
+      "tested_concept": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q068",
+      "source_chunk_ids": [
+        "CH012-S07-C002"
+      ],
+      "tested_concept": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q069",
+      "source_chunk_ids": [
+        "CH012-S07-C003"
+      ],
+      "tested_concept": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q070",
+      "source_chunk_ids": [
+        "CH012-S07-C001"
+      ],
+      "tested_concept": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q071",
+      "source_chunk_ids": [
+        "CH012-S07-C002"
+      ],
+      "tested_concept": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q072",
+      "source_chunk_ids": [
+        "CH012-S07-C003"
+      ],
+      "tested_concept": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q073",
+      "source_chunk_ids": [
+        "CH012-S07-C001"
+      ],
+      "tested_concept": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q074",
+      "source_chunk_ids": [
+        "CH012-S07-C002"
+      ],
+      "tested_concept": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q075",
+      "source_chunk_ids": [
+        "CH012-S07-C003"
+      ],
+      "tested_concept": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q076",
+      "source_chunk_ids": [
+        "CH012-S07-C001"
+      ],
+      "tested_concept": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q077",
+      "source_chunk_ids": [
+        "CH012-S07-C002"
+      ],
+      "tested_concept": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q078",
+      "source_chunk_ids": [
+        "CH012-S07-C003"
+      ],
+      "tested_concept": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q079",
+      "source_chunk_ids": [
+        "CH012-S07-C001"
+      ],
+      "tested_concept": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q080",
+      "source_chunk_ids": [
+        "CH012-S07-C002"
+      ],
+      "tested_concept": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH012-Q081",
+      "source_chunk_ids": [
+        "CH012-S07-C003"
+      ],
+      "tested_concept": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q082",
+      "source_chunk_ids": [
+        "CH012-S07-C001"
+      ],
+      "tested_concept": "Role of Serum- and Glucocorticoid- Regulated Kinase in Mediating Aldosterone Effects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q083",
+      "source_chunk_ids": [
+        "CH012-S08-C001"
+      ],
+      "tested_concept": "11β-Hydroxysteroid Dehydrogenase Type 2",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q084",
+      "source_chunk_ids": [
+        "CH012-S08-C001"
+      ],
+      "tested_concept": "11β-Hydroxysteroid Dehydrogenase Type 2",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q085",
+      "source_chunk_ids": [
+        "CH012-S08-C001"
+      ],
+      "tested_concept": "11β-Hydroxysteroid Dehydrogenase Type 2",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q086",
+      "source_chunk_ids": [
+        "CH012-S08-C001"
+      ],
+      "tested_concept": "11β-Hydroxysteroid Dehydrogenase Type 2",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q087",
+      "source_chunk_ids": [
+        "CH012-S08-C001"
+      ],
+      "tested_concept": "11β-Hydroxysteroid Dehydrogenase Type 2",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q088",
+      "source_chunk_ids": [
+        "CH012-S08-C001"
+      ],
+      "tested_concept": "11β-Hydroxysteroid Dehydrogenase Type 2",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q089",
+      "source_chunk_ids": [
+        "CH012-S09-C001"
+      ],
+      "tested_concept": "Disease States",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q090",
+      "source_chunk_ids": [
+        "CH012-S09-C001"
+      ],
+      "tested_concept": "Disease States",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q091",
+      "source_chunk_ids": [
+        "CH012-S09-C001"
+      ],
+      "tested_concept": "Disease States",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q092",
+      "source_chunk_ids": [
+        "CH012-S09-C001"
+      ],
+      "tested_concept": "Disease States",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q093",
+      "source_chunk_ids": [
+        "CH012-S09-C001"
+      ],
+      "tested_concept": "Disease States",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q094",
+      "source_chunk_ids": [
+        "CH012-S09-C001"
+      ],
+      "tested_concept": "Disease States",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q095",
+      "source_chunk_ids": [
+        "CH012-S10-C001"
+      ],
+      "tested_concept": "Nonepithelial Actions of Aldosterone",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q096",
+      "source_chunk_ids": [
+        "CH012-S10-C001"
+      ],
+      "tested_concept": "Nonepithelial Actions of Aldosterone",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q097",
+      "source_chunk_ids": [
+        "CH012-S10-C001"
+      ],
+      "tested_concept": "Nonepithelial Actions of Aldosterone",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q098",
+      "source_chunk_ids": [
+        "CH012-S10-C001"
+      ],
+      "tested_concept": "Nonepithelial Actions of Aldosterone",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q099",
+      "source_chunk_ids": [
+        "CH012-S10-C001"
+      ],
+      "tested_concept": "Nonepithelial Actions of Aldosterone",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH012-Q100",
+      "source_chunk_ids": [
+        "CH012-S10-C001"
+      ],
+      "tested_concept": "Nonepithelial Actions of Aldosterone",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
