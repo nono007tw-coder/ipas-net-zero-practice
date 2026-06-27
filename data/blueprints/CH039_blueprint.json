@@ -1,0 +1,1120 @@
+{
+  "chapter_id": "CH039",
+  "chapter_title": "Epidemiology of Diabetic Kidney Disease",
+  "clinical_weight": 5,
+  "core_themes": [
+    "Definition, Measurement, and Classification",
+    "Treatment",
+    "End-Stage Kidney Disease",
+    "Pathology of the Kidney in Diabetes",
+    "Pathophysiology",
+    "Clinical Course"
+  ],
+  "sections": [
+    {
+      "section_title": "Definition, Measurement, and Classification",
+      "chunk_ids": [
+        "CH039-S01-C001",
+        "CH039-S01-C002",
+        "CH039-S01-C003",
+        "CH039-S01-C004",
+        "CH039-S01-C005",
+        "CH039-S01-C006",
+        "CH039-S01-C007",
+        "CH039-S01-C008",
+        "CH039-S01-C009",
+        "CH039-S01-C010",
+        "CH039-S01-C011",
+        "CH039-S01-C012"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH039-S01-C001",
+        "CH039-S01-C002",
+        "CH039-S01-C003",
+        "CH039-S01-C004",
+        "CH039-S01-C005",
+        "CH039-S01-C006",
+        "CH039-S01-C007",
+        "CH039-S01-C008",
+        "CH039-S01-C009",
+        "CH039-S01-C010",
+        "CH039-S01-C011",
+        "CH039-S01-C012"
+      ],
+      "key_concepts": [
+        "Definition, Measurement, and Classification"
+      ],
+      "recommended_question_count": 26,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Clinical Course",
+      "chunk_ids": [
+        "CH039-S02-C001",
+        "CH039-S02-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH039-S02-C001",
+        "CH039-S02-C002"
+      ],
+      "key_concepts": [
+        "Clinical Course"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Pathology of the Kidney in Diabetes",
+      "chunk_ids": [
+        "CH039-S03-C001",
+        "CH039-S03-C002",
+        "CH039-S03-C003",
+        "CH039-S03-C004",
+        "CH039-S03-C005",
+        "CH039-S03-C006",
+        "CH039-S03-C007",
+        "CH039-S03-C008"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH039-S03-C001",
+        "CH039-S03-C002",
+        "CH039-S03-C003",
+        "CH039-S03-C004",
+        "CH039-S03-C005",
+        "CH039-S03-C006",
+        "CH039-S03-C007",
+        "CH039-S03-C008"
+      ],
+      "key_concepts": [
+        "Pathology of the Kidney in Diabetes"
+      ],
+      "recommended_question_count": 17,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Pathophysiology",
+      "chunk_ids": [
+        "CH039-S04-C001",
+        "CH039-S04-C002",
+        "CH039-S04-C003",
+        "CH039-S04-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH039-S04-C001",
+        "CH039-S04-C002",
+        "CH039-S04-C003",
+        "CH039-S04-C004"
+      ],
+      "key_concepts": [
+        "Pathophysiology"
+      ],
+      "recommended_question_count": 10,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Treatment",
+      "chunk_ids": [
+        "CH039-S05-C001",
+        "CH039-S05-C002",
+        "CH039-S05-C003",
+        "CH039-S05-C004",
+        "CH039-S05-C005",
+        "CH039-S05-C006",
+        "CH039-S05-C007",
+        "CH039-S05-C008",
+        "CH039-S05-C009",
+        "CH039-S05-C010"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH039-S05-C001",
+        "CH039-S05-C002",
+        "CH039-S05-C003",
+        "CH039-S05-C004",
+        "CH039-S05-C005",
+        "CH039-S05-C006",
+        "CH039-S05-C007",
+        "CH039-S05-C008",
+        "CH039-S05-C009",
+        "CH039-S05-C010"
+      ],
+      "key_concepts": [
+        "Treatment"
+      ],
+      "recommended_question_count": 24,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "End-Stage Kidney Disease",
+      "chunk_ids": [
+        "CH039-S06-C001",
+        "CH039-S06-C002",
+        "CH039-S06-C003",
+        "CH039-S06-C004",
+        "CH039-S06-C005",
+        "CH039-S06-C006",
+        "CH039-S06-C007",
+        "CH039-S06-C008"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH039-S06-C001",
+        "CH039-S06-C002",
+        "CH039-S06-C003",
+        "CH039-S06-C004",
+        "CH039-S06-C005",
+        "CH039-S06-C006",
+        "CH039-S06-C007",
+        "CH039-S06-C008"
+      ],
+      "key_concepts": [
+        "End-Stage Kidney Disease"
+      ],
+      "recommended_question_count": 18,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH039-Q001",
+      "source_chunk_ids": [
+        "CH039-S01-C001"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q002",
+      "source_chunk_ids": [
+        "CH039-S01-C002"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q003",
+      "source_chunk_ids": [
+        "CH039-S01-C003"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q004",
+      "source_chunk_ids": [
+        "CH039-S01-C004"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q005",
+      "source_chunk_ids": [
+        "CH039-S01-C005"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q006",
+      "source_chunk_ids": [
+        "CH039-S01-C006"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q007",
+      "source_chunk_ids": [
+        "CH039-S01-C007"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q008",
+      "source_chunk_ids": [
+        "CH039-S01-C008"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q009",
+      "source_chunk_ids": [
+        "CH039-S01-C009"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q010",
+      "source_chunk_ids": [
+        "CH039-S01-C010"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q011",
+      "source_chunk_ids": [
+        "CH039-S01-C011"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q012",
+      "source_chunk_ids": [
+        "CH039-S01-C012"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q013",
+      "source_chunk_ids": [
+        "CH039-S01-C001"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q014",
+      "source_chunk_ids": [
+        "CH039-S01-C002"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q015",
+      "source_chunk_ids": [
+        "CH039-S01-C003"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q016",
+      "source_chunk_ids": [
+        "CH039-S01-C004"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q017",
+      "source_chunk_ids": [
+        "CH039-S01-C005"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q018",
+      "source_chunk_ids": [
+        "CH039-S01-C006"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q019",
+      "source_chunk_ids": [
+        "CH039-S01-C007"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q020",
+      "source_chunk_ids": [
+        "CH039-S01-C008"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q021",
+      "source_chunk_ids": [
+        "CH039-S01-C009"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q022",
+      "source_chunk_ids": [
+        "CH039-S01-C010"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q023",
+      "source_chunk_ids": [
+        "CH039-S01-C011"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q024",
+      "source_chunk_ids": [
+        "CH039-S01-C012"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q025",
+      "source_chunk_ids": [
+        "CH039-S01-C001"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q026",
+      "source_chunk_ids": [
+        "CH039-S01-C002"
+      ],
+      "tested_concept": "Definition, Measurement, and Classification",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q027",
+      "source_chunk_ids": [
+        "CH039-S02-C001"
+      ],
+      "tested_concept": "Clinical Course",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q028",
+      "source_chunk_ids": [
+        "CH039-S02-C002"
+      ],
+      "tested_concept": "Clinical Course",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q029",
+      "source_chunk_ids": [
+        "CH039-S02-C001"
+      ],
+      "tested_concept": "Clinical Course",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q030",
+      "source_chunk_ids": [
+        "CH039-S02-C002"
+      ],
+      "tested_concept": "Clinical Course",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q031",
+      "source_chunk_ids": [
+        "CH039-S02-C001"
+      ],
+      "tested_concept": "Clinical Course",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q032",
+      "source_chunk_ids": [
+        "CH039-S03-C001"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q033",
+      "source_chunk_ids": [
+        "CH039-S03-C002"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q034",
+      "source_chunk_ids": [
+        "CH039-S03-C003"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q035",
+      "source_chunk_ids": [
+        "CH039-S03-C004"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q036",
+      "source_chunk_ids": [
+        "CH039-S03-C005"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q037",
+      "source_chunk_ids": [
+        "CH039-S03-C006"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q038",
+      "source_chunk_ids": [
+        "CH039-S03-C007"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q039",
+      "source_chunk_ids": [
+        "CH039-S03-C008"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q040",
+      "source_chunk_ids": [
+        "CH039-S03-C001"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q041",
+      "source_chunk_ids": [
+        "CH039-S03-C002"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q042",
+      "source_chunk_ids": [
+        "CH039-S03-C003"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q043",
+      "source_chunk_ids": [
+        "CH039-S03-C004"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q044",
+      "source_chunk_ids": [
+        "CH039-S03-C005"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q045",
+      "source_chunk_ids": [
+        "CH039-S03-C006"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q046",
+      "source_chunk_ids": [
+        "CH039-S03-C007"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q047",
+      "source_chunk_ids": [
+        "CH039-S03-C008"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q048",
+      "source_chunk_ids": [
+        "CH039-S03-C001"
+      ],
+      "tested_concept": "Pathology of the Kidney in Diabetes",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q049",
+      "source_chunk_ids": [
+        "CH039-S04-C001"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q050",
+      "source_chunk_ids": [
+        "CH039-S04-C002"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q051",
+      "source_chunk_ids": [
+        "CH039-S04-C003"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q052",
+      "source_chunk_ids": [
+        "CH039-S04-C004"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q053",
+      "source_chunk_ids": [
+        "CH039-S04-C001"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q054",
+      "source_chunk_ids": [
+        "CH039-S04-C002"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q055",
+      "source_chunk_ids": [
+        "CH039-S04-C003"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q056",
+      "source_chunk_ids": [
+        "CH039-S04-C004"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q057",
+      "source_chunk_ids": [
+        "CH039-S04-C001"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q058",
+      "source_chunk_ids": [
+        "CH039-S04-C002"
+      ],
+      "tested_concept": "Pathophysiology",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q059",
+      "source_chunk_ids": [
+        "CH039-S05-C001"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q060",
+      "source_chunk_ids": [
+        "CH039-S05-C002"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q061",
+      "source_chunk_ids": [
+        "CH039-S05-C003"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q062",
+      "source_chunk_ids": [
+        "CH039-S05-C004"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q063",
+      "source_chunk_ids": [
+        "CH039-S05-C005"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q064",
+      "source_chunk_ids": [
+        "CH039-S05-C006"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q065",
+      "source_chunk_ids": [
+        "CH039-S05-C007"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q066",
+      "source_chunk_ids": [
+        "CH039-S05-C008"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q067",
+      "source_chunk_ids": [
+        "CH039-S05-C009"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q068",
+      "source_chunk_ids": [
+        "CH039-S05-C010"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q069",
+      "source_chunk_ids": [
+        "CH039-S05-C001"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q070",
+      "source_chunk_ids": [
+        "CH039-S05-C002"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q071",
+      "source_chunk_ids": [
+        "CH039-S05-C003"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q072",
+      "source_chunk_ids": [
+        "CH039-S05-C004"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q073",
+      "source_chunk_ids": [
+        "CH039-S05-C005"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q074",
+      "source_chunk_ids": [
+        "CH039-S05-C006"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q075",
+      "source_chunk_ids": [
+        "CH039-S05-C007"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q076",
+      "source_chunk_ids": [
+        "CH039-S05-C008"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q077",
+      "source_chunk_ids": [
+        "CH039-S05-C009"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q078",
+      "source_chunk_ids": [
+        "CH039-S05-C010"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q079",
+      "source_chunk_ids": [
+        "CH039-S05-C001"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q080",
+      "source_chunk_ids": [
+        "CH039-S05-C002"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH039-Q081",
+      "source_chunk_ids": [
+        "CH039-S05-C003"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q082",
+      "source_chunk_ids": [
+        "CH039-S05-C004"
+      ],
+      "tested_concept": "Treatment",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q083",
+      "source_chunk_ids": [
+        "CH039-S06-C001"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q084",
+      "source_chunk_ids": [
+        "CH039-S06-C002"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q085",
+      "source_chunk_ids": [
+        "CH039-S06-C003"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q086",
+      "source_chunk_ids": [
+        "CH039-S06-C004"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q087",
+      "source_chunk_ids": [
+        "CH039-S06-C005"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q088",
+      "source_chunk_ids": [
+        "CH039-S06-C006"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q089",
+      "source_chunk_ids": [
+        "CH039-S06-C007"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q090",
+      "source_chunk_ids": [
+        "CH039-S06-C008"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q091",
+      "source_chunk_ids": [
+        "CH039-S06-C001"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q092",
+      "source_chunk_ids": [
+        "CH039-S06-C002"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q093",
+      "source_chunk_ids": [
+        "CH039-S06-C003"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q094",
+      "source_chunk_ids": [
+        "CH039-S06-C004"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q095",
+      "source_chunk_ids": [
+        "CH039-S06-C005"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q096",
+      "source_chunk_ids": [
+        "CH039-S06-C006"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q097",
+      "source_chunk_ids": [
+        "CH039-S06-C007"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q098",
+      "source_chunk_ids": [
+        "CH039-S06-C008"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q099",
+      "source_chunk_ids": [
+        "CH039-S06-C001"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH039-Q100",
+      "source_chunk_ids": [
+        "CH039-S06-C002"
+      ],
+      "tested_concept": "End-Stage Kidney Disease",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
