@@ -1,0 +1,1228 @@
+{
+  "chapter_id": "CH020",
+  "chapter_title": "Risk Prediction in Chronic Kidney Disease",
+  "clinical_weight": 3,
+  "core_themes": [
+    "Hemodynamic Factors",
+    "Conventional Biomarkers",
+    "Novel Biomarkers",
+    "Environmental Risk Factors",
+    "Risk Factors and Mechanisms of Chronic Kidney Disease Progression",
+    "Hereditary Factors",
+    "Models Predicting Kidney Failure",
+    "Cardiorenal Syndrome"
+  ],
+  "sections": [
+    {
+      "section_title": "Key Points",
+      "chunk_ids": [
+        "CH020-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH020-S01-C001"
+      ],
+      "key_concepts": [
+        "Key Points"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Risk Factors and Mechanisms of Chronic Kidney Disease Progression",
+      "chunk_ids": [
+        "CH020-S02-C001",
+        "CH020-S02-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH020-S02-C001",
+        "CH020-S02-C002"
+      ],
+      "key_concepts": [
+        "Risk Factors and Mechanisms of Chronic Kidney Disease Progression"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Demographic Variables",
+      "chunk_ids": [
+        "CH020-S03-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH020-S03-C001"
+      ],
+      "key_concepts": [
+        "Demographic Variables"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Hereditary Factors",
+      "chunk_ids": [
+        "CH020-S04-C001",
+        "CH020-S04-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH020-S04-C001",
+        "CH020-S04-C002"
+      ],
+      "key_concepts": [
+        "Hereditary Factors"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Hemodynamic Factors",
+      "chunk_ids": [
+        "CH020-S05-C001",
+        "CH020-S05-C002",
+        "CH020-S05-C003",
+        "CH020-S05-C004",
+        "CH020-S05-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH020-S05-C001",
+        "CH020-S05-C002",
+        "CH020-S05-C003",
+        "CH020-S05-C004",
+        "CH020-S05-C005"
+      ],
+      "key_concepts": [
+        "Hemodynamic Factors"
+      ],
+      "recommended_question_count": 23,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Cardiorenal Syndrome",
+      "chunk_ids": [
+        "CH020-S06-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH020-S06-C001"
+      ],
+      "key_concepts": [
+        "Cardiorenal Syndrome"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Conventional Biomarkers",
+      "chunk_ids": [
+        "CH020-S07-C001",
+        "CH020-S07-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH020-S07-C001",
+        "CH020-S07-C002"
+      ],
+      "key_concepts": [
+        "Conventional Biomarkers"
+      ],
+      "recommended_question_count": 9,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Novel Biomarkers",
+      "chunk_ids": [
+        "CH020-S08-C001",
+        "CH020-S08-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH020-S08-C001",
+        "CH020-S08-C002"
+      ],
+      "key_concepts": [
+        "Novel Biomarkers"
+      ],
+      "recommended_question_count": 9,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Environmental Risk Factors",
+      "chunk_ids": [
+        "CH020-S09-C001",
+        "CH020-S09-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH020-S09-C001",
+        "CH020-S09-C002"
+      ],
+      "key_concepts": [
+        "Environmental Risk Factors"
+      ],
+      "recommended_question_count": 9,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Renal Risk Scores",
+      "chunk_ids": [
+        "CH020-S10-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH020-S10-C001"
+      ],
+      "key_concepts": [
+        "Renal Risk Scores"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Models Predicting Incident Chronic Kidney Disease",
+      "chunk_ids": [
+        "CH020-S11-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH020-S11-C001"
+      ],
+      "key_concepts": [
+        "Models Predicting Incident Chronic Kidney Disease"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Models Predicting Kidney Failure",
+      "chunk_ids": [
+        "CH020-S12-C001",
+        "CH020-S12-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH020-S12-C001",
+        "CH020-S12-C002"
+      ],
+      "key_concepts": [
+        "Models Predicting Kidney Failure"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Kidney Failure Risk Equations",
+      "chunk_ids": [
+        "CH020-S13-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH020-S13-C001"
+      ],
+      "key_concepts": [
+        "Kidney Failure Risk Equations"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Models Predicting Chronic Kidney Disease After Acute Kidney Injury",
+      "chunk_ids": [
+        "CH020-S14-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH020-S14-C001"
+      ],
+      "key_concepts": [
+        "Models Predicting Chronic Kidney Disease After Acute Kidney Injury"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Clinical Implementation of Risk Models",
+      "chunk_ids": [
+        "CH020-S15-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH020-S15-C001"
+      ],
+      "key_concepts": [
+        "Clinical Implementation of Risk Models"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH020-Q001",
+      "source_chunk_ids": [
+        "CH020-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q002",
+      "source_chunk_ids": [
+        "CH020-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q003",
+      "source_chunk_ids": [
+        "CH020-S02-C001"
+      ],
+      "tested_concept": "Risk Factors and Mechanisms of Chronic Kidney Disease Progression",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q004",
+      "source_chunk_ids": [
+        "CH020-S02-C002"
+      ],
+      "tested_concept": "Risk Factors and Mechanisms of Chronic Kidney Disease Progression",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q005",
+      "source_chunk_ids": [
+        "CH020-S02-C001"
+      ],
+      "tested_concept": "Risk Factors and Mechanisms of Chronic Kidney Disease Progression",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q006",
+      "source_chunk_ids": [
+        "CH020-S02-C002"
+      ],
+      "tested_concept": "Risk Factors and Mechanisms of Chronic Kidney Disease Progression",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q007",
+      "source_chunk_ids": [
+        "CH020-S02-C001"
+      ],
+      "tested_concept": "Risk Factors and Mechanisms of Chronic Kidney Disease Progression",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q008",
+      "source_chunk_ids": [
+        "CH020-S02-C002"
+      ],
+      "tested_concept": "Risk Factors and Mechanisms of Chronic Kidney Disease Progression",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q009",
+      "source_chunk_ids": [
+        "CH020-S02-C001"
+      ],
+      "tested_concept": "Risk Factors and Mechanisms of Chronic Kidney Disease Progression",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q010",
+      "source_chunk_ids": [
+        "CH020-S03-C001"
+      ],
+      "tested_concept": "Demographic Variables",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q011",
+      "source_chunk_ids": [
+        "CH020-S03-C001"
+      ],
+      "tested_concept": "Demographic Variables",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q012",
+      "source_chunk_ids": [
+        "CH020-S04-C001"
+      ],
+      "tested_concept": "Hereditary Factors",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q013",
+      "source_chunk_ids": [
+        "CH020-S04-C002"
+      ],
+      "tested_concept": "Hereditary Factors",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q014",
+      "source_chunk_ids": [
+        "CH020-S04-C001"
+      ],
+      "tested_concept": "Hereditary Factors",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q015",
+      "source_chunk_ids": [
+        "CH020-S04-C002"
+      ],
+      "tested_concept": "Hereditary Factors",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q016",
+      "source_chunk_ids": [
+        "CH020-S04-C001"
+      ],
+      "tested_concept": "Hereditary Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q017",
+      "source_chunk_ids": [
+        "CH020-S04-C002"
+      ],
+      "tested_concept": "Hereditary Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q018",
+      "source_chunk_ids": [
+        "CH020-S04-C001"
+      ],
+      "tested_concept": "Hereditary Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q019",
+      "source_chunk_ids": [
+        "CH020-S05-C001"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q020",
+      "source_chunk_ids": [
+        "CH020-S05-C002"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q021",
+      "source_chunk_ids": [
+        "CH020-S05-C003"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q022",
+      "source_chunk_ids": [
+        "CH020-S05-C004"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q023",
+      "source_chunk_ids": [
+        "CH020-S05-C005"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q024",
+      "source_chunk_ids": [
+        "CH020-S05-C001"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q025",
+      "source_chunk_ids": [
+        "CH020-S05-C002"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q026",
+      "source_chunk_ids": [
+        "CH020-S05-C003"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q027",
+      "source_chunk_ids": [
+        "CH020-S05-C004"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q028",
+      "source_chunk_ids": [
+        "CH020-S05-C005"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q029",
+      "source_chunk_ids": [
+        "CH020-S05-C001"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q030",
+      "source_chunk_ids": [
+        "CH020-S05-C002"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q031",
+      "source_chunk_ids": [
+        "CH020-S05-C003"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q032",
+      "source_chunk_ids": [
+        "CH020-S05-C004"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q033",
+      "source_chunk_ids": [
+        "CH020-S05-C005"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q034",
+      "source_chunk_ids": [
+        "CH020-S05-C001"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q035",
+      "source_chunk_ids": [
+        "CH020-S05-C002"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q036",
+      "source_chunk_ids": [
+        "CH020-S05-C003"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q037",
+      "source_chunk_ids": [
+        "CH020-S05-C004"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q038",
+      "source_chunk_ids": [
+        "CH020-S05-C005"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q039",
+      "source_chunk_ids": [
+        "CH020-S05-C001"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q040",
+      "source_chunk_ids": [
+        "CH020-S05-C002"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q041",
+      "source_chunk_ids": [
+        "CH020-S05-C003"
+      ],
+      "tested_concept": "Hemodynamic Factors",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q042",
+      "source_chunk_ids": [
+        "CH020-S06-C001"
+      ],
+      "tested_concept": "Cardiorenal Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q043",
+      "source_chunk_ids": [
+        "CH020-S06-C001"
+      ],
+      "tested_concept": "Cardiorenal Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q044",
+      "source_chunk_ids": [
+        "CH020-S06-C001"
+      ],
+      "tested_concept": "Cardiorenal Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q045",
+      "source_chunk_ids": [
+        "CH020-S06-C001"
+      ],
+      "tested_concept": "Cardiorenal Syndrome",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q046",
+      "source_chunk_ids": [
+        "CH020-S06-C001"
+      ],
+      "tested_concept": "Cardiorenal Syndrome",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q047",
+      "source_chunk_ids": [
+        "CH020-S07-C001"
+      ],
+      "tested_concept": "Conventional Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q048",
+      "source_chunk_ids": [
+        "CH020-S07-C002"
+      ],
+      "tested_concept": "Conventional Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q049",
+      "source_chunk_ids": [
+        "CH020-S07-C001"
+      ],
+      "tested_concept": "Conventional Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q050",
+      "source_chunk_ids": [
+        "CH020-S07-C002"
+      ],
+      "tested_concept": "Conventional Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q051",
+      "source_chunk_ids": [
+        "CH020-S07-C001"
+      ],
+      "tested_concept": "Conventional Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q052",
+      "source_chunk_ids": [
+        "CH020-S07-C002"
+      ],
+      "tested_concept": "Conventional Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q053",
+      "source_chunk_ids": [
+        "CH020-S07-C001"
+      ],
+      "tested_concept": "Conventional Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q054",
+      "source_chunk_ids": [
+        "CH020-S07-C002"
+      ],
+      "tested_concept": "Conventional Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q055",
+      "source_chunk_ids": [
+        "CH020-S07-C001"
+      ],
+      "tested_concept": "Conventional Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q056",
+      "source_chunk_ids": [
+        "CH020-S08-C001"
+      ],
+      "tested_concept": "Novel Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q057",
+      "source_chunk_ids": [
+        "CH020-S08-C002"
+      ],
+      "tested_concept": "Novel Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q058",
+      "source_chunk_ids": [
+        "CH020-S08-C001"
+      ],
+      "tested_concept": "Novel Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q059",
+      "source_chunk_ids": [
+        "CH020-S08-C002"
+      ],
+      "tested_concept": "Novel Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q060",
+      "source_chunk_ids": [
+        "CH020-S08-C001"
+      ],
+      "tested_concept": "Novel Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q061",
+      "source_chunk_ids": [
+        "CH020-S08-C002"
+      ],
+      "tested_concept": "Novel Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q062",
+      "source_chunk_ids": [
+        "CH020-S08-C001"
+      ],
+      "tested_concept": "Novel Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q063",
+      "source_chunk_ids": [
+        "CH020-S08-C002"
+      ],
+      "tested_concept": "Novel Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q064",
+      "source_chunk_ids": [
+        "CH020-S08-C001"
+      ],
+      "tested_concept": "Novel Biomarkers",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q065",
+      "source_chunk_ids": [
+        "CH020-S09-C001"
+      ],
+      "tested_concept": "Environmental Risk Factors",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q066",
+      "source_chunk_ids": [
+        "CH020-S09-C002"
+      ],
+      "tested_concept": "Environmental Risk Factors",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q067",
+      "source_chunk_ids": [
+        "CH020-S09-C001"
+      ],
+      "tested_concept": "Environmental Risk Factors",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q068",
+      "source_chunk_ids": [
+        "CH020-S09-C002"
+      ],
+      "tested_concept": "Environmental Risk Factors",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q069",
+      "source_chunk_ids": [
+        "CH020-S09-C001"
+      ],
+      "tested_concept": "Environmental Risk Factors",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q070",
+      "source_chunk_ids": [
+        "CH020-S09-C002"
+      ],
+      "tested_concept": "Environmental Risk Factors",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q071",
+      "source_chunk_ids": [
+        "CH020-S09-C001"
+      ],
+      "tested_concept": "Environmental Risk Factors",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q072",
+      "source_chunk_ids": [
+        "CH020-S09-C002"
+      ],
+      "tested_concept": "Environmental Risk Factors",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q073",
+      "source_chunk_ids": [
+        "CH020-S09-C001"
+      ],
+      "tested_concept": "Environmental Risk Factors",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q074",
+      "source_chunk_ids": [
+        "CH020-S10-C001"
+      ],
+      "tested_concept": "Renal Risk Scores",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q075",
+      "source_chunk_ids": [
+        "CH020-S10-C001"
+      ],
+      "tested_concept": "Renal Risk Scores",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q076",
+      "source_chunk_ids": [
+        "CH020-S10-C001"
+      ],
+      "tested_concept": "Renal Risk Scores",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q077",
+      "source_chunk_ids": [
+        "CH020-S10-C001"
+      ],
+      "tested_concept": "Renal Risk Scores",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q078",
+      "source_chunk_ids": [
+        "CH020-S10-C001"
+      ],
+      "tested_concept": "Renal Risk Scores",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q079",
+      "source_chunk_ids": [
+        "CH020-S11-C001"
+      ],
+      "tested_concept": "Models Predicting Incident Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q080",
+      "source_chunk_ids": [
+        "CH020-S11-C001"
+      ],
+      "tested_concept": "Models Predicting Incident Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH020-Q081",
+      "source_chunk_ids": [
+        "CH020-S11-C001"
+      ],
+      "tested_concept": "Models Predicting Incident Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q082",
+      "source_chunk_ids": [
+        "CH020-S11-C001"
+      ],
+      "tested_concept": "Models Predicting Incident Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q083",
+      "source_chunk_ids": [
+        "CH020-S11-C001"
+      ],
+      "tested_concept": "Models Predicting Incident Chronic Kidney Disease",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q084",
+      "source_chunk_ids": [
+        "CH020-S12-C001"
+      ],
+      "tested_concept": "Models Predicting Kidney Failure",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q085",
+      "source_chunk_ids": [
+        "CH020-S12-C002"
+      ],
+      "tested_concept": "Models Predicting Kidney Failure",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q086",
+      "source_chunk_ids": [
+        "CH020-S12-C001"
+      ],
+      "tested_concept": "Models Predicting Kidney Failure",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q087",
+      "source_chunk_ids": [
+        "CH020-S12-C002"
+      ],
+      "tested_concept": "Models Predicting Kidney Failure",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q088",
+      "source_chunk_ids": [
+        "CH020-S12-C001"
+      ],
+      "tested_concept": "Models Predicting Kidney Failure",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q089",
+      "source_chunk_ids": [
+        "CH020-S12-C002"
+      ],
+      "tested_concept": "Models Predicting Kidney Failure",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q090",
+      "source_chunk_ids": [
+        "CH020-S13-C001"
+      ],
+      "tested_concept": "Kidney Failure Risk Equations",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q091",
+      "source_chunk_ids": [
+        "CH020-S13-C001"
+      ],
+      "tested_concept": "Kidney Failure Risk Equations",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q092",
+      "source_chunk_ids": [
+        "CH020-S13-C001"
+      ],
+      "tested_concept": "Kidney Failure Risk Equations",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q093",
+      "source_chunk_ids": [
+        "CH020-S14-C001"
+      ],
+      "tested_concept": "Models Predicting Chronic Kidney Disease After Acute Kidney Injury",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q094",
+      "source_chunk_ids": [
+        "CH020-S14-C001"
+      ],
+      "tested_concept": "Models Predicting Chronic Kidney Disease After Acute Kidney Injury",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q095",
+      "source_chunk_ids": [
+        "CH020-S14-C001"
+      ],
+      "tested_concept": "Models Predicting Chronic Kidney Disease After Acute Kidney Injury",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q096",
+      "source_chunk_ids": [
+        "CH020-S14-C001"
+      ],
+      "tested_concept": "Models Predicting Chronic Kidney Disease After Acute Kidney Injury",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q097",
+      "source_chunk_ids": [
+        "CH020-S14-C001"
+      ],
+      "tested_concept": "Models Predicting Chronic Kidney Disease After Acute Kidney Injury",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q098",
+      "source_chunk_ids": [
+        "CH020-S15-C001"
+      ],
+      "tested_concept": "Clinical Implementation of Risk Models",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q099",
+      "source_chunk_ids": [
+        "CH020-S15-C001"
+      ],
+      "tested_concept": "Clinical Implementation of Risk Models",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH020-Q100",
+      "source_chunk_ids": [
+        "CH020-S15-C001"
+      ],
+      "tested_concept": "Clinical Implementation of Risk Models",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
