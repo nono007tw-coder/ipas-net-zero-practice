@@ -1,0 +1,1024 @@
+{
+  "chapter_id": "CH085",
+  "chapter_title": "Stem Cells, Kidney Regeneration, and Gene and Cell Therapy in Nephrology",
+  "clinical_weight": 2,
+  "core_themes": [
+    "Kidney Regeneration",
+    "Gene Therapy",
+    "Kidney Stem Cells",
+    "Key Points"
+  ],
+  "sections": [
+    {
+      "section_title": "Key Points",
+      "chunk_ids": [
+        "CH085-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH085-S01-C001"
+      ],
+      "key_concepts": [
+        "Key Points"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Kidney Stem Cells",
+      "chunk_ids": [
+        "CH085-S02-C001",
+        "CH085-S02-C002",
+        "CH085-S02-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH085-S02-C001",
+        "CH085-S02-C002",
+        "CH085-S02-C003"
+      ],
+      "key_concepts": [
+        "Kidney Stem Cells"
+      ],
+      "recommended_question_count": 23,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Kidney Regeneration",
+      "chunk_ids": [
+        "CH085-S03-C001",
+        "CH085-S03-C002",
+        "CH085-S03-C003",
+        "CH085-S03-C004",
+        "CH085-S03-C005",
+        "CH085-S03-C006"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH085-S03-C001",
+        "CH085-S03-C002",
+        "CH085-S03-C003",
+        "CH085-S03-C004",
+        "CH085-S03-C005",
+        "CH085-S03-C006"
+      ],
+      "key_concepts": [
+        "Kidney Regeneration"
+      ],
+      "recommended_question_count": 47,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Gene Therapy",
+      "chunk_ids": [
+        "CH085-S04-C001",
+        "CH085-S04-C002",
+        "CH085-S04-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH085-S04-C001",
+        "CH085-S04-C002",
+        "CH085-S04-C003"
+      ],
+      "key_concepts": [
+        "Gene Therapy"
+      ],
+      "recommended_question_count": 26,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH085-Q001",
+      "source_chunk_ids": [
+        "CH085-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q002",
+      "source_chunk_ids": [
+        "CH085-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q003",
+      "source_chunk_ids": [
+        "CH085-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q004",
+      "source_chunk_ids": [
+        "CH085-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q005",
+      "source_chunk_ids": [
+        "CH085-S02-C001"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q006",
+      "source_chunk_ids": [
+        "CH085-S02-C002"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q007",
+      "source_chunk_ids": [
+        "CH085-S02-C003"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q008",
+      "source_chunk_ids": [
+        "CH085-S02-C001"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q009",
+      "source_chunk_ids": [
+        "CH085-S02-C002"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q010",
+      "source_chunk_ids": [
+        "CH085-S02-C003"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q011",
+      "source_chunk_ids": [
+        "CH085-S02-C001"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q012",
+      "source_chunk_ids": [
+        "CH085-S02-C002"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q013",
+      "source_chunk_ids": [
+        "CH085-S02-C003"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q014",
+      "source_chunk_ids": [
+        "CH085-S02-C001"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q015",
+      "source_chunk_ids": [
+        "CH085-S02-C002"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q016",
+      "source_chunk_ids": [
+        "CH085-S02-C003"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q017",
+      "source_chunk_ids": [
+        "CH085-S02-C001"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q018",
+      "source_chunk_ids": [
+        "CH085-S02-C002"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q019",
+      "source_chunk_ids": [
+        "CH085-S02-C003"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q020",
+      "source_chunk_ids": [
+        "CH085-S02-C001"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q021",
+      "source_chunk_ids": [
+        "CH085-S02-C002"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q022",
+      "source_chunk_ids": [
+        "CH085-S02-C003"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q023",
+      "source_chunk_ids": [
+        "CH085-S02-C001"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q024",
+      "source_chunk_ids": [
+        "CH085-S02-C002"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q025",
+      "source_chunk_ids": [
+        "CH085-S02-C003"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q026",
+      "source_chunk_ids": [
+        "CH085-S02-C001"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q027",
+      "source_chunk_ids": [
+        "CH085-S02-C002"
+      ],
+      "tested_concept": "Kidney Stem Cells",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q028",
+      "source_chunk_ids": [
+        "CH085-S03-C001"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q029",
+      "source_chunk_ids": [
+        "CH085-S03-C002"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q030",
+      "source_chunk_ids": [
+        "CH085-S03-C003"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q031",
+      "source_chunk_ids": [
+        "CH085-S03-C004"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q032",
+      "source_chunk_ids": [
+        "CH085-S03-C005"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q033",
+      "source_chunk_ids": [
+        "CH085-S03-C006"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q034",
+      "source_chunk_ids": [
+        "CH085-S03-C001"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q035",
+      "source_chunk_ids": [
+        "CH085-S03-C002"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q036",
+      "source_chunk_ids": [
+        "CH085-S03-C003"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q037",
+      "source_chunk_ids": [
+        "CH085-S03-C004"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q038",
+      "source_chunk_ids": [
+        "CH085-S03-C005"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q039",
+      "source_chunk_ids": [
+        "CH085-S03-C006"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q040",
+      "source_chunk_ids": [
+        "CH085-S03-C001"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q041",
+      "source_chunk_ids": [
+        "CH085-S03-C002"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q042",
+      "source_chunk_ids": [
+        "CH085-S03-C003"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q043",
+      "source_chunk_ids": [
+        "CH085-S03-C004"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q044",
+      "source_chunk_ids": [
+        "CH085-S03-C005"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q045",
+      "source_chunk_ids": [
+        "CH085-S03-C006"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q046",
+      "source_chunk_ids": [
+        "CH085-S03-C001"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q047",
+      "source_chunk_ids": [
+        "CH085-S03-C002"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q048",
+      "source_chunk_ids": [
+        "CH085-S03-C003"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q049",
+      "source_chunk_ids": [
+        "CH085-S03-C004"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q050",
+      "source_chunk_ids": [
+        "CH085-S03-C005"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q051",
+      "source_chunk_ids": [
+        "CH085-S03-C006"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q052",
+      "source_chunk_ids": [
+        "CH085-S03-C001"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q053",
+      "source_chunk_ids": [
+        "CH085-S03-C002"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q054",
+      "source_chunk_ids": [
+        "CH085-S03-C003"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q055",
+      "source_chunk_ids": [
+        "CH085-S03-C004"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q056",
+      "source_chunk_ids": [
+        "CH085-S03-C005"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q057",
+      "source_chunk_ids": [
+        "CH085-S03-C006"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q058",
+      "source_chunk_ids": [
+        "CH085-S03-C001"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q059",
+      "source_chunk_ids": [
+        "CH085-S03-C002"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q060",
+      "source_chunk_ids": [
+        "CH085-S03-C003"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q061",
+      "source_chunk_ids": [
+        "CH085-S03-C004"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q062",
+      "source_chunk_ids": [
+        "CH085-S03-C005"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q063",
+      "source_chunk_ids": [
+        "CH085-S03-C006"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q064",
+      "source_chunk_ids": [
+        "CH085-S03-C001"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q065",
+      "source_chunk_ids": [
+        "CH085-S03-C002"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q066",
+      "source_chunk_ids": [
+        "CH085-S03-C003"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q067",
+      "source_chunk_ids": [
+        "CH085-S03-C004"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q068",
+      "source_chunk_ids": [
+        "CH085-S03-C005"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q069",
+      "source_chunk_ids": [
+        "CH085-S03-C006"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q070",
+      "source_chunk_ids": [
+        "CH085-S03-C001"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q071",
+      "source_chunk_ids": [
+        "CH085-S03-C002"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q072",
+      "source_chunk_ids": [
+        "CH085-S03-C003"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q073",
+      "source_chunk_ids": [
+        "CH085-S03-C004"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q074",
+      "source_chunk_ids": [
+        "CH085-S03-C005"
+      ],
+      "tested_concept": "Kidney Regeneration",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q075",
+      "source_chunk_ids": [
+        "CH085-S04-C001"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q076",
+      "source_chunk_ids": [
+        "CH085-S04-C002"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q077",
+      "source_chunk_ids": [
+        "CH085-S04-C003"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q078",
+      "source_chunk_ids": [
+        "CH085-S04-C001"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q079",
+      "source_chunk_ids": [
+        "CH085-S04-C002"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q080",
+      "source_chunk_ids": [
+        "CH085-S04-C003"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH085-Q081",
+      "source_chunk_ids": [
+        "CH085-S04-C001"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q082",
+      "source_chunk_ids": [
+        "CH085-S04-C002"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q083",
+      "source_chunk_ids": [
+        "CH085-S04-C003"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q084",
+      "source_chunk_ids": [
+        "CH085-S04-C001"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q085",
+      "source_chunk_ids": [
+        "CH085-S04-C002"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q086",
+      "source_chunk_ids": [
+        "CH085-S04-C003"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q087",
+      "source_chunk_ids": [
+        "CH085-S04-C001"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q088",
+      "source_chunk_ids": [
+        "CH085-S04-C002"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q089",
+      "source_chunk_ids": [
+        "CH085-S04-C003"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q090",
+      "source_chunk_ids": [
+        "CH085-S04-C001"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q091",
+      "source_chunk_ids": [
+        "CH085-S04-C002"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q092",
+      "source_chunk_ids": [
+        "CH085-S04-C003"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q093",
+      "source_chunk_ids": [
+        "CH085-S04-C001"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q094",
+      "source_chunk_ids": [
+        "CH085-S04-C002"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q095",
+      "source_chunk_ids": [
+        "CH085-S04-C003"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q096",
+      "source_chunk_ids": [
+        "CH085-S04-C001"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q097",
+      "source_chunk_ids": [
+        "CH085-S04-C002"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q098",
+      "source_chunk_ids": [
+        "CH085-S04-C003"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q099",
+      "source_chunk_ids": [
+        "CH085-S04-C001"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH085-Q100",
+      "source_chunk_ids": [
+        "CH085-S04-C002"
+      ],
+      "tested_concept": "Gene Therapy",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
