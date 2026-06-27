@@ -1,0 +1,1085 @@
+{
+  "chapter_id": "CH022",
+  "chapter_title": "The Physiology and Pathophysiology of the Kidneys in Aging",
+  "clinical_weight": 3,
+  "core_themes": [
+    "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+    "Anatomic Changes of the Kidneys With Aging",
+    "Implications of Normal Physiology on Renal Function",
+    "Functional Changes of the Kidneys With Aging",
+    "Acute Kidney Injury and Diseases of the Kidney and Urinary Tract in Aging",
+    "Healthy Aging and Age-Related Comorbidity",
+    "General Overview of the Biology of Aging"
+  ],
+  "sections": [
+    {
+      "section_title": "General Overview of the Biology of Aging",
+      "chunk_ids": [
+        "CH022-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH022-S01-C001"
+      ],
+      "key_concepts": [
+        "General Overview of the Biology of Aging"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Healthy Aging and Age-Related Comorbidity",
+      "chunk_ids": [
+        "CH022-S02-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH022-S02-C001"
+      ],
+      "key_concepts": [
+        "Healthy Aging and Age-Related Comorbidity"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Anatomic Changes of the Kidneys With Aging",
+      "chunk_ids": [
+        "CH022-S03-C001",
+        "CH022-S03-C002",
+        "CH022-S03-C003",
+        "CH022-S03-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH022-S03-C001",
+        "CH022-S03-C002",
+        "CH022-S03-C003",
+        "CH022-S03-C004"
+      ],
+      "key_concepts": [
+        "Anatomic Changes of the Kidneys With Aging"
+      ],
+      "recommended_question_count": 23,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Functional Changes of the Kidneys With Aging",
+      "chunk_ids": [
+        "CH022-S04-C001",
+        "CH022-S04-C002",
+        "CH022-S04-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH022-S04-C001",
+        "CH022-S04-C002",
+        "CH022-S04-C003"
+      ],
+      "key_concepts": [
+        "Functional Changes of the Kidneys With Aging"
+      ],
+      "recommended_question_count": 16,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "chunk_ids": [
+        "CH022-S05-C001",
+        "CH022-S05-C002",
+        "CH022-S05-C003",
+        "CH022-S05-C004",
+        "CH022-S05-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH022-S05-C001",
+        "CH022-S05-C002",
+        "CH022-S05-C003",
+        "CH022-S05-C004",
+        "CH022-S05-C005"
+      ],
+      "key_concepts": [
+        "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging"
+      ],
+      "recommended_question_count": 29,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Implications of Normal Physiology on Renal Function",
+      "chunk_ids": [
+        "CH022-S06-C001",
+        "CH022-S06-C002",
+        "CH022-S06-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH022-S06-C001",
+        "CH022-S06-C002",
+        "CH022-S06-C003"
+      ],
+      "key_concepts": [
+        "Implications of Normal Physiology on Renal Function"
+      ],
+      "recommended_question_count": 18,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Acute Kidney Injury and Diseases of the Kidney and Urinary Tract in Aging",
+      "chunk_ids": [
+        "CH022-S07-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH022-S07-C001"
+      ],
+      "key_concepts": [
+        "Acute Kidney Injury and Diseases of the Kidney and Urinary Tract in Aging"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH022-Q001",
+      "source_chunk_ids": [
+        "CH022-S01-C001"
+      ],
+      "tested_concept": "General Overview of the Biology of Aging",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q002",
+      "source_chunk_ids": [
+        "CH022-S01-C001"
+      ],
+      "tested_concept": "General Overview of the Biology of Aging",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q003",
+      "source_chunk_ids": [
+        "CH022-S01-C001"
+      ],
+      "tested_concept": "General Overview of the Biology of Aging",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q004",
+      "source_chunk_ids": [
+        "CH022-S02-C001"
+      ],
+      "tested_concept": "Healthy Aging and Age-Related Comorbidity",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q005",
+      "source_chunk_ids": [
+        "CH022-S02-C001"
+      ],
+      "tested_concept": "Healthy Aging and Age-Related Comorbidity",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q006",
+      "source_chunk_ids": [
+        "CH022-S02-C001"
+      ],
+      "tested_concept": "Healthy Aging and Age-Related Comorbidity",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q007",
+      "source_chunk_ids": [
+        "CH022-S02-C001"
+      ],
+      "tested_concept": "Healthy Aging and Age-Related Comorbidity",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q008",
+      "source_chunk_ids": [
+        "CH022-S02-C001"
+      ],
+      "tested_concept": "Healthy Aging and Age-Related Comorbidity",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q009",
+      "source_chunk_ids": [
+        "CH022-S03-C001"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q010",
+      "source_chunk_ids": [
+        "CH022-S03-C002"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q011",
+      "source_chunk_ids": [
+        "CH022-S03-C003"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q012",
+      "source_chunk_ids": [
+        "CH022-S03-C004"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q013",
+      "source_chunk_ids": [
+        "CH022-S03-C001"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q014",
+      "source_chunk_ids": [
+        "CH022-S03-C002"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q015",
+      "source_chunk_ids": [
+        "CH022-S03-C003"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q016",
+      "source_chunk_ids": [
+        "CH022-S03-C004"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q017",
+      "source_chunk_ids": [
+        "CH022-S03-C001"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q018",
+      "source_chunk_ids": [
+        "CH022-S03-C002"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q019",
+      "source_chunk_ids": [
+        "CH022-S03-C003"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q020",
+      "source_chunk_ids": [
+        "CH022-S03-C004"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q021",
+      "source_chunk_ids": [
+        "CH022-S03-C001"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q022",
+      "source_chunk_ids": [
+        "CH022-S03-C002"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q023",
+      "source_chunk_ids": [
+        "CH022-S03-C003"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q024",
+      "source_chunk_ids": [
+        "CH022-S03-C004"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q025",
+      "source_chunk_ids": [
+        "CH022-S03-C001"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q026",
+      "source_chunk_ids": [
+        "CH022-S03-C002"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q027",
+      "source_chunk_ids": [
+        "CH022-S03-C003"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q028",
+      "source_chunk_ids": [
+        "CH022-S03-C004"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q029",
+      "source_chunk_ids": [
+        "CH022-S03-C001"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q030",
+      "source_chunk_ids": [
+        "CH022-S03-C002"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q031",
+      "source_chunk_ids": [
+        "CH022-S03-C003"
+      ],
+      "tested_concept": "Anatomic Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q032",
+      "source_chunk_ids": [
+        "CH022-S04-C001"
+      ],
+      "tested_concept": "Functional Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q033",
+      "source_chunk_ids": [
+        "CH022-S04-C002"
+      ],
+      "tested_concept": "Functional Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q034",
+      "source_chunk_ids": [
+        "CH022-S04-C003"
+      ],
+      "tested_concept": "Functional Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q035",
+      "source_chunk_ids": [
+        "CH022-S04-C001"
+      ],
+      "tested_concept": "Functional Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q036",
+      "source_chunk_ids": [
+        "CH022-S04-C002"
+      ],
+      "tested_concept": "Functional Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q037",
+      "source_chunk_ids": [
+        "CH022-S04-C003"
+      ],
+      "tested_concept": "Functional Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q038",
+      "source_chunk_ids": [
+        "CH022-S04-C001"
+      ],
+      "tested_concept": "Functional Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q039",
+      "source_chunk_ids": [
+        "CH022-S04-C002"
+      ],
+      "tested_concept": "Functional Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q040",
+      "source_chunk_ids": [
+        "CH022-S04-C003"
+      ],
+      "tested_concept": "Functional Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q041",
+      "source_chunk_ids": [
+        "CH022-S04-C001"
+      ],
+      "tested_concept": "Functional Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q042",
+      "source_chunk_ids": [
+        "CH022-S04-C002"
+      ],
+      "tested_concept": "Functional Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q043",
+      "source_chunk_ids": [
+        "CH022-S04-C003"
+      ],
+      "tested_concept": "Functional Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q044",
+      "source_chunk_ids": [
+        "CH022-S04-C001"
+      ],
+      "tested_concept": "Functional Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q045",
+      "source_chunk_ids": [
+        "CH022-S04-C002"
+      ],
+      "tested_concept": "Functional Changes of the Kidneys With Aging",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q046",
+      "source_chunk_ids": [
+        "CH022-S04-C003"
+      ],
+      "tested_concept": "Functional Changes of the Kidneys With Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q047",
+      "source_chunk_ids": [
+        "CH022-S04-C001"
+      ],
+      "tested_concept": "Functional Changes of the Kidneys With Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q048",
+      "source_chunk_ids": [
+        "CH022-S05-C001"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q049",
+      "source_chunk_ids": [
+        "CH022-S05-C002"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q050",
+      "source_chunk_ids": [
+        "CH022-S05-C003"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q051",
+      "source_chunk_ids": [
+        "CH022-S05-C004"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q052",
+      "source_chunk_ids": [
+        "CH022-S05-C005"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q053",
+      "source_chunk_ids": [
+        "CH022-S05-C001"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q054",
+      "source_chunk_ids": [
+        "CH022-S05-C002"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q055",
+      "source_chunk_ids": [
+        "CH022-S05-C003"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q056",
+      "source_chunk_ids": [
+        "CH022-S05-C004"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q057",
+      "source_chunk_ids": [
+        "CH022-S05-C005"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q058",
+      "source_chunk_ids": [
+        "CH022-S05-C001"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q059",
+      "source_chunk_ids": [
+        "CH022-S05-C002"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q060",
+      "source_chunk_ids": [
+        "CH022-S05-C003"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q061",
+      "source_chunk_ids": [
+        "CH022-S05-C004"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q062",
+      "source_chunk_ids": [
+        "CH022-S05-C005"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q063",
+      "source_chunk_ids": [
+        "CH022-S05-C001"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q064",
+      "source_chunk_ids": [
+        "CH022-S05-C002"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q065",
+      "source_chunk_ids": [
+        "CH022-S05-C003"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q066",
+      "source_chunk_ids": [
+        "CH022-S05-C004"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q067",
+      "source_chunk_ids": [
+        "CH022-S05-C005"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q068",
+      "source_chunk_ids": [
+        "CH022-S05-C001"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q069",
+      "source_chunk_ids": [
+        "CH022-S05-C002"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q070",
+      "source_chunk_ids": [
+        "CH022-S05-C003"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q071",
+      "source_chunk_ids": [
+        "CH022-S05-C004"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q072",
+      "source_chunk_ids": [
+        "CH022-S05-C005"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q073",
+      "source_chunk_ids": [
+        "CH022-S05-C001"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q074",
+      "source_chunk_ids": [
+        "CH022-S05-C002"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q075",
+      "source_chunk_ids": [
+        "CH022-S05-C003"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q076",
+      "source_chunk_ids": [
+        "CH022-S05-C004"
+      ],
+      "tested_concept": "Fluid, Electrolyte, and Acid-Base Homeostasis in Aging",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q077",
+      "source_chunk_ids": [
+        "CH022-S06-C001"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q078",
+      "source_chunk_ids": [
+        "CH022-S06-C002"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q079",
+      "source_chunk_ids": [
+        "CH022-S06-C003"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q080",
+      "source_chunk_ids": [
+        "CH022-S06-C001"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH022-Q081",
+      "source_chunk_ids": [
+        "CH022-S06-C002"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q082",
+      "source_chunk_ids": [
+        "CH022-S06-C003"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q083",
+      "source_chunk_ids": [
+        "CH022-S06-C001"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q084",
+      "source_chunk_ids": [
+        "CH022-S06-C002"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q085",
+      "source_chunk_ids": [
+        "CH022-S06-C003"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q086",
+      "source_chunk_ids": [
+        "CH022-S06-C001"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q087",
+      "source_chunk_ids": [
+        "CH022-S06-C002"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q088",
+      "source_chunk_ids": [
+        "CH022-S06-C003"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q089",
+      "source_chunk_ids": [
+        "CH022-S06-C001"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q090",
+      "source_chunk_ids": [
+        "CH022-S06-C002"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q091",
+      "source_chunk_ids": [
+        "CH022-S06-C003"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q092",
+      "source_chunk_ids": [
+        "CH022-S06-C001"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q093",
+      "source_chunk_ids": [
+        "CH022-S06-C002"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q094",
+      "source_chunk_ids": [
+        "CH022-S06-C003"
+      ],
+      "tested_concept": "Implications of Normal Physiology on Renal Function",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q095",
+      "source_chunk_ids": [
+        "CH022-S07-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury and Diseases of the Kidney and Urinary Tract in Aging",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q096",
+      "source_chunk_ids": [
+        "CH022-S07-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury and Diseases of the Kidney and Urinary Tract in Aging",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q097",
+      "source_chunk_ids": [
+        "CH022-S07-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury and Diseases of the Kidney and Urinary Tract in Aging",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q098",
+      "source_chunk_ids": [
+        "CH022-S07-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury and Diseases of the Kidney and Urinary Tract in Aging",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q099",
+      "source_chunk_ids": [
+        "CH022-S07-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury and Diseases of the Kidney and Urinary Tract in Aging",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH022-Q100",
+      "source_chunk_ids": [
+        "CH022-S07-C001"
+      ],
+      "tested_concept": "Acute Kidney Injury and Diseases of the Kidney and Urinary Tract in Aging",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
