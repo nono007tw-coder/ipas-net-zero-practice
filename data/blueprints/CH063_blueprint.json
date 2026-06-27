@@ -1,0 +1,1168 @@
+{
+  "chapter_id": "CH063",
+  "chapter_title": "Hemodialysis",
+  "clinical_weight": 5,
+  "core_themes": [
+    "Management of Patients on Maintenance Hemodialysis",
+    "Components of the Extracorporeal Circuit",
+    "The Dialysis Prescription",
+    "Vascular Access",
+    "Hemodialysis Adequacy",
+    "General Principles of Hemodialysis: Physiology and Biomechanics",
+    "Complications for Patients on Maintenance Hemodialysis",
+    "The Hemodialysis Population"
+  ],
+  "sections": [
+    {
+      "section_title": "The Hemodialysis Population",
+      "chunk_ids": [
+        "CH063-S01-C001",
+        "CH063-S01-C002",
+        "CH063-S01-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH063-S01-C001",
+        "CH063-S01-C002",
+        "CH063-S01-C003"
+      ],
+      "key_concepts": [
+        "The Hemodialysis Population"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Vascular Access",
+      "chunk_ids": [
+        "CH063-S02-C001",
+        "CH063-S02-C002",
+        "CH063-S02-C003",
+        "CH063-S02-C004",
+        "CH063-S02-C005",
+        "CH063-S02-C006"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH063-S02-C001",
+        "CH063-S02-C002",
+        "CH063-S02-C003",
+        "CH063-S02-C004",
+        "CH063-S02-C005",
+        "CH063-S02-C006"
+      ],
+      "key_concepts": [
+        "Vascular Access"
+      ],
+      "recommended_question_count": 12,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "General Principles of Hemodialysis: Physiology and Biomechanics",
+      "chunk_ids": [
+        "CH063-S03-C001",
+        "CH063-S03-C002",
+        "CH063-S03-C003",
+        "CH063-S03-C004",
+        "CH063-S03-C005",
+        "CH063-S03-C006"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH063-S03-C001",
+        "CH063-S03-C002",
+        "CH063-S03-C003",
+        "CH063-S03-C004",
+        "CH063-S03-C005",
+        "CH063-S03-C006"
+      ],
+      "key_concepts": [
+        "General Principles of Hemodialysis: Physiology and Biomechanics"
+      ],
+      "recommended_question_count": 11,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Components of the Extracorporeal Circuit",
+      "chunk_ids": [
+        "CH063-S04-C001",
+        "CH063-S04-C002",
+        "CH063-S04-C003",
+        "CH063-S04-C004",
+        "CH063-S04-C005",
+        "CH063-S04-C006",
+        "CH063-S04-C007",
+        "CH063-S04-C008",
+        "CH063-S04-C009"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH063-S04-C001",
+        "CH063-S04-C002",
+        "CH063-S04-C003",
+        "CH063-S04-C004",
+        "CH063-S04-C005",
+        "CH063-S04-C006",
+        "CH063-S04-C007",
+        "CH063-S04-C008",
+        "CH063-S04-C009"
+      ],
+      "key_concepts": [
+        "Components of the Extracorporeal Circuit"
+      ],
+      "recommended_question_count": 16,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Hemodialysis Adequacy",
+      "chunk_ids": [
+        "CH063-S05-C001",
+        "CH063-S05-C002",
+        "CH063-S05-C003",
+        "CH063-S05-C004",
+        "CH063-S05-C005",
+        "CH063-S05-C006"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH063-S05-C001",
+        "CH063-S05-C002",
+        "CH063-S05-C003",
+        "CH063-S05-C004",
+        "CH063-S05-C005",
+        "CH063-S05-C006"
+      ],
+      "key_concepts": [
+        "Hemodialysis Adequacy"
+      ],
+      "recommended_question_count": 12,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "The Dialysis Prescription",
+      "chunk_ids": [
+        "CH063-S06-C001",
+        "CH063-S06-C002",
+        "CH063-S06-C003",
+        "CH063-S06-C004",
+        "CH063-S06-C005",
+        "CH063-S06-C006",
+        "CH063-S06-C007",
+        "CH063-S06-C008"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH063-S06-C001",
+        "CH063-S06-C002",
+        "CH063-S06-C003",
+        "CH063-S06-C004",
+        "CH063-S06-C005",
+        "CH063-S06-C006",
+        "CH063-S06-C007",
+        "CH063-S06-C008"
+      ],
+      "key_concepts": [
+        "The Dialysis Prescription"
+      ],
+      "recommended_question_count": 16,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Management of Patients on Maintenance Hemodialysis",
+      "chunk_ids": [
+        "CH063-S07-C001",
+        "CH063-S07-C002",
+        "CH063-S07-C003",
+        "CH063-S07-C004",
+        "CH063-S07-C005",
+        "CH063-S07-C006",
+        "CH063-S07-C007",
+        "CH063-S07-C008",
+        "CH063-S07-C009"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH063-S07-C001",
+        "CH063-S07-C002",
+        "CH063-S07-C003",
+        "CH063-S07-C004",
+        "CH063-S07-C005",
+        "CH063-S07-C006",
+        "CH063-S07-C007",
+        "CH063-S07-C008",
+        "CH063-S07-C009"
+      ],
+      "key_concepts": [
+        "Management of Patients on Maintenance Hemodialysis"
+      ],
+      "recommended_question_count": 19,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Complications for Patients on Maintenance Hemodialysis",
+      "chunk_ids": [
+        "CH063-S08-C001",
+        "CH063-S08-C002",
+        "CH063-S08-C003",
+        "CH063-S08-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH063-S08-C001",
+        "CH063-S08-C002",
+        "CH063-S08-C003",
+        "CH063-S08-C004"
+      ],
+      "key_concepts": [
+        "Complications for Patients on Maintenance Hemodialysis"
+      ],
+      "recommended_question_count": 8,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH063-Q001",
+      "source_chunk_ids": [
+        "CH063-S01-C001"
+      ],
+      "tested_concept": "The Hemodialysis Population",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q002",
+      "source_chunk_ids": [
+        "CH063-S01-C002"
+      ],
+      "tested_concept": "The Hemodialysis Population",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q003",
+      "source_chunk_ids": [
+        "CH063-S01-C003"
+      ],
+      "tested_concept": "The Hemodialysis Population",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q004",
+      "source_chunk_ids": [
+        "CH063-S01-C001"
+      ],
+      "tested_concept": "The Hemodialysis Population",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q005",
+      "source_chunk_ids": [
+        "CH063-S01-C002"
+      ],
+      "tested_concept": "The Hemodialysis Population",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q006",
+      "source_chunk_ids": [
+        "CH063-S01-C003"
+      ],
+      "tested_concept": "The Hemodialysis Population",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q007",
+      "source_chunk_ids": [
+        "CH063-S02-C001"
+      ],
+      "tested_concept": "Vascular Access",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q008",
+      "source_chunk_ids": [
+        "CH063-S02-C002"
+      ],
+      "tested_concept": "Vascular Access",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q009",
+      "source_chunk_ids": [
+        "CH063-S02-C003"
+      ],
+      "tested_concept": "Vascular Access",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q010",
+      "source_chunk_ids": [
+        "CH063-S02-C004"
+      ],
+      "tested_concept": "Vascular Access",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q011",
+      "source_chunk_ids": [
+        "CH063-S02-C005"
+      ],
+      "tested_concept": "Vascular Access",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q012",
+      "source_chunk_ids": [
+        "CH063-S02-C006"
+      ],
+      "tested_concept": "Vascular Access",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q013",
+      "source_chunk_ids": [
+        "CH063-S02-C001"
+      ],
+      "tested_concept": "Vascular Access",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q014",
+      "source_chunk_ids": [
+        "CH063-S02-C002"
+      ],
+      "tested_concept": "Vascular Access",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q015",
+      "source_chunk_ids": [
+        "CH063-S02-C003"
+      ],
+      "tested_concept": "Vascular Access",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q016",
+      "source_chunk_ids": [
+        "CH063-S02-C004"
+      ],
+      "tested_concept": "Vascular Access",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q017",
+      "source_chunk_ids": [
+        "CH063-S02-C005"
+      ],
+      "tested_concept": "Vascular Access",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q018",
+      "source_chunk_ids": [
+        "CH063-S02-C006"
+      ],
+      "tested_concept": "Vascular Access",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q019",
+      "source_chunk_ids": [
+        "CH063-S03-C001"
+      ],
+      "tested_concept": "General Principles of Hemodialysis: Physiology and Biomechanics",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q020",
+      "source_chunk_ids": [
+        "CH063-S03-C002"
+      ],
+      "tested_concept": "General Principles of Hemodialysis: Physiology and Biomechanics",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q021",
+      "source_chunk_ids": [
+        "CH063-S03-C003"
+      ],
+      "tested_concept": "General Principles of Hemodialysis: Physiology and Biomechanics",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q022",
+      "source_chunk_ids": [
+        "CH063-S03-C004"
+      ],
+      "tested_concept": "General Principles of Hemodialysis: Physiology and Biomechanics",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q023",
+      "source_chunk_ids": [
+        "CH063-S03-C005"
+      ],
+      "tested_concept": "General Principles of Hemodialysis: Physiology and Biomechanics",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q024",
+      "source_chunk_ids": [
+        "CH063-S03-C006"
+      ],
+      "tested_concept": "General Principles of Hemodialysis: Physiology and Biomechanics",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q025",
+      "source_chunk_ids": [
+        "CH063-S03-C001"
+      ],
+      "tested_concept": "General Principles of Hemodialysis: Physiology and Biomechanics",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q026",
+      "source_chunk_ids": [
+        "CH063-S03-C002"
+      ],
+      "tested_concept": "General Principles of Hemodialysis: Physiology and Biomechanics",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q027",
+      "source_chunk_ids": [
+        "CH063-S03-C003"
+      ],
+      "tested_concept": "General Principles of Hemodialysis: Physiology and Biomechanics",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q028",
+      "source_chunk_ids": [
+        "CH063-S03-C004"
+      ],
+      "tested_concept": "General Principles of Hemodialysis: Physiology and Biomechanics",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q029",
+      "source_chunk_ids": [
+        "CH063-S03-C005"
+      ],
+      "tested_concept": "General Principles of Hemodialysis: Physiology and Biomechanics",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q030",
+      "source_chunk_ids": [
+        "CH063-S04-C001"
+      ],
+      "tested_concept": "Components of the Extracorporeal Circuit",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q031",
+      "source_chunk_ids": [
+        "CH063-S04-C002"
+      ],
+      "tested_concept": "Components of the Extracorporeal Circuit",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q032",
+      "source_chunk_ids": [
+        "CH063-S04-C003"
+      ],
+      "tested_concept": "Components of the Extracorporeal Circuit",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q033",
+      "source_chunk_ids": [
+        "CH063-S04-C004"
+      ],
+      "tested_concept": "Components of the Extracorporeal Circuit",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q034",
+      "source_chunk_ids": [
+        "CH063-S04-C005"
+      ],
+      "tested_concept": "Components of the Extracorporeal Circuit",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q035",
+      "source_chunk_ids": [
+        "CH063-S04-C006"
+      ],
+      "tested_concept": "Components of the Extracorporeal Circuit",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q036",
+      "source_chunk_ids": [
+        "CH063-S04-C007"
+      ],
+      "tested_concept": "Components of the Extracorporeal Circuit",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q037",
+      "source_chunk_ids": [
+        "CH063-S04-C008"
+      ],
+      "tested_concept": "Components of the Extracorporeal Circuit",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q038",
+      "source_chunk_ids": [
+        "CH063-S04-C009"
+      ],
+      "tested_concept": "Components of the Extracorporeal Circuit",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q039",
+      "source_chunk_ids": [
+        "CH063-S04-C001"
+      ],
+      "tested_concept": "Components of the Extracorporeal Circuit",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q040",
+      "source_chunk_ids": [
+        "CH063-S04-C002"
+      ],
+      "tested_concept": "Components of the Extracorporeal Circuit",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q041",
+      "source_chunk_ids": [
+        "CH063-S04-C003"
+      ],
+      "tested_concept": "Components of the Extracorporeal Circuit",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q042",
+      "source_chunk_ids": [
+        "CH063-S04-C004"
+      ],
+      "tested_concept": "Components of the Extracorporeal Circuit",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q043",
+      "source_chunk_ids": [
+        "CH063-S04-C005"
+      ],
+      "tested_concept": "Components of the Extracorporeal Circuit",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q044",
+      "source_chunk_ids": [
+        "CH063-S04-C006"
+      ],
+      "tested_concept": "Components of the Extracorporeal Circuit",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q045",
+      "source_chunk_ids": [
+        "CH063-S04-C007"
+      ],
+      "tested_concept": "Components of the Extracorporeal Circuit",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q046",
+      "source_chunk_ids": [
+        "CH063-S05-C001"
+      ],
+      "tested_concept": "Hemodialysis Adequacy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q047",
+      "source_chunk_ids": [
+        "CH063-S05-C002"
+      ],
+      "tested_concept": "Hemodialysis Adequacy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q048",
+      "source_chunk_ids": [
+        "CH063-S05-C003"
+      ],
+      "tested_concept": "Hemodialysis Adequacy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q049",
+      "source_chunk_ids": [
+        "CH063-S05-C004"
+      ],
+      "tested_concept": "Hemodialysis Adequacy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q050",
+      "source_chunk_ids": [
+        "CH063-S05-C005"
+      ],
+      "tested_concept": "Hemodialysis Adequacy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q051",
+      "source_chunk_ids": [
+        "CH063-S05-C006"
+      ],
+      "tested_concept": "Hemodialysis Adequacy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q052",
+      "source_chunk_ids": [
+        "CH063-S05-C001"
+      ],
+      "tested_concept": "Hemodialysis Adequacy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q053",
+      "source_chunk_ids": [
+        "CH063-S05-C002"
+      ],
+      "tested_concept": "Hemodialysis Adequacy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q054",
+      "source_chunk_ids": [
+        "CH063-S05-C003"
+      ],
+      "tested_concept": "Hemodialysis Adequacy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q055",
+      "source_chunk_ids": [
+        "CH063-S05-C004"
+      ],
+      "tested_concept": "Hemodialysis Adequacy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q056",
+      "source_chunk_ids": [
+        "CH063-S05-C005"
+      ],
+      "tested_concept": "Hemodialysis Adequacy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q057",
+      "source_chunk_ids": [
+        "CH063-S05-C006"
+      ],
+      "tested_concept": "Hemodialysis Adequacy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q058",
+      "source_chunk_ids": [
+        "CH063-S06-C001"
+      ],
+      "tested_concept": "The Dialysis Prescription",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q059",
+      "source_chunk_ids": [
+        "CH063-S06-C002"
+      ],
+      "tested_concept": "The Dialysis Prescription",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q060",
+      "source_chunk_ids": [
+        "CH063-S06-C003"
+      ],
+      "tested_concept": "The Dialysis Prescription",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q061",
+      "source_chunk_ids": [
+        "CH063-S06-C004"
+      ],
+      "tested_concept": "The Dialysis Prescription",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q062",
+      "source_chunk_ids": [
+        "CH063-S06-C005"
+      ],
+      "tested_concept": "The Dialysis Prescription",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q063",
+      "source_chunk_ids": [
+        "CH063-S06-C006"
+      ],
+      "tested_concept": "The Dialysis Prescription",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q064",
+      "source_chunk_ids": [
+        "CH063-S06-C007"
+      ],
+      "tested_concept": "The Dialysis Prescription",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q065",
+      "source_chunk_ids": [
+        "CH063-S06-C008"
+      ],
+      "tested_concept": "The Dialysis Prescription",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q066",
+      "source_chunk_ids": [
+        "CH063-S06-C001"
+      ],
+      "tested_concept": "The Dialysis Prescription",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q067",
+      "source_chunk_ids": [
+        "CH063-S06-C002"
+      ],
+      "tested_concept": "The Dialysis Prescription",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q068",
+      "source_chunk_ids": [
+        "CH063-S06-C003"
+      ],
+      "tested_concept": "The Dialysis Prescription",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q069",
+      "source_chunk_ids": [
+        "CH063-S06-C004"
+      ],
+      "tested_concept": "The Dialysis Prescription",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q070",
+      "source_chunk_ids": [
+        "CH063-S06-C005"
+      ],
+      "tested_concept": "The Dialysis Prescription",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q071",
+      "source_chunk_ids": [
+        "CH063-S06-C006"
+      ],
+      "tested_concept": "The Dialysis Prescription",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q072",
+      "source_chunk_ids": [
+        "CH063-S06-C007"
+      ],
+      "tested_concept": "The Dialysis Prescription",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q073",
+      "source_chunk_ids": [
+        "CH063-S06-C008"
+      ],
+      "tested_concept": "The Dialysis Prescription",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q074",
+      "source_chunk_ids": [
+        "CH063-S07-C001"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q075",
+      "source_chunk_ids": [
+        "CH063-S07-C002"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q076",
+      "source_chunk_ids": [
+        "CH063-S07-C003"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q077",
+      "source_chunk_ids": [
+        "CH063-S07-C004"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q078",
+      "source_chunk_ids": [
+        "CH063-S07-C005"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q079",
+      "source_chunk_ids": [
+        "CH063-S07-C006"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q080",
+      "source_chunk_ids": [
+        "CH063-S07-C007"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH063-Q081",
+      "source_chunk_ids": [
+        "CH063-S07-C008"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q082",
+      "source_chunk_ids": [
+        "CH063-S07-C009"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q083",
+      "source_chunk_ids": [
+        "CH063-S07-C001"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q084",
+      "source_chunk_ids": [
+        "CH063-S07-C002"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q085",
+      "source_chunk_ids": [
+        "CH063-S07-C003"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q086",
+      "source_chunk_ids": [
+        "CH063-S07-C004"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q087",
+      "source_chunk_ids": [
+        "CH063-S07-C005"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q088",
+      "source_chunk_ids": [
+        "CH063-S07-C006"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q089",
+      "source_chunk_ids": [
+        "CH063-S07-C007"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q090",
+      "source_chunk_ids": [
+        "CH063-S07-C008"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q091",
+      "source_chunk_ids": [
+        "CH063-S07-C009"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q092",
+      "source_chunk_ids": [
+        "CH063-S07-C001"
+      ],
+      "tested_concept": "Management of Patients on Maintenance Hemodialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q093",
+      "source_chunk_ids": [
+        "CH063-S08-C001"
+      ],
+      "tested_concept": "Complications for Patients on Maintenance Hemodialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q094",
+      "source_chunk_ids": [
+        "CH063-S08-C002"
+      ],
+      "tested_concept": "Complications for Patients on Maintenance Hemodialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q095",
+      "source_chunk_ids": [
+        "CH063-S08-C003"
+      ],
+      "tested_concept": "Complications for Patients on Maintenance Hemodialysis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q096",
+      "source_chunk_ids": [
+        "CH063-S08-C004"
+      ],
+      "tested_concept": "Complications for Patients on Maintenance Hemodialysis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q097",
+      "source_chunk_ids": [
+        "CH063-S08-C001"
+      ],
+      "tested_concept": "Complications for Patients on Maintenance Hemodialysis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q098",
+      "source_chunk_ids": [
+        "CH063-S08-C002"
+      ],
+      "tested_concept": "Complications for Patients on Maintenance Hemodialysis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q099",
+      "source_chunk_ids": [
+        "CH063-S08-C003"
+      ],
+      "tested_concept": "Complications for Patients on Maintenance Hemodialysis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH063-Q100",
+      "source_chunk_ids": [
+        "CH063-S08-C004"
+      ],
+      "tested_concept": "Complications for Patients on Maintenance Hemodialysis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
