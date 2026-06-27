@@ -1,0 +1,1114 @@
+{
+  "chapter_id": "CH037",
+  "chapter_title": "Urinary Tract Obstruction",
+  "clinical_weight": 4,
+  "core_themes": [
+    "Pathophysiology of Obstructive Nephropathy",
+    "Diagnosis",
+    "Etiology",
+    "Pathophysiology of Recovery of Tubular Epithelial Cells From Obstruction or of Tubulointerstitial Fibrosis",
+    "Clinical Aspects",
+    "Treatment of Urinary Tract Obstruction and Recovery of Renal Function",
+    "Postobstructive Diuresis",
+    "Key Points"
+  ],
+  "sections": [
+    {
+      "section_title": "Key Points",
+      "chunk_ids": [
+        "CH037-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH037-S01-C001"
+      ],
+      "key_concepts": [
+        "Key Points"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Etiology",
+      "chunk_ids": [
+        "CH037-S02-C001",
+        "CH037-S02-C002",
+        "CH037-S02-C003",
+        "CH037-S02-C004"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH037-S02-C001",
+        "CH037-S02-C002",
+        "CH037-S02-C003",
+        "CH037-S02-C004"
+      ],
+      "key_concepts": [
+        "Etiology"
+      ],
+      "recommended_question_count": 15,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Clinical Aspects",
+      "chunk_ids": [
+        "CH037-S03-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH037-S03-C001"
+      ],
+      "key_concepts": [
+        "Clinical Aspects"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Diagnosis",
+      "chunk_ids": [
+        "CH037-S04-C001",
+        "CH037-S04-C002",
+        "CH037-S04-C003",
+        "CH037-S04-C004",
+        "CH037-S04-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH037-S04-C001",
+        "CH037-S04-C002",
+        "CH037-S04-C003",
+        "CH037-S04-C004",
+        "CH037-S04-C005"
+      ],
+      "key_concepts": [
+        "Diagnosis"
+      ],
+      "recommended_question_count": 21,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Pathophysiology of Obstructive Nephropathy",
+      "chunk_ids": [
+        "CH037-S05-C001",
+        "CH037-S05-C002",
+        "CH037-S05-C003",
+        "CH037-S05-C004",
+        "CH037-S05-C005",
+        "CH037-S05-C006",
+        "CH037-S05-C007",
+        "CH037-S05-C008"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH037-S05-C001",
+        "CH037-S05-C002",
+        "CH037-S05-C003",
+        "CH037-S05-C004",
+        "CH037-S05-C005",
+        "CH037-S05-C006",
+        "CH037-S05-C007",
+        "CH037-S05-C008"
+      ],
+      "key_concepts": [
+        "Pathophysiology of Obstructive Nephropathy"
+      ],
+      "recommended_question_count": 34,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Pathophysiology of Recovery of Tubular Epithelial Cells From Obstruction or of Tubulointerstitial Fibrosis",
+      "chunk_ids": [
+        "CH037-S06-C001",
+        "CH037-S06-C002",
+        "CH037-S06-C003"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH037-S06-C001",
+        "CH037-S06-C002",
+        "CH037-S06-C003"
+      ],
+      "key_concepts": [
+        "Pathophysiology of Recovery of Tubular Epithelial Cells From Obstruction or of Tubulointerstitial Fibrosis"
+      ],
+      "recommended_question_count": 13,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Treatment of Urinary Tract Obstruction and Recovery of Renal Function",
+      "chunk_ids": [
+        "CH037-S07-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH037-S07-C001"
+      ],
+      "key_concepts": [
+        "Treatment of Urinary Tract Obstruction and Recovery of Renal Function"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Postobstructive Diuresis",
+      "chunk_ids": [
+        "CH037-S08-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH037-S08-C001"
+      ],
+      "key_concepts": [
+        "Postobstructive Diuresis"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH037-Q001",
+      "source_chunk_ids": [
+        "CH037-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q002",
+      "source_chunk_ids": [
+        "CH037-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q003",
+      "source_chunk_ids": [
+        "CH037-S02-C001"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q004",
+      "source_chunk_ids": [
+        "CH037-S02-C002"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q005",
+      "source_chunk_ids": [
+        "CH037-S02-C003"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q006",
+      "source_chunk_ids": [
+        "CH037-S02-C004"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q007",
+      "source_chunk_ids": [
+        "CH037-S02-C001"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q008",
+      "source_chunk_ids": [
+        "CH037-S02-C002"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q009",
+      "source_chunk_ids": [
+        "CH037-S02-C003"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q010",
+      "source_chunk_ids": [
+        "CH037-S02-C004"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q011",
+      "source_chunk_ids": [
+        "CH037-S02-C001"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q012",
+      "source_chunk_ids": [
+        "CH037-S02-C002"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q013",
+      "source_chunk_ids": [
+        "CH037-S02-C003"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q014",
+      "source_chunk_ids": [
+        "CH037-S02-C004"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q015",
+      "source_chunk_ids": [
+        "CH037-S02-C001"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q016",
+      "source_chunk_ids": [
+        "CH037-S02-C002"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q017",
+      "source_chunk_ids": [
+        "CH037-S02-C003"
+      ],
+      "tested_concept": "Etiology",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q018",
+      "source_chunk_ids": [
+        "CH037-S03-C001"
+      ],
+      "tested_concept": "Clinical Aspects",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q019",
+      "source_chunk_ids": [
+        "CH037-S03-C001"
+      ],
+      "tested_concept": "Clinical Aspects",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q020",
+      "source_chunk_ids": [
+        "CH037-S03-C001"
+      ],
+      "tested_concept": "Clinical Aspects",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q021",
+      "source_chunk_ids": [
+        "CH037-S03-C001"
+      ],
+      "tested_concept": "Clinical Aspects",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q022",
+      "source_chunk_ids": [
+        "CH037-S03-C001"
+      ],
+      "tested_concept": "Clinical Aspects",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q023",
+      "source_chunk_ids": [
+        "CH037-S04-C001"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q024",
+      "source_chunk_ids": [
+        "CH037-S04-C002"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q025",
+      "source_chunk_ids": [
+        "CH037-S04-C003"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q026",
+      "source_chunk_ids": [
+        "CH037-S04-C004"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q027",
+      "source_chunk_ids": [
+        "CH037-S04-C005"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q028",
+      "source_chunk_ids": [
+        "CH037-S04-C001"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q029",
+      "source_chunk_ids": [
+        "CH037-S04-C002"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q030",
+      "source_chunk_ids": [
+        "CH037-S04-C003"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q031",
+      "source_chunk_ids": [
+        "CH037-S04-C004"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q032",
+      "source_chunk_ids": [
+        "CH037-S04-C005"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q033",
+      "source_chunk_ids": [
+        "CH037-S04-C001"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q034",
+      "source_chunk_ids": [
+        "CH037-S04-C002"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q035",
+      "source_chunk_ids": [
+        "CH037-S04-C003"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q036",
+      "source_chunk_ids": [
+        "CH037-S04-C004"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q037",
+      "source_chunk_ids": [
+        "CH037-S04-C005"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q038",
+      "source_chunk_ids": [
+        "CH037-S04-C001"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q039",
+      "source_chunk_ids": [
+        "CH037-S04-C002"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q040",
+      "source_chunk_ids": [
+        "CH037-S04-C003"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q041",
+      "source_chunk_ids": [
+        "CH037-S04-C004"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q042",
+      "source_chunk_ids": [
+        "CH037-S04-C005"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q043",
+      "source_chunk_ids": [
+        "CH037-S04-C001"
+      ],
+      "tested_concept": "Diagnosis",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q044",
+      "source_chunk_ids": [
+        "CH037-S05-C001"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q045",
+      "source_chunk_ids": [
+        "CH037-S05-C002"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q046",
+      "source_chunk_ids": [
+        "CH037-S05-C003"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q047",
+      "source_chunk_ids": [
+        "CH037-S05-C004"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q048",
+      "source_chunk_ids": [
+        "CH037-S05-C005"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q049",
+      "source_chunk_ids": [
+        "CH037-S05-C006"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q050",
+      "source_chunk_ids": [
+        "CH037-S05-C007"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q051",
+      "source_chunk_ids": [
+        "CH037-S05-C008"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q052",
+      "source_chunk_ids": [
+        "CH037-S05-C001"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q053",
+      "source_chunk_ids": [
+        "CH037-S05-C002"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q054",
+      "source_chunk_ids": [
+        "CH037-S05-C003"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q055",
+      "source_chunk_ids": [
+        "CH037-S05-C004"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q056",
+      "source_chunk_ids": [
+        "CH037-S05-C005"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q057",
+      "source_chunk_ids": [
+        "CH037-S05-C006"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q058",
+      "source_chunk_ids": [
+        "CH037-S05-C007"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q059",
+      "source_chunk_ids": [
+        "CH037-S05-C008"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q060",
+      "source_chunk_ids": [
+        "CH037-S05-C001"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q061",
+      "source_chunk_ids": [
+        "CH037-S05-C002"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q062",
+      "source_chunk_ids": [
+        "CH037-S05-C003"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q063",
+      "source_chunk_ids": [
+        "CH037-S05-C004"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q064",
+      "source_chunk_ids": [
+        "CH037-S05-C005"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q065",
+      "source_chunk_ids": [
+        "CH037-S05-C006"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q066",
+      "source_chunk_ids": [
+        "CH037-S05-C007"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q067",
+      "source_chunk_ids": [
+        "CH037-S05-C008"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q068",
+      "source_chunk_ids": [
+        "CH037-S05-C001"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q069",
+      "source_chunk_ids": [
+        "CH037-S05-C002"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q070",
+      "source_chunk_ids": [
+        "CH037-S05-C003"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q071",
+      "source_chunk_ids": [
+        "CH037-S05-C004"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q072",
+      "source_chunk_ids": [
+        "CH037-S05-C005"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q073",
+      "source_chunk_ids": [
+        "CH037-S05-C006"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q074",
+      "source_chunk_ids": [
+        "CH037-S05-C007"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q075",
+      "source_chunk_ids": [
+        "CH037-S05-C008"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q076",
+      "source_chunk_ids": [
+        "CH037-S05-C001"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q077",
+      "source_chunk_ids": [
+        "CH037-S05-C002"
+      ],
+      "tested_concept": "Pathophysiology of Obstructive Nephropathy",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q078",
+      "source_chunk_ids": [
+        "CH037-S06-C001"
+      ],
+      "tested_concept": "Pathophysiology of Recovery of Tubular Epithelial Cells From Obstruction or of Tubulointerstitial Fibrosis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q079",
+      "source_chunk_ids": [
+        "CH037-S06-C002"
+      ],
+      "tested_concept": "Pathophysiology of Recovery of Tubular Epithelial Cells From Obstruction or of Tubulointerstitial Fibrosis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q080",
+      "source_chunk_ids": [
+        "CH037-S06-C003"
+      ],
+      "tested_concept": "Pathophysiology of Recovery of Tubular Epithelial Cells From Obstruction or of Tubulointerstitial Fibrosis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH037-Q081",
+      "source_chunk_ids": [
+        "CH037-S06-C001"
+      ],
+      "tested_concept": "Pathophysiology of Recovery of Tubular Epithelial Cells From Obstruction or of Tubulointerstitial Fibrosis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q082",
+      "source_chunk_ids": [
+        "CH037-S06-C002"
+      ],
+      "tested_concept": "Pathophysiology of Recovery of Tubular Epithelial Cells From Obstruction or of Tubulointerstitial Fibrosis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q083",
+      "source_chunk_ids": [
+        "CH037-S06-C003"
+      ],
+      "tested_concept": "Pathophysiology of Recovery of Tubular Epithelial Cells From Obstruction or of Tubulointerstitial Fibrosis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q084",
+      "source_chunk_ids": [
+        "CH037-S06-C001"
+      ],
+      "tested_concept": "Pathophysiology of Recovery of Tubular Epithelial Cells From Obstruction or of Tubulointerstitial Fibrosis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q085",
+      "source_chunk_ids": [
+        "CH037-S06-C002"
+      ],
+      "tested_concept": "Pathophysiology of Recovery of Tubular Epithelial Cells From Obstruction or of Tubulointerstitial Fibrosis",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q086",
+      "source_chunk_ids": [
+        "CH037-S06-C003"
+      ],
+      "tested_concept": "Pathophysiology of Recovery of Tubular Epithelial Cells From Obstruction or of Tubulointerstitial Fibrosis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q087",
+      "source_chunk_ids": [
+        "CH037-S06-C001"
+      ],
+      "tested_concept": "Pathophysiology of Recovery of Tubular Epithelial Cells From Obstruction or of Tubulointerstitial Fibrosis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q088",
+      "source_chunk_ids": [
+        "CH037-S06-C002"
+      ],
+      "tested_concept": "Pathophysiology of Recovery of Tubular Epithelial Cells From Obstruction or of Tubulointerstitial Fibrosis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q089",
+      "source_chunk_ids": [
+        "CH037-S06-C003"
+      ],
+      "tested_concept": "Pathophysiology of Recovery of Tubular Epithelial Cells From Obstruction or of Tubulointerstitial Fibrosis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q090",
+      "source_chunk_ids": [
+        "CH037-S06-C001"
+      ],
+      "tested_concept": "Pathophysiology of Recovery of Tubular Epithelial Cells From Obstruction or of Tubulointerstitial Fibrosis",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q091",
+      "source_chunk_ids": [
+        "CH037-S07-C001"
+      ],
+      "tested_concept": "Treatment of Urinary Tract Obstruction and Recovery of Renal Function",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q092",
+      "source_chunk_ids": [
+        "CH037-S07-C001"
+      ],
+      "tested_concept": "Treatment of Urinary Tract Obstruction and Recovery of Renal Function",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q093",
+      "source_chunk_ids": [
+        "CH037-S07-C001"
+      ],
+      "tested_concept": "Treatment of Urinary Tract Obstruction and Recovery of Renal Function",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q094",
+      "source_chunk_ids": [
+        "CH037-S07-C001"
+      ],
+      "tested_concept": "Treatment of Urinary Tract Obstruction and Recovery of Renal Function",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q095",
+      "source_chunk_ids": [
+        "CH037-S07-C001"
+      ],
+      "tested_concept": "Treatment of Urinary Tract Obstruction and Recovery of Renal Function",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q096",
+      "source_chunk_ids": [
+        "CH037-S08-C001"
+      ],
+      "tested_concept": "Postobstructive Diuresis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q097",
+      "source_chunk_ids": [
+        "CH037-S08-C001"
+      ],
+      "tested_concept": "Postobstructive Diuresis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q098",
+      "source_chunk_ids": [
+        "CH037-S08-C001"
+      ],
+      "tested_concept": "Postobstructive Diuresis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q099",
+      "source_chunk_ids": [
+        "CH037-S08-C001"
+      ],
+      "tested_concept": "Postobstructive Diuresis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH037-Q100",
+      "source_chunk_ids": [
+        "CH037-S08-C001"
+      ],
+      "tested_concept": "Postobstructive Diuresis",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
