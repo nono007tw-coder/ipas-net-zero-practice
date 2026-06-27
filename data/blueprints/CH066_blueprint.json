@@ -1,0 +1,1027 @@
+{
+  "chapter_id": "CH066",
+  "chapter_title": "Plasmapheresis",
+  "clinical_weight": 4,
+  "core_themes": [
+    "Plasmapheresis Use in Renal Disease",
+    "Technical Aspects",
+    "Therapeutic Plasma Exchange and Nonrenal Disease",
+    "Historical Perspective"
+  ],
+  "sections": [
+    {
+      "section_title": "Historical Perspective",
+      "chunk_ids": [
+        "CH066-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH066-S01-C001"
+      ],
+      "key_concepts": [
+        "Historical Perspective"
+      ],
+      "recommended_question_count": 3,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Plasmapheresis Use in Renal Disease",
+      "chunk_ids": [
+        "CH066-S02-C001",
+        "CH066-S02-C002",
+        "CH066-S02-C003",
+        "CH066-S02-C004",
+        "CH066-S02-C005",
+        "CH066-S02-C006",
+        "CH066-S02-C007"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH066-S02-C001",
+        "CH066-S02-C002",
+        "CH066-S02-C003",
+        "CH066-S02-C004",
+        "CH066-S02-C005",
+        "CH066-S02-C006",
+        "CH066-S02-C007"
+      ],
+      "key_concepts": [
+        "Plasmapheresis Use in Renal Disease"
+      ],
+      "recommended_question_count": 51,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Therapeutic Plasma Exchange and Nonrenal Disease",
+      "chunk_ids": [
+        "CH066-S03-C001",
+        "CH066-S03-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH066-S03-C001",
+        "CH066-S03-C002"
+      ],
+      "key_concepts": [
+        "Therapeutic Plasma Exchange and Nonrenal Disease"
+      ],
+      "recommended_question_count": 15,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Technical Aspects",
+      "chunk_ids": [
+        "CH066-S04-C001",
+        "CH066-S04-C002",
+        "CH066-S04-C003",
+        "CH066-S04-C004",
+        "CH066-S04-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH066-S04-C001",
+        "CH066-S04-C003",
+        "CH066-S04-C004",
+        "CH066-S04-C005"
+      ],
+      "key_concepts": [
+        "Technical Aspects"
+      ],
+      "recommended_question_count": 31,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH066-Q001",
+      "source_chunk_ids": [
+        "CH066-S01-C001"
+      ],
+      "tested_concept": "Historical Perspective",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q002",
+      "source_chunk_ids": [
+        "CH066-S01-C001"
+      ],
+      "tested_concept": "Historical Perspective",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q003",
+      "source_chunk_ids": [
+        "CH066-S01-C001"
+      ],
+      "tested_concept": "Historical Perspective",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q004",
+      "source_chunk_ids": [
+        "CH066-S02-C001"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q005",
+      "source_chunk_ids": [
+        "CH066-S02-C002"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q006",
+      "source_chunk_ids": [
+        "CH066-S02-C003"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q007",
+      "source_chunk_ids": [
+        "CH066-S02-C004"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q008",
+      "source_chunk_ids": [
+        "CH066-S02-C005"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q009",
+      "source_chunk_ids": [
+        "CH066-S02-C006"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q010",
+      "source_chunk_ids": [
+        "CH066-S02-C007"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q011",
+      "source_chunk_ids": [
+        "CH066-S02-C001"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q012",
+      "source_chunk_ids": [
+        "CH066-S02-C002"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q013",
+      "source_chunk_ids": [
+        "CH066-S02-C003"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q014",
+      "source_chunk_ids": [
+        "CH066-S02-C004"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q015",
+      "source_chunk_ids": [
+        "CH066-S02-C005"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q016",
+      "source_chunk_ids": [
+        "CH066-S02-C006"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q017",
+      "source_chunk_ids": [
+        "CH066-S02-C007"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q018",
+      "source_chunk_ids": [
+        "CH066-S02-C001"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q019",
+      "source_chunk_ids": [
+        "CH066-S02-C002"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q020",
+      "source_chunk_ids": [
+        "CH066-S02-C003"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q021",
+      "source_chunk_ids": [
+        "CH066-S02-C004"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q022",
+      "source_chunk_ids": [
+        "CH066-S02-C005"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q023",
+      "source_chunk_ids": [
+        "CH066-S02-C006"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q024",
+      "source_chunk_ids": [
+        "CH066-S02-C007"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q025",
+      "source_chunk_ids": [
+        "CH066-S02-C001"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q026",
+      "source_chunk_ids": [
+        "CH066-S02-C002"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q027",
+      "source_chunk_ids": [
+        "CH066-S02-C003"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q028",
+      "source_chunk_ids": [
+        "CH066-S02-C004"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q029",
+      "source_chunk_ids": [
+        "CH066-S02-C005"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q030",
+      "source_chunk_ids": [
+        "CH066-S02-C006"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q031",
+      "source_chunk_ids": [
+        "CH066-S02-C007"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q032",
+      "source_chunk_ids": [
+        "CH066-S02-C001"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q033",
+      "source_chunk_ids": [
+        "CH066-S02-C002"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q034",
+      "source_chunk_ids": [
+        "CH066-S02-C003"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q035",
+      "source_chunk_ids": [
+        "CH066-S02-C004"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q036",
+      "source_chunk_ids": [
+        "CH066-S02-C005"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q037",
+      "source_chunk_ids": [
+        "CH066-S02-C006"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q038",
+      "source_chunk_ids": [
+        "CH066-S02-C007"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q039",
+      "source_chunk_ids": [
+        "CH066-S02-C001"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q040",
+      "source_chunk_ids": [
+        "CH066-S02-C002"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q041",
+      "source_chunk_ids": [
+        "CH066-S02-C003"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q042",
+      "source_chunk_ids": [
+        "CH066-S02-C004"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q043",
+      "source_chunk_ids": [
+        "CH066-S02-C005"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q044",
+      "source_chunk_ids": [
+        "CH066-S02-C006"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q045",
+      "source_chunk_ids": [
+        "CH066-S02-C007"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q046",
+      "source_chunk_ids": [
+        "CH066-S02-C001"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q047",
+      "source_chunk_ids": [
+        "CH066-S02-C002"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q048",
+      "source_chunk_ids": [
+        "CH066-S02-C003"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q049",
+      "source_chunk_ids": [
+        "CH066-S02-C004"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q050",
+      "source_chunk_ids": [
+        "CH066-S02-C005"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q051",
+      "source_chunk_ids": [
+        "CH066-S02-C006"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q052",
+      "source_chunk_ids": [
+        "CH066-S02-C007"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q053",
+      "source_chunk_ids": [
+        "CH066-S02-C001"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q054",
+      "source_chunk_ids": [
+        "CH066-S02-C002"
+      ],
+      "tested_concept": "Plasmapheresis Use in Renal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q055",
+      "source_chunk_ids": [
+        "CH066-S03-C001"
+      ],
+      "tested_concept": "Therapeutic Plasma Exchange and Nonrenal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q056",
+      "source_chunk_ids": [
+        "CH066-S03-C002"
+      ],
+      "tested_concept": "Therapeutic Plasma Exchange and Nonrenal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q057",
+      "source_chunk_ids": [
+        "CH066-S03-C001"
+      ],
+      "tested_concept": "Therapeutic Plasma Exchange and Nonrenal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q058",
+      "source_chunk_ids": [
+        "CH066-S03-C002"
+      ],
+      "tested_concept": "Therapeutic Plasma Exchange and Nonrenal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q059",
+      "source_chunk_ids": [
+        "CH066-S03-C001"
+      ],
+      "tested_concept": "Therapeutic Plasma Exchange and Nonrenal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q060",
+      "source_chunk_ids": [
+        "CH066-S03-C002"
+      ],
+      "tested_concept": "Therapeutic Plasma Exchange and Nonrenal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q061",
+      "source_chunk_ids": [
+        "CH066-S03-C001"
+      ],
+      "tested_concept": "Therapeutic Plasma Exchange and Nonrenal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q062",
+      "source_chunk_ids": [
+        "CH066-S03-C002"
+      ],
+      "tested_concept": "Therapeutic Plasma Exchange and Nonrenal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q063",
+      "source_chunk_ids": [
+        "CH066-S03-C001"
+      ],
+      "tested_concept": "Therapeutic Plasma Exchange and Nonrenal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q064",
+      "source_chunk_ids": [
+        "CH066-S03-C002"
+      ],
+      "tested_concept": "Therapeutic Plasma Exchange and Nonrenal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q065",
+      "source_chunk_ids": [
+        "CH066-S03-C001"
+      ],
+      "tested_concept": "Therapeutic Plasma Exchange and Nonrenal Disease",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q066",
+      "source_chunk_ids": [
+        "CH066-S03-C002"
+      ],
+      "tested_concept": "Therapeutic Plasma Exchange and Nonrenal Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q067",
+      "source_chunk_ids": [
+        "CH066-S03-C001"
+      ],
+      "tested_concept": "Therapeutic Plasma Exchange and Nonrenal Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q068",
+      "source_chunk_ids": [
+        "CH066-S03-C002"
+      ],
+      "tested_concept": "Therapeutic Plasma Exchange and Nonrenal Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q069",
+      "source_chunk_ids": [
+        "CH066-S03-C001"
+      ],
+      "tested_concept": "Therapeutic Plasma Exchange and Nonrenal Disease",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q070",
+      "source_chunk_ids": [
+        "CH066-S04-C001"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q071",
+      "source_chunk_ids": [
+        "CH066-S04-C003"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q072",
+      "source_chunk_ids": [
+        "CH066-S04-C004"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q073",
+      "source_chunk_ids": [
+        "CH066-S04-C005"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q074",
+      "source_chunk_ids": [
+        "CH066-S04-C001"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q075",
+      "source_chunk_ids": [
+        "CH066-S04-C003"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q076",
+      "source_chunk_ids": [
+        "CH066-S04-C004"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q077",
+      "source_chunk_ids": [
+        "CH066-S04-C005"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q078",
+      "source_chunk_ids": [
+        "CH066-S04-C001"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q079",
+      "source_chunk_ids": [
+        "CH066-S04-C003"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q080",
+      "source_chunk_ids": [
+        "CH066-S04-C004"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH066-Q081",
+      "source_chunk_ids": [
+        "CH066-S04-C005"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q082",
+      "source_chunk_ids": [
+        "CH066-S04-C001"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q083",
+      "source_chunk_ids": [
+        "CH066-S04-C003"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q084",
+      "source_chunk_ids": [
+        "CH066-S04-C004"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q085",
+      "source_chunk_ids": [
+        "CH066-S04-C005"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q086",
+      "source_chunk_ids": [
+        "CH066-S04-C001"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q087",
+      "source_chunk_ids": [
+        "CH066-S04-C003"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q088",
+      "source_chunk_ids": [
+        "CH066-S04-C004"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q089",
+      "source_chunk_ids": [
+        "CH066-S04-C005"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q090",
+      "source_chunk_ids": [
+        "CH066-S04-C001"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q091",
+      "source_chunk_ids": [
+        "CH066-S04-C003"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q092",
+      "source_chunk_ids": [
+        "CH066-S04-C004"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q093",
+      "source_chunk_ids": [
+        "CH066-S04-C005"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q094",
+      "source_chunk_ids": [
+        "CH066-S04-C001"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q095",
+      "source_chunk_ids": [
+        "CH066-S04-C003"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q096",
+      "source_chunk_ids": [
+        "CH066-S04-C004"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q097",
+      "source_chunk_ids": [
+        "CH066-S04-C005"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q098",
+      "source_chunk_ids": [
+        "CH066-S04-C001"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q099",
+      "source_chunk_ids": [
+        "CH066-S04-C003"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH066-Q100",
+      "source_chunk_ids": [
+        "CH066-S04-C004"
+      ],
+      "tested_concept": "Technical Aspects",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
