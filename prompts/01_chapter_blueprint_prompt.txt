@@ -31,6 +31,10 @@
     "classification": 0,
     "figure_table_understanding": 0
   },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
   "question_plan": [
     {
       "question_id": "CH001-Q001",
