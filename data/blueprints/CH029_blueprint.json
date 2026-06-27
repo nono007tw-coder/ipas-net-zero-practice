@@ -1,0 +1,1100 @@
+{
+  "chapter_id": "CH029",
+  "chapter_title": "Prevention and Management of Acute Kidney Injury",
+  "clinical_weight": 5,
+  "core_themes": [
+    "Management of Acute Kidney Injury",
+    "Evaluation of Acute Kidney Injury",
+    "Causes of Acute Kidney Injury in Specific Clinical Settings",
+    "Definition of Acute Kidney Injury",
+    "Complications of Acute Kidney Injury",
+    "Incidence of Acute Kidney Injury"
+  ],
+  "sections": [
+    {
+      "section_title": "Definition of Acute Kidney Injury",
+      "chunk_ids": [
+        "CH029-S01-C001",
+        "CH029-S01-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH029-S01-C001",
+        "CH029-S01-C002"
+      ],
+      "key_concepts": [
+        "Definition of Acute Kidney Injury"
+      ],
+      "recommended_question_count": 6,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Incidence of Acute Kidney Injury",
+      "chunk_ids": [
+        "CH029-S02-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH029-S02-C001"
+      ],
+      "key_concepts": [
+        "Incidence of Acute Kidney Injury"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Evaluation of Acute Kidney Injury",
+      "chunk_ids": [
+        "CH029-S03-C001",
+        "CH029-S03-C002",
+        "CH029-S03-C003",
+        "CH029-S03-C004",
+        "CH029-S03-C005",
+        "CH029-S03-C006",
+        "CH029-S03-C007"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH029-S03-C001",
+        "CH029-S03-C002",
+        "CH029-S03-C003",
+        "CH029-S03-C004",
+        "CH029-S03-C005",
+        "CH029-S03-C006",
+        "CH029-S03-C007"
+      ],
+      "key_concepts": [
+        "Evaluation of Acute Kidney Injury"
+      ],
+      "recommended_question_count": 21,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Causes of Acute Kidney Injury in Specific Clinical Settings",
+      "chunk_ids": [
+        "CH029-S04-C001",
+        "CH029-S04-C002",
+        "CH029-S04-C003",
+        "CH029-S04-C004",
+        "CH029-S04-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH029-S04-C001",
+        "CH029-S04-C002",
+        "CH029-S04-C003",
+        "CH029-S04-C004",
+        "CH029-S04-C005"
+      ],
+      "key_concepts": [
+        "Causes of Acute Kidney Injury in Specific Clinical Settings"
+      ],
+      "recommended_question_count": 14,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Complications of Acute Kidney Injury",
+      "chunk_ids": [
+        "CH029-S05-C001",
+        "CH029-S05-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH029-S05-C001",
+        "CH029-S05-C002"
+      ],
+      "key_concepts": [
+        "Complications of Acute Kidney Injury"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Management of Acute Kidney Injury",
+      "chunk_ids": [
+        "CH029-S06-C001",
+        "CH029-S06-C002",
+        "CH029-S06-C003",
+        "CH029-S06-C004",
+        "CH029-S06-C005",
+        "CH029-S06-C006",
+        "CH029-S06-C007",
+        "CH029-S06-C008",
+        "CH029-S06-C009",
+        "CH029-S06-C010",
+        "CH029-S06-C011",
+        "CH029-S06-C012",
+        "CH029-S06-C013",
+        "CH029-S06-C014",
+        "CH029-S06-C015",
+        "CH029-S06-C016",
+        "CH029-S06-C017"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH029-S06-C001",
+        "CH029-S06-C002",
+        "CH029-S06-C003",
+        "CH029-S06-C004",
+        "CH029-S06-C005",
+        "CH029-S06-C006",
+        "CH029-S06-C007",
+        "CH029-S06-C008",
+        "CH029-S06-C009",
+        "CH029-S06-C010",
+        "CH029-S06-C011",
+        "CH029-S06-C012",
+        "CH029-S06-C013",
+        "CH029-S06-C014",
+        "CH029-S06-C015",
+        "CH029-S06-C016",
+        "CH029-S06-C017"
+      ],
+      "key_concepts": [
+        "Management of Acute Kidney Injury"
+      ],
+      "recommended_question_count": 50,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH029-Q001",
+      "source_chunk_ids": [
+        "CH029-S01-C001"
+      ],
+      "tested_concept": "Definition of Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q002",
+      "source_chunk_ids": [
+        "CH029-S01-C002"
+      ],
+      "tested_concept": "Definition of Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q003",
+      "source_chunk_ids": [
+        "CH029-S01-C001"
+      ],
+      "tested_concept": "Definition of Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q004",
+      "source_chunk_ids": [
+        "CH029-S01-C002"
+      ],
+      "tested_concept": "Definition of Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q005",
+      "source_chunk_ids": [
+        "CH029-S01-C001"
+      ],
+      "tested_concept": "Definition of Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q006",
+      "source_chunk_ids": [
+        "CH029-S01-C002"
+      ],
+      "tested_concept": "Definition of Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q007",
+      "source_chunk_ids": [
+        "CH029-S02-C001"
+      ],
+      "tested_concept": "Incidence of Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q008",
+      "source_chunk_ids": [
+        "CH029-S02-C001"
+      ],
+      "tested_concept": "Incidence of Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q009",
+      "source_chunk_ids": [
+        "CH029-S02-C001"
+      ],
+      "tested_concept": "Incidence of Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q010",
+      "source_chunk_ids": [
+        "CH029-S02-C001"
+      ],
+      "tested_concept": "Incidence of Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q011",
+      "source_chunk_ids": [
+        "CH029-S03-C001"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q012",
+      "source_chunk_ids": [
+        "CH029-S03-C002"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q013",
+      "source_chunk_ids": [
+        "CH029-S03-C003"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q014",
+      "source_chunk_ids": [
+        "CH029-S03-C004"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q015",
+      "source_chunk_ids": [
+        "CH029-S03-C005"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q016",
+      "source_chunk_ids": [
+        "CH029-S03-C006"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q017",
+      "source_chunk_ids": [
+        "CH029-S03-C007"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q018",
+      "source_chunk_ids": [
+        "CH029-S03-C001"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q019",
+      "source_chunk_ids": [
+        "CH029-S03-C002"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q020",
+      "source_chunk_ids": [
+        "CH029-S03-C003"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q021",
+      "source_chunk_ids": [
+        "CH029-S03-C004"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q022",
+      "source_chunk_ids": [
+        "CH029-S03-C005"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q023",
+      "source_chunk_ids": [
+        "CH029-S03-C006"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q024",
+      "source_chunk_ids": [
+        "CH029-S03-C007"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q025",
+      "source_chunk_ids": [
+        "CH029-S03-C001"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q026",
+      "source_chunk_ids": [
+        "CH029-S03-C002"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q027",
+      "source_chunk_ids": [
+        "CH029-S03-C003"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q028",
+      "source_chunk_ids": [
+        "CH029-S03-C004"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q029",
+      "source_chunk_ids": [
+        "CH029-S03-C005"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q030",
+      "source_chunk_ids": [
+        "CH029-S03-C006"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q031",
+      "source_chunk_ids": [
+        "CH029-S03-C007"
+      ],
+      "tested_concept": "Evaluation of Acute Kidney Injury",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q032",
+      "source_chunk_ids": [
+        "CH029-S04-C001"
+      ],
+      "tested_concept": "Causes of Acute Kidney Injury in Specific Clinical Settings",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q033",
+      "source_chunk_ids": [
+        "CH029-S04-C002"
+      ],
+      "tested_concept": "Causes of Acute Kidney Injury in Specific Clinical Settings",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q034",
+      "source_chunk_ids": [
+        "CH029-S04-C003"
+      ],
+      "tested_concept": "Causes of Acute Kidney Injury in Specific Clinical Settings",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q035",
+      "source_chunk_ids": [
+        "CH029-S04-C004"
+      ],
+      "tested_concept": "Causes of Acute Kidney Injury in Specific Clinical Settings",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q036",
+      "source_chunk_ids": [
+        "CH029-S04-C005"
+      ],
+      "tested_concept": "Causes of Acute Kidney Injury in Specific Clinical Settings",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q037",
+      "source_chunk_ids": [
+        "CH029-S04-C001"
+      ],
+      "tested_concept": "Causes of Acute Kidney Injury in Specific Clinical Settings",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q038",
+      "source_chunk_ids": [
+        "CH029-S04-C002"
+      ],
+      "tested_concept": "Causes of Acute Kidney Injury in Specific Clinical Settings",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q039",
+      "source_chunk_ids": [
+        "CH029-S04-C003"
+      ],
+      "tested_concept": "Causes of Acute Kidney Injury in Specific Clinical Settings",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q040",
+      "source_chunk_ids": [
+        "CH029-S04-C004"
+      ],
+      "tested_concept": "Causes of Acute Kidney Injury in Specific Clinical Settings",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q041",
+      "source_chunk_ids": [
+        "CH029-S04-C005"
+      ],
+      "tested_concept": "Causes of Acute Kidney Injury in Specific Clinical Settings",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q042",
+      "source_chunk_ids": [
+        "CH029-S04-C001"
+      ],
+      "tested_concept": "Causes of Acute Kidney Injury in Specific Clinical Settings",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q043",
+      "source_chunk_ids": [
+        "CH029-S04-C002"
+      ],
+      "tested_concept": "Causes of Acute Kidney Injury in Specific Clinical Settings",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q044",
+      "source_chunk_ids": [
+        "CH029-S04-C003"
+      ],
+      "tested_concept": "Causes of Acute Kidney Injury in Specific Clinical Settings",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q045",
+      "source_chunk_ids": [
+        "CH029-S04-C004"
+      ],
+      "tested_concept": "Causes of Acute Kidney Injury in Specific Clinical Settings",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q046",
+      "source_chunk_ids": [
+        "CH029-S05-C001"
+      ],
+      "tested_concept": "Complications of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q047",
+      "source_chunk_ids": [
+        "CH029-S05-C002"
+      ],
+      "tested_concept": "Complications of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q048",
+      "source_chunk_ids": [
+        "CH029-S05-C001"
+      ],
+      "tested_concept": "Complications of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q049",
+      "source_chunk_ids": [
+        "CH029-S05-C002"
+      ],
+      "tested_concept": "Complications of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q050",
+      "source_chunk_ids": [
+        "CH029-S05-C001"
+      ],
+      "tested_concept": "Complications of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q051",
+      "source_chunk_ids": [
+        "CH029-S06-C001"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q052",
+      "source_chunk_ids": [
+        "CH029-S06-C002"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q053",
+      "source_chunk_ids": [
+        "CH029-S06-C003"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q054",
+      "source_chunk_ids": [
+        "CH029-S06-C004"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q055",
+      "source_chunk_ids": [
+        "CH029-S06-C005"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q056",
+      "source_chunk_ids": [
+        "CH029-S06-C006"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q057",
+      "source_chunk_ids": [
+        "CH029-S06-C007"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q058",
+      "source_chunk_ids": [
+        "CH029-S06-C008"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q059",
+      "source_chunk_ids": [
+        "CH029-S06-C009"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q060",
+      "source_chunk_ids": [
+        "CH029-S06-C010"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q061",
+      "source_chunk_ids": [
+        "CH029-S06-C011"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q062",
+      "source_chunk_ids": [
+        "CH029-S06-C012"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q063",
+      "source_chunk_ids": [
+        "CH029-S06-C013"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q064",
+      "source_chunk_ids": [
+        "CH029-S06-C014"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q065",
+      "source_chunk_ids": [
+        "CH029-S06-C015"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q066",
+      "source_chunk_ids": [
+        "CH029-S06-C016"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q067",
+      "source_chunk_ids": [
+        "CH029-S06-C017"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q068",
+      "source_chunk_ids": [
+        "CH029-S06-C001"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q069",
+      "source_chunk_ids": [
+        "CH029-S06-C002"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q070",
+      "source_chunk_ids": [
+        "CH029-S06-C003"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q071",
+      "source_chunk_ids": [
+        "CH029-S06-C004"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q072",
+      "source_chunk_ids": [
+        "CH029-S06-C005"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q073",
+      "source_chunk_ids": [
+        "CH029-S06-C006"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q074",
+      "source_chunk_ids": [
+        "CH029-S06-C007"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q075",
+      "source_chunk_ids": [
+        "CH029-S06-C008"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q076",
+      "source_chunk_ids": [
+        "CH029-S06-C009"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q077",
+      "source_chunk_ids": [
+        "CH029-S06-C010"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q078",
+      "source_chunk_ids": [
+        "CH029-S06-C011"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q079",
+      "source_chunk_ids": [
+        "CH029-S06-C012"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q080",
+      "source_chunk_ids": [
+        "CH029-S06-C013"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH029-Q081",
+      "source_chunk_ids": [
+        "CH029-S06-C014"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q082",
+      "source_chunk_ids": [
+        "CH029-S06-C015"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q083",
+      "source_chunk_ids": [
+        "CH029-S06-C016"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q084",
+      "source_chunk_ids": [
+        "CH029-S06-C017"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q085",
+      "source_chunk_ids": [
+        "CH029-S06-C001"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q086",
+      "source_chunk_ids": [
+        "CH029-S06-C002"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q087",
+      "source_chunk_ids": [
+        "CH029-S06-C003"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q088",
+      "source_chunk_ids": [
+        "CH029-S06-C004"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q089",
+      "source_chunk_ids": [
+        "CH029-S06-C005"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q090",
+      "source_chunk_ids": [
+        "CH029-S06-C006"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q091",
+      "source_chunk_ids": [
+        "CH029-S06-C007"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q092",
+      "source_chunk_ids": [
+        "CH029-S06-C008"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q093",
+      "source_chunk_ids": [
+        "CH029-S06-C009"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q094",
+      "source_chunk_ids": [
+        "CH029-S06-C010"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q095",
+      "source_chunk_ids": [
+        "CH029-S06-C011"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q096",
+      "source_chunk_ids": [
+        "CH029-S06-C012"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q097",
+      "source_chunk_ids": [
+        "CH029-S06-C013"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q098",
+      "source_chunk_ids": [
+        "CH029-S06-C014"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q099",
+      "source_chunk_ids": [
+        "CH029-S06-C015"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH029-Q100",
+      "source_chunk_ids": [
+        "CH029-S06-C016"
+      ],
+      "tested_concept": "Management of Acute Kidney Injury",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
