@@ -1,7 +1,7 @@
 const questions = Array.isArray(window.NEPHRO_QUESTIONS) ? window.NEPHRO_QUESTIONS : [];
 const brennerChapters = Array.isArray(window.BRENNER_CHAPTERS) ? window.BRENNER_CHAPTERS : [];
 const brennerChapterWeights = window.BRENNER_CHAPTER_WEIGHTS || {};
-const questionBankTarget = window.QUESTION_BANK_TARGET || { questionsPerChapter: 150, totalChapters: 85, totalQuestions: 12750 };
+const questionBankTarget = window.QUESTION_BANK_TARGET || { questionsPerChapter: 100, totalChapters: 85, totalQuestions: 8500 };
 const views = ["homeView", "quizView", "resultView", "libraryView", "statsView"];
 const storageKey = "nephroBoardPracticeStats";
 
