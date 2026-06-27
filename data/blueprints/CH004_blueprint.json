@@ -1,0 +1,1026 @@
+{
+  "chapter_id": "CH004",
+  "chapter_title": "Glomerular Cell Biology and Podocytopathies",
+  "clinical_weight": 4,
+  "core_themes": [
+    "Glomerular Cell Anatomy and Injury Response Patterns",
+    "Common Mechanisms of Glomerular Diseases",
+    "Mechanisms of Injury in Common Podocytopathies",
+    "Effects of Existing Therapies on Podocytes"
+  ],
+  "sections": [
+    {
+      "section_title": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "chunk_ids": [
+        "CH004-S01-C001",
+        "CH004-S01-C002",
+        "CH004-S01-C003",
+        "CH004-S01-C004",
+        "CH004-S01-C005",
+        "CH004-S01-C006",
+        "CH004-S01-C007",
+        "CH004-S01-C008",
+        "CH004-S01-C009"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH004-S01-C001",
+        "CH004-S01-C002",
+        "CH004-S01-C003",
+        "CH004-S01-C004",
+        "CH004-S01-C005",
+        "CH004-S01-C006",
+        "CH004-S01-C007",
+        "CH004-S01-C008",
+        "CH004-S01-C009"
+      ],
+      "key_concepts": [
+        "Glomerular Cell Anatomy and Injury Response Patterns"
+      ],
+      "recommended_question_count": 62,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Common Mechanisms of Glomerular Diseases",
+      "chunk_ids": [
+        "CH004-S02-C001",
+        "CH004-S02-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH004-S02-C001",
+        "CH004-S02-C002"
+      ],
+      "key_concepts": [
+        "Common Mechanisms of Glomerular Diseases"
+      ],
+      "recommended_question_count": 15,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Mechanisms of Injury in Common Podocytopathies",
+      "chunk_ids": [
+        "CH004-S03-C001",
+        "CH004-S03-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH004-S03-C001",
+        "CH004-S03-C002"
+      ],
+      "key_concepts": [
+        "Mechanisms of Injury in Common Podocytopathies"
+      ],
+      "recommended_question_count": 15,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Effects of Existing Therapies on Podocytes",
+      "chunk_ids": [
+        "CH004-S04-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH004-S04-C001"
+      ],
+      "key_concepts": [
+        "Effects of Existing Therapies on Podocytes"
+      ],
+      "recommended_question_count": 8,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH004-Q001",
+      "source_chunk_ids": [
+        "CH004-S01-C001"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q002",
+      "source_chunk_ids": [
+        "CH004-S01-C002"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q003",
+      "source_chunk_ids": [
+        "CH004-S01-C003"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q004",
+      "source_chunk_ids": [
+        "CH004-S01-C004"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q005",
+      "source_chunk_ids": [
+        "CH004-S01-C005"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q006",
+      "source_chunk_ids": [
+        "CH004-S01-C006"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q007",
+      "source_chunk_ids": [
+        "CH004-S01-C007"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q008",
+      "source_chunk_ids": [
+        "CH004-S01-C008"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q009",
+      "source_chunk_ids": [
+        "CH004-S01-C009"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q010",
+      "source_chunk_ids": [
+        "CH004-S01-C001"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q011",
+      "source_chunk_ids": [
+        "CH004-S01-C002"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q012",
+      "source_chunk_ids": [
+        "CH004-S01-C003"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q013",
+      "source_chunk_ids": [
+        "CH004-S01-C004"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q014",
+      "source_chunk_ids": [
+        "CH004-S01-C005"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q015",
+      "source_chunk_ids": [
+        "CH004-S01-C006"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q016",
+      "source_chunk_ids": [
+        "CH004-S01-C007"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q017",
+      "source_chunk_ids": [
+        "CH004-S01-C008"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q018",
+      "source_chunk_ids": [
+        "CH004-S01-C009"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q019",
+      "source_chunk_ids": [
+        "CH004-S01-C001"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q020",
+      "source_chunk_ids": [
+        "CH004-S01-C002"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q021",
+      "source_chunk_ids": [
+        "CH004-S01-C003"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q022",
+      "source_chunk_ids": [
+        "CH004-S01-C004"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q023",
+      "source_chunk_ids": [
+        "CH004-S01-C005"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q024",
+      "source_chunk_ids": [
+        "CH004-S01-C006"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q025",
+      "source_chunk_ids": [
+        "CH004-S01-C007"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q026",
+      "source_chunk_ids": [
+        "CH004-S01-C008"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q027",
+      "source_chunk_ids": [
+        "CH004-S01-C009"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q028",
+      "source_chunk_ids": [
+        "CH004-S01-C001"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q029",
+      "source_chunk_ids": [
+        "CH004-S01-C002"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q030",
+      "source_chunk_ids": [
+        "CH004-S01-C003"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q031",
+      "source_chunk_ids": [
+        "CH004-S01-C004"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q032",
+      "source_chunk_ids": [
+        "CH004-S01-C005"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q033",
+      "source_chunk_ids": [
+        "CH004-S01-C006"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q034",
+      "source_chunk_ids": [
+        "CH004-S01-C007"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q035",
+      "source_chunk_ids": [
+        "CH004-S01-C008"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q036",
+      "source_chunk_ids": [
+        "CH004-S01-C009"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q037",
+      "source_chunk_ids": [
+        "CH004-S01-C001"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q038",
+      "source_chunk_ids": [
+        "CH004-S01-C002"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q039",
+      "source_chunk_ids": [
+        "CH004-S01-C003"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q040",
+      "source_chunk_ids": [
+        "CH004-S01-C004"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q041",
+      "source_chunk_ids": [
+        "CH004-S01-C005"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q042",
+      "source_chunk_ids": [
+        "CH004-S01-C006"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q043",
+      "source_chunk_ids": [
+        "CH004-S01-C007"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q044",
+      "source_chunk_ids": [
+        "CH004-S01-C008"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q045",
+      "source_chunk_ids": [
+        "CH004-S01-C009"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q046",
+      "source_chunk_ids": [
+        "CH004-S01-C001"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q047",
+      "source_chunk_ids": [
+        "CH004-S01-C002"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q048",
+      "source_chunk_ids": [
+        "CH004-S01-C003"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q049",
+      "source_chunk_ids": [
+        "CH004-S01-C004"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q050",
+      "source_chunk_ids": [
+        "CH004-S01-C005"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q051",
+      "source_chunk_ids": [
+        "CH004-S01-C006"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q052",
+      "source_chunk_ids": [
+        "CH004-S01-C007"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q053",
+      "source_chunk_ids": [
+        "CH004-S01-C008"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q054",
+      "source_chunk_ids": [
+        "CH004-S01-C009"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q055",
+      "source_chunk_ids": [
+        "CH004-S01-C001"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q056",
+      "source_chunk_ids": [
+        "CH004-S01-C002"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q057",
+      "source_chunk_ids": [
+        "CH004-S01-C003"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q058",
+      "source_chunk_ids": [
+        "CH004-S01-C004"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q059",
+      "source_chunk_ids": [
+        "CH004-S01-C005"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q060",
+      "source_chunk_ids": [
+        "CH004-S01-C006"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q061",
+      "source_chunk_ids": [
+        "CH004-S01-C007"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q062",
+      "source_chunk_ids": [
+        "CH004-S01-C008"
+      ],
+      "tested_concept": "Glomerular Cell Anatomy and Injury Response Patterns",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q063",
+      "source_chunk_ids": [
+        "CH004-S02-C001"
+      ],
+      "tested_concept": "Common Mechanisms of Glomerular Diseases",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q064",
+      "source_chunk_ids": [
+        "CH004-S02-C002"
+      ],
+      "tested_concept": "Common Mechanisms of Glomerular Diseases",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q065",
+      "source_chunk_ids": [
+        "CH004-S02-C001"
+      ],
+      "tested_concept": "Common Mechanisms of Glomerular Diseases",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q066",
+      "source_chunk_ids": [
+        "CH004-S02-C002"
+      ],
+      "tested_concept": "Common Mechanisms of Glomerular Diseases",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q067",
+      "source_chunk_ids": [
+        "CH004-S02-C001"
+      ],
+      "tested_concept": "Common Mechanisms of Glomerular Diseases",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q068",
+      "source_chunk_ids": [
+        "CH004-S02-C002"
+      ],
+      "tested_concept": "Common Mechanisms of Glomerular Diseases",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q069",
+      "source_chunk_ids": [
+        "CH004-S02-C001"
+      ],
+      "tested_concept": "Common Mechanisms of Glomerular Diseases",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q070",
+      "source_chunk_ids": [
+        "CH004-S02-C002"
+      ],
+      "tested_concept": "Common Mechanisms of Glomerular Diseases",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q071",
+      "source_chunk_ids": [
+        "CH004-S02-C001"
+      ],
+      "tested_concept": "Common Mechanisms of Glomerular Diseases",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q072",
+      "source_chunk_ids": [
+        "CH004-S02-C002"
+      ],
+      "tested_concept": "Common Mechanisms of Glomerular Diseases",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q073",
+      "source_chunk_ids": [
+        "CH004-S02-C001"
+      ],
+      "tested_concept": "Common Mechanisms of Glomerular Diseases",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q074",
+      "source_chunk_ids": [
+        "CH004-S02-C002"
+      ],
+      "tested_concept": "Common Mechanisms of Glomerular Diseases",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q075",
+      "source_chunk_ids": [
+        "CH004-S02-C001"
+      ],
+      "tested_concept": "Common Mechanisms of Glomerular Diseases",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q076",
+      "source_chunk_ids": [
+        "CH004-S02-C002"
+      ],
+      "tested_concept": "Common Mechanisms of Glomerular Diseases",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q077",
+      "source_chunk_ids": [
+        "CH004-S02-C001"
+      ],
+      "tested_concept": "Common Mechanisms of Glomerular Diseases",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q078",
+      "source_chunk_ids": [
+        "CH004-S03-C001"
+      ],
+      "tested_concept": "Mechanisms of Injury in Common Podocytopathies",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q079",
+      "source_chunk_ids": [
+        "CH004-S03-C002"
+      ],
+      "tested_concept": "Mechanisms of Injury in Common Podocytopathies",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q080",
+      "source_chunk_ids": [
+        "CH004-S03-C001"
+      ],
+      "tested_concept": "Mechanisms of Injury in Common Podocytopathies",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH004-Q081",
+      "source_chunk_ids": [
+        "CH004-S03-C002"
+      ],
+      "tested_concept": "Mechanisms of Injury in Common Podocytopathies",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q082",
+      "source_chunk_ids": [
+        "CH004-S03-C001"
+      ],
+      "tested_concept": "Mechanisms of Injury in Common Podocytopathies",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q083",
+      "source_chunk_ids": [
+        "CH004-S03-C002"
+      ],
+      "tested_concept": "Mechanisms of Injury in Common Podocytopathies",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q084",
+      "source_chunk_ids": [
+        "CH004-S03-C001"
+      ],
+      "tested_concept": "Mechanisms of Injury in Common Podocytopathies",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q085",
+      "source_chunk_ids": [
+        "CH004-S03-C002"
+      ],
+      "tested_concept": "Mechanisms of Injury in Common Podocytopathies",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q086",
+      "source_chunk_ids": [
+        "CH004-S03-C001"
+      ],
+      "tested_concept": "Mechanisms of Injury in Common Podocytopathies",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q087",
+      "source_chunk_ids": [
+        "CH004-S03-C002"
+      ],
+      "tested_concept": "Mechanisms of Injury in Common Podocytopathies",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q088",
+      "source_chunk_ids": [
+        "CH004-S03-C001"
+      ],
+      "tested_concept": "Mechanisms of Injury in Common Podocytopathies",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q089",
+      "source_chunk_ids": [
+        "CH004-S03-C002"
+      ],
+      "tested_concept": "Mechanisms of Injury in Common Podocytopathies",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q090",
+      "source_chunk_ids": [
+        "CH004-S03-C001"
+      ],
+      "tested_concept": "Mechanisms of Injury in Common Podocytopathies",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q091",
+      "source_chunk_ids": [
+        "CH004-S03-C002"
+      ],
+      "tested_concept": "Mechanisms of Injury in Common Podocytopathies",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q092",
+      "source_chunk_ids": [
+        "CH004-S03-C001"
+      ],
+      "tested_concept": "Mechanisms of Injury in Common Podocytopathies",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q093",
+      "source_chunk_ids": [
+        "CH004-S04-C001"
+      ],
+      "tested_concept": "Effects of Existing Therapies on Podocytes",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q094",
+      "source_chunk_ids": [
+        "CH004-S04-C001"
+      ],
+      "tested_concept": "Effects of Existing Therapies on Podocytes",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q095",
+      "source_chunk_ids": [
+        "CH004-S04-C001"
+      ],
+      "tested_concept": "Effects of Existing Therapies on Podocytes",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q096",
+      "source_chunk_ids": [
+        "CH004-S04-C001"
+      ],
+      "tested_concept": "Effects of Existing Therapies on Podocytes",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q097",
+      "source_chunk_ids": [
+        "CH004-S04-C001"
+      ],
+      "tested_concept": "Effects of Existing Therapies on Podocytes",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q098",
+      "source_chunk_ids": [
+        "CH004-S04-C001"
+      ],
+      "tested_concept": "Effects of Existing Therapies on Podocytes",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q099",
+      "source_chunk_ids": [
+        "CH004-S04-C001"
+      ],
+      "tested_concept": "Effects of Existing Therapies on Podocytes",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH004-Q100",
+      "source_chunk_ids": [
+        "CH004-S04-C001"
+      ],
+      "tested_concept": "Effects of Existing Therapies on Podocytes",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
