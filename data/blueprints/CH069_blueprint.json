@@ -1,0 +1,1200 @@
+{
+  "chapter_id": "CH069",
+  "chapter_title": "The Immunobiology of Transplantation",
+  "clinical_weight": 4,
+  "core_themes": [
+    "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+    "B Cells and Antibody Production",
+    "Human Leukocyte Antigen Typing",
+    "Maintenance Immunosuppressive Drugs",
+    "Kidney Allograft Rejection",
+    "T-Cell Cosignaling Pathways",
+    "Antigen Presentation Pathways",
+    "T-Cell Phenotypes"
+  ],
+  "sections": [
+    {
+      "section_title": "Key Points",
+      "chunk_ids": [
+        "CH069-S01-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH069-S01-C001"
+      ],
+      "key_concepts": [
+        "Key Points"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Antigen Presentation Pathways",
+      "chunk_ids": [
+        "CH069-S02-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH069-S02-C001"
+      ],
+      "key_concepts": [
+        "Antigen Presentation Pathways"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "T-Cell Cosignaling Pathways",
+      "chunk_ids": [
+        "CH069-S03-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH069-S03-C001"
+      ],
+      "key_concepts": [
+        "T-Cell Cosignaling Pathways"
+      ],
+      "recommended_question_count": 5,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "T-Cell Phenotypes",
+      "chunk_ids": [
+        "CH069-S04-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH069-S04-C001"
+      ],
+      "key_concepts": [
+        "T-Cell Phenotypes"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "B Cells and Antibody Production",
+      "chunk_ids": [
+        "CH069-S05-C001",
+        "CH069-S05-C002",
+        "CH069-S05-C003",
+        "CH069-S05-C004",
+        "CH069-S05-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH069-S05-C001",
+        "CH069-S05-C002",
+        "CH069-S05-C003",
+        "CH069-S05-C004",
+        "CH069-S05-C005"
+      ],
+      "key_concepts": [
+        "B Cells and Antibody Production"
+      ],
+      "recommended_question_count": 19,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Human Leukocyte Antigen Typing",
+      "chunk_ids": [
+        "CH069-S06-C001",
+        "CH069-S06-C002",
+        "CH069-S06-C003",
+        "CH069-S06-C004",
+        "CH069-S06-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH069-S06-C001",
+        "CH069-S06-C002",
+        "CH069-S06-C003",
+        "CH069-S06-C004",
+        "CH069-S06-C005"
+      ],
+      "key_concepts": [
+        "Human Leukocyte Antigen Typing"
+      ],
+      "recommended_question_count": 17,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Human Leukocyte Antigen Antibody Screening and Identification",
+      "chunk_ids": [
+        "CH069-S07-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH069-S07-C001"
+      ],
+      "key_concepts": [
+        "Human Leukocyte Antigen Antibody Screening and Identification"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "chunk_ids": [
+        "CH069-S08-C001",
+        "CH069-S08-C002",
+        "CH069-S08-C003",
+        "CH069-S08-C004",
+        "CH069-S08-C005"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH069-S08-C001",
+        "CH069-S08-C002",
+        "CH069-S08-C003",
+        "CH069-S08-C004",
+        "CH069-S08-C005"
+      ],
+      "key_concepts": [
+        "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests"
+      ],
+      "recommended_question_count": 20,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Kidney Allograft Rejection",
+      "chunk_ids": [
+        "CH069-S09-C001",
+        "CH069-S09-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH069-S09-C001",
+        "CH069-S09-C002"
+      ],
+      "key_concepts": [
+        "Kidney Allograft Rejection"
+      ],
+      "recommended_question_count": 7,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Induction Agents",
+      "chunk_ids": [
+        "CH069-S10-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH069-S10-C001"
+      ],
+      "key_concepts": [
+        "Induction Agents"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Monoclonal Antibodies",
+      "chunk_ids": [
+        "CH069-S11-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH069-S11-C001"
+      ],
+      "key_concepts": [
+        "Monoclonal Antibodies"
+      ],
+      "recommended_question_count": 2,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Maintenance Immunosuppressive Drugs",
+      "chunk_ids": [
+        "CH069-S12-C001",
+        "CH069-S12-C002"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH069-S12-C001",
+        "CH069-S12-C002"
+      ],
+      "key_concepts": [
+        "Maintenance Immunosuppressive Drugs"
+      ],
+      "recommended_question_count": 8,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    },
+    {
+      "section_title": "Concluding Remarks",
+      "chunk_ids": [
+        "CH069-S13-C001"
+      ],
+      "eligible_source_chunk_ids": [
+        "CH069-S13-C001"
+      ],
+      "key_concepts": [
+        "Concluding Remarks"
+      ],
+      "recommended_question_count": 4,
+      "preferred_question_types": [
+        "mechanism",
+        "pathophysiology",
+        "clinical_significance"
+      ]
+    }
+  ],
+  "question_distribution": {
+    "definition": 15,
+    "mechanism": 30,
+    "pathophysiology": 20,
+    "comparison": 10,
+    "clinical_significance": 10,
+    "classification": 10,
+    "figure_table_understanding": 5
+  },
+  "difficulty_distribution": {
+    "basic": 80,
+    "basic_to_intermediate": 20
+  },
+  "question_plan": [
+    {
+      "question_id": "CH069-Q001",
+      "source_chunk_ids": [
+        "CH069-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q002",
+      "source_chunk_ids": [
+        "CH069-S01-C001"
+      ],
+      "tested_concept": "Key Points",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q003",
+      "source_chunk_ids": [
+        "CH069-S02-C001"
+      ],
+      "tested_concept": "Antigen Presentation Pathways",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q004",
+      "source_chunk_ids": [
+        "CH069-S02-C001"
+      ],
+      "tested_concept": "Antigen Presentation Pathways",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q005",
+      "source_chunk_ids": [
+        "CH069-S02-C001"
+      ],
+      "tested_concept": "Antigen Presentation Pathways",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q006",
+      "source_chunk_ids": [
+        "CH069-S02-C001"
+      ],
+      "tested_concept": "Antigen Presentation Pathways",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q007",
+      "source_chunk_ids": [
+        "CH069-S03-C001"
+      ],
+      "tested_concept": "T-Cell Cosignaling Pathways",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q008",
+      "source_chunk_ids": [
+        "CH069-S03-C001"
+      ],
+      "tested_concept": "T-Cell Cosignaling Pathways",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q009",
+      "source_chunk_ids": [
+        "CH069-S03-C001"
+      ],
+      "tested_concept": "T-Cell Cosignaling Pathways",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q010",
+      "source_chunk_ids": [
+        "CH069-S03-C001"
+      ],
+      "tested_concept": "T-Cell Cosignaling Pathways",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q011",
+      "source_chunk_ids": [
+        "CH069-S03-C001"
+      ],
+      "tested_concept": "T-Cell Cosignaling Pathways",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q012",
+      "source_chunk_ids": [
+        "CH069-S04-C001"
+      ],
+      "tested_concept": "T-Cell Phenotypes",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q013",
+      "source_chunk_ids": [
+        "CH069-S04-C001"
+      ],
+      "tested_concept": "T-Cell Phenotypes",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q014",
+      "source_chunk_ids": [
+        "CH069-S04-C001"
+      ],
+      "tested_concept": "T-Cell Phenotypes",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q015",
+      "source_chunk_ids": [
+        "CH069-S04-C001"
+      ],
+      "tested_concept": "T-Cell Phenotypes",
+      "question_type": "definition",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q016",
+      "source_chunk_ids": [
+        "CH069-S05-C001"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q017",
+      "source_chunk_ids": [
+        "CH069-S05-C002"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q018",
+      "source_chunk_ids": [
+        "CH069-S05-C003"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q019",
+      "source_chunk_ids": [
+        "CH069-S05-C004"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q020",
+      "source_chunk_ids": [
+        "CH069-S05-C005"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q021",
+      "source_chunk_ids": [
+        "CH069-S05-C001"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q022",
+      "source_chunk_ids": [
+        "CH069-S05-C002"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q023",
+      "source_chunk_ids": [
+        "CH069-S05-C003"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q024",
+      "source_chunk_ids": [
+        "CH069-S05-C004"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q025",
+      "source_chunk_ids": [
+        "CH069-S05-C005"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q026",
+      "source_chunk_ids": [
+        "CH069-S05-C001"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q027",
+      "source_chunk_ids": [
+        "CH069-S05-C002"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q028",
+      "source_chunk_ids": [
+        "CH069-S05-C003"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q029",
+      "source_chunk_ids": [
+        "CH069-S05-C004"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q030",
+      "source_chunk_ids": [
+        "CH069-S05-C005"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q031",
+      "source_chunk_ids": [
+        "CH069-S05-C001"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q032",
+      "source_chunk_ids": [
+        "CH069-S05-C002"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q033",
+      "source_chunk_ids": [
+        "CH069-S05-C003"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q034",
+      "source_chunk_ids": [
+        "CH069-S05-C004"
+      ],
+      "tested_concept": "B Cells and Antibody Production",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q035",
+      "source_chunk_ids": [
+        "CH069-S06-C001"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q036",
+      "source_chunk_ids": [
+        "CH069-S06-C002"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q037",
+      "source_chunk_ids": [
+        "CH069-S06-C003"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q038",
+      "source_chunk_ids": [
+        "CH069-S06-C004"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q039",
+      "source_chunk_ids": [
+        "CH069-S06-C005"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q040",
+      "source_chunk_ids": [
+        "CH069-S06-C001"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q041",
+      "source_chunk_ids": [
+        "CH069-S06-C002"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q042",
+      "source_chunk_ids": [
+        "CH069-S06-C003"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q043",
+      "source_chunk_ids": [
+        "CH069-S06-C004"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q044",
+      "source_chunk_ids": [
+        "CH069-S06-C005"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q045",
+      "source_chunk_ids": [
+        "CH069-S06-C001"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "mechanism",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q046",
+      "source_chunk_ids": [
+        "CH069-S06-C002"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q047",
+      "source_chunk_ids": [
+        "CH069-S06-C003"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q048",
+      "source_chunk_ids": [
+        "CH069-S06-C004"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q049",
+      "source_chunk_ids": [
+        "CH069-S06-C005"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q050",
+      "source_chunk_ids": [
+        "CH069-S06-C001"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q051",
+      "source_chunk_ids": [
+        "CH069-S06-C002"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Typing",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q052",
+      "source_chunk_ids": [
+        "CH069-S07-C001"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Antibody Screening and Identification",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q053",
+      "source_chunk_ids": [
+        "CH069-S07-C001"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Antibody Screening and Identification",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q054",
+      "source_chunk_ids": [
+        "CH069-S07-C001"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Antibody Screening and Identification",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q055",
+      "source_chunk_ids": [
+        "CH069-S07-C001"
+      ],
+      "tested_concept": "Human Leukocyte Antigen Antibody Screening and Identification",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q056",
+      "source_chunk_ids": [
+        "CH069-S08-C001"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q057",
+      "source_chunk_ids": [
+        "CH069-S08-C002"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q058",
+      "source_chunk_ids": [
+        "CH069-S08-C003"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q059",
+      "source_chunk_ids": [
+        "CH069-S08-C004"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q060",
+      "source_chunk_ids": [
+        "CH069-S08-C005"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q061",
+      "source_chunk_ids": [
+        "CH069-S08-C001"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q062",
+      "source_chunk_ids": [
+        "CH069-S08-C002"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q063",
+      "source_chunk_ids": [
+        "CH069-S08-C003"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q064",
+      "source_chunk_ids": [
+        "CH069-S08-C004"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q065",
+      "source_chunk_ids": [
+        "CH069-S08-C005"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "pathophysiology",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q066",
+      "source_chunk_ids": [
+        "CH069-S08-C001"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q067",
+      "source_chunk_ids": [
+        "CH069-S08-C002"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q068",
+      "source_chunk_ids": [
+        "CH069-S08-C003"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q069",
+      "source_chunk_ids": [
+        "CH069-S08-C004"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q070",
+      "source_chunk_ids": [
+        "CH069-S08-C005"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q071",
+      "source_chunk_ids": [
+        "CH069-S08-C001"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q072",
+      "source_chunk_ids": [
+        "CH069-S08-C002"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q073",
+      "source_chunk_ids": [
+        "CH069-S08-C003"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q074",
+      "source_chunk_ids": [
+        "CH069-S08-C004"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q075",
+      "source_chunk_ids": [
+        "CH069-S08-C005"
+      ],
+      "tested_concept": "Interpreting Solid-Phase Human Leukocyte Antigen Antibody Tests",
+      "question_type": "comparison",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q076",
+      "source_chunk_ids": [
+        "CH069-S09-C001"
+      ],
+      "tested_concept": "Kidney Allograft Rejection",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q077",
+      "source_chunk_ids": [
+        "CH069-S09-C002"
+      ],
+      "tested_concept": "Kidney Allograft Rejection",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q078",
+      "source_chunk_ids": [
+        "CH069-S09-C001"
+      ],
+      "tested_concept": "Kidney Allograft Rejection",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q079",
+      "source_chunk_ids": [
+        "CH069-S09-C002"
+      ],
+      "tested_concept": "Kidney Allograft Rejection",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q080",
+      "source_chunk_ids": [
+        "CH069-S09-C001"
+      ],
+      "tested_concept": "Kidney Allograft Rejection",
+      "question_type": "clinical_significance",
+      "difficulty": "basic"
+    },
+    {
+      "question_id": "CH069-Q081",
+      "source_chunk_ids": [
+        "CH069-S09-C002"
+      ],
+      "tested_concept": "Kidney Allograft Rejection",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q082",
+      "source_chunk_ids": [
+        "CH069-S09-C001"
+      ],
+      "tested_concept": "Kidney Allograft Rejection",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q083",
+      "source_chunk_ids": [
+        "CH069-S10-C001"
+      ],
+      "tested_concept": "Induction Agents",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q084",
+      "source_chunk_ids": [
+        "CH069-S10-C001"
+      ],
+      "tested_concept": "Induction Agents",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q085",
+      "source_chunk_ids": [
+        "CH069-S10-C001"
+      ],
+      "tested_concept": "Induction Agents",
+      "question_type": "clinical_significance",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q086",
+      "source_chunk_ids": [
+        "CH069-S10-C001"
+      ],
+      "tested_concept": "Induction Agents",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q087",
+      "source_chunk_ids": [
+        "CH069-S11-C001"
+      ],
+      "tested_concept": "Monoclonal Antibodies",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q088",
+      "source_chunk_ids": [
+        "CH069-S11-C001"
+      ],
+      "tested_concept": "Monoclonal Antibodies",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q089",
+      "source_chunk_ids": [
+        "CH069-S12-C001"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Drugs",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q090",
+      "source_chunk_ids": [
+        "CH069-S12-C002"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Drugs",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q091",
+      "source_chunk_ids": [
+        "CH069-S12-C001"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Drugs",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q092",
+      "source_chunk_ids": [
+        "CH069-S12-C002"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Drugs",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q093",
+      "source_chunk_ids": [
+        "CH069-S12-C001"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Drugs",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q094",
+      "source_chunk_ids": [
+        "CH069-S12-C002"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Drugs",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q095",
+      "source_chunk_ids": [
+        "CH069-S12-C001"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Drugs",
+      "question_type": "classification",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q096",
+      "source_chunk_ids": [
+        "CH069-S12-C002"
+      ],
+      "tested_concept": "Maintenance Immunosuppressive Drugs",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q097",
+      "source_chunk_ids": [
+        "CH069-S13-C001"
+      ],
+      "tested_concept": "Concluding Remarks",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q098",
+      "source_chunk_ids": [
+        "CH069-S13-C001"
+      ],
+      "tested_concept": "Concluding Remarks",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q099",
+      "source_chunk_ids": [
+        "CH069-S13-C001"
+      ],
+      "tested_concept": "Concluding Remarks",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    },
+    {
+      "question_id": "CH069-Q100",
+      "source_chunk_ids": [
+        "CH069-S13-C001"
+      ],
+      "tested_concept": "Concluding Remarks",
+      "question_type": "figure_table_understanding",
+      "difficulty": "basic_to_intermediate"
+    }
+  ],
+  "unsuitable_content": [
+    "References",
+    "Acknowledgments",
+    "Existing Board Review Questions"
+  ],
+  "generation_note": "Automatically allocated from user-provided Brenner chunks. Each question must still be generated and reviewed against its source chunk."
+}
